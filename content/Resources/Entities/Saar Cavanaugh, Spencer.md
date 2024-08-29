@@ -8,9 +8,9 @@ Publish: "True"
 ## Discourse Index
 
 ### Published Work
-[[A Rhapsody on Neurodiversity]]
-[[Recuperate the Vanguard]]
-[[Wu Gwei, or Going with the Flow of Governance]]
+- [[A Rhapsody on Neurodiversity]]
+- [[Recuperate the Vanguard]]
+- [[Wu Gwei, or Going with the Flow of Governance]]
 
 ##### Logs
 [[Log 08.25.24 - Notes on active discursive efforts]]
