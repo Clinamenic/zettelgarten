@@ -3,16 +3,15 @@ Author: "[[Saar Cavanaugh, Spencer]]"
 Title: A Rhapsody on Neurodiversity
 Subtitle: Reflections on auto-didacticism and neurodiversity.
 Date Published: 2023-01-17
+Publish Link: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
 Arweave Hash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 tags:
   - personal-discourse
   - text
 ---
-# A Rhapsody on Neurodiversity
-
 As someone without formal experience in STEM higher education, but rather as a [**self-guided generalist**](https://solosalon.substack.com/p/mogenpro-background), I should perhaps preface what follows with an explanation of my intentions.
 
-### **Epistemic Intentions**
+## **Epistemic Intentions**
 
 Science involves an experimentally falsifiable thesis, informed by reproducible experimental results. That said, there is also a role to be played by the more purely theoretical side of science, where experimental constraints may be dialed back in favor of greater theoretical maneuverability.
 
@@ -22,7 +21,7 @@ As far as philosophy is concerned, the approach taken here is in the [**rhizomat
 
 This is all to say that the following is not supposing itself to be science, but is still oriented around science in its own way.
 
-### **Identity vs. Diagnosis**
+## **Identity vs. Diagnosis**
 
 It is also worth noting that, while I was never diagnosed with any Autism Spectrum Disorders, and while I personally have a limited understanding of the clinical bases of these diagnoses, I do identify with some of the defining features of ASDs, especially the extreme [**systematic-over-empathetic**](https://en.wikipedia.org/wiki/Empathising%E2%80%93systemising_theory) ability ratio and the predisposition toward solitary activities.
 
@@ -38,7 +37,7 @@ This is worth drawing attention to, because it illustrates the noisy psychologic
 
 In fact, a brief detour into the intersection of clinical psychiatry and the theory of schizoanalysis may bring some interesting flavor here.
 
-### **Guattari’s Anti-Psychiatry**
+## **Guattari’s Anti-Psychiatry**
 
 Felix Guattari was a Marxist psychoanalyst who studied under Lacan, and devised his own divergence from the Freudian orthodoxy to which [**Lacan himself ultimately stayed loyal**](https://arthistoryunstuffed.com/jacques-lacan-return-to-freud/).
 
@@ -52,7 +51,7 @@ Unlike Deleuze, Guattari was a clinical practitioner, and even conducted some co
 
 While I’m not sure if Guattari himself considered these experiments, and his wider theoretical efforts, to be in the tradition of anti-psychiatry, they nonetheless exemplified a radically unorthodox approach to understanding the psyche, and drew from a profoundly diverse field of discourse. One could even argue this psychological approach was a progenitor to the theory and attitude around [**neurodiversity**](https://en.wikipedia.org/wiki/Neurodiversity).
 
-### **Neurodiversity and Psychoplasticity**
+## **Neurodiversity and Psychoplasticity**
 
 Oh yeah, its neologism time. Although honestly, I’m sure someone else already cobbled this one together.
 
@@ -92,7 +91,7 @@ That said, one can, to a limited extent, steer through what could be called mind
 
 What follows is an imperfect and abridged documentation of my probe into an extremely systematic and mildly psychotic mindspace, in the interest of cultivating a generalist curiosity which, in turn, was intended to lubricate my processing of vast amounts of technical discourse.
 
-### **Becoming-Atypical**
+## **Becoming-Atypical**
 
 During the time I spent designing and utilizing what I called the [**Modular Generalist Program**](https://solosalon.substack.com/p/mogenpro-background), my state of mind was characterized by an obsession with unifying theories, codification systems, and extremely compact data visualization methods. I effectively lived in the following graphs for several months, essentially attempting to systematize my own mind.
 
@@ -122,7 +121,7 @@ This experience may or may not have phenotypic correlates such as the prefrontal
 
 As I persisted deeper into the Modular Generalist Program, I gradually became more and more involved in DAOs. This involvement demanded mental bandwidth, at the expense of watching lectures all day, and also demanded better people skills than those which I had let atrophy over the course of this deeply solitary experiment.
 
-### **Becoming-Typical**
+## **Becoming-Typical**
 
 Consciously observing my psychological development as I transitioned from this hermetic and hyperintellectual mode of existence, back into a more socially-integrated and well-adjusted state, has been one of the most fascinating experiences of my life.
 
@@ -135,5 +134,3 @@ While I was at the apogee of this development, farthest removed from what could 
 What is also interesting, and the reason why I believe neurodiversity can be understood as a plane or a space which can be willfully navigated to some extent, is that I viewed this excursion as a two-way trip from the start. And despite not nearly having full, willful control over my conscious experience throughout this transformation, it always felt like I was on a track which would eventually bring me back to a more typical state of mind, a state of mind wherefrom I could more easily communicate with other people and connect with our shared reality.
 
 What, if any, light this sheds on clinical psychiatry I know not, for want of expertise in that area. While I do suspect that certain “syndromic” ASDs and other extreme neuropsychological disorders may well reside beyond the realm of willful navigability described here, perhaps less extreme cases, or cases more characterized by environmental influences than genetic influences, may be more conducive to therapies derived from the ideas explored above.
-
-[**_This article was originally published a exactly a year ago, on Clinamenic's personal Mirror account._**](https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0)
