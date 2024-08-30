@@ -1,5 +1,5 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 tags:
   - personal-discourse/outline
   - misc/theoretical-governance

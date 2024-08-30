@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
-Title: Wu Gwei, or Going with the Flow of Governance
+author: "[[Saar Cavanaugh, Spencer]]"
+title: Wu Gwei, or Going with the Flow of Governance
 Subtitle: Applying daoist and sociocratic principles to sensemaking and governance.
 Date Published: 2024-08-04
 Arweave Hash: 2Yu2IpW_5BCSlokztrzgQKZScaDDVR71M39eX9gWLEs

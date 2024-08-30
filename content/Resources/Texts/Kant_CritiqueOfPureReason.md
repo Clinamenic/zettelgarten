@@ -1,5 +1,5 @@
 ---
-Title: Critique of Pure Reason
+title: Critique of Pure Reason
 Primary Author(s): "[[Kant, Immanuel]]"
 Secondary Author(s): 
 Year: 

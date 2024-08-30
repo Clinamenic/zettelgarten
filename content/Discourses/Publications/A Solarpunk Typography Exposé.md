@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-Title: A Solarpunk Typography Exposé
+author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
+title: A Solarpunk Typography Exposé
 Subtitle: This exposé highlights a number of fonts which encapsulate the solarpunk ethos.
 Date Published: 2023-11-13
 Arweave Hash: Jb3VeB5IHdCy9l7jn_Wy3fZFM0fyH5OTGKRKS9eQdNE

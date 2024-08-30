@@ -1,4 +1,4 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 tags:
 ---

@@ -1,6 +1,6 @@
 ---
-Title: Utopia
-Author: "[[More, Thomas]]"
+title: Utopia
+author: "[[More, Thomas]]"
 Year: 
 Link to Text: 
 Description: 

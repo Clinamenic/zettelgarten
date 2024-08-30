@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
-Title: Toward a Content Commons
+author: "[[Saar Cavanaugh, Spencer]]"
+title: Toward a Content Commons
 Subtitle: A Potential Solution to the Content Moderation Problem
 Date Published: 2023-11-01
 Arweave Hash: 6Kc8f4GgBN6t2VX5AQ4fPed63oqP7za46SXNbYifVPk

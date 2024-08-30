@@ -1,6 +1,6 @@
 ---
 Date: 2024-08-12
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 tags:
   - note
 ---

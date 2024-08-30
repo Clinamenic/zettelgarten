@@ -2,7 +2,7 @@
 Note Nickname: Pace Layering
 Note Type: Concept
 Date: 2024-08-10
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 tags:
   - "#misc/systems-design"
   - "#misc/dynamic-systems"

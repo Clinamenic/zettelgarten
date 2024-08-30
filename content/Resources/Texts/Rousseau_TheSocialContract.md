@@ -1,5 +1,5 @@
 ---
-Title: The Social Contract
+title: The Social Contract
 Primary Author(s): "[[Rousseau, Jean-Jacques]]"
 Secondary Author(s): 
 Year: 

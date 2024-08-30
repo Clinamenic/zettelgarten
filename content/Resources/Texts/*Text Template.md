@@ -1,6 +1,6 @@
 ---
-Title: 
-Author: 
+title: 
+author: 
 Year: 
 Text URL: 
 Licensing: 

@@ -1,6 +1,6 @@
 ---
 Full Title: Leviathan
-Author: "[[Hobbes, Thomas]]"
+author: "[[Hobbes, Thomas]]"
 Secondary Author(s): 
 Year: 
 Link to Text: 

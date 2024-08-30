@@ -1,5 +1,5 @@
 ---
-Title: The Republic
+title: The Republic
 Primary Author(s): "[[Plato]]"
 Secondary Author(s): 
 Year: 

@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-Title: A Crypto-Native Invoice Template
+author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
+title: A Crypto-Native Invoice Template
 Subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
 Date Published: 2024-03-05
 Arweave Hash: p9gGX1WhTPClo3xP84rUHhNFd6f9CC_atIm6WIW2b9U
@@ -8,6 +8,7 @@ tags:
   - personal-discourse
   - text
 ---
+
 # A Crypto-Native Invoice Template
 
 Given how early the onchain economy is, compensation arrangements are often ambiguous and disordered, whether they involve DAO contributors or freelance service-providers. Despite the transparency of the underlying technology, allowing anyone to track payments between entities, personal and enterprise accounting practices remain largely undefined. This article will cover some basic practices for invoicing in the onchain economy, using both traditional invoice templates, as well as using smart contracts to facilitate invoices.
@@ -29,23 +30,14 @@ Paying for services in crypto is often the default for DAOs and onchain organiza
 The primary distinction between a fiat invoice and a crypto invoice is the information about the payment type and account type. Where a traditional invoice may specify the account and routing number of the service provider's bank account, a crypto invoice would need to specify pertinent information about the service provider's crypto account. Here, I suggest some information fields a service provider may want to include in their invoice, if they want to be paid in cryptoassets.
 
 - **Network**: [e.g. Ethereum Mainnet]
-    
-    - Note: It may also make sense to specify parameters like ChainID, depending on which blockchain is being used. This matter may be explored further in a later version of this template.
-        
+  - Note: It may also make sense to specify parameters like ChainID, depending on which blockchain is being used. This matter may be explored further in a later version of this template.
 - **Payee Account Type**: [e.g. an externally owned account, or a smart contract]
-    
 - **Payee Account Address**: [e.g. 0xeAa47a3563a91B4016eF8C8e9504Aa3CB0A764C7]
-    
 - **Payee Account ENS**: [e.g. bureaumancy.eth]
-    
-    - Note: This field may introduce unnecessary redundancy or even the potential for conflicting information. It might be best to leave this field out, and wait for some invoicing tool which can automatically resolve ENS domains for addresses entered into the payee field. In the template provided, this field is left out
-        
+  - Note: This field may introduce unnecessary redundancy or even the potential for conflicting information. It might be best to leave this field out, and wait for some invoicing tool which can automatically resolve ENS domains for addresses entered into the payee field. In the template provided, this field is left out
 - **Accepted Assets**: [e.g. the following:]
-    
-    - USDC (Contract: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48)
-        
-    - DAI (Contract: 0x6B175474E89094C44Da98b954EedeAC495271d0F)
-        
+  - USDC (Contract: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48)
+  - DAI (Contract: 0x6B175474E89094C44Da98b954EedeAC495271d0F)
 
 These five fields, in addition to the rest of the fields contained in a traditional invoice, should provide sufficient information to prevent payment ambiguity and enable proper accounting measures. Below is a screenshot of an example invoice containing the above fields.
 
@@ -56,13 +48,9 @@ This template is watermarked and licensed (CC BY NC 4.0) purely for promotional 
 ### Documents
 
 - Crypto-Native Invoice Template
-    
-    - Version: 1
-        
-        - [**Google Document**](https://docs.google.com/document/d/16d3HOZlcwqmbfLLv17J3I87nX7lFu0hUFHX__j8ACdQ/edit) (for comments/feedback)
-            
-        - [**Rich Text Document on IPFS**](https://pinata.clinamenic.com/ipfs/Qme7MkJ2mdGhjMfEJdg6oAs5qXitCB2rDeBifdBUfSLF4k) (No watermark or license info)
-            
+  - Version: 1
+    - [**Google Document**](https://docs.google.com/document/d/16d3HOZlcwqmbfLLv17J3I87nX7lFu0hUFHX__j8ACdQ/edit) (for comments/feedback)
+    - [**Rich Text Document on IPFS**](https://pinata.clinamenic.com/ipfs/Qme7MkJ2mdGhjMfEJdg6oAs5qXitCB2rDeBifdBUfSLF4k) (No watermark or license info)
 
 ## The State of Onchain Invoicing
 

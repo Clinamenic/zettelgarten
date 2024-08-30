@@ -1,7 +1,7 @@
 ---
 Previous Note: 
 Date: 2024-08-25
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 tags:
   - "#note"
   - misc/bureaumancy

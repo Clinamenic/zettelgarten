@@ -1,5 +1,5 @@
 ---
-Title: The Communist Manifesto
+title: The Communist Manifesto
 Primary Author(s): "[[Marx, Karl]]"
 Secondary Author(s): "[[Engels, Friedrich]]"
 Year: 

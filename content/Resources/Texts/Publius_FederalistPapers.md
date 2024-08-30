@@ -1,6 +1,6 @@
 ---
-Title: The Federalist Papers
-Author: "[[Publius]]"
+title: The Federalist Papers
+author: "[[Publius]]"
 Year: 
 Link to Text: 
 Description: 
@@ -11,7 +11,7 @@ Associated works:
 
 # Title: The Federalist Papers
 
-Author: Publius
+author: Publius
 
 Year: 1788
 

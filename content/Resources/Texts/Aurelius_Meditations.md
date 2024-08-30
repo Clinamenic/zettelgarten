@@ -1,5 +1,5 @@
 ---
-Title: Meditations
+title: Meditations
 Primary Author(s): "[[Aurelius, Marcus]]"
 Secondary Author(s): 
 Year: 

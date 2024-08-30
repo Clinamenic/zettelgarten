@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
-Title: 
+author: "[[Saar Cavanaugh, Spencer]]"
+title: 
 Subtitle: 
 Date Published: 
 Arweave Hash: 

@@ -1,8 +1,8 @@
 ---
-Title: 
+title: 
 Subtitle: 
 Date: ""
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 Arweave Hash: 
 tags:
   - "#log"

@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-Title: A Primer on Auto-Discourse
+author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
+title: A Primer on Auto-Discourse
 Subtitle: 
 Date Published: 2024-05-03
 Arweave Hash: 

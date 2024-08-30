@@ -1,5 +1,5 @@
 ---
-Title: The Age of Reason
+title: The Age of Reason
 Primary Author(s): "[[Paine, Thomas]]"
 Secondary Author(s): 
 Year: 

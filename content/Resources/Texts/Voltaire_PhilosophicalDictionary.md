@@ -1,5 +1,5 @@
 ---
-Title: Philosophical Dictionary
+title: Philosophical Dictionary
 Primary Author(s): "[[Voltaire]]"
 Secondary Author(s): 
 Year: 

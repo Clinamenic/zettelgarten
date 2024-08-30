@@ -1,10 +1,10 @@
 ---
-Title: How to Take Smart Notes
-Author: "[[Ahrens, Sonke]]"
+title: How to Take Smart Notes
+author: "[[Ahrens, Sonke]]"
 Year: "2017"
-Text URL: 
+Text URL:
 Licensing: Reserved
-Description: 
+Description:
 Has Been Read: Yes
 Started Reading: 2024-08-03
 Finished Reading: 2024-08-11

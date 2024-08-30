@@ -1,5 +1,5 @@
 ---
-Title: Democracy in America
+title: Democracy in America
 Primary Author(s): "[[de Tocqueville, Alexis]]"
 Secondary Author(s): 
 Year: 

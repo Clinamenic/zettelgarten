@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-Title: Progressive Public Goods Funding
+author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
+title: Progressive Public Goods Funding
 Subtitle: Publicly tracking impact progress, and balancing between proactive and retroactive funding models.
 Date Published: 2024-04-05
 Arweave Hash: YwpUk7Vxn2c6YKPTGmODfyA5u1-n6VvrZHJXNDy1fBE

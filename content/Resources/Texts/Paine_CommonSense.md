@@ -1,5 +1,5 @@
 ---
-Title: Common Sense
+title: Common Sense
 Primary Author(s): "[[Paine, Thomas]]"
 Secondary Author(s): 
 Year: 

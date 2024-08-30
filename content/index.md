@@ -1,5 +1,5 @@
 ---
-title: Zettelgarten
+title: Zettelgarten Index
 ---
 
 This is a blank Quartz installation.

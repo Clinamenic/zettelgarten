@@ -1,5 +1,5 @@
 ---
-Title: Rights of Man
+title: Rights of Man
 Primary Author(s): "[[Paine, Thomas]]"
 Secondary Author(s): 
 Year: 

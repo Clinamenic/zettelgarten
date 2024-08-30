@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
-Title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
+author: "[[Saar Cavanaugh, Spencer]]"
+title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
 Subtitle: Considerations to inform a more cogent economic philosophy.
 Date Published: 2024-05-23
 Arweave Hash: fXBe4dKiAhhCieD2H4_vb3tZGms8CTwws-XeCRcb28Q

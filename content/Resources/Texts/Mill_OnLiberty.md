@@ -1,5 +1,5 @@
 ---
-Title: On Liberty
+title: On Liberty
 Primary Author(s): "[[Mill, John Stuart]]"
 Secondary Author(s): 
 Year: 

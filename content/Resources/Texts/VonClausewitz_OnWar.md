@@ -1,5 +1,5 @@
 ---
-Title: On War
+title: On War
 Primary Author(s): "[[von Clausewitz, Carl]]"
 Secondary Author(s): 
 Year: 

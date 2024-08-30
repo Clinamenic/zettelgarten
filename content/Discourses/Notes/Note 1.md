@@ -3,7 +3,7 @@ Previous Note:
 Note Nickname: Notetaking Methodology
 Note Type: Collection
 Date: 2024-08-10
-Author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Saar Cavanaugh, Spencer]]"
 tags:
   - note
   - "#note/branch/1"

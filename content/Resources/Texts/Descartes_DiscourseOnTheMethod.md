@@ -1,5 +1,5 @@
 ---
-Title: Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences
+title: Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences
 Primary Author(s): "[[Descartes, Rene]]"
 Secondary Author(s): 
 Year: 

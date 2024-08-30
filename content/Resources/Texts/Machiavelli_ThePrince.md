@@ -1,5 +1,5 @@
 ---
-Title: The Prince
+title: The Prince
 Primary Author(s): "[[Machiavelli, Niccolò]]"
 Secondary Author(s): 
 Year: 

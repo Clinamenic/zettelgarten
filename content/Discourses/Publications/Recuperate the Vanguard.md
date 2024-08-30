@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
-Title: Recuperate the Vanguard
+author: "[[Saar Cavanaugh, Spencer]]"
+title: Recuperate the Vanguard
 Subtitle: Free Market Collectivism via Self-Regulation in Emerging Technology Sectors
 Date Published: 2023-09-13
 Arweave Hash: 

@@ -1,5 +1,5 @@
 ---
-Title: On the Bondage of the Will
+title: On the Bondage of the Will
 Primary Author(s): "[[Luther, Martin]]"
 Secondary Author(s): 
 Year: 

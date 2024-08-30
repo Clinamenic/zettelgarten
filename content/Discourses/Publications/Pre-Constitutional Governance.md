@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-Title: 
+author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
+title: 
 Subtitle: 
 Date Published: 
 Arweave Hash: 

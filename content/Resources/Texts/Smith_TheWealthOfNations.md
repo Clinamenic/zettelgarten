@@ -1,5 +1,5 @@
 ---
-Title: An Inquiry into the Nature and Causes of the Wealth of Nations
+title: An Inquiry into the Nature and Causes of the Wealth of Nations
 Primary Author(s): "[[Smith, Adam]]"
 Secondary Author(s): 
 Year: 

@@ -1,5 +1,5 @@
 ---
-Title: The Histories
+title: The Histories
 Primary Author: "[[Herodotus]]"
 Secondary Author(s): 
 Year: 

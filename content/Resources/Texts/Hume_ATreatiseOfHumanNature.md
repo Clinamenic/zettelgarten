@@ -1,5 +1,5 @@
 ---
-Title: A Treatise of Human Nature
+title: A Treatise of Human Nature
 Primary Author(s): "[[Hume, David]]"
 Secondary Author(s): 
 Year: "1738"

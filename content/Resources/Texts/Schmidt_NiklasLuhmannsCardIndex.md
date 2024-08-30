@@ -1,5 +1,5 @@
 ---
-Title: "Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine"
+title: "Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine"
 Primary Author(s): "[[Schmidt, Johannes F.K.]]"
 Secondary Author(s): 
 Year: "2016"

@@ -1,6 +1,6 @@
 ---
-Author: "[[Saar Cavanaugh, Spencer]]"
-Title:
+author: "[[Saar Cavanaugh, Spencer]]"
+title:
 Subtitle:
 Date Draft Started:
 Date Published:
