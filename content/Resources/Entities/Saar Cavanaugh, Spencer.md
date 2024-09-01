@@ -17,7 +17,7 @@ Publish: "True"
 
 ### Drafts
 [[*OUTLINE Impact-Weighted Funding for Public Goods]]
-[[*OUTLINE Methodology for Assessing Legal Engineering Impact]]
+[[*OUTLINE Methodological Survey of Onchain Impact Ecosystems]]
 [[*OUTLINE An Organizational Theory of Active Inference]]
 [[*OUTLINE A Mirror for Nomads]]
 [[*OUTLINE Zettelkasten and Ideonomy]]
