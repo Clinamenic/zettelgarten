@@ -74,9 +74,7 @@ const config: QuartzConfig = {
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      Plugin.IgnoreFiles({
-        condition: (ctx) => ctx.frontmatter?.tags?.includes("misc/ignore"),
-      }),
+      Plugin.ExplicitPublish(),
     ],
     emitters: [
       Plugin.AliasRedirects(),

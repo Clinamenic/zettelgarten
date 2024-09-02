@@ -4,6 +4,7 @@ Subtitle: Regarding nascent theories of bureaumancy, zettelkasten methodology, a
 Date: 2024-08-25
 author: "[[Saar Cavanaugh, Spencer]]"
 Arweave Hash: 
+Public: true
 tags:
   - log
 ---
