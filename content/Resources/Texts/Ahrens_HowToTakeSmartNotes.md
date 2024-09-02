@@ -11,6 +11,7 @@ Finished Reading: 2024-08-11
 tags:
   - text
   - text/structured
+  - misc/ignore
 ---
 
 # How to Take Smart Notes
