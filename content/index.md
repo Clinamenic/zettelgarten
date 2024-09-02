@@ -1,5 +1,6 @@
 ---
 title: Zettelgarten Index
+Public: true
 ---
 
 This is a blank Quartz installation.

@@ -149,10 +149,7 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [
-      Plugin.RemoveDrafts(),
-      Plugin.IgnoreFiles({
-        condition: (ctx) => ctx.frontmatter?.tags?.includes("misc/ignore"),
-      }),
+      filters: [Plugin.ExplicitPublish()],
     ],
     emitters: [
       Plugin.AliasRedirects(),
