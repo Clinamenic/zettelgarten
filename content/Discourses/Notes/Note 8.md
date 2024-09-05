@@ -15,4 +15,4 @@ The cognitive-agentic model of active inference may be applied to individual org
 
 ## More
 
-[[*OUTLINE An Organizational Theory of Active Inference]]
+[[DRAFT An Organizational Theory of Active Inference]]

@@ -11,8 +11,6 @@ tags:
   - text
 ---
 
-# Pre-Constitutional Governance
-
 As formal governance emerges from a structureless social soup, it can be difficult to establish consensus on basic matters, in lieu of a pre-existing system of procedures to facilitate such consensus.
 
 When it comes to bootstrapping these procedures, it is often necessary to conduct such decisions in transparent and well-documented fashion, in the interest of lending such decisions a sufficient degree of legitimacy. Without this legitimacy, there may remain doubts and ambiguities regarding the foundations of the organization, which may add unnecessary complexity to ensuing operations.

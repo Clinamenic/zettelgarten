@@ -11,8 +11,6 @@ tags:
   - text
 ---
 
-# Wu Gwei, or Going with the Flow of Governance
-
 For some time people have wondered, however seriously, whether the acronym 'DAO' was at all intended as a nod to Daoism, or if it was just a coincidence of technical nomenclature. While the [**prevailing (albeit nascent) history**](https://policyreview.info/glossary/DAO) of DAOs doesn't seem to indicate much intentional relation between the two terms, there is one concept which may curiously unite them, namely that of [**wu wei**](https://en.wikipedia.org/wiki/Wu_wei).
 
 Specifically, the term 'wu wei' refers to the state of being in harmony with one's environment, rather than enforcing agendas which seem at odds with it. There is a certain acquiescence with nature to be discerned here, a recalibration of one's agency rather than a simple abdication of it. As such, the concept is foundational to Daoism and related philosophies.

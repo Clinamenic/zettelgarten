@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# What Are Onchain Organizations?
-
 Smart contracts have brought about a paradigm shift in organizational design. These algorithms, which operate on peer-to-peer financial databases like blockchains, can be used to facilitate a variety of administrative processes, and can enable large groups of stakeholders to govern themselves within a transparent framework which, if well designed, can be virtually impossible for any one entity to capture.
 
 This piece will explain the key innovations of onchain organization design, highlight a few of the most versatile smart contracts available for such design, and illustrate an example of combining these smart contracts to facilitate organizational processes, all with the intention of being accessible to readers who are new to blockchain technology. What follows is not to be considered financial or legal advice, but is intended purely for informational purposes.

@@ -9,15 +9,13 @@ tags:
   - log
 ---
 
-# Log 08.25.24 - Notes on active discursive efforts
-
 ## Clusters
 
 There are several clusters of active drafts and nascent theories taking form within the zettelkasten.
 
 ### Cluster 1: Bureaumancy
 
-One cluster of topics has to do with developing an integrated and multi-disciplinary praxis of organizational design, spanning the following topics: active inference applied to organization design ([[*OUTLINE An Organizational Theory of Active Inference]]); the epistemic paradigm of theoretical governance. ([[*OUTLINE Theoretical and Applied Governance]]); Machiavelli and "micropolitics" applied to org design ([[*OUTLINE Micropolitics and Organizational Design]]); conceptual frameworks for public organizational infrastructure ([[*OUTLINE Multipolar Extitution Design]]), sociocracy and daoism in org design ([[Wu Gwei, or Going with the Flow of Governance]]), and how much of the foregoing can be framed within the domain of 'bureaumancy' ([[*OUTLINE Intimations around Bureaumancy]]).
+One cluster of topics has to do with developing an integrated and multi-disciplinary praxis of organizational design, spanning the following topics: active inference applied to organization design ([[DRAFT An Organizational Theory of Active Inference]]); the epistemic paradigm of theoretical governance. ([[DRAFT Theoretical and Applied Governance]]); Machiavelli and "micropolitics" applied to org design ([[DRAFT Micropolitics and Organizational Design]]); conceptual frameworks for public organizational infrastructure ([[DRAFT Multipolar Extitution Design]]), sociocracy and daoism in org design ([[Wu Gwei, or Going with the Flow of Governance]]), and how much of the foregoing can be framed within the domain of 'bureaumancy' ([[DRAFT Intimations around Bureaumancy]]).
 
 ### Cluster 2: Liberalism and Welfare
 
@@ -25,11 +23,11 @@ A second emerging cluster has to do with identifying theoretical politico-econom
 
 ### Cluster 3: Onchain Ecosystem
 
-A third emerging cluster has to do with technical matters around how smart contracts can be used for organization design ([[What Are Onchain Organizations?]]; [[Pre-Constitutional Governance]]), public goods funding ([[Progressive Public Goods Funding]]), impact assessment ([[*OUTLINE Methodological Survey of the Onchain Impact Economy]]), and various other mechanisms and processes which could factor into a new programmatic economic order. This front of inquiry will hopefully inform a technical praxis around private-sector welfare programs, and, more generally, how a new "programmatically liberal" economic order may be established
+A third emerging cluster has to do with technical matters around how smart contracts can be used for organization design ([[What Are Onchain Organizations?]]; [[Pre-Constitutional Governance]]), public goods funding ([[Progressive Public Goods Funding]]), impact assessment ([[DRAFT Methodological Survey of the Onchain Impact Economy]]), and various other mechanisms and processes which could factor into a new programmatic economic order. This front of inquiry will hopefully inform a technical praxis around private-sector welfare programs, and, more generally, how a new "programmatically liberal" economic order may be established
 
 ### Cluster 4: Discourse Methodology
 
-Finally, a fourth emerging cluster has to do with personal knowledge management practices, how the zettelkasten may prove to be a useful vehicle for "ideonomy" ([[*OUTLINE Zettelkasten and Ideonomy]]); a general method for topic-mapping, having to do with my previous efforts around 'nootopology'; methodology around self-guided study and research, picking up from my previous 'Modular Generalist Program' methodology. This topic cluster is more "meta" than the others insofar as it regards the methods by which such clusters are formulated, processed, and published. This "ideation stack" also involves methodological considerations around rhetorical and discursive style ([[A Primer on Auto-Discourse]]).
+Finally, a fourth emerging cluster has to do with personal knowledge management practices, how the zettelkasten may prove to be a useful vehicle for "ideonomy" ([[DRAFT Zettelkasten and Ideonomy]]); a general method for topic-mapping, having to do with my previous efforts around 'nootopology'; methodology around self-guided study and research, picking up from my previous 'Modular Generalist Program' methodology. This topic cluster is more "meta" than the others insofar as it regards the methods by which such clusters are formulated, processed, and published. This "ideation stack" also involves methodological considerations around rhetorical and discursive style ([[A Primer on Auto-Discourse]]).
 
 ## Methodology
 

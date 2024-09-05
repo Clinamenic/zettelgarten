@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# Role-Bound Multisigs
-
 The multisig wallet is a powerful organizational primitive, enabling individuals to share control over funds and assets, and to collectively execute smart contract interactions. They can be created quickly and inexpensively, and they facilitate international financial cooperation.
 
 While this tool has been around for a few years, allowing individual wallet addresses to operate as signers, what is new is the ability to abstract this signer role into a token which can be transferred from one wallet address to another, thus transferring signatory status from one person to another. One tool which enables this is SignerGate, which is currently being developed by the team at Hats Protocol.

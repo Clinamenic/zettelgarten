@@ -1,10 +1,11 @@
 ---
 author: "[[Saar Cavanaugh, Spencer]]"
-title:
-subtitle:
-date published:
-license:
-arweave hash:
+title: 
+subtitle: 
+draft started: 
+date published: 
+license: 
+arweave hash: 
 publish: false
 tags:
   - personal-discourse/outline

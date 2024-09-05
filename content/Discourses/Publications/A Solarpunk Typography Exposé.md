@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# A Solarpunk Typography Exposé
-
 Characterized chiefly by its hopeful aesthetics of nature-technology balance, solarpunk is a relatively young genre and movement, and yet it has already secured a foothold among technologists who reject the otherwise prevailing prognoses of doom and dystopia. Combining aspects of liberal economics, bioregionalism, emerging technology, participatory civics, and various other ideas and traditions, solarpunk constitutes a syncretic and solutions-oriented “infraculture” geared toward a healthier future.
 
 This exposé highlights a number of fonts which aesthetically encapsulate certain elements of the solarpunk ethos. Some lean into organic or floral themes, while others opt for more psychedelic or techno designs. These fonts use a variety of open licenses like the Open Font License and the Creative Commons licenses, but I nonetheless encourage readers to familiarize themselves with these licenses before utilizing these fonts.

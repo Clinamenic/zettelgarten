@@ -12,8 +12,6 @@ tags:
   - misc/postcapitalism
 ---
 
-# Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
-
 ## Prefatory Comments on the Semantics, Intentions, and Method of the Discourse
 
 Much of the evolution of our economic regimes over the last few centuries, and particularly during the twentieth century, can be understood as a dialogue between the values of individual economic liberty and collective economic welfare. These values are often embodied in policies and ideologies in such ways that present them as inherently antagonistic to one another, but such is not necessarily the case.

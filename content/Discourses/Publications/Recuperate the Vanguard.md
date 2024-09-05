@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# Recuperate the Vanguard
-
 If the spectre of history has anything left to teach the western world, are we willing to learn?
 
 [**Economic liberalism**](https://en.wikipedia.org/wiki/Economic_liberalism#:~:text=Economic%20liberals%20commonly%20adhere%20to,spending%2C%20and%20minimized%20government%20debt.) has become the incumbent world order over the twentieth century, with its logic so deeply rooted in our globalized culture that it has become difficult to imagine an alternative. Widening wealth disparities fuel skepticism about liberalism’s ability to equitably increase quality of life, and social welfare initiatives aiming to address this disparity often involve mobilizing the government in ways which may threaten individual economic liberty. Can economic welfare be promoted in a manner which does not compromise individual liberty?

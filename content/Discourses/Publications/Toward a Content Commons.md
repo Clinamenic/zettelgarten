@@ -11,8 +11,6 @@ tags:
   - text
 ---
 
-# Toward a Content Commons
-
 The online public sphere, composed jointly of various social media platforms, enables dialogue at societal scale, rapid dissemination of news, and heightened opportunity for people to discover content and opinions they find interesting or important.
 
 These platforms, however, also involve various content moderation policies, around which tend to revolve polarized debates about free speech. To what extent can a platform’s moderation policy, intended to minimize proliferation of harmful content, result in the undeserving censorship of controversial content or minority opinions?

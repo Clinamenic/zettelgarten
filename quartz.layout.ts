@@ -17,10 +17,10 @@ export const sharedPageComponents: SharedLayout = {
 // Component.Breadcrumbs(),
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Graph(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Graph(),
   ],
   left: [
     Component.PageTitle(),

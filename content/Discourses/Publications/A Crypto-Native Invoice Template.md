@@ -11,8 +11,6 @@ tags:
   - text
 ---
 
-# A Crypto-Native Invoice Template
-
 Given how early the onchain economy is, compensation arrangements are often ambiguous and disordered, whether they involve DAO contributors or freelance service-providers. Despite the transparency of the underlying technology, allowing anyone to track payments between entities, personal and enterprise accounting practices remain largely undefined. This article will cover some basic practices for invoicing in the onchain economy, using both traditional invoice templates, as well as using smart contracts to facilitate invoices.
 
 _The following does not constitute financial, legal, or accounting advice, but is intended purely for informational purposes. It is worth bearing in mind that, at the time this piece was written, the best practices around crypto-native accounting are still emerging._

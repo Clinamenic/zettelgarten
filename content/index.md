@@ -2,8 +2,6 @@
 title: Zettelgarten Index
 publish: true
 ---
+Welcome to the zettelgarten of Spencer Saar Cavanaugh, a curated externalization of an internal knowledge management system.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-test text
+Inspired by Luhman's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ("note system") methodology and by the concept of a digital garden, this zettelgarten is an experiment in self-publishing, independent research, and knowledge architecture.

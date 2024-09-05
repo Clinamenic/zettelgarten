@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# Progressive Public Goods Funding
-
 _The following does not constitute legal, financial, accounting, or compliance advice, but is intended purely for informational purposes._
 
 The realm of public goods funding has recently seen a variety of technologically innovative models emerge, engineered in the interest of more sustainably and intelligently funding the commons. Philanthropic mechanisms such as quadratic funding, retroactive public goods funding, and impact certificates are being advanced by institutions such as [**Gitcoin**](https://www.gitcoin.co/?ref=blog.subsquid.io), [**Giveth**](https://giveth.io/), [**Octant**](https://octant.build/), and [**Endaoment**](https://endaoment.org/). Moreover, these mechanisms are increasingly [**being built onchain**](https://solosalon.clinamenic.com/5), allowing for greater degrees of transparency and collective governance, as well as interoperability with one another.

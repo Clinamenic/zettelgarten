@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# The Failsafe Committee
-
 On-chain organizations have a multitude of techniques available to institute truly community-led governance, without the need for representatives or committees to approve the will of the community.
 
 That said, doing so typically involves relying on a protocol, and relying on the determinism of code without the opportunity for manual intervention brings with it a unique and largely novel risk profile for on-chain organizations. With the will of a community represented by a smart contract, how can an on-chain organization institute community-led governance, while also protecting itself against such risk?

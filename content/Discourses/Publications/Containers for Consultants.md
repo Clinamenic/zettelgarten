@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# Containers for Consultants
-
 By virtue of being public and deterministic, smart contracts enable novel approaches to business engagements. Where and when this novelty has real utility, however, is a matter still early in the unfolding.
 
 Whether one chooses to adopt smart contracts as instruments for their business or organization depends on one's aims and circumstances. This new technology enables transparency, [**trustlessness**](https://mirror.xyz/0x4Ef22A7356D96dbf95a7FdEaD4a196A668e75B38/CMWteFrY7Xyapf4R9fsnyZYm4Q81VUyWyeBkeo0zzDM), and composability in new and exciting ways, but these values may not be important in every situation, and the complexity of this technology can constitute serious cognitive overhead.

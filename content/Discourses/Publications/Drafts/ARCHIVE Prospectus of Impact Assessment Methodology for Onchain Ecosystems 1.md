@@ -87,7 +87,7 @@ Text here
 
 #### Common Impact Data Standard
 
-Consolidate [[*OUTLINE Impact-Weighted Funding for Public Goods]] into this section
+Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
 
 ### Stakeholder Roles and Interests
 

@@ -2,6 +2,7 @@
 author: "[[Saar Cavanaugh, Spencer]]"
 title: Methodological Survey of Onchain Impact Ecosystems
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
+draft started: 0024-06-28
 date published: 
 license: CC-BY-SA 4.0
 sponsor(s): LexDAO, SuperBenefitDAO
@@ -216,7 +217,7 @@ text here
 #### Continuous Funding Streams
 
 Text here
-Consolidate [[*OUTLINE Impact-Weighted Funding for Public Goods]] into this section
+Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
 
 #### Unified Ontology for Impact Reporting
 

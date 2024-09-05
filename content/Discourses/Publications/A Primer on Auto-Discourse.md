@@ -12,8 +12,6 @@ tags:
   - text
 ---
 
-# A Primer on Auto-Discourse
-
 If traditional first-order discourse is characterized by the exploration of a given topic, with the author aptly assuming some degree of authority, there exists a second-order mode of discourse wherein the author’s own understanding of the topic is jointly, alongside the topic itself, the object of inquiry. This latter mode of discourse, here referred to ‘auto-discourse’ insofar as it contains some degree of self-reference to the author’s own understanding of the topic, may perhaps lend itself to didactic applications which the former mode discourse may not, with such prospects being the focus of this piece.
 
 In auto-discourse, the body of discourse itself is partitioned into discourse on the topic, and discourse on the author’s understanding of the topic. Traditional discourse, however, involves conventions whereby the author is often discouraged to foreground their own uncertainty or thought process, for fear of undermining the thesis or the confidence of the reader.
