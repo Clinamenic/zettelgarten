@@ -1,15 +1,20 @@
 ---
 author: "[[Saar Cavanaugh, Spencer]]"
+title:
+subtitle:
+date published:
+license:
+arweave hash:
+publish: true
 tags:
   - personal-discourse/outline
 ---
+
 How the zettelkasten/slip-box note-taking system may be methodologically suited for ideonomic studies.
 
 See:
 
 [[Notetaking Methodology]]
-
-
 
 https://en.wikipedia.org/wiki/Discourse_analysis
 

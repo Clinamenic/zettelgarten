@@ -1,14 +1,17 @@
 ---
 author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
 title: The Failsafe Commitee
-Subtitle: 
-Date Published: 2023-09-25
-Arweave Hash: 5RFMa6GU3HIrm4Mh6FEjnkGNQNoAoh5aRlSxaAkGU7k
+subtitle:
+date published: 2023-09-25
+license:
+arweave hash: 5RFMa6GU3HIrm4Mh6FEjnkGNQNoAoh5aRlSxaAkGU7k
+publish: true
 tags:
   - misc/bureaumancy
   - personal-discourse
   - text
 ---
+
 # The Failsafe Committee
 
 On-chain organizations have a multitude of techniques available to institute truly community-led governance, without the need for representatives or committees to approve the will of the community.
@@ -56,51 +59,51 @@ The above diagram illustrates an arrangement whereby the community can override 
 Below are examples of the sorts of provisions an organization may choose to include in their bylaws or other relevant operating agreements. It should here be noted than I am not a lawyer, nor is this legal advice. Rather, the language below is meant to serve in a purely informational capacity, illustrating the basic logic by which an organization's internal policy can constrain the powers of the failsafe committee:
 
 > ## ARTICLE X - THE FAILSAFE AND EXECUTIVE COMMITTEES
-> 
+>
 > ### SECTION X.1 - Committee Duality
-> 
+>
 > _The Failsafe Committee and Executive Committee shall each have their own distinct designated multisig contract address, but both multisig contracts will be occupied by the same set of signers. Appointments, replacements, removals, or any other actions taken to adjust the set of signers on these multisigs will be made by the DAO, according to the process(es) defined in SECTION X.8 (Actions Taken to Adjust Committee Rosters or Parameters) of this Operating Agreement. Such actions can only be taken by the Failsafe Committee in situations described in SECTION X.10 (Grounds for the Failsafe Committee to Override Actions Taken by the DAO) of this Operating Agreement_.
-> 
+>
 > ### SECTION X.2 - Failsafe Committee Purpose
-> 
+>
 > _The purpose of the Failsafe Committee is to ensure the operational and legal integrity of the Organization by overriding the DAO in, and only in, situations of perceived danger, illegality, or other forms of emergency as defined in SECTION X.10 (Grounds for the Failsafe Committee to Override Actions Taken by the DAO) of this Operating Agreement_
-> 
+>
 > _Such actions of override will be taken by the Failsafe Committee through the multisig contract address designated in SECTION X.3 (Designated Failsafe Committee Multisig Contract Address) of this Operating Agreement, and not through any other vehicle._
-> 
+>
 > ### SECTION X.3 - Designated Failsafe Committee Multisig Contract Address
-> 
+>
 > [Multisig contract address, and optionally its resolved ENS domain/subdomain.]
-> 
+>
 > ### SECTION X.4 - Failsafe Committee Parameters
-> 
+>
 > The Failsafe Committee multisig shall have 7 signers, with a super majority of 6/7 signatures required to take action.
-> 
+>
 > ### SECTION X.5 - Executive Committee Purpose
-> 
+>
 > _The purpose of the Executive Committee is to serve as the operational leaders of the Organization, subject to oversight by the DAO. The Executive Committee will have power to create and manage subordinate divisions and committees, appropriate funds to such committees, and administer operations in general, according to, and without conflicting with, the provisions in this Operating Agreement._
-> 
+>
 > _Such operational actions will be taken by the Executive Committee through the multisig contract address designated in SECTION X.6 (Designated Executive Committee Multisig Contract Address) of this Operating Agreement, and not through any other vehicle._
-> 
+>
 > ### SECTION X.6 - Designated Executive Committee Multisig Contract Address
-> 
+>
 > [Multisig contract address, and optionally its resolved ENS domain/subdomain.]
-> 
+>
 > ### SECTION X.7 - Executive Committee Parameters
-> 
+>
 > The Executive Committee multisig shall have 7 signers, with a simple majority of 4/7 signatures required to take action.
-> 
+>
 > ### SECTION X.8 - Actions Taken to Adjust Committee Rosters or Parameters
-> 
+>
 > _The DAO may take actions to adjust the roster of the Executive and Failsafe Committees, or to adjust any associated permissions or parameters, including but not limited to multisig quorum and spending permissions, whenever it sees fit, according to the DAO governance processes detailed in the Operating Agreement_
-> 
+>
 > [NOTE: These "governance processes" would be detailed in a separate article of the Operating Agreement, having to do with voting platforms, voting methods, voting quorum, etc.]
-> 
+>
 > [NOTE: The Organization may wish to have term limits, or to institute certain assurances against the DAO arbitrarily removing executives without substantial grounds.]
-> 
+>
 > ### SECTION X.9 - Grounds for the DAO to Override Actions Taken by the Executive Committee
-> 
+>
 > _The DAO may override the actions of the Executive Committee on any grounds, provided that the proposal to do so reaches sufficient quorum and surpasses sufficient majority, as specified in this Operating Agreement_ [detailed in a different article of this Operating Agreement]_. Such override may be further vetoed by the Failsafe Committee only in situations detailed in SECTION X.8 (Grounds for the Failsafe Committee to Override Actions Taken by the DAO) of this Operating Agreement._
-> 
+>
 > ### SECTION X.10 - Grounds for the Failsafe Committee to Override Actions Taken by the DAO
-> 
+>
 > _The Failsafe Committee may only override actions taken by the DAO in situations where the majority of the Failsafe Committee, as detailed in SECTION X.4 (Failsafe Committee Parameters), perceive, in their opinion, significant legal, operational, financial, or other risk which would reasonably be expected to be entailed by the pending action of the DAO._

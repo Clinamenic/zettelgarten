@@ -1,14 +1,17 @@
 ---
 author: "[[Saar Cavanaugh, Spencer]]"
 title: A Rhapsody on Neurodiversity
-Subtitle: Reflections on auto-didacticism and neurodiversity.
-Date Published: 2023-01-17
-Publish Link: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
-Arweave Hash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
+subtitle: Reflections on auto-didacticism and neurodiversity.
+date published: 2023-01-17
+publish link: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
+license:
+arweave hash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
+publish: true
 tags:
   - personal-discourse
   - text
 ---
+
 As someone without formal experience in STEM higher education, but rather as a [**self-guided generalist**](https://solosalon.substack.com/p/mogenpro-background), I should perhaps preface what follows with an explanation of my intentions.
 
 ## **Epistemic Intentions**
@@ -17,7 +20,7 @@ Science involves an experimentally falsifiable thesis, informed by reproducible 
 
 What follows is not only skewed toward the theoretical side of science, but skewed further yet toward philosophy, wherein these values of falsifiability and reproducibility often have even less weight. The intention here is to explore ideas, in case they have downstream consequences of broadening the imagination behind experimental design.
 
-As far as philosophy is concerned, the approach taken here is in the [**rhizomatic**](https://en.wikipedia.org/wiki/Rhizome_(philosophy)) tradition of Deleuze-Guattari, and is something of a [**rhapsody**](https://en.wikipedia.org/wiki/Rhapsody_(music)) in terms of toggling between [**epistemes**](https://en.wikipedia.org/wiki/Episteme) instead of taking a consistent approach dedicated to any one of them.
+As far as philosophy is concerned, the approach taken here is in the [**rhizomatic**](<https://en.wikipedia.org/wiki/Rhizome_(philosophy)>) tradition of Deleuze-Guattari, and is something of a [**rhapsody**](<https://en.wikipedia.org/wiki/Rhapsody_(music)>) in terms of toggling between [**epistemes**](https://en.wikipedia.org/wiki/Episteme) instead of taking a consistent approach dedicated to any one of them.
 
 This is all to say that the following is not supposing itself to be science, but is still oriented around science in its own way.
 

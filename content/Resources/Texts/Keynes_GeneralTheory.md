@@ -1,12 +1,13 @@
 ---
 title: The General Theory of Employment, Interest and Money
 Primary Author(s): "[[Keynes_GeneralTheory]]"
-Secondary Author(s):
+Secondary Author(s): 
 Year: "1936"
 Attached Text: "[[Keynes_GeneralTheory_PDF.pdf]]"
-Description:
+Description: 
 tags:
   - text
+publish: true
 ---
 
 # The General Theory of Employment, Interest and Money
@@ -1244,15 +1245,7 @@ Thus the rate of interest at any time, being the reward for parting with liquidi
 
 At this point, however, let us turn back and consider why such a thing as liquidity-preference exists. In this connection we can usefully employ the ancient distinction between the use of money for the transaction of current business and its use as a store of wealth. As regards the first of these two uses, it is obvious that up to a point it is worth while to sacrifice a certain amount of interest for the convenience of liquidity. But, given that the rate of interest is never negative, why should anyone prefer to hold his wealth in a form which yields little or no interest to holding it in a form which yields interest (assuming, of course, at this stage, that the risk of default is the same in respect of a bank balance as of a bond)? A full explanation is complex and must wait for chapter 15. There is, however, a necessary condition failing which the existence of a liquidity-preference for money as a means of holding wealth could not exist.
 
-This necessary condition is the existence of uncertainty as to the future of the rate of interest, i.e. as to the complex of rates of interest for varying maturities which will rule at future dates. For if the rates of interest ruling at all future times could be foreseen with certainty, all future rates of interest could be inferred from the present rates of interest for debts of different maturities, which would be adjusted to the knowledge of the future rates. For example, if 1 dr is the value ln the present year 1 of £1 deferred r years and it is known that ndr will be the value in the year n of £1 deferred r years from that date, we have
-
-```
-1 dn + r
-ndr = -------- ;
-1 dn
-```
-
-whence it follows that the rate at which any debt can be turned into cash n years hence is given by two out of the complex of current rates of interest. If the current rate of interest is positive for debts of every maturity, it must always be more advantageous to purchase a debt than to hold cash as a store of wealth.
+This necessary condition is the existence of uncertainty as to the future of the rate of interest, i.e. as to the complex of rates of interest for varying maturities which will rule at future dates. For if the rates of interest ruling at all future times could be foreseen with certainty, all future rates of interest could be inferred from the present rates of interest for debts of different maturities, which would be adjusted to the knowledge of the future rates. For example, if $_1d_r$ is the value in the present year 1 of £1 deferred r years and it is known that $_nd_r$ will be the value in the year n of £1 deferred r years from that date, we have $${_nd_r} = \frac{_1d_{r + n}}{_1d_n}$$ whence it follows that the rate at which any debt can be turned into cash n years hence is given by two out of the complex of current rates of interest. If the current rate of interest is positive for debts of every maturity, it must always be more advantageous to purchase a debt than to hold cash as a store of wealth.
 
 If, on the contrary, the future rate of interest is uncertain we cannot safely infer that ndr will prove to be equal to 1 dn + r / 1 dn when the time comes. Thus if a need for liquid cash may conceivably arise before the expiry of n years, there is a risk of a loss being incurred in purchasing a long-term debt and subsequently turning it into cash, as compared with holding cash. The actuarial profit or mathematical expectation of gain calculated in accordance with the existing probabilities--if it can be so calculated, which is doubtful--must be sufficient to compensate for the risk of disappointment.
 

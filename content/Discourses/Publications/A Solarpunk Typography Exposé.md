@@ -1,14 +1,17 @@
 ---
 author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
 title: A Solarpunk Typography Exposé
-Subtitle: This exposé highlights a number of fonts which encapsulate the solarpunk ethos.
-Date Published: 2023-11-13
-Arweave Hash: Jb3VeB5IHdCy9l7jn_Wy3fZFM0fyH5OTGKRKS9eQdNE
+subtitle: This exposé highlights a number of fonts which encapsulate the solarpunk ethos.
+date oublished: 2023-11-13
+license:
+arweave hash: Jb3VeB5IHdCy9l7jn_Wy3fZFM0fyH5OTGKRKS9eQdNE
+publish: true
 tags:
   - personal-discourse
   - misc/design
   - text
 ---
+
 # A Solarpunk Typography Exposé
 
 Characterized chiefly by its hopeful aesthetics of nature-technology balance, solarpunk is a relatively young genre and movement, and yet it has already secured a foothold among technologists who reject the otherwise prevailing prognoses of doom and dystopia. Combining aspects of liberal economics, bioregionalism, emerging technology, participatory civics, and various other ideas and traditions, solarpunk constitutes a syncretic and solutions-oriented “infraculture” geared toward a healthier future.
@@ -21,7 +24,7 @@ I would like to thank the following individuals and institutions who, doubtlessl
 
 ### **1 - Plantasia Bioma (Italic)**
 
-[**https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface**](https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface) 
+[**https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface**](https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface)
 
 By: Julie Debeuf
 
@@ -29,19 +32,19 @@ License: [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
 “Plantasia is a typeface family created by the students of the G5 Communication 360 class ([**LISAA Graphisme**](https://www.lisaa.com/fr/formations/graphisme-motion-design), Paris, Fr), during a type design initiation workshop given by Lucas Descroix ([**Bonjour Monde**](http://lucasdescroix.fr/teaching/plantasia/www.bonjourmonde.net)) in September 2022. Students were asked to create a display typeface based on a type of plant. In order to get an interesting conceptual distance they first gathered words and images, then explored abstract rhythms by hand.”
 
-See also: [**Fantasia (music)**](https://en.wikipedia.org/wiki/Fantasia_(music)), [**phantasmagoria**](https://en.wikipedia.org/wiki/Phantasmagoria)
+See also: [**Fantasia (music)**](<https://en.wikipedia.org/wiki/Fantasia_(music)>), [**phantasmagoria**](https://en.wikipedia.org/wiki/Phantasmagoria)
 
 ![](https://storage.googleapis.com/papyrus_images/fc660a1ca8bc849f842b7e1d5e411554.png)
 
 ### **2 - Plantasia Myrtillo (Regular)** 
 
-[**https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface**](https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface) 
+[**https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface**](https://gitlab.com/bonjour-monde/fonderie/plantasia-typeface)
 
 By: Amira Karam
 
-License: CC BY-ND 4.0 
+License: CC BY-ND 4.0
 
-Another font from the Plantasia family, Myrtillo is inspired by the [**myrtillocactus geometrizans**](https://en.wikipedia.org/wiki/Myrtillocactus_geometrizans) and is evocative of psychedelia. Arguably another pillar of solarpunk culture is the therapeutic and enlightening potential of psychedelia, whether in new-age recreational capacities or in traditional ritualistic capacities. While solarpunk is still far from a mainstream subculture, its treatment of psychedelics, drawing from new age bohemian culture and more sober clinical studies alike, embodies a mature and well-adjusted perspective on the matter, as if asking “how can the alterations engendered by these substances contribute to our collective attempts at solving societal issues?” 
+Another font from the Plantasia family, Myrtillo is inspired by the [**myrtillocactus geometrizans**](https://en.wikipedia.org/wiki/Myrtillocactus_geometrizans) and is evocative of psychedelia. Arguably another pillar of solarpunk culture is the therapeutic and enlightening potential of psychedelia, whether in new-age recreational capacities or in traditional ritualistic capacities. While solarpunk is still far from a mainstream subculture, its treatment of psychedelics, drawing from new age bohemian culture and more sober clinical studies alike, embodies a mature and well-adjusted perspective on the matter, as if asking “how can the alterations engendered by these substances contribute to our collective attempts at solving societal issues?”
 
 It may be argued that solarpunk has a fixation on systemic technological solutions to perceived societal issues, despite the risks of more advanced technology enabling a more advanced control society. Arguably, the naivety of such an outlook is rooted in the likelihood of such technologies being developed, at societal scale, with primarily philanthropic motivations, as opposed to profit-maximizing motivations. Here, proper systems for funding public goods become integral, to ensure that the efforts going to support the public can be compensated and encouraged. Luckily, the solarpunk movement seems to aptly recognize the importance of establishing funding pipelines for public goods.
 
@@ -121,7 +124,7 @@ The reason this font struck me as a solarpunk font is less obvious than the more
 
 ### **8 - Barlow**
 
-[**http://typotheque.le75.be/**](http://typotheque.le75.be/) 
+[**http://typotheque.le75.be/**](http://typotheque.le75.be/)
 
 By: B2-Dries Hamels, Olivia Marly, B2-Florjent Nuhiji
 
@@ -135,7 +138,7 @@ See also: [**Metamodernism**](https://en.wikipedia.org/wiki/Metamodernism)
 
 ### **9 - Scorpius** 
 
-[**http://typotheque.le75.be/**](http://typotheque.le75.be/) 
+[**http://typotheque.le75.be/**](http://typotheque.le75.be/)
 
 By: B2-Eva De Luca, Sangyé Bay santos Ferreira, Muskan Jaffar, Esa le 75
 
@@ -149,13 +152,13 @@ Scorpius riffs on the conventional pixel font, bringing more of a sense of fluid
 
 ### **10 - Squared** 
 
-[**http://typotheque.le75.be/**](http://typotheque.le75.be/) 
+[**http://typotheque.le75.be/**](http://typotheque.le75.be/)
 
 By: B2-Spenta Parsa
 
 License: GNU
 
-Squared is another overtly techno font, and another example of formal subversion bordering on anti-legibility. Anti-legibility itself is arguably not characteristic of solarpunk, insofar as it reflects an esoteric attitude and inaccessible status, whereas solarpunk is more about inclusion and participation. That said, there is an art to bordering on the anti-legible, in the spirit of critically deconstructing established signifiers. 
+Squared is another overtly techno font, and another example of formal subversion bordering on anti-legibility. Anti-legibility itself is arguably not characteristic of solarpunk, insofar as it reflects an esoteric attitude and inaccessible status, whereas solarpunk is more about inclusion and participation. That said, there is an art to bordering on the anti-legible, in the spirit of critically deconstructing established signifiers.
 
 See also: [**Lettrism**](https://en.wikipedia.org/wiki/Lettrism)
 
@@ -163,7 +166,7 @@ See also: [**Lettrism**](https://en.wikipedia.org/wiki/Lettrism)
 
 ### **11 - Hypha** 
 
-[**https://www.suvatypefoundry.ee/hypha/**](https://www.suvatypefoundry.ee/hypha/) 
+[**https://www.suvatypefoundry.ee/hypha/**](https://www.suvatypefoundry.ee/hypha/)
 
 By: Hasan Halilov
 
@@ -177,7 +180,7 @@ See also: [**The Mycopunk Manifesto**](https://www.mycopunk.com/?page_id=72), [*
 
 ### **12 - Ketchup Addict**
 
-[**https://www.suvatypefoundry.ee/ketchup-addict/**](https://www.suvatypefoundry.ee/ketchup-addict/) 
+[**https://www.suvatypefoundry.ee/ketchup-addict/**](https://www.suvatypefoundry.ee/ketchup-addict/)
 
 By: Birgita Siim
 
@@ -185,7 +188,7 @@ License: When using fonts featured on SUVA Type Foundry platform please give cre
 
 _“The font reflects emptiness in stomach and soul of a Ketchup Addict, who is constantly dreaming of ketchup.”_
 
-Ketchup Addict embodies the playfulness and formal subversion of solarpunk, with an aesthetic hint of psychedelia, but does not enter the territory of nature or technology. 
+Ketchup Addict embodies the playfulness and formal subversion of solarpunk, with an aesthetic hint of psychedelia, but does not enter the territory of nature or technology.
 
 ![](https://storage.googleapis.com/papyrus_images/b285f418a4a777fc7350748ac7633d7a.png)
 
@@ -199,7 +202,7 @@ License: When using fonts featured on SUVA Type Foundry platform please give cre
 
 _“Heavy represents my understanding of “contemporary”, by channelling 1960s and 1970s history, youth- and subculture movements, music and film. A display typeface which references the past to create something better.”_
 
-Like Ketchup Addict, Heavy isn’t solarpunk by virtue of aesthetic reference to technology or nature, but by virtue of a playful and unorthodox defiance of the status quo. Heavy is more overtly psychedelic, embracing the history of counter-cultural movements while conveying an optimistic attitude about the future. 
+Like Ketchup Addict, Heavy isn’t solarpunk by virtue of aesthetic reference to technology or nature, but by virtue of a playful and unorthodox defiance of the status quo. Heavy is more overtly psychedelic, embracing the history of counter-cultural movements while conveying an optimistic attitude about the future.
 
 See also: [**Oz, “the most controversial magazine of the 60s”**](https://www.openculture.com/2016/03/download-the-complete-archive-of-oz.html)
 
@@ -207,7 +210,7 @@ See also: [**Oz, “the most controversial magazine of the 60s”**](https://www
 
 ### **14 - Flowstate** 
 
-[**https://www.suvatypefoundry.ee/flowstate/**](https://www.suvatypefoundry.ee/flowstate/) 
+[**https://www.suvatypefoundry.ee/flowstate/**](https://www.suvatypefoundry.ee/flowstate/)
 
 By: Kertu Kibal
 
@@ -217,13 +220,13 @@ _“In positive psychology, a flow state, also known as colloquially as being in
 
 Flowstate is like Barlow-elasticc in that it has an irregular cadence and off-kilter form, arguably another example of formal defiance. It also borders of psychedelic in that it makes reference to heightened mental states, and it also represents solarpunk’s embrace of science and scientific modes of understanding the world.
 
-See also: [**Flow (psychology)**](https://en.wikipedia.org/wiki/Flow_(psychology))
+See also: [**Flow (psychology)**](<https://en.wikipedia.org/wiki/Flow_(psychology)>)
 
 ![](https://storage.googleapis.com/papyrus_images/af8313954c10eb590e2769e17a88c232.png)
 
 ### **15 - Chaos** 
 
-[**https://www.suvatypefoundry.ee/chaos/**](https://www.suvatypefoundry.ee/chaos/) 
+[**https://www.suvatypefoundry.ee/chaos/**](https://www.suvatypefoundry.ee/chaos/)
 
 By: Sigrid Liira
 
@@ -247,7 +250,7 @@ License: SIL Open Font License
 
 _“Nyght Serif is a contemporary serif with a spicy character. Its contrasting forms combine smooth and sharp curves, like blade serifs and spurs. Work on it began during the study of the well-known typefaces designed by William Caslon. However, under the influence of calligraphy and modern serifs, its design has been greatly transformed.”_
 
-Nyght Serif is a fluid and funky subversion of the otherwise stoic serif style, but does not thematically encapsulate the organic, psychedelic or technological elements of solarpunk beyond this. If anything, it touches on some of the austurbane-adjacent strains of solarpunk aesthetics. 
+Nyght Serif is a fluid and funky subversion of the otherwise stoic serif style, but does not thematically encapsulate the organic, psychedelic or technological elements of solarpunk beyond this. If anything, it touches on some of the austurbane-adjacent strains of solarpunk aesthetics.
 
 See also: [**Austurbane**](https://www.are.na/consumer-aesthetics-research-institute/austurbane)
 

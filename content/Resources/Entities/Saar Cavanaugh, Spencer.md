@@ -17,7 +17,7 @@ Publish: "True"
 
 ### Drafts
 [[*OUTLINE Impact-Weighted Funding for Public Goods]]
-[[*OUTLINE Methodological Survey of Onchain Impact Ecosystems]]
+[[*OUTLINE Methodological Survey of the Onchain Impact Economy]]
 [[*OUTLINE An Organizational Theory of Active Inference]]
 [[*OUTLINE A Mirror for Nomads]]
 [[*OUTLINE Zettelkasten and Ideonomy]]

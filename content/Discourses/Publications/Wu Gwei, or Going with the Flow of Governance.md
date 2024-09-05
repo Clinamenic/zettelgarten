@@ -1,13 +1,16 @@
 ---
 author: "[[Saar Cavanaugh, Spencer]]"
 title: Wu Gwei, or Going with the Flow of Governance
-Subtitle: Applying daoist and sociocratic principles to sensemaking and governance.
-Date Published: 2024-08-04
-Arweave Hash: 2Yu2IpW_5BCSlokztrzgQKZScaDDVR71M39eX9gWLEs
+subtitle: Applying daoist and sociocratic principles to sensemaking and governance.
+date published: 2024-08-04
+license:
+arweave hash: 2Yu2IpW_5BCSlokztrzgQKZScaDDVR71M39eX9gWLEs
+publish: true
 tags:
   - personal-discourse
   - text
 ---
+
 # Wu Gwei, or Going with the Flow of Governance
 
 For some time people have wondered, however seriously, whether the acronym 'DAO' was at all intended as a nod to Daoism, or if it was just a coincidence of technical nomenclature. While the [**prevailing (albeit nascent) history**](https://policyreview.info/glossary/DAO) of DAOs doesn't seem to indicate much intentional relation between the two terms, there is one concept which may curiously unite them, namely that of [**wu wei**](https://en.wikipedia.org/wiki/Wu_wei).

@@ -1,14 +1,17 @@
 ---
 author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-title: 
-Subtitle: 
-Date Published: 2023-08-08
-Arweave Hash: gg2RXJ-jhjx5ylqmPYWZfhgpC-NjFc-XAvqanuDNzUo
+title:
+subtitle:
+date published: 2023-08-08
+license:
+arweave hash: gg2RXJ-jhjx5ylqmPYWZfhgpC-NjFc-XAvqanuDNzUo
+publish: true
 tags:
   - misc/bureaumancy
   - personal-discourse
   - text
 ---
+
 # Role-Bound Multisigs
 
 The multisig wallet is a powerful organizational primitive, enabling individuals to share control over funds and assets, and to collectively execute smart contract interactions. They can be created quickly and inexpensively, and they facilitate international financial cooperation.
@@ -31,13 +34,13 @@ Below is a diagram illustrating the difference between an account-bound multisig
 
 ![](https://storage.googleapis.com/papyrus_images/ddd4eab05ed05f473da7fcd60345a7ea.png)
 
-The SignerGate contract, developed by the team behind Hats Protocol, allows an admin (entity wearing the top hat* of a given hat tree) to transfer multisig signatory status, from one wallet address to another (step 1). Once this transfer has occurred, the newly appointed user will need to accept the signer role (step 2) by calling a certain function on the SignerGate contract. See the resources section at the end of this article for links to relevant documentation.
+The SignerGate contract, developed by the team behind Hats Protocol, allows an admin (entity wearing the top hat\* of a given hat tree) to transfer multisig signatory status, from one wallet address to another (step 1). Once this transfer has occurred, the newly appointed user will need to accept the signer role (step 2) by calling a certain function on the SignerGate contract. See the resources section at the end of this article for links to relevant documentation.
 
 In isolation, the difference between these methods may not bring much utility, and in fact the standard account-bound multisig may be more straightforward to operate, all else being equal. That said, the benefits of the role-bound multisig begin to emerge as the organization in question develops a more complex and hierarchical system of permissions and authority.
 
 For example, imagine there is a multisig for a project management team, and they have a certain budget given to them from the organizations primary treasury multisig. Just using account-bound multisigs, the primary treasury team would not be able to actively oversee operations of the project management team, and would not be able to intervene if something goes wrong. Whereas, if the project management multisig were a role-bound multisig, and if the primary treasury multisig had admin over transferring signer hats, then the treasury team would be able to dynamically appoint and reappoint signers on the project management multisig.
 
-Another example, and perhaps the most exciting one, is the prospect of giving a DAO, or some other tokenholder community, admin control over a given role-bound multisig, thus allowing the community to collectively elect who has signer status for their treasury. Operationally speaking, this can be done in a number of ways, such as giving the top hat* of the organization's hat tree to a [Moloch DAO contract](https://daohaus.club/moloch), or even running a contest on [**jokerace**](https://jokerace.xyz/) to nominate and elect hat wearers.
+Another example, and perhaps the most exciting one, is the prospect of giving a DAO, or some other tokenholder community, admin control over a given role-bound multisig, thus allowing the community to collectively elect who has signer status for their treasury. Operationally speaking, this can be done in a number of ways, such as giving the top hat\* of the organization's hat tree to a [Moloch DAO contract](https://daohaus.club/moloch), or even running a contest on [**jokerace**](https://jokerace.xyz/) to nominate and elect hat wearers.
 
 ![](https://storage.googleapis.com/papyrus_images/bbc973dfa09ae9298bad54736744cf74.png)
 
@@ -49,12 +52,9 @@ Whether to use a regular account-bound multisig or a role-bound multisig depends
 
 ## Footnotes & Resources
 
-*The term "Top Hat" refers to the master admin hat in a given hat tree. The top hat can create, modify and transfer "child hats" which represent different roles in an organization, and these child hats can create, modify, and transfer child hats of their own. For more information, see the Hats Protocol documentation listed below.
+\*The term "Top Hat" refers to the master admin hat in a given hat tree. The top hat can create, modify and transfer "child hats" which represent different roles in an organization, and these child hats can create, modify, and transfer child hats of their own. For more information, see the Hats Protocol documentation listed below.
 
 - [**Guide for integrating Hats Protocol with a Safe multisig**](https://docs.hatsprotocol.xyz/hats-integrations/hat-gated-authorities/safe-multisig-signing-authority) (using the SignerGate contract)
-    
 - [**Hats Protocol web app**](https://app.hatsprotocol.xyz/)
-    
 - [**Hats Protocol documentation**](https://docs.hatsprotocol.xyz/)
-    
 - [**Zodiac wiki**](https://zodiac.wiki/index.php/ZODIAC.WIKI) (SignerGate is a "Zodiac Module" for multisigs)

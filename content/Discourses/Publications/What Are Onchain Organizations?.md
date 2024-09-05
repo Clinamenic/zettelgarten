@@ -1,14 +1,17 @@
 ---
 author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
 title: What Are Onchain Organizations?
-Subtitle: Using smart contracts to design organizations and facilitate governance processes.
-Date Published: 2023-12-10
-Arweave Hash: uxcKIXkKLBPh_Aq6IAKENveLZcyMhITGTZetcGBkbOA
+subtitle: Using smart contracts to design organizations and facilitate governance processes.
+date published: 2023-12-10
+license:
+arweave hash: uxcKIXkKLBPh_Aq6IAKENveLZcyMhITGTZetcGBkbOA
+publish: true
 tags:
   - personal-discourse
   - misc/bureaumancy
   - text
 ---
+
 # What Are Onchain Organizations?
 
 Smart contracts have brought about a paradigm shift in organizational design. These algorithms, which operate on peer-to-peer financial databases like blockchains, can be used to facilitate a variety of administrative processes, and can enable large groups of stakeholders to govern themselves within a transparent framework which, if well designed, can be virtually impossible for any one entity to capture.
@@ -50,11 +53,8 @@ When Alice calls the "Execute" function on the multisig, to execute a transactio
 In the diagram below, the individual accounts of Alice, Bob, and Cate are shown as having signer access to the multisig. In order for them to jointly take action through the multisig, whether that action is making a payment or interacting with another smart contract, the following process needs to unfold:
 
 1. **One signer "submits" an action.** This means Alice, Bob, or Cate can initiate a transaction, by specifying the recipient address and the asset(s) being transferred. This action can also take the form of a smart contract interaction, in which case the address of the smart contract will need to be specified, as well as which function is to be called (i.e. which button is to be pressed) on that smart contract.
-    
 2. **The specified threshold of signatures need to be reached.** This is determined as the multisig is configured, and can be adjusted at any point. If there are three signers, the signature requirement can be 1/3, 2/3, or 3/3.
-    
 3. **One signer "executes" the action.** Any of the signers can execute an approved action, and doing do involves a transaction fee (transaction fees are native to the underlying infrastructure, but that topic is beyond the scope of this article).
-    
 
 ![](https://storage.googleapis.com/papyrus_images/f7474157407f6319f59ebd1173bea9c4.png)
 

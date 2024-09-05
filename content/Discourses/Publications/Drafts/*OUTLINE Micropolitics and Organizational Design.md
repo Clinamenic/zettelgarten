@@ -1,10 +1,11 @@
 ---
 author: "[[Saar Cavanaugh, Spencer]]"
-title: 
-Subtitle: 
-Date Draft Started: 2024-08-25
-Date Published: 
-Arweave Hash: 
+title:
+subtitle:
+date published:
+license:
+arweave hash:
+publish: true
 tags:
   - personal-discourse/outline
 ---

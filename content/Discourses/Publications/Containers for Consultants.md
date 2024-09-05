@@ -1,9 +1,11 @@
 ---
 author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
 title: Containers for Consultants
-Subtitle: 
-Date Published: 2023-07-23
-Arweave Hash: IA2DIJUr9UBYqdvjUy49osBdrSqNGHVfe5nbL3vyd7c
+subtitle:
+date published: 2023-07-23
+license:
+arweave hash: IA2DIJUr9UBYqdvjUy49osBdrSqNGHVfe5nbL3vyd7c
+publish: true
 tags:
   - misc/bureaumancy
   - personal-discourse
@@ -16,8 +18,8 @@ By virtue of being public and deterministic, smart contracts enable novel approa
 
 Whether one chooses to adopt smart contracts as instruments for their business or organization depends on one's aims and circumstances. This new technology enables transparency, [**trustlessness**](https://mirror.xyz/0x4Ef22A7356D96dbf95a7FdEaD4a196A668e75B38/CMWteFrY7Xyapf4R9fsnyZYm4Q81VUyWyeBkeo0zzDM), and composability in new and exciting ways, but these values may not be important in every situation, and the complexity of this technology can constitute serious cognitive overhead.
 
-That said, if this technology does appeal to a given business or organization, then the question shifts from _whether_ to use it, to _how_ to use it.  
-  
+That said, if this technology does appeal to a given business or organization, then the question shifts from _whether_ to use it, to _how_ to use it.
+
 In this newsletter, business and nonprofit applications of this technology will be explored, with an emphasis on consulting. This entry in particular will focus on whether and how consultants should use this technology to engage with clients.
 
 _None of the following constitutes legal or financial advice, and is purely for informational purposes._

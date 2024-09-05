@@ -1,13 +1,16 @@
 ---
 author: "[[Saar Cavanaugh, Spencer]]"
 title: Toward a Content Commons
-Subtitle: A Potential Solution to the Content Moderation Problem
-Date Published: 2023-11-01
-Arweave Hash: 6Kc8f4GgBN6t2VX5AQ4fPed63oqP7za46SXNbYifVPk
+subtitle: A Potential Solution to the Content Moderation Problem
+date published: 2023-11-01
+license:
+arweave hash: 6Kc8f4GgBN6t2VX5AQ4fPed63oqP7za46SXNbYifVPk
+publish: true
 tags:
   - personal-discourse
   - text
 ---
+
 # Toward a Content Commons
 
 The online public sphere, composed jointly of various social media platforms, enables dialogue at societal scale, rapid dissemination of news, and heightened opportunity for people to discover content and opinions they find interesting or important.
