@@ -7,7 +7,7 @@ license:
 arweave hash:
 publish: true
 tags:
-  - personal-discourse/outline
+  - personal-discourse/draft
 ---
 
 # Introduction

@@ -8,7 +8,7 @@ license: CC-BY-SA 4.0
 arweave hash: 
 publish: true
 tags:
-  - personal-discourse/outline
+  - personal-discourse/draft
 ---
 
 How the zettelkasten/slip-box note-taking system may be methodologically suited for ideonomic studies.

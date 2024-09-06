@@ -1,8 +1,9 @@
 ---
-Note Nickname: 
+Note Nickname:
 Note Type: General
 Date: 2024-08-10
 author: "[[Saar Cavanaugh, Spencer]]"
+publish: "True"
 tags:
   - note
   - misc/active-inference

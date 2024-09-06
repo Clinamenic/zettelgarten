@@ -8,5 +8,5 @@ license:
 arweave hash: 
 publish: false
 tags:
-  - personal-discourse/outline
+  - personal-discourse/draft
 ---

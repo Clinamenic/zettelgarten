@@ -2,6 +2,7 @@
 Note Type: Elaborative
 Date: 2024-08-12
 author: "[[Saar Cavanaugh, Spencer]]"
+publish: "True"
 tags:
   - note
   - note/machiavelli/discourses

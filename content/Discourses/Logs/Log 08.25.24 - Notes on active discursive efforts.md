@@ -6,7 +6,7 @@ author: "[[Saar Cavanaugh, Spencer]]"
 Arweave Hash:
 publish: true
 tags:
-  - log
+  - personal-discourse/log
 ---
 
 ## Clusters

@@ -1,13 +1,15 @@
 ---
 Date: 2024-08-17
 author: "[[Saar Cavanaugh, Spencer]]"
+publish: "True"
 tags:
   - note
 ---
+
 ## Alphanumeric Alternative-Base Ordering System
 
 Use the alphanumeric alternative-base system for assigning IDs to notes, where every degree removed from the primary integer (1, 2, 3, etc) "string" denotes some offshoot or derivative topic. For example, if Note 1 is a note about knowledge management, and all of its first degree notes (1A, 1B, 1C, etc) will also be about knowledge management. Or, if Note 7 is a note taken from Hayek's Constitution of Liberty, then Note 7's first degree string (7A, 7B, 7C, etc) will also be notes from that book. ^555581
 
 ## Reference
 
-This ordering system 
+This ordering system

@@ -8,7 +8,7 @@ license: CC-BY-SA 4.0
 arweave hash: 
 publish: true
 tags:
-  - personal-discourse/outline
+  - personal-discourse/draft
 ---
 
 https://mirror.xyz/openprotocolresearch.eth/YuZvCx5ge2nQXo8L2n0iWKN_CflivaCfsoLNMoVTqf4

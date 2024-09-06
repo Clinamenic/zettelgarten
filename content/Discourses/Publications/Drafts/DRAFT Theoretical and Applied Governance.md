@@ -8,7 +8,7 @@ license: CC-BY-SA 4.0
 arweave hash: 
 publish: true
 tags:
-  - personal-discourse/outline
+  - personal-discourse/draft
   - misc/theoretical-governance
   - misc/bureaumancy
 ---
