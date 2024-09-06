@@ -1,5 +1,5 @@
 ---
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 title: Methodological Survey of Onchain Impact Ecosystems
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
 draft started: 0024-06-28
@@ -8,7 +8,7 @@ license: CC-BY-SA 4.0
 sponsor(s): LexDAO, SuperBenefitDAO
 arweave hash: 
 publish: true
-tags:
+tags: 
 ---
 
 ## Acknowledgments

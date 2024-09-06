@@ -1,9 +1,9 @@
 ---
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 title: Toward a Content Commons
 subtitle: A Potential Solution to the Content Moderation Problem
 date published: 2023-11-01
-license:
+license: 
 arweave hash: 6Kc8f4GgBN6t2VX5AQ4fPed63oqP7za46SXNbYifVPk
 publish: true
 tags:

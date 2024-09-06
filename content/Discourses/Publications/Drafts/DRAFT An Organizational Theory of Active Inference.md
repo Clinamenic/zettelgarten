@@ -1,5 +1,5 @@
 ---
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 title: 
 subtitle: 
 draft started: 2024-08-30

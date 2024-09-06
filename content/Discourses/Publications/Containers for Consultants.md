@@ -1,9 +1,9 @@
 ---
-author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
+author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
 title: Containers for Consultants
-subtitle:
+subtitle: 
 date published: 2023-07-23
-license:
+license: 
 arweave hash: IA2DIJUr9UBYqdvjUy49osBdrSqNGHVfe5nbL3vyd7c
 publish: true
 tags:

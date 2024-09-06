@@ -12,6 +12,8 @@ publish: "True"
 
 - [[A Rhapsody on Neurodiversity]]
 - [[Recuperate the Vanguard]]
+- [[Toward a Content Commons]]
+- [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
 - [[Wu Gwei, or Going with the Flow of Governance]]
 
 #### Clinamenic LLC
@@ -30,16 +32,16 @@ publish: "True"
 
 ### Drafts
 
-[[ARCHIVE Impact-Weighted Funding for Public Goods]]
-[[DRAFT Methodological Survey of the Onchain Impact Economy]]
-[[DRAFT An Organizational Theory of Active Inference]]
-[[DRAFT A Mirror for Nomads]]
-[[DRAFT Zettelkasten and Ideonomy]]
-[[DRAFT History of Accelerationism]]
-[[DRAFT Multipolar Extitution Design]]
-[[DRAFT Intimations around Bureaumancy]]
-[[DRAFT Theoretical and Applied Governance]]
-[[DRAFT Micropolitics and Organizational Design]]
+- [[ARCHIVE Impact-Weighted Funding for Public Goods]]
+- [[DRAFT Methodological Survey of the Onchain Impact Economy]]
+- [[DRAFT An Organizational Theory of Active Inference]]
+- [[DRAFT A Mirror for Nomads]]
+- [[DRAFT Zettelkasten and Ideonomy]]
+- [[DRAFT History of Accelerationism]]
+- [[DRAFT Multipolar Extitution Design]]
+- [[DRAFT Intimations around Bureaumancy]]
+- [[DRAFT Theoretical and Applied Governance]]
+- [[DRAFT Micropolitics and Organizational Design]]
 
 
 

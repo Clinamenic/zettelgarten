@@ -1,9 +1,9 @@
 ---
-author: "[[Saar Cavanaugh, Spencer#Clinamenic LLC]]"
-title:
-subtitle:
+author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
+title: 
+subtitle: 
 date published: 2023-08-08
-license:
+license: 
 arweave hash: gg2RXJ-jhjx5ylqmPYWZfhgpC-NjFc-XAvqanuDNzUo
 publish: true
 tags:

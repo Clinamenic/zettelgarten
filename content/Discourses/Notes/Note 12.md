@@ -1,7 +1,7 @@
 ---
 Note Type: Elaborative
 Date: 2024-08-14
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 publish: "True"
 tags:
   - note

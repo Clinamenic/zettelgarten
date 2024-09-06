@@ -1,5 +1,5 @@
 ---
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 ---
 ## Acknowledgments
 

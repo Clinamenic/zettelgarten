@@ -2,7 +2,7 @@
 title: 
 Subtitle: 
 Date: ""
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 Arweave Hash: 
 tags:
   - "#personal-discourse/log"

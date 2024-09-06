@@ -1,7 +1,7 @@
 ---
-Previous Note:
+Previous Note: 
 Date: 2024-08-25
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 publish: "True"
 tags:
   - "#note"

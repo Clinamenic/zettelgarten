@@ -1,10 +1,10 @@
 ---
-author: "[[Saar Cavanaugh, Spencer]]"
+author: "[[Spencer Saar Cavanaugh]]"
 title: A Rhapsody on Neurodiversity
 subtitle: Reflections on auto-didacticism and neurodiversity.
 date published: 2023-01-17
 publish link: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
-license:
+license: 
 arweave hash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 publish: true
 tags:
