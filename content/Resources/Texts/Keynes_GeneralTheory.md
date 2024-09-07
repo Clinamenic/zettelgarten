@@ -3,7 +3,7 @@ title: The General Theory of Employment, Interest and Money
 Primary Author(s): "[[Keynes_GeneralTheory]]"
 Secondary Author(s): 
 Year: "1936"
-Attached Text: "[[Keynes_GeneralTheory_PDF.pdf]]"
+Attached Text: "[[private/Resources/Keynes_GeneralTheory_PDF.pdf]]"
 Description: 
 tags:
   - text

@@ -10,15 +10,5 @@ private/
 .replit
 replit.nix
 
-# Ignore all .md files in the content folder
-content/**/*.md
-
-# But don't ignore .md files with "publish: true" in frontmatter
-!content/**/*publish:\ true*.md
-
-
-# Ignore all .pdf files in the content folder
-content/**/*.pdf
-
-# But don't ignore .pdf files with "publish: true" in frontmatter
-!content/**/*publish:\ true*.pdf
+# Ignore everything in the private folder
+/private/**
