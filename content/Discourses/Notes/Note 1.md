@@ -4,29 +4,34 @@ Note Nickname: Notetaking Methodology
 Note Type: Collection
 Date: 2024-08-10
 author: "[[Spencer Saar Cavanaugh]]"
-publish: "True"
+publish: true
 tags:
   - note
   - "#note/branch/1"
 ---
 
-# Notetaking Methodology
+## Methodology
 
-### Collected Notes
+### Assignment of IDs
+
+#### "r-AuthorInitials-TitleInitials-1" Format
+
+For example, the first note made primarily in reference to John Keynes' *General Theory* would be r-JK-GT-1, the second would be r-JK-GT-2, etc. See this [Reddit post](https://www.reddit.com/r/Zettelkasten/comments/1f8hap4/how_i_give_ids_to_my_reference_notes/) for more information.
+
+### Web Clipping
+
+Kepano's bookmark: https://stephango.com/obsidian-web-clipper
+
+## Selected Notes on Notetaking
 
 _See backlinks for more notes to add to this section_
 
-![[Note 13#Spatial Repetition and Semantic Association]]
-
-![[Note 3#Logging Tasks]]
-
-![[Note 4#Parallel Drafting]]
-
-![[Note 6#Archiving Unused Notes]]
-
-![[Note 7#Alphanumeric Alternative-Base Ordering System]]
-
-![[Note 9#Top-Level String]]
+- [[Note 13#Spatial Repetition and Semantic Association]]
+- [[Note 3#Logging Tasks]]
+- [[Note 4#Parallel Drafting]]
+- [[Note 6#Archiving Unused Notes]]
+- [[Note 7#Alphanumeric Alternative-Base Ordering System]]
+- [[Note 9#Top-Level String]]
 
 ### Working Process
 

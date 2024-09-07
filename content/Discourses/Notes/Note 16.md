@@ -1,10 +1,15 @@
 ---
-Date: 2024-08-16
+Previous Note: 
+Date: 2024-08-23
 author: "[[Spencer Saar Cavanaugh]]"
 publish: "True"
 tags:
   - "#note"
-  - note/keynes/general-theory
+  - "#misc/bureaumancy"
+  - misc/organization-design
+  - misc/theoretical-governance
 ---
 
-Keynes states that the classical theory around value and production does touch upon unemployed resources but that the theory does not fundamentally account for incomplete employment of resources. (08/16/24) ([[Keynes_GeneralTheory#^chapter2section1paragraph2]])
+## Nucleation of Cores within Exstitutions
+
+In the course of a given field of operations, an exstitution may identify the need to sustain one or more operational cores, or "poles" insofar as the internal and external activity of the exstitution may revolve around these cores.

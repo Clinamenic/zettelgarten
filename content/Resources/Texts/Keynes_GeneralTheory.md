@@ -23,15 +23,15 @@ publish: true
 - BOOK I: INTRODUCTION
   - Chapter 1: The General Theory
   - Chapter 2: The Postulates of the Classical Economics
-    - [[#Chapter 2, Section I]] {Summary: [[Note 21]]}
-	    - {[[Note 16]], }
-    - [[#Chapter 2, Section II]] {Summary: [[Note 22]]}
-	    - {[[Note 19]], [[Note 20]], }
-    - [[#Chapter 2, Section III]] {Summary: [[Note 25]]}
-	    - {[[Note 23]], [[Note 24]], }
-    - [[#Chapter 2, Section IV]] {Summary: [[Note 26]]}
-    - [[#Chapter 2, Section V]] {Summary: [[Note 27]]}
-    - [[#Chapter 2, Section VI]] {Summary: [[Note 28]]}
+    - [[#Chapter 2, Section I]] {Summary: [[r-JK-GT 4]]}
+	    - {[[r-JK-GT 1]], }
+    - [[#Chapter 2, Section II]] {Summary: [[r-JK-GT 5]]}
+	    - {[[r-JK-GT 2]], [[r-JK-GT 3]], }
+    - [[#Chapter 2, Section III]] {Summary: [[r-JK-GT 8]]}
+	    - {[[r-JK-GT 6]], [[r-JK-GT 7]], }
+    - [[#Chapter 2, Section IV]] {Summary: [[r-JK-GT 9]]}
+    - [[#Chapter 2, Section V]] {Summary: [[r-JK-GT 10]]}
+    - [[#Chapter 2, Section VI]] {Summary: [[r-JK-GT 11]]}
     - [[#Chapter 2, Section VII]] {Summary: }
   - Chapter 3: The Principle of Effective Demand
     - [[#Chapter 3, Section I]] {Summary: }

@@ -39,11 +39,11 @@ Because the matters at hand are complex enough without the added confusion of se
 
 These terms are meant in the sense articulated by the [Impact Management Norms](https://impactfrontiers.org/norms/), developed by Impact Frontiers:
 
-"Impact is a change in an outcome caused by an organization. An impact can be positive or negative, intended or unintended.
+*"Impact is a change in an outcome caused by an organization. An impact can be positive or negative, intended or unintended.*
 
-An outcome is the level of well-being experienced by a group of people, or the condition of the natural environment, as a result of an event or action.
+*An outcome is the level of well-being experienced by a group of people, or the condition of the natural environment, as a result of an event or action.*
 
-Impact management is the process of identifying the positive and negative impacts that an enterprise has on people and the planet, and then reducing the negative and increasing the positive."
+*Impact management is the process of identifying the positive and negative impacts that an enterprise has on people and the planet, and then reducing the negative and increasing the positive."*
 
 #### 'Public Goods' and 'Network Goods'
 

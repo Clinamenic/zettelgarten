@@ -1,15 +1,17 @@
 ---
 Previous Note: 
-Date: 2024-08-23
+Date: 2024-08-25
 author: "[[Spencer Saar Cavanaugh]]"
 publish: "True"
 tags:
   - "#note"
-  - "#misc/bureaumancy"
+  - misc/bureaumancy
+  - misc/extitutions
   - misc/organization-design
-  - misc/theoretical-governance
 ---
 
-## Nucleation of Cores within Exstitutions
+## Information Symmetry Across Institutional Membranes
 
-In the course of a given field of operations, an exstitution may identify the need to sustain one or more operational cores, or "poles" insofar as the internal and external activity of the exstitution may revolve around these cores.
+Given an organizational context of institutional cores embedded in extitutional networks, information may prove asymmetrical across the membranes of these institutional cores.
+
+re: [[DRAFT Multipolar Extitution Design]]
