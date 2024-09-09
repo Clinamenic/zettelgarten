@@ -4,6 +4,7 @@ Subtitle: Considerations around how governance theorists and practitioners may r
 Date: 2024-09-08
 author: "[[Spencer Saar Cavanaugh]]"
 Arweave Hash: 
+publish: true
 tags:
   - "#personal-discourse/log"
 ---
