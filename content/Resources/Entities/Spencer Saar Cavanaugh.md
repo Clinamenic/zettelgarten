@@ -29,6 +29,7 @@ publish: "True"
 ### Logs
 
 - [[Log 08.25.24 - Notes on active discursive efforts]]
+- [[Log 09.08.24 - Notes on the distinction between theoretical and applied governance]]
 
 ### Drafts
 
