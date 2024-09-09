@@ -1,7 +1,5 @@
 ---
-Previous Note: 
-Note Nickname: Notetaking Methodology
-Note Type: Collection
+title: Notetaking Methodology
 Date: 2024-08-10
 author: "[[Spencer Saar Cavanaugh]]"
 publish: true
@@ -16,7 +14,7 @@ tags:
 
 #### "r-AuthorInitials-TitleInitials-1" Format
 
-For example, the first note made primarily in reference to John Keynes' *General Theory* would be r-JK-GT-1, the second would be r-JK-GT-2, etc. See this [Reddit post](https://www.reddit.com/r/Zettelkasten/comments/1f8hap4/how_i_give_ids_to_my_reference_notes/) for more information.
+For example, the first note made primarily in reference to John Keynes' _General Theory_ would be r-JK-GT-1, the second would be r-JK-GT-2, etc. See this [Reddit post](https://www.reddit.com/r/Zettelkasten/comments/1f8hap4/how_i_give_ids_to_my_reference_notes/) for more information.
 
 ### Web Clipping
 

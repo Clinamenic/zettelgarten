@@ -2,8 +2,8 @@
 author: "[[Spencer Saar Cavanaugh]]"
 title: 
 subtitle: 
-draft started: 
-date published: 2024-08-30
+draft started: 2024-08-30
+date published: ""
 license: CC-BY-SA 4.0
 arweave hash: 
 publish: true
@@ -13,4 +13,6 @@ tags:
   - misc/bureaumancy
 ---
 
-# Theoretical and Applied Governance
+## Intention of the Discourse
+
+## Exposition on Existing Challenges

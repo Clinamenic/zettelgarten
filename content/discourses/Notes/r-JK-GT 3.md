@@ -1,4 +1,5 @@
 ---
+title:
 Date: 2024-08-16
 author: "[[Spencer Saar Cavanaugh]]"
 publish: "True"

@@ -1,4 +1,5 @@
 ---
+title:
 Note Type: Elaborative
 Date: 2024-08-12
 author: "[[Spencer Saar Cavanaugh]]"

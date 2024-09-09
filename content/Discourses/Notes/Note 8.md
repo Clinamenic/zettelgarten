@@ -1,5 +1,6 @@
 ---
-Note Nickname: 
+title:
+Note Nickname:
 Note Type: General
 Date: 2024-08-10
 author: "[[Spencer Saar Cavanaugh]]"
