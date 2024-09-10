@@ -1,10 +1,10 @@
 ---
-author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
+author: Spencer Saar Cavanaugh
 title: A Primer on Auto-Discourse
-subtitle: 
+subtitle:
 date published: 2024-05-03
-license: 
-arweave hash: 
+license:
+arweave hash:
 publish: true
 tags:
   - personal-discourse

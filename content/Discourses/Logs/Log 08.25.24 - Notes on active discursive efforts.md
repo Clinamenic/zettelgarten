@@ -1,9 +1,11 @@
 ---
+author: Spencer Saar Cavanaugh
 title: Log 08.25.24 - Notes on active discursive efforts
-Subtitle: Regarding nascent theories of bureaumancy, zettelkasten methodology, and other existing topic clusters.
-Date: 2024-08-25
-author: "[[Spencer Saar Cavanaugh]]"
-Arweave Hash: 
+subtitle: Regarding nascent theories of bureaumancy, zettelkasten methodology, and other existing topic clusters.
+draft started: 2024-08-25
+date published: 2024-08-25
+license: CC BY-SA 4.0
+arweave hash: 
 publish: true
 tags:
   - personal-discourse/log

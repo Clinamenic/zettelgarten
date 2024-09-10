@@ -1,6 +1,6 @@
 ---
 title: The General Theory of Employment, Interest and Money
-Primary Author(s): "[[Keynes_GeneralTheory]]"
+author: "[[Keynes, John Maynard]]"
 Secondary Author(s): 
 Year: "1936"
 Attached Text: "[[private/resources/Keynes_GeneralTheory_PDF.pdf]]"
@@ -184,12 +184,11 @@ publish: true
 		- ![[Keynes_GeneralTheory#^eedb96]]
 - $G'$ (*Maximum potential value of capital equipment*)
 	- Optimum value of capital equipment, given proper maintenance, at the end of a given period, over all previous periods
-- $B'$ (*Optimally efficient maintanence cost*)
+- $B'$ (*Optimally efficient maintenance cost*)
 	- Optimum cost of maintaining capital equipment, for a given period.
-- $G' - B'$ (*Maximum potential net value of capital equipment*)
-	- Maximum potential value of capital equipment, if maintained and unused in given period of production
-	- **References**
----
+	- $G' - B'$ (*Maximum potential net value of capital equipment*)
+		- Maximum potential value of capital equipment, if maintained and unused in given period of production
+		- **References**
 - $E$ (*Wages Bill*)
 	- $E = N × W$
 	-  References
@@ -207,20 +206,12 @@ publish: true
 	- Excess of expected depreciation of capital equipment beyond User Cost.
 	- *Basic Supplementary Cost*: Initial calculation of Supplementary Cost at the start of a given period of production.
 	- *Current Supplementary Cost*: Revised calculation of Supplementary Cost, up to date.
-- $U + F$ (*Prime Cost*)
-- $A - U$ (*Income*)
-	- Proceeds minus User Cost
-- $A - U - V$ (*Net Income*)
-	- Proceeds minus User Cost, minus Supplementary Cost
-	- References
-		- ![[Keynes_GeneralTheory#^96c69b]]
----
 - $D$ (*Expected Proceeds from Demand*)
 	- Entrepreneur's expected proceeds purchasers (consumers and investors).
 	- $D = D_1 + D_2$
-- $D_1$ (*Propensity to Consume*)
+	- $D_1$ (*Propensity to Consume*)
 	- The amount which the community is expected to spend on consumption.
-- $D_2$
+	- $D_2$ (Propensity to Save?)
 	- The amount which the community is expected to devote to new investment.
 - $Z$ (*Aggregate Supply Price*)
 	- $Z = φ(N)$
@@ -228,8 +219,39 @@ publish: true
 	- Number of people employed during a given period of production.
 	- **References**
 		- ![[Keynes_GeneralTheory#^8827b4]]
+- $𝑓$ (Aggregate Demand Function)
+	- Function relating employment volume ($N$) to entrepreneur's expected proceeds ($D$).
+	- $D = 𝑓(N)$ (*Aggregate Demand Function*)
+- $φ$ (Aggregate Supply Function)
+	- Function relating employment volume ($N$) to aggregate supply price ($Z$).
+	- $Z = φ(N)$ (*Aggregate Supply Function*)
+- $Y$ (Income)
+- $r$ (Interest Rate)
+- $M$ (Amount of cash held)
+	- $M = M_1 + M_2 = L_1(Y) + L_2(r)$
+	- $M_1$ (Amount of cash held to satisfy transactions-motive and precautionary-motive)
+	- $M_2$ (Amount of cash held to satisfy speculative-motive)
+- $L_1$ (Liquidity function of income)
+	- The function that relates income ($Y$), as an input, to $M_1$ as an output
+- $L_2$ (Liquidity function of interest rate )
+	- The function that relates interest rate ($r$), as an input, to $M_1$ as an output
+- $V$ (*Income-Velocity of Money*)
+	- $$L_1(Y) = \frac{Y}{V} = M_1$$
+#### {Equations}
+
+$$'User Cost' = U = (G' - B') - (G - A_1)$$ 
+- $U + F$ (*Prime Cost*)
 - $D = 𝑓(N)$ (*Aggregate Demand Function*)
 - $Z = φ(N)$ (*Aggregate Supply Function*)
+- $A - U$ (*Income of Entrepreneur*)
+	- Proceeds minus User Cost
+- Net Income of Entrepreneur: $$A - U - V$$
+	- Proceeds minus User Cost, minus Supplementary Cost
+	- References
+		- ![[Keynes_GeneralTheory#^96c69b]]
+- Aggregate amount of money saved?: $$M = M_1 + M_2 = L_1(Y) + L_2(r)$$
+- Maximum potential net value of capital equipment: $$G' - B'$$
+- Transactions- and Precautionary-Motive Liquidity Function of Income: $$L_1(Y) = \frac{Y}{V} = M_1$$
 
 
 ## Introductory Materials

@@ -1,9 +1,9 @@
 ---
-author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
+author: Spencer Saar Cavanaugh
 title: Pre-Constitutional Governance
 subtitle: A template and methodology for initializing your organization's governance.
 date published: 2023-11-24
-license: 
+license:
 arweave hash: cQ4md4i6ETIE249PYLItQQ9xLp5_hQPodtAdwNxVDlI
 publish: true
 tags:

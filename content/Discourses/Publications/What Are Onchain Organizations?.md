@@ -1,9 +1,9 @@
 ---
-author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
+author: Spencer Saar Cavanaugh
 title: What Are Onchain Organizations?
 subtitle: Using smart contracts to design organizations and facilitate governance processes.
 date published: 2023-12-10
-license: 
+license:
 arweave hash: uxcKIXkKLBPh_Aq6IAKENveLZcyMhITGTZetcGBkbOA
 publish: true
 tags:

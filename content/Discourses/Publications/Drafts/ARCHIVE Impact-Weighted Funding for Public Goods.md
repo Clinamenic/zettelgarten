@@ -1,10 +1,10 @@
 ---
-author: "[[Spencer Saar Cavanaugh]]"
-title: 
-subtitle: 
-date published: 
-license: 
-arweave hash: 
+author: Spencer Saar Cavanaugh
+title:
+subtitle:
+date published:
+license:
+arweave hash:
 publish: true
 tags:
   - personal-discourse/draft

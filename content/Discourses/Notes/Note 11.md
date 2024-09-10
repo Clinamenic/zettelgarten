@@ -2,7 +2,7 @@
 title:
 Note Type: Elaborative
 Date: 2024-08-12
-author: "[[Spencer Saar Cavanaugh]]"
+author: Spencer Saar Cavanaugh
 publish: "True"
 tags:
   - note

@@ -1,10 +1,12 @@
 ---
-title: 
-Subtitle: 
-Date: ""
-author: "[[Spencer Saar Cavanaugh]]"
-Arweave Hash: 
-publish: 
+author: Spencer Saar Cavanaugh
+title:
+subtitle:
+draft started:
+date published:
+license:
+arweave hash:
+publish: false
 tags:
-  - "#personal-discourse/log"
+  - personal-discourse/log
 ---

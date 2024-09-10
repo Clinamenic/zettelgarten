@@ -1,9 +1,9 @@
 ---
-author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
+author: Spencer Saar Cavanaugh
 title: A Crypto-Native Invoice Template
 subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
 date published: 2024-03-05
-licence: 
+licence:
 arweave aash: p9gGX1WhTPClo3xP84rUHhNFd6f9CC_atIm6WIW2b9U
 publish: true
 tags:

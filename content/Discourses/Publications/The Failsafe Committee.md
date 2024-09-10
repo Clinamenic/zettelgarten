@@ -1,9 +1,9 @@
 ---
-author: "[[Spencer Saar Cavanaugh#Clinamenic LLC]]"
+author: Spencer Saar Cavanaugh
 title: The Failsafe Commitee
-subtitle: 
+subtitle:
 date published: 2023-09-25
-license: 
+license:
 arweave hash: 5RFMa6GU3HIrm4Mh6FEjnkGNQNoAoh5aRlSxaAkGU7k
 publish: true
 tags:

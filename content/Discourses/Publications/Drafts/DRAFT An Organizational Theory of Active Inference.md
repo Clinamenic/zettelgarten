@@ -1,11 +1,11 @@
 ---
-author: "[[Spencer Saar Cavanaugh]]"
-title: 
-subtitle: 
+author: Spencer Saar Cavanaugh
+title:
+subtitle:
 draft started: 2024-08-30
-date published: 
+date published:
 license: CC-BY-SA 4.0
-arweave hash: 
+arweave hash:
 publish: true
 tags:
   - personal-discourse/draft

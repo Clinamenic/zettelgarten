@@ -1,7 +1,7 @@
 ---
 title:
 Date: 2024-08-10
-author: "[[Spencer Saar Cavanaugh]]"
+author: Spencer Saar Cavanaugh
 publish: "True"
 tags:
   - note

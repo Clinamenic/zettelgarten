@@ -1,9 +1,9 @@
 ---
-author: "[[Spencer Saar Cavanaugh]]"
+author: Spencer Saar Cavanaugh
 title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
 subtitle: Considerations to inform a more cogent economic philosophy.
 date published: 2024-05-23
-license: 
+license:
 arweave hash: fXBe4dKiAhhCieD2H4_vb3tZGms8CTwws-XeCRcb28Q
 publish: true
 tags:
