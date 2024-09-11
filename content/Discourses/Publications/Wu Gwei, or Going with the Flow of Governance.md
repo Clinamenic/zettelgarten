@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: Wu Gwei, or Going with the Flow of Governance
 subtitle: Applying daoist and sociocratic principles to sensemaking and governance.
 date published: 2024-08-04
-license:
+license: CC BY-SA 4.0
 arweave hash: 2Yu2IpW_5BCSlokztrzgQKZScaDDVR71M39eX9gWLEs
 publish: true
 tags:

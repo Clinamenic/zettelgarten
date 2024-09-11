@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: The Failsafe Commitee
 subtitle:
 date published: 2023-09-25
-license:
+license: CC BY-SA 4.0
 arweave hash: 5RFMa6GU3HIrm4Mh6FEjnkGNQNoAoh5aRlSxaAkGU7k
 publish: true
 tags:

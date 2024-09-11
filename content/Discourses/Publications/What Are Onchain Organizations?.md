@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: What Are Onchain Organizations?
 subtitle: Using smart contracts to design organizations and facilitate governance processes.
 date published: 2023-12-10
-license:
+license: CC BY-SA 4.0
 arweave hash: uxcKIXkKLBPh_Aq6IAKENveLZcyMhITGTZetcGBkbOA
 publish: true
 tags:

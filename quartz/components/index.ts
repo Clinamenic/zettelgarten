@@ -23,6 +23,7 @@ import Comments from "./Comments"
 // Below are new components I've added
 import AuthorName from "./AuthorName"
 import PublishDate from "./PublishDate"
+import LicenseInfo from "./LicenseInfo"
 
 export {
   ArticleTitle,
@@ -47,6 +48,8 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
+  // Below are new components I've added
   AuthorName,
   PublishDate,
+  LicenseInfo,
 }

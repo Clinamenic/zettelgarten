@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: Pre-Constitutional Governance
 subtitle: A template and methodology for initializing your organization's governance.
 date published: 2023-11-24
-license:
+license: CC BY-SA 4.0
 arweave hash: cQ4md4i6ETIE249PYLItQQ9xLp5_hQPodtAdwNxVDlI
 publish: true
 tags:

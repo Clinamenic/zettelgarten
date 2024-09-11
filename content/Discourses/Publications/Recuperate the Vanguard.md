@@ -1,5 +1,6 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: Recuperate the Vanguard
 subtitle: Free Market Collectivism via Self-Regulation in Emerging Technology Sectors
 date published: 2023-09-13

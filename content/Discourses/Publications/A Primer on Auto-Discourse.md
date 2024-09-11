@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: A Primer on Auto-Discourse
 subtitle:
 date published: 2024-05-03
-license:
+license: CC BY-SA 4.0
 arweave hash:
 publish: true
 tags:

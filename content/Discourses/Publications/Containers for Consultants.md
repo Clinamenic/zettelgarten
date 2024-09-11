@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: Containers for Consultants
 subtitle:
 date published: 2023-07-23
-license:
+license: CC BY-SA 4.0
 arweave hash: IA2DIJUr9UBYqdvjUy49osBdrSqNGHVfe5nbL3vyd7c
 publish: true
 tags:

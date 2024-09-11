@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: Progressive Public Goods Funding
 subtitle: Publicly tracking impact progress, and balancing between proactive and retroactive funding models.
 date published: 2024-04-05
-license:
+license: CC BY-SA 4.0
 arweave hash: YwpUk7Vxn2c6YKPTGmODfyA5u1-n6VvrZHJXNDy1fBE
 publish: true
 tags:

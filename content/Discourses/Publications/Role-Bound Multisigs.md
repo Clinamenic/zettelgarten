@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
-title:
+author URL: https://www.clinamenic.com
+title: Role-Bound Multisigs
 subtitle:
 date published: 2023-08-08
-license:
+license: CC BY-SA 4.0
 arweave hash: gg2RXJ-jhjx5ylqmPYWZfhgpC-NjFc-XAvqanuDNzUo
 publish: true
 tags:

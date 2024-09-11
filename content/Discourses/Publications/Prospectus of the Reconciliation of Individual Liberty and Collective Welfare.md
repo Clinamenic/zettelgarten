@@ -1,9 +1,10 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
 subtitle: Considerations to inform a more cogent economic philosophy.
 date published: 2024-05-23
-license:
+license: CC BY-SA 4.0
 arweave hash: fXBe4dKiAhhCieD2H4_vb3tZGms8CTwws-XeCRcb28Q
 publish: true
 tags:

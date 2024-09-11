@@ -1,10 +1,11 @@
 ---
 author: Spencer Saar Cavanaugh
+author URL: https://www.clinamenic.com
 title:
 subtitle:
 draft started:
 date published:
-license: CC-BY-SA 4.0
+license:
 arweave hash:
 publish: false
 tags:
