@@ -1,12 +1,11 @@
 ---
 title: The Federalist Papers
-author: "[[Publius]]"
-Year: 
-Link to Text: 
-Description: 
+author: Alexander Hamilton, Thomas Jefferson, John Jay
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Title: The Federalist Papers

@@ -1,13 +1,11 @@
 ---
 title: Critique of Pure Reason
-Primary Author(s): "[[Kant, Immanuel]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Immanuel Kant
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Title: Critique of Pure Reason

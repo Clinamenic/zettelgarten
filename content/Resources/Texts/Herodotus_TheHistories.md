@@ -1,15 +1,12 @@
 ---
 title: The Histories
-Primary Author: "[[Herodotus]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Herodotus
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
-
 
 # Title: The Histories
 

@@ -1,13 +1,11 @@
 ---
 title: On the Bondage of the Will
-Primary Author(s): "[[Luther, Martin]]"
-Secondary Author(s): 
+author: Martin Luther
 Year: 
 Link to Text: 
-Description: 
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Title: On the Bondage of the Will

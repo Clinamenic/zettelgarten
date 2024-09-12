@@ -1,10 +1,9 @@
 ---
 title: Democracy in America
-Primary Author(s): "[[de Tocqueville, Alexis]]"
-Secondary Author(s): 
+author: Alexis de Tocqueville
 Year: 
 Link to Text: 
-Description: 
+publish: true
 tags:
   - text
 Associated works:

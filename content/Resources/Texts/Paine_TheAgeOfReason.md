@@ -1,13 +1,11 @@
 ---
 title: The Age of Reason
-Primary Author(s): "[[Paine, Thomas]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Thomas Paine
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # The Age of Reason
@@ -16,9 +14,9 @@ Associated works:
 
 ## Year: 1794
 
--------
+---
 
-##  CHAPTER I - THE AUTHOR'S PROFESSION OF FAITH.
+## CHAPTER I - THE AUTHOR'S PROFESSION OF FAITH.
 
 It has been my intention, for several years past, to publish my thoughts upon religion; I am well aware of the difficulties that attend the subject, and from that consideration, had reserved it to a more advanced period of life. I intended it to be the last offering I should make to my fellow-citizens of all nations, and that at a time when the purity of the motive that induced me to it could not admit of a question, even by those who might disapprove the work.
 
@@ -42,8 +40,7 @@ It is impossible to calculate the moral mischief, if I may so express it, that m
 
 Soon after I had published the pamphlet COMMON SENSE, in America, I saw the exceeding probability that a revolution in the system of government would be followed by a revolution in the system of religion. The adulterous connection of church and state, wherever it had taken place, whether Jewish, Christian, or Turkish, had so effectually prohibited, by pains and penalties, every discussion upon established creeds, and upon first principles of religion, that until the system of government should be changed, those subjects could not be brought fairly and openly before the world; but that whenever this should be done, a revolution in the system of religion would follow. Human inventions and priest-craft would be detected; and man would return to the pure, unmixed, and unadulterated belief of one God, and no more.
 
-
-##  CHAPTER II - OF MISSIONS AND REVELATIONS.
+## CHAPTER II - OF MISSIONS AND REVELATIONS.
 
 Every national church or religion has established itself by pretending some special mission from God, communicated to certain individuals. The Jews have their Moses; the Christians their Jesus Christ, their apostles and saints; and the Turks their Mahomet; as if the way to God was not open to every man alike.
 
@@ -65,8 +62,7 @@ It is, however, not difficult to account for the credit that was given to the st
 
 It is curious to observe how the theory of what is called the Christian Church, sprung out of the tail of the heathen mythology. A direct incorporation took place in the first instance, by making the reputed founder to be celestially begotten. The trinity of gods that then followed was no other than a reduction of the former plurality, which was about twenty or thirty thousand. The statue of Mary succeeded the statue of Diana of Ephesus. The deification of heroes changed into the canonization of saints. The Mythologists had gods for everything; the Christian Mythologists had saints for everything. The church became as crowded with the one, as the pantheon had been with the other; and Rome was the place of both. The Christian theory is little else than the idolatry of the ancient mythologists, accommodated to the purposes of power and revenue; and it yet remains to reason and philosophy to abolish the amphibious fraud.
 
-
-##  CHAPTER III - CONCERNING THE CHARACTER OF JESUS CHRIST, AND HIS HISTORY.
+## CHAPTER III - CONCERNING THE CHARACTER OF JESUS CHRIST, AND HIS HISTORY.
 
 Nothing that is here said can apply, even with the most distant disrespect, to the real character of Jesus Christ. He was a virtuous and an amiable man. The morality that he preached and practiced was of the most benevolent kind; and though similar systems of morality had been preached by Confucius, and by some of the Greek philosophers, many years before, by the Quakers since, and by many good men in all ages, it has not been exceeded by any.
 
@@ -80,8 +76,7 @@ It is in vain to attempt to palliate or disguise this matter. The story, so far 
 
 That such a person as Jesus Christ existed, and that he was crucified, which was the mode of execution at that day, are historical relations strictly within the limits of probability. He preached most excellent morality, and the equality of man; but he preached also against the corruptions and avarice of the Jewish priests, and this brought upon him the hatred and vengeance of the whole order of priest-hood. The accusation which those priests brought against him was that of sedition and conspiracy against the Roman government, to which the Jews were then subject and tributary; and it is not improbable that the Roman government might have some secret apprehension of the effects of his doctrine as well as the Jewish priests; neither is it improbable that Jesus Christ had in contemplation the delivery of the Jewish nation from the bondage of the Romans. Between the two, however, this virtuous reformer and revolutionist lost his life.
 
-
-##  CHAPTER IV - OF THE BASES OF CHRISTIANITY.
+## CHAPTER IV - OF THE BASES OF CHRISTIANITY.
 
 It is upon this plain narrative of facts, together with another case I am going to mention, that the Christian mythologists, calling themselves the Christian Church, have erected their fable, which for absurdity and extravagance is not exceeded by anything that is to be found in the mythology of the ancients.
 
@@ -97,8 +92,7 @@ After giving Satan this triumph over the whole creation, one would have supposed
 
 Having thus made an insurrection and a battle in heaven, in which none of the combatants could be either killed or wounded--put Satan into the pit--let him out again--given him a triumph over the whole creation--damned all mankind by the eating of an apple, there Christian mythologists bring the two ends of their fable together. They represent this virtuous and amiable man, Jesus Christ, to be at once both God and man, and also the Son of God, celestially begotten, on purpose to be sacrificed, because they say that Eve in her longing had eaten an apple.
 
-
-##  CHAPTER V - EXAMINATION IN DETAIL OF THE PRECEDING BASES.
+## CHAPTER V - EXAMINATION IN DETAIL OF THE PRECEDING BASES.
 
 Putting aside everything that might excite laughter by its absurdity, or detestation by its profaneness, and confining ourselves merely to an examination of the parts, it is impossible to conceive a story more derogatory to the Almighty, more inconsistent with his wisdom, more contradictory to his power, than this story is.
 
@@ -110,15 +104,13 @@ Had the inventors of this story told it the contrary way, that is, had they repr
 
 That many good men have believed this strange fable, and lived very good lives under that belief (for credulity is not a crime) is what I have no doubt of. In the first place, they were educated to believe it, and they would have believed anything else in the same manner. There are also many who have been so enthusiastically enraptured by what they conceived to be the infinite love of God to man, in making a sacrifice of himself, that the vehemence of the idea has forbidden and deterred them from examining into the absurdity and profaneness of the story. The more unnatural anything is, the more is it capable of becoming the object of dismal admiration.
 
-
-##  CHAPTER VI - OF THE TRUE THEOLOGY.
+## CHAPTER VI - OF THE TRUE THEOLOGY.
 
 But if objects for gratitude and admiration are our desire, do they not present themselves every hour to our eyes? Do we not see a fair creation prepared to receive us the instant we are born--a world furnished to our hands, that cost us nothing? Is it we that light up the sun; that pour down the rain; and fill the earth with abundance? Whether we sleep or wake, the vast machinery of the universe still goes on. Are these things, and the blessings they indicate in future, nothing to, us? Can our gross feelings be excited by no other subjects than tragedy and suicide? Or is the gloomy pride of man become so intolerable, that nothing can flatter it but a sacrifice of the Creator?
 
 I know that this bold investigation will alarm many, but it would be paying too great a compliment to their credulity to forbear it on that account. The times and the subject demand it to be done. The suspicion that the theory of what is called the Christian church is fabulous, is becoming very extensive in all countries; and it will be a consolation to men staggering under that suspicion, and doubting what to believe and what to disbelieve, to see the subject freely investigated. I therefore pass on to an examination of the books called the Old and the New Testament.
 
-
-##  CHAPTER VII - EXAMINATION OF THE OLD TESTAMENT.
+## CHAPTER VII - EXAMINATION OF THE OLD TESTAMENT.
 
 THESE books, beginning with Genesis and ending with Revelations, (which, by the bye, is a book of riddles that requires a revelation to explain it) are, we are told, the word of God. It is, therefore, proper for us to know who told us so, that we may know what credit to give to the report. The answer to this question is, that nobody can tell, except that we tell one another so. The case, however, historically appears to be as follows:
 
@@ -154,13 +146,10 @@ The imagery in those books called the Prophets appertains altogether to poetry. 
 
 To show that these writings are composed in poetical numbers, I will take ten syllables, as they stand in the book, and make a line of the same number of syllables, (heroic measure) that shall rhyme with the last word. It will then be seen that the composition of those books is poetical measure. The instance I shall first produce is from Isaiah:--
 
-
 _"Hear, O ye heavens, and give ear, O earth_
 _'T is God himself that calls attention forth._
 
-
 Another instance I shall quote is from the mournful Jeremiah, to which I shall add two other lines, for the purpose of carrying out the figure, and showing the intention of the poet.
-
 
 _"O, that mine head were waters and mine eyes_
 _Were fountains flowing like the liquid skies;_
@@ -168,7 +157,6 @@ _Then would I give the mighty flood release_
 _And weep a deluge for the human race."_
 
 --Author.]
-
 
 There is not, throughout the whole book called the Bible, any word that describes to us what we call a poet, nor any word that describes what we call poetry. The case is, that the word prophet, to which a later times have affixed a new idea, was the Bible word for poet, and the word 'propesying' meant the art of making poetry. It also meant the art of playing poetry to a tune upon any instrument of music.
 
@@ -192,8 +180,7 @@ The continually progressive change to which the meaning of words is subject, the
 
 Did the book called the Bible excel in purity of ideas and expression all the books now extant in the world, I would not take it for my rule of faith, as being the Word of God; because the possibility would nevertheless exist of my being imposed upon. But when I see throughout the greatest part of this book scarcely anything but a history of the grossest vices, and a collection of the most paltry and contemptible tales, I cannot dishonour my Creator by calling it by his name.
 
-
-##  CHAPTER VIII - OF THE NEW TESTAMENT.
+## CHAPTER VIII - OF THE NEW TESTAMENT.
 
 Thus much for the Bible; I now go on to the book called the New Testament. The new Testament! that is, the 'new' Will, as if there could be two wills of the Creator.
 
@@ -235,8 +222,7 @@ Let him believe this, and he will live more consistently and morally, than by an
 
 Yet, with all this strange appearance of humility, and this contempt for human reason, he ventures into the boldest presumptions. He finds fault with everything. His selfishness is never satisfied; his ingratitude is never at an end. He takes on himself to direct the Almighty what to do, even in the govemment of the universe. He prays dictatorially. When it is sunshine, he prays for rain, and when it is rain, he prays for sunshine. He follows the same idea in everything that he prays for; for what is the amount of all his prayers, but an attempt to make the Almighty change his mind, and act otherwise than he does? It is as if he were to say--thou knowest not so well as I.
 
-
-##  CHAPTER IX - IN WHAT THE TRUE REVELATION CONSISTS.
+## CHAPTER IX - IN WHAT THE TRUE REVELATION CONSISTS.
 
 But some perhaps will say--Are we to have no word of God--no revelation? I answer yes. There is a Word of God; there is a revelation.
 
@@ -252,8 +238,7 @@ It is only in the CREATION that all our ideas and conceptions of a word of God c
 
 Do we want to contemplate his power? We see it in the immensity of the creation. Do we want to contemplate his wisdom? We see it in the unchangeable order by which the incomprehensible Whole is governed. Do we want to contemplate his munificence? We see it in the abundance with which he fills the earth. Do we want to contemplate his mercy? We see it in his not withholding that abundance even from the unthankful. In fine, do we want to know what God is? Search not the book called the scripture, which any human hand might make, but the scripture called the Creation.
 
-
-##  CHAPTER X - CONCERNING GOD, AND THE LIGHTS CAST ON HIS EXISTENCE AND ATTRIBUTES BY THE BIBLE.
+## CHAPTER X - CONCERNING GOD, AND THE LIGHTS CAST ON HIS EXISTENCE AND ATTRIBUTES BY THE BIBLE.
 
 The only idea man can affix to the name of God, is that of a first cause, the cause of all things. And, incomprehensibly difficult as it is for a man to conceive what a first cause is, he arrives at the belief of it, from the tenfold greater difficulty of disbelieving it. It is difficult beyond description to conceive that space can have no end; but it is more difficult to conceive an end. It is difficult beyond the power of man to conceive an eternal duration of what we call time; but it is more impossible to conceive a time when there shall be no time.
 
@@ -264,7 +249,6 @@ It is only by the exercise of reason, that man can discover God. Take away that 
 Almost the only parts in the book called the Bible, that convey to us any idea of God, are some chapters in Job, and the 19th Psalm; I recollect no other. Those parts are true deistical compositions; for they treat of the Deity through his works. They take the book of Creation as the word of God; they refer to no other book; and all the inferences they make are drawn from that volume.
 
 I insert in this place the 19th Psalm, as paraphrased into English verse by Addison. I recollect not the prose, and where I write this I have not the opportunity of seeing it:
-
 
 _The spacious firmament on high,_
 _With all the blue etherial sky,_
@@ -291,7 +275,6 @@ _And utter forth a glorious voice,_
 _Forever singing as they shine,_
 _THE HAND THAT MADE US IS DIVINE._
 
-
 What more does man want to know, than that the hand or power that made these things is divine, is omnipotent? Let him believe this, with the force it is impossible to repel if he permits his reason to act, and his rule of moral life will follow of course.
 
 The allusions in job have all of them the same tendency with this Psalm; that of deducing or proving a truth that would be otherwise unknown, from truths already known.
@@ -308,8 +291,7 @@ It is evident that both of these questions were put to the reason of the person 
 
 I recollect not a single passage in all the writings ascribed to the men called apostles, that conveys any idea of what God is. Those writings are chiefly controversial; and the gloominess of the subject they dwell upon, that of a man dying in agony on a cross, is better suited to the gloomy genius of a monk in a cell, by whom it is not impossible they were written, than to any man breathing the open air of the Creation. The only passage that occurs to me, that has any reference to the works of God, by which only his power and wisdom can be known, is related to have been spoken by Jesus Christ, as a remedy against distrustful care. "Behold the lilies of the field, they toil not, neither do they spin." This, however, is far inferior to the allusions in Job and in the 19th Psalm; but it is similar in idea, and the modesty of the imagery is correspondent to the modesty of the man.
 
-
-##  CHAPTER XI - OF THE THEOLOGY OF THE CHRISTIANS; AND THE TRUE THEOLOGY.
+## CHAPTER XI - OF THE THEOLOGY OF THE CHRISTIANS; AND THE TRUE THEOLOGY.
 
 As to the Christian system of faith, it appears to me as a species of atheism; a sort of religious denial of God. It professes to believe in a man rather than in God. It is a compound made up chiefly of man-ism with but little deism, and is as near to atheism as twilight is to darkness. It introduces between man and his Maker an opaque body, which it calls a redeemer, as the moon introduces her opaque self between the earth and the sun, and it produces by this means a religious or an irreligious eclipse of light. It has put the whole orbit of reason into shade.
 
@@ -353,8 +335,7 @@ Of what use is it, unless it be to teach man something, that his eye is endowed 
 
 It is only by contemplating what he calls the starry heavens, as the book and school of science, that he discovers any use in their being visible to him, or any advantage resulting from his immensity of vision. But when he contemplates the subject in this light, he sees an additional motive for saying, that nothing was made in vain; for in vain would be this power of vision if it taught man nothing.
 
-
-##  CHAPTER XII - THE EFFECTS OF CHRISTIANISM ON EDUCATION; PROPOSED REFORMS.
+## CHAPTER XII - THE EFFECTS OF CHRISTIANISM ON EDUCATION; PROPOSED REFORMS.
 
 As the Christian system of faith has made a revolution in theology, so also has it made a revolution in the state of learning. That which is now called learning, was not learning originally. Learning does not consist, as the schools now make it consist, in the knowledge of languages, but in the knowledge of things to which language gives names.
 
@@ -388,8 +369,7 @@ It is owing to this long interregnum of science, and to no other cause, that we 
 
 It is an inconsistency scarcely possible to be credited, that any thing should exist, under the name of a religion, that held it to be irreligious to study and contemplate the structure of the universe that God had made. But the fact is too well established to be denied. The event that served more than any other to break the first link in this long chain of despotic ignorance, is that known by the name of the Reformation by Luther. From that time, though it does not appear to have made any part of the intention of Luther, or of those who are called Reformers, the Sciences began to revive, and Liberality, their natural associate, began to appear. This was the only public good the Reformation did; for, with respect to religious good, it might as well not have taken place. The mythology still continued the same; and a multiplicity of National Popes grew out of the downfall of the Pope of Christendom.
 
-
-##  CHAPTER XIII - COMPARISON OF CHRISTIANISM WITH THE RELIGIOUS IDEAS INSPIRED BY NATURE.
+## CHAPTER XIII - COMPARISON OF CHRISTIANISM WITH THE RELIGIOUS IDEAS INSPIRED BY NATURE.
 
 Having thus shewn, from the internal evidence of things, the cause that produced a change in the state of learning, and the motive for substituting the study of the dead languages, in the place of the Sciences, I proceed, in addition to the several observations already made in the former part of this work, to compare, or rather to confront, the evidence that the structure of the universe affords, with the christian system of religion. But as I cannot begin this part better than by referring to the ideas that occurred to me at an early part of life, and which I doubt not have occurred in some degree to almost every other person at one time or other, I shall state what those ideas were, and add thereto such other matter as shall arise out of the subject, giving to the whole, by way of preface, a short introduction.
 
@@ -425,8 +405,7 @@ Since then no part of our earth is left unoccupied, why is it to be supposed tha
 
 Having now arrived at this point, if we carry our ideas only one thought further, we shall see, perhaps, the true reason, at least a very good reason for our happiness, why the Creator, instead of making one immense world, extending over an immense quantity of space, has preferred dividing that quantity of matter into several distinct and separate worlds, which we call planets, of which our earth is one. But before I explain my ideas upon this subject, it is necessary (not for the sake of those that already know, but for those who do not) to show what the system of the universe is.
 
-
-##  CHAPTER XIV - SYSTEM OF THE UNIVERSE.
+## CHAPTER XIV - SYSTEM OF THE UNIVERSE.
 
 That part of the universe that is called the solar system (meaning the system of worlds to which our earth belongs, and of which Sol, or in English language, the Sun, is the center) consists, besides the Sun, of six distinct orbs, or planets, or worlds, besides the secondary bodies, called the satellites, or moons, of which our earth has one that attends her in her annual revolution round the Sun, in like manner as the other satellites or moons, attend the planets or worlds to which they severally belong, as may be seen by the assistance of the telescope.
 
@@ -446,8 +425,7 @@ But this, immense as it is, is only one system of worlds. Beyond this, at a vast
 
 Having thus endeavoured to convey, in a familiar and easy manner, some idea of the structure of the universe, I return to explain what I before alluded to, namely, the great benefits arising to man in consequence of the Creator having made a Plurality of worlds, such as our system is, consisting of a central Sun and six worlds, besides satellites, in preference to that of creating one world only of a vast extent.
 
-
-##  CHAPTER XV - ADVANTAGES OF THE EXISTENCE OF MANY WORLDS IN EACH SOLAR SYSTEM.
+## CHAPTER XV - ADVANTAGES OF THE EXISTENCE OF MANY WORLDS IN EACH SOLAR SYSTEM.
 
 It is an idea I have never lost sight of, that all our knowledge of science is derived from the revolutions (exhibited to our eye and from thence to our understanding) which those several planets or worlds of which our system is composed make in their circuit round the Sun.
 
@@ -461,8 +439,7 @@ Neither does the knowledge stop here. The system of worlds next to us exhibits, 
 
 Our ideas, not only of the almightiness of the Creator, but of his wisdom and his beneficence, become enlarged in proportion as we contemplate the extent and the structure of the universe. The solitary idea of a solitary world, rolling or at rest in the immense ocean of space, gives place to the cheerful idea of a society of worlds, so happily contrived as to administer, even by their motion, instruction to man. We see our own earth filled with abundance; but we forget to consider how much of that abundance is owing to the scientific knowledge the vast machinery of the universe has unfolded.
 
-
-##  CHAPTER XVI - APPLICATION OF THE PRECEDING TO THE SYSTEM OF THE CHRISTIANS.
+## CHAPTER XVI - APPLICATION OF THE PRECEDING TO THE SYSTEM OF THE CHRISTIANS.
 
 But, in the midst of those reflections, what are we to think of the christian system of faith that forms itself upon the idea of only one world, and that of no greater extent, as is before shown, than twenty-five thousand miles. An extent which a man, walking at the rate of three miles an hour for twelve hours in the day, could he keep on in a circular direction, would walk entirely round in less than two years. Alas! what is this to the mighty ocean of space, and the almighty power of the Creator!
 
@@ -476,8 +453,7 @@ The persons who first preached the christian system of faith, and in some measur
 
 But though such a belief might, by such means, be rendered almost general among the laity, it is next to impossible to account for the continual persecution carried on by the church, for several hundred years, against the sciences, and against the professors of science, if the church had not some record or tradition that it was originally no other than a pious fraud, or did not foresee that it could not be maintained against the evidence that the structure of the universe afforded.
 
-
-##  CHAPTER XVII - OF THE MEANS EMPLOYED IN ALL TIME, AND ALMOST UNIVERSALLY, TO DECEIVE THE PEOPLES.
+## CHAPTER XVII - OF THE MEANS EMPLOYED IN ALL TIME, AND ALMOST UNIVERSALLY, TO DECEIVE THE PEOPLES.
 
 Having thus shown the irreconcileable inconsistencies between the real word of God existing in the universe, and that which is called the word of God, as shown to us in a printed book that any man might make, I proceed to speak of the three principal means that have been employed in all ages, and perhaps in all countries, to impose upon mankind.
 
@@ -535,7 +511,7 @@ But it is with Prophecy as it is with Miracle. It could not answer the purpose e
 
 Upon the whole, Mystery, Miracle, and Prophecy, are appendages that belong to fabulous and not to true religion. They are the means by which so many Lo heres! and Lo theres! have been spread about the world, and religion been made into a trade. The success of one impostor gave encouragement to another, and the quieting salvo of doing some good by keeping up a pious fraud protected them from remorse.
 
-*RECAPITULATION.*
+_RECAPITULATION._
 
 Having now extended the subject to a greater length than I first intended, I shall bring it to a close by abstracting a summary from the whole.
 
@@ -549,10 +525,9 @@ I trouble not myself about the manner of future existence. I content myself with
 
 It is certain that, in one point, all nations of the earth and all religions agree. All believe in a God. The things in which they disgrace are the redundancies annexed to that belief; and therefore, if ever an universal religion should prevail, it will not be believing any thing new, but in getting rid of redundancies, and believing as man believed at first. ["In the childhood of the world," according to the first (French) version; and the strict translation of the final sentence is: "Deism was the religion of Adam, supposing him not an imaginary being; but none the less must it be left to all men to follow, as is their right, the religion and worship they prefer."--Editor.] Adam, if ever there was such a man, was created a Deist; but in the mean time, let every man follow, as he has a right to do, the religion and worship he prefers.
 
-
 ## PART II
 
-##  PREFACE
+## PREFACE
 
 I have mentioned in the former part of The Age of Reason that it had long been my intention to publish my thoughts upon Religion; but that I had originally reserved it to a later period in life, intending it to be the last work I should undertake. The circumstances, however, which existed in France in the latter end of the year 1793, determined me to delay it no longer. The just and humane principles of the Revolution which Philosophy had first diffused, had been departed from. The Idea, always dangerous to Society as it is derogatory to the Almighty,--that priests could forgive sins,--though it seemed to exist no longer, had blunted the feelings of humanity, and callously prepared men for the commission of all crimes. The intolerant spirit of church persecution had transferred itself into politics; the tribunals, stiled Revolutionary, supplied the place of an Inquisition; and the Guillotine of the Stake. I saw many of my most intimate friends destroyed; others daily carried to prison; and I had reason to believe, and had also intimations given me, that the same danger was approaching myself.
 
@@ -584,8 +559,7 @@ I observe, that all my opponents resort, more or less, to what they call Scriptu
 
 _THOMAS PAINE_. October, 1795.
 
-
-##  CHAPTER I - THE OLD TESTAMENT
+## CHAPTER I - THE OLD TESTAMENT
 
 It has often been said that any thing may be proved from the Bible; but before any thing can be admitted as proved by Bible, the Bible itself must be proved to be true; for if the Bible be not true, or the truth of it be doubtful, it ceases to have authority, and cannot be admitted as proof of any thing.
 
@@ -793,7 +767,6 @@ Habakkuk: 620 years before Christ. 38 years before Kings and Chronicles.
 
 Zepbaniah: 630 years before Christ. 42 years before Kings and Chronicles.
 
-
 Haggai Zechariah all three after the year 588 Medachi [NOTE In 2 Kings xiv. 25, the name of Jonah is mentioned on account of the restoration of a tract of land by Jeroboam; but nothing further is said of him, nor is any allusion made to the book of Jonah, nor to his expedition to Nineveh, nor to his encounter with the whale.--Author.]
 
 This table is either not very honourable for the Bible historians, or not very honourable for the Bible prophets; and I leave to priests and commentators, who are very learned in little things, to settle the point of etiquette between the two; and to assign a reason, why the authors of Kings and of Chronicles have treated those prophets, whom, in the former part of the 'Age of Reason,' I have considered as poets, with as much degrading silence as any historian of the present day would treat Peter Pindar.
@@ -814,7 +787,7 @@ Last Two Verses of 2 Chronicles.
 
 Ver. 22. Now in the first year of Cyrus, King of Persia, that the word of the Lord, spoken by the mouth of Jeremiah, might be accomplished, the Lord stirred up the spirit of Cyrus, king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying.
 
-earth hath the Lord God of heaven given me; and he hath charged me to build him an house in Jerusalem which is in Judah. Who is there among you of all his people? the Lord his God be with him, and let him go up. ***
+earth hath the Lord God of heaven given me; and he hath charged me to build him an house in Jerusalem which is in Judah. Who is there among you of all his people? the Lord his God be with him, and let him go up. \*\*\*
 
 First Three Verses of Ezra.
 
@@ -824,7 +797,7 @@ Ver. 1. Now in the first year of Cyrus, king of Persia, that the word of the Lor
 
 3 - Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the Lord God of Israel (he is the God) which is in Jerusalem.
 
-*** The last verse in Chronicles is broken abruptly, and ends in the middle of the phrase with the word 'up' without signifying to what place. This abrupt break, and the appearance of the same verses in different books, show as I have already said, the disorder and ignorance in which the Bible has been put together, and that the compilers of it had no authority for what they were doing, nor we any authority for believing what they have done. [NOTE I observed, as I passed along, several broken and senseless passages in the Bible, without thinking them of consequence enough to be introduced in the body of the work; such as that, 1 Samuel xiii. 1, where it is said, "Saul reigned one year; and when he had reigned two years over Israel, Saul chose him three thousand men," &c. The first part of the verse, that Saul reigned one year has no sense, since it does not tell us what Saul did, nor say any thing of what happened at the end of that one year; and it is, besides, mere absurdity to say he reigned one year, when the very next phrase says he had reigned two for if he had reigned two, it was impossible not to have reigned one.
+\*\*\* The last verse in Chronicles is broken abruptly, and ends in the middle of the phrase with the word 'up' without signifying to what place. This abrupt break, and the appearance of the same verses in different books, show as I have already said, the disorder and ignorance in which the Bible has been put together, and that the compilers of it had no authority for what they were doing, nor we any authority for believing what they have done. [NOTE I observed, as I passed along, several broken and senseless passages in the Bible, without thinking them of consequence enough to be introduced in the body of the work; such as that, 1 Samuel xiii. 1, where it is said, "Saul reigned one year; and when he had reigned two years over Israel, Saul chose him three thousand men," &c. The first part of the verse, that Saul reigned one year has no sense, since it does not tell us what Saul did, nor say any thing of what happened at the end of that one year; and it is, besides, mere absurdity to say he reigned one year, when the very next phrase says he had reigned two for if he had reigned two, it was impossible not to have reigned one.
 
 Another instance occurs in Joshua v. where the writer tells us a story of an angel (for such the table of contents at the head of the chapter calls him) appearing unto Joshua; and the story ends abruptly, and without any conclusion. The story is as follows:--Ver. 13. "And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and behold there stood a man over against him with his sword drawn in his hand; and Joshua went unto him and said unto him, Art thou for us, or for our adversaries?" Verse 14, "And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship and said unto him, What saith my Lord unto his servant?" Verse 15, "And the captain of the Lord's host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standeth is holy. And Joshua did so."--And what then? nothing: for here the story ends, and the chapter too.
 
@@ -954,7 +927,6 @@ In 2 Kings, iii., a story is related of prophesying or conjuring that shews, in 
 
 Ver. 15. "'Bring me,' (said Elisha), 'a minstrel'; and it came to pass, when the minstrel played, that the hand of the Lord came upon him." Here is the farce of the conjurer. Now for the prophecy: "And Elisha said, [singing most probably to the tune he was playing], Thus saith the Lord, Make this valley full of ditches;" which was just telling them what every countryman could have told them without either fiddle or farce, that the way to get water was to dig for it.
 
-
 But as every conjuror is not famous alike for the same thing, so neither
 were those prophets; for though all of them, at least those I have
 spoken of, were famous for lying, some of them excelled in cursing.
@@ -966,12 +938,10 @@ curse will lie, there is just as much credit to be given to this story
 of Elisha's two she-bears as there is to that of the Dragon of Wantley,
 of whom it is said:
 
-
 _Poor children three devoured be,_
 _That could not with him grapple;_
 _And at one sup he eat them up,_
 _As a man would eat an apple._
-
 
 There was another description of men called prophets, that amused themselves with dreams and visions; but whether by night or by day we know not. These, if they were not quite harmless, were but little mischievous. Of this class are, EZEKIEL and DANIEL; and the first question upon these books, as upon all the others, is, Are they genuine? that is, were they written by Ezekiel and Daniel?
 
@@ -1023,8 +993,7 @@ There now remain only a few books, which they call books of the lesser prophets;
 
 I have now gone through the Bible, as a man would go through a wood with an axe on his shoulder, and fell trees. Here they lie; and the priests, if they can, may replant them. They may, perhaps, stick them in the ground, but they will never make them grow.--I pass on to the books of the New Testament.
 
-
-##  CHAPTER II - THE NEW TESTAMENT
+## CHAPTER II - THE NEW TESTAMENT
 
 The New Testament, they tell us, is founded upon the prophecies of the Old; if so, it must follow the fate of its foundation.
 
@@ -1069,7 +1038,7 @@ The book of Matthew gives (i. 6), a genealogy by name from David, up, through Jo
 25 - Abia; Addi
 26 - Roboam; Cosam
 27 - Solomon; Elmodam
-28 - David *; Er
+28 - David \*; Er
 29 - Jose; None
 30 - Eliezer; None
 31 - Jorim; None
@@ -1250,8 +1219,7 @@ I here close the subject on the Old Testament and the New. The evidence I have p
 
 Should the Bible and the Testament hereafter fall, it is not that I have done it. I have done no more than extracted the evidence from the confused mass of matters with which it is mixed, and arranged that evidence in a point of light to be clearly seen and easily comprehended; and, having done this, I leave the reader to judge for himself, as I have judged for myself.
 
-
-##  CHAPTER III - CONCLUSION
+## CHAPTER III - CONCLUSION
 
 In the former part of 'The Age of Reason' I have spoken of the three frauds, mystery, miracle, and Prophecy; and as I have seen nothing in any of the answers to that work that in the least affects what I have there said upon those subjects, I shall not encumber this Second Part with additions that are not necessary.
 
@@ -1318,4 +1286,3 @@ The Bible of the creation is inexhaustible in texts. Every part of science, whet
 It has been by wandering from the immutable laws of science, and the light of reason, and setting up an invented thing called "revealed religion," that so many wild and blasphemous conceits have been formed of the Almighty. The Jews have made him the assassin of the human species, to make room for the religion of the Jews. The Christians have made him the murderer of himself, and the founder of a new religion to supersede and expel the Jewish religion. And to find pretence and admission for these things, they must have supposed his power or his wisdom imperfect, or his will changeable; and the changeableness of the will is the imperfection of the judgement. The philosopher knows that the laws of the Creator have never changed, with respect either to the principles of science, or the properties of matter. Why then is it to be supposed they have changed with respect to man?
 
 I here close the subject. I have shown in all the foregoing parts of this work that the Bible and Testament are impositions and forgeries; and I leave the evidence I have produced in proof of it to be refuted, if any one can do it; and I leave the ideas that are suggested in the conclusion of the work to rest on the mind of the reader; certain as I am that when opinions are free, either in matters of govemment or religion, truth will finally and powerfully prevail.
-

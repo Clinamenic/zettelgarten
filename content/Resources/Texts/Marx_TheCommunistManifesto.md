@@ -1,13 +1,11 @@
 ---
 title: The Communist Manifesto
-Primary Author(s): "[[Marx, Karl]]"
-Secondary Author(s): "[[Engels, Friedrich]]"
-Year: 
-Link to Text: 
-Description: 
+author: Karl Marx, Friedrich Engels
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # The Communist Manifesto

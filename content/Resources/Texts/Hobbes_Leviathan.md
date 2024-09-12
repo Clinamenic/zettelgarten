@@ -1,10 +1,9 @@
 ---
 Full Title: Leviathan
-author: "[[Hobbes, Thomas]]"
-Secondary Author(s): 
+author: Thomas Hobbes
 Year: 
 Link to Text: 
-Description: 
+publish: true
 tags:
   - text
 Associated works:

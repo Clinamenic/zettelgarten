@@ -1,13 +1,11 @@
 ---
 title: Common Sense
-Primary Author(s): "[[Paine, Thomas]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Thomas Paine
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Common Sense

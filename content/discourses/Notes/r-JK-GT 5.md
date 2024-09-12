@@ -1,14 +1,13 @@
 ---
-title:
+title: Summary of General Theory Book 1 Chapter 2 Section II
 Date: 2024-08-17
 author: Spencer Saar Cavanaugh
-publish: "True"
+reference: "[[Keynes_GeneralTheory#Chapter 2, Section II]]"
+publish: true
 tags:
-  - "#note"
-  - note/keynes/general-theory
 ---
 
-[[Keynes_GeneralTheory#Chapter 2, Section II]]
+
 
 In this section, Keynes presents two key critiques to the fundamental postulates of the general theory of value and production (see [[Keynes_GeneralTheory#Chapter 2, Section I]]).
 

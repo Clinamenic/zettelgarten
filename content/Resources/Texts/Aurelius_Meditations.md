@@ -1,13 +1,11 @@
 ---
 title: Meditations
-Primary Author(s): "[[Aurelius, Marcus]]"
-Secondary Author(s): 
-Year: 
+author: Marcus Aurelius
+date published: 
 Link to Text: 
-Description: 
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Title: Meditations

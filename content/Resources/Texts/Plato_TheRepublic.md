@@ -1,13 +1,11 @@
 ---
 title: The Republic
-Primary Author(s): "[[Plato]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Plato
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Title: The Republic

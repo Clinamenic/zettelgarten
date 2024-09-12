@@ -1,13 +1,11 @@
 ---
 title: Philosophical Dictionary
-Primary Author(s): "[[Voltaire]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Voltaire
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Philosophical Dictionary
@@ -16,7 +14,7 @@ Associated works:
 
 ## Year: 1764
 
--------
+---
 
 ## _PREFACE_
 
@@ -25,7 +23,6 @@ This book does not demand continuous reading; but at whatever place one opens it
 It is only really by enlightened people that this book can be read; the ordinary man is not made for such knowledge; philosophy will never be his lot. Those who say that there are truths which must be hidden from the people, need not be alarmed; the people do not read; they work six days of the week, and on the seventh go to the inn. In a word, philosophical works are made only for philosophers, and every honest man must try to be a philosopher, without pluming himself on being one.
 
 This alphabet is extracted from the most estimable works which are not commonly within the reach of the many; and if the author does not always mention the sources of his information, as being well enough known to the learned, he must not be suspected of wishing to take the credit for other people's work, because he himself preserves anonymity, according to this word of the Gospel: "Let not thy left hand know what thy right hand doeth."
-
 
 ## _ADULTERY_
 
@@ -57,7 +54,7 @@ Equity demands that, having recorded this note in favour of husbands, we should 
 
 The Gospel has forbidden adultery for my husband just as for me; he will be damned as I shall, nothing is better established. When he committed twenty infidelities, when he gave my necklace to one of my rivals, and my ear-rings to another, I did not ask the judges to have him shaved, to shut him up among monks and to give me his property. And I, for having imitated him once, for having done with the most handsome young man in Lisbon what he did every day with impunity with the most idiotic strumpets of the court and the town, have to answer at the bar before licentiates each of whom would be at my feet if we were alone together in my closet; have to endure at the court the usher cutting off my hair which is the most beautiful in the world; and being shut up among nuns who have no common sense, deprived of my dowry and my marriage covenants, with all my property given to my coxcomb of a husband to help him seduce other women and to commit fresh adulteries.
 
- I ask if it is just, and if it is not evident that the laws were made by cuckolds?
+I ask if it is just, and if it is not evident that the laws were made by cuckolds?
 
 In answer to my plea I am told that I should be happy not to be stoned at the city gate by the canons, the priests of the parish and the whole populace. This was the practice among the first nation of the earth, the chosen nation, the cherished nation, the only one which was right when all the others were wrong.
 
@@ -73,11 +70,9 @@ My husband answers that he is my superior and my chief, that he is more than an 
 
 But I ask if Queen Anne of England is not her husband's chief? if her husband the Prince of Denmark, who is her High Admiral, does not owe her entire obedience? and if she would not have him condemned by the court of peers if the little man's infidelity were in question? It is therefore clear that if the women do not have the men punished, it is when they are not the stronger.
 
-
 ## _ADVOCATE_
 
 An advocate is a man who, not having a sufficient fortune to buy one of those resplendent offices on which the universe has its eyes, studies the laws of Theodosius and Justinian for three years, so that he may learn the usages of Paris, and who finally, being registered, has the right to plead causes for money, if he have a strong voice.
-
 
 ## _ANCIENTS AND MODERNS_
 
@@ -119,7 +114,6 @@ Moliere, in his good pieces, is as superior to the pure but cold Terence, and to
 
 There are therefore spheres in which the moderns are far superior to the ancients, and others, very few in number, in which we are their inferiors. It is to this that the whole dispute is reduced.
 
-
 ## _ANIMALS_
 
 What a pitiful, what a sorry thing to have said that animals are machines bereft of understanding and feeling, which perform their operations always in the same way, which learn nothing, perfect nothing, etc.!
@@ -143,7 +137,6 @@ Listen to other brutes reasoning about the brutes; their soul is a spiritual sou
 Whence can come so many contradictory errors? From the habit men have always had of examining what a thing is, before knowing if it exists. The clapper, the valve of a bellows, is called in French the "soul" of a bellows. What is this soul? It is a name that I have given to this valve which falls, lets air enter, rises again, and thrusts it through a pipe, when I make the bellows move.
 
 There is not there a distinct soul in the machine: but what makes animals' bellows move? I have already told you, what makes the stars move. The philosopher who said, "_Deus est anima brutorum_," was right; but he should go further.
-
 
 ## _ANTIQUITY_
 
@@ -169,7 +162,6 @@ And, further, what is it which instructs very feebly about these emigrations? It
 
 But to infer from that that the Gauls or Celts, conquered after by a few of Caesar's legions, and by a horde of Bourguignons, and lastly by a horde of Sicamores, under one Clodovic, had previously subjugated the whole world, and given their names and laws to Asia, seems to me to be very strange: the thing is not mathematically impossible, and if it be _demonstrated_, I give way; it would be very uncivil to refuse to the Velches what one accords to the Tartars.
 
-
 ## _ARTS_
 
 ### That the Newness of the Arts in no wise proves the Newness of the Globe
@@ -181,7 +173,6 @@ From all this one can at bottom conclude nothing against the antiquity of the gl
 It is quite clear that man and the other animals can exist very well without bakers, without novelists, and without theologians, witness the whole of America, witness three quarters of our continent.
 
 The newness of the arts among us does not therefore prove the newness of the globe, as was claimed by Epicurus, one of our predecessors in reverie, who supposed that by chance the eternal atoms in declining, had one day formed our earth. Pomponace said: "_Se il mondo non e eterno, per tutti santi e molto vecchio._"
-
 
 ## _ASTROLOGY_
 
@@ -198,7 +189,6 @@ And if one alleged that a bandit whom Sixtus V. had hanged was born at the same 
 One of the most famous mathematicians in Europe, named Stoffler, who flourished in the fifteenth and sixteenth centuries, and who long worked at the reform of the calendar, proposed at the Council of Constance, foretold a universal flood for the year 1524. This flood was to arrive in the month of February, and nothing is more plausible; for Saturn, Jupiter and Mars were then in conjunction in the sign of Pisces. All the peoples of Europe, Asia and Africa, who heard speak of the prediction, were dismayed. Everyone expected the flood, despite the rainbow. Several contemporary authors record that the inhabitants of the maritime provinces of Germany hastened to sell their lands dirt cheap to those who had most money, and who were not so credulous as they. Everyone armed himself with a boat as with an ark. A Toulouse doctor, named Auriol, had a great ark made for himself, his family and his friends; the same precautions were taken over a large part of Italy. At last the month of February arrived, and not a drop of water fell: never was month more dry, and never were the astrologers more embarrassed. Nevertheless they were not discouraged, nor neglected among us; almost all princes continued to consult them.
 
 I have not the honour of being a prince; but the celebrated Count of Boulainvilliers and an Italian, named Colonne, who had much prestige in Paris, both foretold that I should die infallibly at the age of thirty-two. I have been so malicious as to deceive them already by nearly thirty years, wherefore I humbly beg their pardon.
-
 
 ## _ATHEISM_
 
@@ -236,8 +226,7 @@ For entirely savage races, it has been said already that one cannot count them a
 
 In this case, I shall answer that the wolves live like this, and that an assembly of cannibal barbarians such as you suppose them is not a society; and I shall always ask you if, when you have lent your money to someone in your society, you want neither your debtor, nor your attorney, nor your judge, to believe in God.
 
-
-*Of Modern Atheists. Reasons of the Worshippers of God*
+_Of Modern Atheists. Reasons of the Worshippers of God_
 
 We are intelligent beings: intelligent beings cannot have been formed by a crude, blind, insensible being: there is certainly some difference between the ideas of Newton and the dung of a mule. Newton's intelligence, therefore, came from another intelligence.
 
@@ -247,8 +236,7 @@ All living bodies are composed of levers, of pulleys, which function according t
 
 The movement of the heavenly bodies, that of our little earth round the sun, all operate by virtue of the most profound mathematical law. How Plato who was not aware of one of these laws, eloquent but visionary Plato, who said that the earth was erected on an equilateral triangle, and the water on a right-angled triangle; strange Plato, who says there can be only five worlds, because there are only five regular bodies: how, I say, did Plato, who did not know even spherical trigonometry, have nevertheless a genius sufficiently fine, an instinct sufficiently happy, to call God the "Eternal Geometer," to feel the existence of a creative intelligence? Spinoza himself admits it. It is impossible to strive against this truth which surrounds us and which presses on us from all sides.
 
-
-*Reasons of the Atheists*
+_Reasons of the Atheists_
 
 Notwithstanding, I have known refractory persons who say that there is no creative intelligence at all, and that movement alone has by itself formed all that we see and all that we are. They tell you brazenly:
 
@@ -258,8 +246,7 @@ Notwithstanding, I have known refractory persons who say that there is no creati
 
 "Take then all the secondary bodies, all their combinations, all their movements, all the beings that vegetate, that live, that feel, that think, that function in all the globes, you will have but to increase the number of chances; multiply this number in all eternity, up to the number which our feebleness calls 'infinity,' there will always be a unity in favour of the formation of the world, such as it is, by movement alone: therefore it is possible that in all eternity the movement of matter alone has produced the entire universe such as it exists. It is even inevitable that in eternity this combination should occur. Thus," they say, "not only is it possible for the world to be what it is by movement alone, but it was impossible for it not to be likewise after an infinity of combinations."
 
-
-*Answer*
+_Answer_
 
 All this supposition seems to me prodigiously fantastic, for two reasons; first, that in this universe there are intelligent beings, and that you would not know how to prove it possible for movement alone to produce understanding; second, that, from your own avowal, there is infinity against one to bet, that an intelligent creative cause animates the universe. When one is alone face to face with the infinite, one feels very small.
 
@@ -267,30 +254,25 @@ Again, Spinoza himself admits this intelligence; it is the basis of his system. 
 
 But where is the Eternal Geometer? is He in one place or in all places, without occupying space? I have no idea. Is it of His own substance that He has arranged all things? I have no idea. Is He immense without quantity and without quality? I have no idea. All that I know is that one must worship Him and be just.
 
-
-*New Objection of a Modern Atheist*
+_New Objection of a Modern Atheist_
 
 Can one say that the parts of animals conform to their needs: what are these needs? preservation and propagation. Is it astonishing then that, of the infinite combinations which chance has produced, there has been able to subsist only those that have organs adapted to the nourishment and continuation of their species? have not all the others perished of necessity?
 
-
-*Answer*
+_Answer_
 
 This objection, oft-repeated since Lucretius, is sufficiently refuted by the gift of sensation in animals, and by the gift of intelligence in man. How should combinations "which chance has produced," produce this sensation and this intelligence (as has just been said in the preceding paragraph)? Without any doubt the limbs of animals are made for their needs with incomprehensible art, and you are not so bold as to deny it. You say no more about it. You feel that you have nothing to answer to this great argument which nature brings against you. The disposition of a fly's wing, a snail's organs suffices to bring you to the ground.
 
-
-*Maupertuis' Objection*
+_Maupertuis' Objection_
 
 Modern natural philosophers have but expanded these so-called arguments, often they have pushed them to trifling and indecency. They have found God in the folds of the skin of the rhinoceros: one could, with equal reason, deny His existence because of the tortoise's shell.
 
-
-*Answer*
+_Answer_
 
 What reasoning! The tortoise and the rhinoceros, and all the different species, are proof equally in their infinite variety of the same cause, the same design, the same aim, which are preservation, generation and death.
 
 There is unity in this infinite variety; the shell and the skin bear witness equally. What! deny God because shell does not resemble leather! And journalists have been prodigal of eulogies about these ineptitudes, eulogies they have not given to Newton and Locke, both worshippers of the Deity who spoke with full knowledge.
 
-
-*Maupertuis' Objection*
+_Maupertuis' Objection_
 
 Of what use are beauty and proportion in the construction of the snake? They may have uses, some say, of which we are ignorant. At least let us be silent then; let us not admire an animal which we know only by the harm it does.
 
@@ -303,7 +285,6 @@ Some are venomous, you have been so yourself. Here there is question only of the
 One is bound therefore to recognize an ineffable intelligence which even Spinoza admitted. One must agree that this intelligence shines in the vilest insect as in the stars. And as regards moral and physical ill, what can one say, what do? console oneself by enjoying physical and moral good, in worshipping the Eternal Being who has made one and permitted the other.
 
 One more word on this subject. Atheism is the vice of a few intelligent persons, and superstition is the vice of fools. But rogues! what are they? rogues.
-
 
 ### SECTION II
 
@@ -347,7 +328,6 @@ Men fattened on our substance cry to us: "Be persuaded that a she-ass has spoken
 
 These inconceivable absurdities revolt weak and rash minds, as well as wise and resolute minds. They say: "Our masters paint God to us as the most insensate and the most barbarous of all beings; therefore there is no God;" but they should say: therefore our masters attribute to God their absurdities and their furies, therefore God is the contrary of what they proclaim, therefore God is as wise and as good as they make him out mad and wicked. It is thus that wise men account for things. But if a bigot hears them, he denounces them to a magistrate who is a watchdog of the priests; and this watchdog has them burned over a slow fire, in the belief that he is avenging and imitating the divine majesty he outrages.
 
-
 ## _AUTHORITY_
 
 Wretched human beings, whether you wear green robes, turbans, black robes or surplices, cloaks and neckbands, never seek to use authority where there is question only of reason, or consent to be scoffed at throughout the centuries as the most impertinent of all men, and to suffer public hatred as the most unjust.
@@ -370,7 +350,6 @@ In another year was judged the action: _Utrum chimera bombinans in vacuo possit 
 
 In consequence, everyone thought themselves far superior to Archimedes, Euclid, Cicero, Pliny, and strutted proudly about the University quarter.
 
-
 ## _AUTHORS_
 
 Author is a generic name which can, like the name of all other professions, signify good or bad, worthy of respect or ridicule, useful and agreeable, or trash for the wastepaper-basket.
@@ -391,7 +370,6 @@ A hundred authors make compilations in order to have bread, and twenty pamphlete
 
 Real authors are those who have succeeded in one of the real arts, in epic poetry, in tragedy or comedy, in history or philosophy, who have taught men or charmed them. The others of whom we have spoken are, among men of letters, what wasps are among birds.
 
-
 ## _BANISHMENT_
 
 Banishment for a period or for life, punishment to which one condemns delinquents, or those one wishes to appear as such.
@@ -401,7 +379,6 @@ Not long ago one banished outside the sphere of jurisdiction a petty thief, a pe
 Those who have written on the rights of men, have been much tormented to know for certain if a man who has been banished from his fatherland still belongs to his fatherland. It is nearly the same thing as asking if a gambler who has been driven away from the gaming-table is still one of the gamblers.
 
 If to every man it is permitted by natural right to choose his fatherland, he who has lost the right of citizen can, with all the more reason, choose for himself a new fatherland; but can he bear arms against his former fellow-citizens? There are a thousand examples of it. How many French protestants naturalized in Holland, England and Germany have served against France, and against armies containing their own kindred and their own brothers! The Greeks who were in the King of Persia's armies made war on the Greeks, their former compatriots. One has seen the Swiss in the Dutch service fire on the Swiss in the French service. It is still worse than to fight against those who have banished you; for, after all, it seems less dishonest to draw the sword for vengeance than to draw it for money.
-
 
 ## _BANKRUPTCY_
 
@@ -422,7 +399,6 @@ It is too difficult to prove that a man has dishonoured himself on purpose, and 
 Bankrupts were very favourably treated in the last year of Louis XIV.'s reign, and during the Regency. The sad state to which the interior of the kingdom was reduced, the multitude of merchants who could not or would not pay, the quantity of unsold or unsellable effects, the fear of interrupting all commerce, obliged the government in 1715, 1716, 1718, 1721, 1722, and 1726 to suspend all proceedings against all those who were in a state of insolvency. The discussions of these actions were referred to the judge-consuls; this is a jurisdiction of merchants very expert in these cases, and better constituted for going into these commercial details than the parliaments which have always been more occupied with the laws of the kingdom than with finance. As the state was at that time going bankrupt, it would have been too hard to punish the poor middle-class bankrupts.
 
 Since then we have had eminent men, fraudulent bankrupts, but they have not been punished.
-
 
 ## _BEAUTY_
 
@@ -447,7 +423,6 @@ They will say as much of the great moral maxims, of Zarathustra's--"In doubt if 
 The negro with the round eyes and flat nose, who will not give the name of "beauties" to the ladies of our courts, will without hesitation give it to these actions and these maxims. The wicked man even will recognize the beauty of these virtues which he dare not imitate. The beauty which strikes the senses merely, the imagination, and that which is called "intelligence," is often uncertain therefore. The beauty which speaks to the heart is not that. You will find a host of people who will tell you that they have found nothing beautiful in three-quarters of the Iliad; but nobody will deny that Codrus' devotion to his people was very beautiful, supposing it to be true.
 
 There are many other reasons which determine me not to write a treatise on beauty.
-
 
 ## _BISHOP_
 
@@ -495,7 +470,6 @@ He traverses France, and enlightens himself from town to town; thence he passes 
 
 The good bishop crossed himself; he thought he was with an evil spirit, and jumped out of the cambiature.
 
-
 ## _BOOKS_
 
 You despise them, books, you whose whole life is plunged in the vanities of ambition and in the search for pleasure or in idleness; but think that the whole of the known universe, with the exception of the savage races is governed by books alone. The whole of Africa right to Ethiopia and Nigritia obeys the book of the Alcoran, after having staggered under the book of the Gospel. China is ruled by the moral book of Confucius; a greater part of India by the book of the Veidam. Persia was governed for centuries by the books of one of the Zarathustras.
@@ -534,13 +508,11 @@ To-day people complain of a surfeit: but it is not for readers to complain; the 
 
 What multiplies books, despite the law of not multiplying beings unnecessarily, is that with books one makes others; it is with several volumes already printed that a new history of France or Spain is fabricated, without adding anything new. All dictionaries are made with dictionaries; almost all new geography books are repetitions of geography books. The Summation of St. Thomas has produced two thousand fat volumes of theology; and the same family of little worms that have gnawed the mother, gnaw likewise the children.
 
-
 ## _BOULEVERD OR BOULEVART_
 
 Boulevart, fortification, rampart. Belgrade is the boulevart of the Ottoman Empire on the Hungarian side. Who would believe that this word originally signified only a game of bowls? The people of Paris played bowls on the grass of the rampart; this grass was called the _verd_, like the grass market. _On boulait sur le verd._ From there it comes that the English, whose language is a copy of ours in almost all the words which are not Saxon, have called the game of bowls "bowling-green," the _verd_ (green) of the game of bowls. We have taken back from them what we had lent them. Following their example, we gave the name of _boulingrins_, without knowing the strength of the word, to the grass-plots we introduced into our gardens.
 
 I once heard two good dames who were going for a walk on the _Bouleverd_, and not on the _Boulevart_. People laughed at them, and wrongly. But in all matters custom carries the day; and everyone who is right against custom is hissed or condemned.
-
 
 ## _BOURGES_
 
@@ -549,7 +521,6 @@ Our questions barely turn on geography; but let us be permitted to mark in two w
 I do not wish to combat the ancientness of any town or any family. But was there ever an empire of the Gauls? Did the Celts have kings? This mania for antiquity is a malady from which one will not be healed so soon. The Gauls, Germany, Scandinavia have nothing that is antique save the land, the trees and the animals. If you want antiquities, go toward Asia, and even then it is very small beer. Man is ancient and monuments new, that is what we have in view in more than one article.
 
 If it were a real benefit to be born in a stone or wooden enclosure more ancient than another, it would be very reasonable to make the foundation of one's town date back to the time of the war of the giants; but since there is not the least advantage in this vanity, one must break away from it. That is all I had to say about Bourges.
-
 
 ## _BRAHMINS_
 
@@ -580,7 +551,6 @@ Those are the principal articles of the Brahmins' faith, which have lasted witho
 This is only a small part of the ancient cosmogony of the Brahmins. Their rites, their pagodas, prove that among them everything was allegorical; they still represent virtue beneath the emblem of a woman who has ten arms, and who combats ten mortal sins represented by monsters. Our missionaries have not failed to take this image of virtue for that of the devil, and to assure us that the devil is worshipped in India. We have never been among these people but to enrich ourselves and to calumniate them.
 
 Really we have forgotten a very essential thing in this little article on the Brahmins; it is that their sacred books are filled with contradictions. But the people do not know of them, and the doctors have solutions ready, figurative meanings, allegories, symbols, express declarations of Birma, Brahma and Vitsnou, which should close the mouths of all who reason.
-
 
 ## _CHARACTER_
 
@@ -620,7 +590,6 @@ Age enfeebles character; it is a tree that produces only degenerate fruit, but t
 
 One says to a farmer: "You have too many fish in this pond, they will not prosper; there are too many cattle in your meadows, grass lacks, they will grow thin." It happens after this exhortation that the pikes eat half my man's carp, and the wolves the half of his sheep; the rest grow fat. Will he congratulate himself on his economy? This countryman, it is you; one of your passions has devoured the others, and you think you have triumphed over yourself. Do not nearly all of us resemble that old general of ninety who, having met some young officers who were debauching themselves with some girls, says to them angrily: "Gentlemen, is that the example I give you?"
 
-
 ## _CHARLATAN_
 
 The article entitled "Charlatan" in the "Encyclopedic Dictionary" is filled with useful truths agreeably presented. The Chevalier de Jaucourt has there presented the charlatanry of medicine.
@@ -647,7 +616,6 @@ Was there not a little charlatanry in Socrates with his familiar demon, and Apol
 
 All leaders of sects in philosophy have been somewhat charlatans: but the greatest of all have been those who have aspired to domination. Cromwell was the most terrible of all our charlatans. He appeared at precisely the only time he could succeed: under Elizabeth he would have been hanged; under Charles II. he would have been merely ridiculous. He came happily at a time when people were disgusted with kings; and his son, at a time when people were weary of a protector.
 
-
 #### Of Charlatanry in Science and Literature
 
 The sciences can barely be without charlatanry. People wish to have their opinions accepted; the quibbling doctor wishes to eclipse the angelic doctor; the recondite doctor wishes to reign alone. Each builds his system of physics, metaphysics, scholastic theology; it is a competition in turning one's merchandise to account. You have agents who extol it, fools who believe you, protectors who support you.
@@ -666,7 +634,6 @@ Another bookseller gives the gazettes and almanacs for ten years past to a man o
 
 Of this kind of book there are about fifty thousand in Europe; and it all passes just like the secret of whitening the skin, of darkening the hair, and the universal panacea.
 
-
 ## _CIVIL LAWS_
 
 #### Extract from Some Notes found among a Lawyer's Papers, which maybe merit Examination.
@@ -680,7 +647,6 @@ Let nothing be infamous save vice.
 Let taxes be always proportional.
 
 Let the law never be contradictory to custom: for if the custom be good, the law is worthless.
-
 
 ## _CLIMATE_
 
@@ -712,7 +678,6 @@ In all these vicissitudes climate has counted for nothing: government has done e
 
 There are peoples whose religion has been made by neither climate nor government. What cause detached the north of Germany, Denmark, three-quarters of Switzerland, Holland, England, Scotland, Ireland, from the Roman communion? Poverty. Indulgences and deliverance from purgatory were sold too dear to souls whose bodies had at that time very little money. The prelates, the monks devoured a province's whole revenue. People took a cheaper religion. At last, after twenty civil wars, people believed that the Pope's religion was very good for great lords, and the reformed religion for citizens. Time will show whether the Greek religion or the Turkish religion will prevail by the Ægean Sea and the Pont-Euxine.
 
-
 ## _COMMON SENSE_
 
 There are sometimes in common expressions an image of what passes in the depths of all men's hearts. Among the Romans _sensus communis_ signified not only common sense, but humanity, sensibility. As we are not as good as the Romans, this word signifies among us only half of what it signified among them. It means only good sense, plain reason, reason set in operation, a first notion of ordinary things, a state midway between stupidity and intelligence. "This man has no common sense" is a great insult. "A common-sense man" is an insult likewise; it means that he is not entirely stupid, and that he lacks what is called wit and understanding. But whence comes this expression _common sense_, unless it be from the senses? Men, when they invented this word, avowed that nothing entered the soul save through the senses; otherwise, would they have used the word _sense_ to signify common reasoning?
@@ -726,7 +691,6 @@ How has this strange mental alienation been able to operate? How can the ideas w
 How is the organ of this Arab, who sees half the moon in Mohammed's sleeve, vitiated? It is through fear. He has been told that if he did not believe in this sleeve, his soul, immediately after his death, when passing over the pointed bridge, would fall for ever into the abyss. He has been told even worse things: If ever you have doubts about this sleeve, one dervish will treat you as impious; another will prove to you that you are an insensate fool who, having all possible motives for believing, have not wished to subordinate your superb reason to the evidence; a third will report you to the little divan of a little province, and you will be legally impaled.
 
 All this terrifies the good Arab, his wife, his sister, all his little family into a state of panic. They have good sense about everything else, but on this article their imagination is wounded, as was the imagination of Pascal, who continually saw a precipice beside his armchair. But does our Arab believe in fact in Mohammed's sleeve? No. He makes efforts to believe; he says it is impossible, but that it is true; he believes what he does not believe. On the subject of this sleeve he forms in his head a chaos of ideas which he is afraid to disentangle; and this veritably is not to have common sense.
-
 
 ## _CONCATENATION OF EVENTS_
 
@@ -749,7 +713,6 @@ Let us understand each other: every effect clearly has its cause, going back fro
 There is a genealogical tree of the events of this world. It is incontestable that the inhabitants of Gaul and Spain are descended from Gomer, and the Russians from Magog, his younger brother: one finds this genealogy in so many fat books! On this basis one cannot deny that the Great Turk, who is also descended from Magog, was not bound to be well beaten in 1769 by Catherine II., Empress of Russia. This adventure is clearly connected with other great adventures. But that Magog spat to right or left, near Mount Caucasus, and that he made two circles in a well or three, that he slept on the left side or on the right; I do not see that that has had much influence on present affairs.
 
 One must think that everything is not complete in nature, as Newton has demonstrated, and that every movement is not communicated step by step until it makes a circuit of the world, as he has demonstrated still further. Throw into water a body of like density, you calculate easily that after a short time the movement of this body, and the movement it has communicated to the water, are destroyed; the movement disappears and is effaced; therefore the movement that Magog might produce by spitting in a well cannot influence what is passing to-day in Moldavia and Wallachia; therefore present events are not the children of all past events: they have their direct lines; but a thousand little collateral lines do not serve them at all. Once more, every being has a father, but every being has not children.
-
 
 ## _CONTRADICTIONS_
 
@@ -775,7 +738,6 @@ Men are equally mad everywhere; they have made the laws little by little, as gap
 
 Nevertheless, this world exists as if everything were well ordered; the irregularity is of our nature; our political world is like our globe, a misshapen thing which always preserves itself. It would be mad to wish that the mountains, the seas, the rivers, were traced in beautiful regular forms; it would be still more mad to ask perfect wisdom of men; it would be wishing to give wings to dogs or horns to eagles.
 
-
 ## _CORN_
 
 The Gauls had corn in Caesar's time: one is curious to know where they and the Teutons found it to sow. People answer you that the Tyrians had brought it into Spain, the Spaniards into Gaul, the Gauls into Germany. And where did the Tyrians get this corn? Among the Greeks probably, from whom they received it in exchange for their alphabet.
@@ -793,7 +755,6 @@ A Jew has assured me that corn came by itself in Mesopotamia, like the apples, w
 Some great philosophers whose talents we esteem and whose systems we do not follow (Buffon) have claimed on page 195 of the "Natural History of the Dog," that mankind has made corn; that our fathers by virtue of sowing lolium and gramina changed them into wheat. As these philosophers are not of our opinion about shells, they will permit us not to be of theirs about corn. We do not believe that one has ever made tulips grow from jasmin. We find that the germ of corn is quite different from that of lolium, and we do not believe in any transmutation. When somebody shows it to us we will retract.
 
 Corn assuredly is not the food of the greater part of the world. Maize, tapioca, feed the whole of America. We have entire provinces where the peasants eat nothing but chestnut bread, more nourishing and of better flavour than that of rye and barley which so many people eat, and which is much better than the ration bread which is given to the soldier. The whole of southern Africa does not know of bread. The immense archipelago of the Indies, Siam, Laos, Pegu, Cochin China, Tonkin, a part of China, Japan, the coast of Malabar and Coromandel, the banks of the Ganges furnish a rice, the cultivation of which is much easier than that of wheat, and which causes it to be neglected. Corn is absolutely unknown for the space of fifteen hundred leagues on the coasts of the Glacial Sea. This food, to which we are accustomed, is among us so precious that the fear of seeing a dearth of it alone causes riots among the most subjugated peoples. The corn trade is everywhere one of the great objects of government; it is a part of our being, and yet this essential commodity is sometimes squandered ridiculously. The powder merchants use the best flour for covering the heads of our young men and women. But over three-quarters of the earth bread is not eaten at all. People maintain that the Ethiopians mocked at the Egyptians who lived on bread. But since it is our chief food, corn has become one of the great objects of trade and politics. So much has been written on this subject, that if a husbandman sowed as much corn as the weight of the volumes we have about this commodity, he might hope for the amplest harvest, and become richer than those who in their gilded and lacquered drawing-rooms ignore his exceeding labour and wretchedness.
-
 
 ## _CROMWELL_
 
@@ -818,7 +779,6 @@ Never was a king more absolute than he was. He said that he had preferred govern
 
 There is barely an example in Europe of any man who, come from so low, raised himself so high. But what was absolutely essential to him with all his talents? Fortune. He had this fortune; but was he happy? He lived poorly and anxiously until he was forty-three; from that time he bathed himself in blood, passed his life in turmoil, and died before his time at the age of fifty-seven. Let us compare this life with that of Newton, who lived eighty-four years, always tranquil, always honoured, always the light of all thinking beings, seeing increase each day his renown, his reputation, his fortune, without ever having either care or remorse; and let us judge which of the two had the better part.
 
-
 ### SECTION II
 
 Oliver Cromwell was regarded with admiration by the Puritans and independents of England; he is still their hero; but Richard Cromwell, his son, is my man.
@@ -831,7 +791,6 @@ Richard Cromwell, on the contrary, born with a gentle, wise spirit, refused to k
 
 Readers, give your verdict. If you had to choose between the destiny of the father and that of the son, which would you take?
 
-
 ## _CUSTOMS_
 
 #### Contemptible Customs do not always Suppose a Contemptible Nation
@@ -839,7 +798,6 @@ Readers, give your verdict. If you had to choose between the destiny of the fath
 There are cases where one must not judge a nation by its customs and popular superstitions. I suppose that Caesar, having conquered Egypt, wanting to make trade flourish in the Roman Empire, has sent an embassy to China, by the port of Arsinoe, the Red Sea, and the Indian Ocean. The Emperor Yventi, first of his name, was then reigning; the annals of China represent him as a very wise and learned prince. After receiving Caesar's ambassadors with all the Chinese politeness, he informs himself secretly through his interpreters of the customs, science and religion of this Roman people, as celebrated in the West as the Chinese people is in the East. He learns first of all that this people's pontiffs have arranged their year in so absurd a fashion that the sun has already the heavenly signs of spring when the Romans are celebrating the first festivals of winter.
 
 He learns that this nation supports at great cost a college of priests who know exactly the time when one should set sail and when one should give battle, by inspecting an ox's liver, or by the way in which the chickens eat barley. This sacred science was brought formerly to the Romans by a little god named Tages, who emerged from the earth in Tuscany. These peoples worship one supreme God whom they always call the very great and very good God. Nevertheless, they have built a temple to a courtesan named Flora; and almost all the good women of Rome have in their homes little household gods four or five inches high. One of these little divinities is the goddess of the breasts; the other the goddess of the buttocks. There is a household god who is called the god Pet. The emperor Yventi starts laughing: the tribunals of Nankin think first of all with him that the Roman ambassadors are madmen or impostors who have taken the title of envoys of the Roman Republic; but as the emperor is as just as he is polite, he has private talks with the ambassadors. He learns that the Roman pontiffs have been very ignorant, but that Caesar is now reforming the calendar; they admit to him that the college of augurs was established in early barbarous times; that this ridiculous institution, become dear to a people long uncivilized, has been allowed to subsist; that all honest people laugh at the augurs; that Caesar has never consulted them; that according to a very great man named Cato, never has an augur been able to speak to his comrade without laughter; and that finally Cicero, the greatest orator and the best philosopher in Rome, has just written against the augurs a little work entitled "Of Divination," in which he commits to eternal ridicule all the soothsayers, all the predictions, and all the sorcery of which the world is infatuated. The emperor of China is curious to read Cicero's book, the interpreters translate it; he admires the book and the Roman Republic.
-
 
 ## _DEMOCRACY_
 
@@ -854,7 +812,6 @@ The real vice of a civilized republic is in the Turkish fable of the dragon with
 Democracy seems suitable only to a very little country, and further it must be happily situated. Small though it be, it will make many mistakes, because it will be composed of men. Discord will reign there as in a monastery; but there will be no St. Bartholomew, no Irish massacres, no Sicilian vespers, no inquisition, no condemnation to the galleys for having taken some water from the sea without paying for it, unless one supposes this republic composed of devils in a corner of hell.
 
 One questions every day whether a republican government is preferable to a king's government? The dispute ends always by agreeing that to govern men is very difficult. The Jews had God Himself for master; see what has happened to them on that account: nearly always have they been beaten and slaves, and to-day do you not find that they cut a pretty figure?
-
 
 ## _DESTINY_
 
@@ -898,11 +855,9 @@ The owl, which feeds on mice in its ruins, said to the nightingale: "Finish sing
 
 You ask me what will become of liberty? I do not understand you. I do not know what this liberty is of which you speak; so long have you been disputing about its nature, that assuredly you are not acquainted with it. If you wish, or rather, if you are able to examine peaceably with me what it is, pass to the letter L.
 
-
 ## _DEVOUT_
 
 The word "devout" signifies "devoted"; and in the strict sense of the term this qualification should belong only to monks and nuns who make vows. But as in the Gospel there is no more mention of vows than of devout persons, this title does not in fact belong to anyone. Everyone should be equally righteous. A man who styles himself devout resembles a commoner who styles himself a marquis; he arrogates to himself a quality he does not possess. He thinks himself more worthy than his neighbour. One can forgive such foolishness in women; their frailty and their frivolity render them excusable; the poor creatures pass from a lover to a director in good faith: but one cannot pardon the rogues who direct them, who abuse their ignorance, who establish the throne of their pride on the credulity of the sex. They resolve themselves into a little mystic seraglio composed of seven or eight aged beauties, subdued by the weight of their lack of occupation, and almost always do these persons pay tribute to their new masters. No young woman without a lover, no aged devout woman without a director. Oh! the Orientals are wiser than we are! Never does a pasha say: "We supped yesterday with the Aga of the Janissaries who is my sister's lover, and the vicar of the mosque who is my wife's director."
-
 
 ## _THE ECCLESIASTICAL MINISTRY_
 
@@ -943,7 +898,6 @@ From this it results obviously that the authority of the clergy is and can be sp
 It follows from this further that the sovereign, careful not to suffer any partition of his authority, must permit no enterprise which puts the members of society in external and civil dependence on an ecclesiastical body.
 
 Such are the incontestable principles of real canon law, of which the rules and decisions should be judged at all times by the eternal and immutable truths which are founded on natural law and the necessary order of society.
-
 
 ## _EMBLEM_
 
@@ -995,7 +949,6 @@ In Ezekiel are images which appear to us as licentious and revolting: in those t
 
 It results from all the Jewish prophets and from all the Jewish books, as from all the books which instruct us in the usages of the Chaldeans, the Persians, the Phoenicians, the Syrians, the Indians, the Egyptians; it results, I say, that their customs were not ours, that this ancient world in no way resembled our world. Go from Gibraltar to Mequinez merely, the manners are no longer the same; no longer does one find the same ideas; two leagues of sea have changed everything.
 
-
 ## _ON THE ENGLISH THEATRE_
 
 I have cast my eyes on an edition of Shakespeare issued by Master Samuel Johnson. I saw there that foreigners who are astonished that in the plays of the great Shakespeare a Roman senator plays the buffoon, and that a king appears on the stage drunk, are treated as little-minded. I do not desire to suspect Master Johnson of being a sorry jester, and of being too fond of wine; but I find it somewhat extraordinary that he counts buffoonery and drunkenness among the beauties of the tragic stage: and no less singular is the reason he gives, that the poet disdains accidental distinctions of circumstance and country, like a painter who, content with having painted the figure, neglects the drapery. The comparison would be more just if he were speaking of a painter who in a noble subject should introduce ridiculous grotesques, should paint Alexander the Great mounted on an ass in the battle of Arbela, and Darius' wife drinking at an inn with rapscallions.
@@ -1009,7 +962,6 @@ The famous Addison, who flourished under Queen Anne, is perhaps of all English w
 From the very first act the verses are worthy of Virgil, and the sentiments worthy of Cato. There is no theatre in Europe where the scene of Juba and Syphax was not applauded as a masterpiece of skill, of well-developed characters, of fine contrasts, and of pure and noble diction. Literary Europe, which knows the translations of this piece, applauded even to the philosophic traits with which the role of Cato is filled.
 
 The piece had the great success which its beauty of detail merited, and which was assured to it by the troubles in England to which this tragedy was in more than one place a striking allusion. But the appositeness of these allusions having passed, the verse being only beautiful, the maxims being only noble and just, and the piece being cold, people no longer felt anything more than the coldness. Nothing is more beautiful than Virgil's second canto; recite it on the stage, it will bore: on the stage one must have passion, live dialogue, action. People soon returned to Shakespeare's uncouth but captivating aberrations.
-
 
 ## _ENVY_
 
@@ -1041,7 +993,6 @@ Madame Pernelle is right: "The envious will die, but envy never." (Tartufe, Act 
 
 But it is good proverb which says that "it is better to be envious than to have pity." Let us be envious, therefore, as hard as we can.
 
-
 ## _EQUALITY_
 
 ### SECTION I
@@ -1064,7 +1015,6 @@ When the prizes are drawn you come to us: "I am a man like you," you say. "I hav
 
 "Go and take them in the land of the Cafres," we answer, "or the Hottentots, or the Samoyedes; come to an amicable arrangement with them; here all the shares are taken. If among us you want to eat, be clothed, lodged, warmed, work for us as your father did; serve us or amuse us, and you will be paid; otherwise you will be obliged to ask charity, which would be too degrading to your sublime nature, and would stop your being really the equal of kings, and even of country parsons, according to the pretensions of your noble pride."
 
-
 ### SECTION II
 
 All the poor are not unhappy. The majority were born in that state, and continual work stops their feeling their position too keenly; but when they feel it, then one sees wars, like that of the popular party against the senate party in Rome, like those of the peasants in Germany, England and France. All these wars finish sooner or later with the subjection of the people, because the powerful have money, and money is master of everything in a state: I say in a state; for it is not the same between nations. The nation which makes the best use of the sword will always subjugate the nation which has more gold and less courage.
@@ -1078,7 +1028,6 @@ As men go to excess in everything when they can, this inequality has been exagge
 All men have the right in the bottom of their hearts to think themselves entirely equal to other men: it does not follow from that that the cardinal's cook should order his master to prepare him his dinner; but the cook can say: "I am a man like my master; like him I was born crying; like me he will die with the same pangs and the same ceremonies. Both of us perform the same animal functions. If the Turks take possession of Rome, and if then I am cardinal and my master cook, I shall take him into my service." This discourse is reasonable and just; but while waiting for the Great Turk to take possession of Rome, the cook must do his duty, or else all human society is perverted.
 
 As regards a man who is neither a cardinal's cook, nor endowed with any other employment in the state; as regards a private person who is connected with nothing, but who is vexed at being received everywhere with an air of being patronized or scorned, who sees quite clearly that many _monsignors_ have no more knowledge, wit or virtue than he, and who at times is bored at waiting in their antechambers, what should he decide to do? Why, to take himself off.
-
 
 ## _EXPIATION_
 
@@ -1117,7 +1066,6 @@ It is very difficult to believe that Leo X. was so imprudent as to have this imp
 If I dare give my opinion of this impost, I think that the various editions are not reliable; the prices are not at all proportionate: these prices do not agree with those which are alleged by d'Aubigne, grandfather of Madame de Maintenon, in the "Confession de Sanci"; he rates virginity at six _gros_, and incest with his mother and sister at five _gros_; this account is ridiculous. I think that there was in fact a tariff established in the datary's office, for those who came to Rome to be absolved, or to bargain for dispensations; but that the enemies of Rome added much to it in order to render it more odious.
 
 What is quite certain is that these imposts were never authorized by any council; that it was an enormous abuse invented by avarice, and respected by those whose interest it was not to abolish it. The buyers and the sellers were equally satisfied: thus, barely anybody protested, until the troubles of the reformation. It must be admitted that an exact note of all these imposts would be of great service to the history of the human mind.
-
 
 ## _EXTREME_
 
@@ -1159,7 +1107,6 @@ Is there any truth in metaphysics? Seize first of all the points that are most a
 
 It is with all things as with colours; the weakest eyes distinguish black from white; the better, more practised eyes, discern shades that resemble each other.
 
-
 ## _EZOURVEIDAM_
 
 What is this "Ezourveidam" which is in the King of France's library? It is an ancient commentary which an ancient Brahmin composed once upon a time, before the epoch of Alexander, on the ancient "Veidam," which was itself much less ancient than the book of the "Shasta."
@@ -1173,7 +1120,6 @@ Those who wish to consult it will see that after many revolutions produced by th
 Is this Indian anecdote taken from the Jewish books? have the Jews copied it from the Indians? or can one say that both wrote it originally, and that fine minds meet?
 
 The Jews were not permitted to think that their writers had drawn anything from the Brahmins, for they had never heard tell of them. We are not permitted to think about Adam otherwise than the Jews. Consequently I hold my tongue, and I do not think at all.
-
 
 ## _FAITH_
 
@@ -1207,7 +1153,6 @@ Pico della Mirandola made a great sign of the cross. "Eh! paternal God," he crie
 
 "I thought as much," said Pico della Mirandola.
 
-
 ## _FALSE MINDS_
 
 We have blind men, one-eyed men, squint-eyed men, men with long sight, short sight, clear sight, dim sight, weak sight. All that is a faithful enough image of our understanding; but we are barely acquainted with false sight. There are hardly men who always take a cock for a horse, or a chamber-pot for a house. Why do we often come across minds otherwise just enough, which are absolutely false on important things? Why does this same Siamese who will never let himself be cheated when there is question of counting him three rupees, firmly believe in the metamorphoses of Sammonocodom? By what strange singularity do sensible men resemble Don Quixote who thought he saw giants where other men saw only windmills? Still, Don Quixote was more excusable than the Siamese who believes that Sammonocodom came several times on earth, and than the Turk who is persuaded that Mahomet put half the moon in his sleeve; for Don Quixote, struck with the idea that he must fight giants, can figure to himself that a giant must have a body as big as a mill; but from what supposition can a sensible man set off to persuade himself that the half of the moon has gone into a sleeve, and that a Sammonocodom has come down from heaven to play at shuttlecock, cut down a forest, and perform feats of legerdemain?
@@ -1231,7 +1176,6 @@ There are unfortunately many ways of having a false mind:
 A judge who would condemn a man who has killed his assassin, because homicide is forbidden, would be as iniquitous as he was poor reasoner.
 
 Similar cases are subdivided in a thousand different gradations. The good mind, the just mind, is that which distinguishes them; whence comes that one has seen so many iniquitous judgments, not because the judges' hearts were bad, but because they were not sufficiently enlightened.
-
 
 ## _FATHERLAND_
 
@@ -1261,7 +1205,6 @@ Well now, is it better for your fatherland to be a monarchy or a republic? For f
 
 It is sad that often in order to be a good patriot one is the enemy of the rest of mankind. To be a good patriot is to wish that one's city may be enriched by trade, and be powerful by arms. It is clear that one country cannot gain without another loses, and that it cannot conquer without making misery. Such then is the human state that to wish for one's country's greatness is to wish harm to one's neighbours. He who should wish that his fatherland might never be greater, smaller, richer, poorer, would be the citizen of the world.
 
-
 ## _FINAL CAUSES_
 
 If a clock is not made to tell the hour, I will then admit that final causes are chimeras; and I shall consider it quite right for people to call me "_cause-finalier_," that is--an imbecile.
@@ -1282,7 +1225,6 @@ People present to us as objections the irregularities of the globe, the volcanoe
 
 The chains of mountains which crown the two hemispheres, and more than six hundred rivers which flow right to the sea from the feet of these rocks; all the streams which come down from these same reservoirs, and which swell the rivers, after fertilizing the country; the thousands of fountains which start from the same source, and which water animal and vegetable kind; all these things seem no more the effect of a fortuitous cause and of a declension of atoms, than the retina which receives the rays of light, the crystalline lens which refracts them, the incus, the malleus, the stapes, the tympanic membrane of the ear, which receives the sounds, the paths of the blood in our veins, the systole and diastole of the heart, this pendulum of the machine which makes life.
 
-
 ## _FRAUD_
 
 Bambabef the fakir one day met one of the disciples of Confutzee, whom we call "Confucius," and this disciple was named "Ouang," and Bambabef maintained that the people had need of being deceived, and Ouang claimed that one should never deceive anybody; and here is the summary of their dispute:
@@ -1294,7 +1236,6 @@ We must imitate the Supreme Being who does not show us things as they are; he ma
 OUANG:
 
 What you name error is not one at all. The sun, placed as it is at millions of millions of lis beyond our globe, is not the sun we see. We perceive in reality, and we can perceive, only the sun which is depicted in our retina at a determined angle. Our eyes have not been given us for appreciating sizes and distances, we need other aids and other operations to appreciate them.
-
 
 Bambabef seemed very astonished at this proposition. Ouang, who was very patient, explained to him the theory of optics; and Bambabef, who had a quick understanding, surrendered to the demonstrations of Confutzee's disciple, then he resumed the argument.
 
@@ -1372,7 +1313,6 @@ OUANG:
 
 Let us think above all that, if a philosopher wishes to be useful to human society, he must announce a God.
 
-
 ## _FREE-WILL_
 
 Ever since men have reasoned, the philosophers have obscured this matter: but the theologians have rendered it unintelligible by absurd subtleties about grace. Locke is perhaps the first man to find a thread in this labyrinth; for he is the first who, without having the arrogance of trusting in setting out from a general principle, examined human nature by analysis. For three thousand years people have disputed whether or no the will is free. In the "Essay on the Human Understanding," chapter on "Power," Locke shows first of all that the question is absurd, and that liberty can no more belong to the will than can colour and movement.
@@ -1411,7 +1351,6 @@ If a brigand is executed, his accomplice who sees him expire has the liberty of 
 
 Liberty then is only and can be only the power to do what one will. That is what philosophy teaches us. But if one considers liberty in the theological sense, it is a matter so sublime that profane eyes dare not raise themselves to it.
 
-
 ## _FRENCH_
 
 The French language did not begin to have any form until towards the tenth century; it was born from the ruins of Latin and Celtic, mixed with a few Germanic words. This language was first of all the _romanum rusticum_, rustic Roman, and the Germanic language was the court language up to the time of Charles the Bald; Germanic remained the sole language of Germany after the great epoch of the partition of 843. Rustic Roman, the Romance language, prevailed in Western France; the people of the country of Vaud, of the Valais, of the Engadine valley, and of a few other cantons, still retain to-day manifest vestiges of this idiom.
@@ -1428,11 +1367,9 @@ The pleasure and liberty of society having been long known only in France, the l
 
 Many persons have thought that the French language has become impoverished since the time of Amyot and Montaigne: one does indeed find in many authors expressions which are no longer admissible; but they are for the most part familiar expressions for which equivalents have been substituted. The language has been enriched with a quantity of noble and energetic expressions; and without speaking here of the eloquence of things, it has acquired the eloquence of words. It is in the reign of Louis XIV., as has been said, that this eloquence had its greatest splendour, and that the language was fixed. Whatever changes time and caprice prepare for it, the good authors of the seventeenth and eighteenth centuries will always serve as models.
 
-
 ## _FRIENDSHIP_
 
 Friendship is the marriage of the soul; and this marriage is subject to divorce. It is a tacit contract between two sensitive and virtuous persons. I say "sensitive," because a monk, a recluse can be not wicked and live without knowing what friendship is. I say "virtuous," because the wicked have only accomplices; voluptuaries have companions in debauch, self-seekers have partners, politicians get partisans; the generality of idle men have attachments; princes have courtiers; virtuous men alone have friends. Cethegus was the accomplice of Catilina, and Maecenas the courtier of Octavius; but Cicero was the friend of Atticus.
-
 
 ## _GOD_
 
@@ -1445,7 +1382,6 @@ During the reign of Arcadius, Logomacos, lecturer in theology of Constantinople,
 "All tongues are equal in the ears of God," answered the Scythian. "We were singing His praises."
 
 "That's very extraordinary," returned the theologian. "A Scythian family who pray God without having been taught by us!" He soon engaged Dondindac the Scythian in conversation, for he knew a little Scythian, and the other a little Greek. The following conversation was found in a manuscript preserved in the library of Constantinople.
-
 
 LOGOMACOS:
 
@@ -1561,7 +1497,6 @@ Before receiving your instruction, I must tell you what happened to me one day. 
 
 "You're joking," said the cockchafer. "It was a cockchafer bubbling over with genius who is the architect of this building." From that time I resolved never to argue.
 
-
 ## _HELVETIA_
 
 Happy Helvetia! to what charter do you owe your liberty? to your courage, to your resolution, to your mountains.
@@ -1581,7 +1516,6 @@ Happy Helvetia! to what charter do you owe your liberty? to your courage, to you
 Why is liberty so rare?
 
 Because it is the chiefest good.
-
 
 ## _HISTORY_
 
@@ -1635,7 +1569,6 @@ It is difficult to give to the most ancient of the pyramids less than four thous
 
 However, whether it be Menes, Thaut or Cheops, or Rameses who erected one or two of these prodigious masses, we shall not be the more instructed of the history of ancient Egypt: the language of this people is lost. We therefore know nothing but that before the most ancient historians there was matter for making an ancient history.
 
-
 ## _IGNORANCE_
 
 I am ignorant of how I was formed, and of how I was born. For a quarter of my life I was absolutely ignorant of the reasons for all that I saw, heard and felt, and I was nothing but a parrot at whom other parrots chattered.
@@ -1670,7 +1603,6 @@ Whence comes evil, and why does evil exist?
 
 O atoms of a day! O my companions in infinite littleness, born like me to suffer everything and to be ignorant of everything, are there enough madmen among you to believe that they know all these things? No, there are not; no, at the bottom of your hearts you feel your nonentity as I render justice to mine. But you are arrogant enough to want people to embrace your vain systems; unable to be tyrants over our bodies, you claim to be tyrants over our souls.
 
-
 ## _THE IMPIOUS_
 
 Who are the impious? those who give a white beard, feet and hands to the Being of beings, to the great Demiourgos, to the eternal intelligence by which nature is governed. But they are only excusably impious, poor impious people against whom one must not grow wroth.
@@ -1684,7 +1616,6 @@ The impious man who supposes the great Being jealous, arrogant, malignant, vindi
 But how would you treat the impious man who says to you: "See only through my eyes, do not think; I announce to you a tyrannical God who has made me to be your tyrant; I am his well-beloved: during all eternity he will torture millions of his creatures whom he detests in order to gladden me; I shall be your master in this world, and I shall laugh at your torments in the other."
 
 Do you not feel an itching to thrash this cruel, impious fellow? If you are born gentle, will you not run with all your might to the west when this barbarian utters his atrocious reveries in the east?
-
 
 ## _JOAN OF ARC_
 
@@ -1731,7 +1662,6 @@ It is sufficiently well-known how someone had the cunning and meanness to put a 
 Most of our historians, lovers of the so-called embellishments of history rather than of truth, say that Joan went fearlessly to the torture; but as the chronicles of the times bear witness, and as the historian Villaret admits, she received her sentence with cries and tears; a weakness pardonable in her sex, and perhaps in ours, and very compatible with the courage which this girl had displayed amid the dangers of war; for one can be fearless in battle, and sensitive on the scaffold.
 
 I must add that many persons have believed without any examination that the Maid of Orleans was not burned at Rouen at all, although we have the official report of her execution. They have been deceived by the account we still have of an adventuress who took the name of the "Maid," deceived Joan of Arc's brothers, and under cover of this imposture, married in Lorraine a nobleman of the house of Armoise. There were two other rogues who also passed themselves off as the "Maid of Orleans." All three claimed that Joan was not burned at all, and that another woman had been substituted for her. Such stories can be admitted only by those who want to be deceived.
-
 
 ## _KISSING_
 
@@ -1780,7 +1710,6 @@ Behold the danger: there is one nerve of the fifth pair which goes from the mout
 It is to be remarked that the human species, the turtledoves and the pigeons alone are acquainted with kisses; thence came among the Latins the word _columbatim_, which our language has not been able to render. There is nothing of which abuse has not been made. The kiss, designed by nature for the mouth, has often been prostituted to membranes which do not seem made for this usage. One knows of what the templars were accused.
 
 We cannot honestly treat this interesting subject at greater length, although Montaigne says: "One should speak thereof shamelessly: brazenly do we utter 'killing,' 'wounding,' 'betraying,' but of that we dare not speak but with bated breath."
-
 
 ## _LANGUAGES_
 
@@ -1834,7 +1763,6 @@ What does most harm to the nobility of the language is not this passing fashion 
 
 All languages being imperfect, it does not follow that one should change them. One must adhere absolutely to the manner in which the good authors have spoken them; and when one has a sufficient number of approved authors, a language is fixed. Thus one can no longer change anything in Italian, Spanish, English, French, without corrupting them; the reason is clear: it is that one would soon render unintelligible the books which provide the instruction and the pleasure of the nations.
 
-
 ## _LAWS_
 
 Sheep live very placidly in community, they are considered very easy-going, because we do not see the prodigious quantity of animals they devour. It is even to be believed that they eat them innocently and without knowing it, like us when we eat a Sassenage cheese. The republic of the sheep is a faithful representation of the golden age.
@@ -1866,7 +1794,6 @@ But I delight in thinking that there is a natural law independent of all human c
 I am told that there are laws among thieves, and also laws of war. I ask what are these laws of war. I learn that they mean hanging a brave officer who has held fast in a bad post without cannon against a royal army; that they mean having a prisoner hanged, if the enemy has hanged one of yours; that they mean putting to the fire and the sword villages which have not brought their sustenance on the appointed day, according to the orders of the gracious sovereign of the district. "Good," say I, "that is the 'Spirit of the Laws.'"
 
 It seems to me that most men have received from nature enough common sense to make laws, but that everyone is not just enough to make good laws.
-
 
 ## _LIBERTY_
 
@@ -1956,7 +1883,6 @@ A: Really the liberty you would have there would be a comic liberty! God would h
 
 B: I suspect you are right. I will think about it.
 
-
 ## _LIBRARY_
 
 A big library has this in it of good, that it dismays those who look at it. Two hundred thousand volumes discourage a man tempted to print; but unfortunately he at once says to himself: "People do not read all those books, and they may read mine." He compares himself to a drop of water who complains of being lost in the ocean and ignored: a genius had pity on it; he caused it to be swallowed by an oyster; it became the most beautiful pearl in the Orient, and was the chief ornament in the throne of the Great Mogul. Those who are only compilers, imitators, commentators, splitters of phrases, usurious critics, in short, those on whom a genius has no pity, will always remain drops of water.
@@ -1981,7 +1907,6 @@ We have no longer anything either of Museus or of Linus. A few passages from the
 
 Augustus had formed the library called the Palatine. The statue of Apollo presided over it. The emperor embellished it with busts of the best authors. One saw in Rome twenty-nine great public libraries. There are now more than four thousand important libraries in Europe. Choose which suits you, and try not to be bored.
 
-
 ## _LIMITS OF THE HUMAN MIND_
 
 Someone asked Newton one day why he walked when he wanted to, and how his arm and his hand moved at his will. He answered manfully that he had no idea. "But at least," his interlocutor said to him, "you who understand so well the gravitation of the planets will tell me why they turn in one direction rather than in another!" And he again confessed that he had no idea.
@@ -1996,7 +1921,6 @@ Who will teach us by what mechanism this grain of wheat that we throw into the g
 
 Ruthlessly trenchant fellow, wordy pedagogue, meddlesome theorist, you seek the limits of your mind. They are at the end of your nose.
 
-
 ## _LOCAL CRIMES_
 
 Traverse the whole earth, you will find that theft, murder, adultery, calumny are regarded as crimes which society condemns and curbs; but should what is approved in England, and condemned in Italy, be punished in Italy as an outrage against the whole of humanity? That is what I call a local crime. Does not that which is criminal only in the enclosure of some mountains, or between two rivers, demand of judges more indulgence than those outrages which are held in horror in all countries? Should not the judge say to himself: "I should not dare punish at Ragusa what I punish at Loretto"? Should not this reflection soften in his heart the hardness that it is only too easy to contract during the long exercise of his office?
@@ -2004,7 +1928,6 @@ Traverse the whole earth, you will find that theft, murder, adultery, calumny ar
 You know the _kermesses_ in Flanders; in the last century they were carried to a point of indecency which might revolt eyes unaccustomed to these spectacles. This is how Christmas was celebrated in some towns. First there appeared a young man half naked, with wings on his back; he recited the _Ave Maria_ to a young girl who answered him _fiat_, and the angel kissed her on the mouth: then a child enclosed in a great cardboard cock cried, imitating the cock's cry: _Puer natus est nobis._ A big ox bellowed _ubi_, which it pronounced _oubi_; a sheep bleated _Bethlehem_. An ass cried _hihanus_, to signify _eamus_; a long procession, preceded by four fools with baubles and rattles, closed the performance. There remain to-day traces of these popular devotions, which among more educated peoples would be taken for profanations. A bad-tempered Swiss, more drunk maybe than those who played the roles of ox and ass, came to words with them in Louvain; blows were given; the people wanted to hang the Swiss, who escaped with difficulty.
 
 The same man had a violent quarrel at the Hague in Holland for having stoutly taken Barneveldt's part against an extravagant Gomarist. He was put into prison in Amsterdam for having said that priests are the scourge of humanity and the source of all our misfortunes. "What!" he said. "If one believes that good works make for salvation, one finds oneself in a dungeon; if one laughs at a cock and an ass, one risks being hanged." This adventure, burlesque though it is, makes it quite clear that one can be reprehensible on one or two points in our hemisphere, and be absolutely innocent in the rest of the world.
-
 
 ## _LOVE_
 
@@ -2036,7 +1959,6 @@ But console yourself, Abelard, you were loved; the root of the hewn tree still r
 
 It is not the same, ladies, for a lover who has grown old in service; the externals subsist no longer; the wrinkles horrify; the white eyebrows shock; the lost teeth disgust; the infirmities estrange: all that one can do is to have the virtue of being nurse, and of tolerating what one has loved. It is burying a dead man.
 
-
 ## _LUXURY_
 
 People have declaimed against luxury for two thousand years, in verse and in prose, and people have always delighted in it.
@@ -2059,11 +1981,9 @@ If by luxury you understand excess, everyone knows that excess in any form is pe
 
 When scissors, which are certainly not of the remotest antiquity, were invented, what did people not say against the first men who pared their nails, and who cut part of the hair which fell on their noses? They were treated, without a doubt, as fops and prodigals, who bought an instrument of vanity at a high price, in order to spoil the Creator's handiwork. What an enormous sin to cut short the horn which God made to grow at the end of our fingers! It was an outrage against the Deity! It was much worse when shirts and socks were invented. One knows with what fury the aged counsellors who had never worn them cried out against the young magistrates who were addicted to this disastrous luxury.
 
-
 ## _GENERAL REFLECTION ON MAN_
 
 It needs twenty years to lead man from the plant state in which he is within his mother's womb, and the pure animal state which is the lot of his early childhood, to the state when the maturity of the reason begins to appear. It has needed thirty centuries to learn a little about his structure. It would need eternity to learn something about his soul. It takes an instant to kill him.
-
 
 ## _MAN IN THE IRON MASK_
 
@@ -2080,7 +2000,6 @@ Later it was thought that the Duke of Monmouth, whose head King James II. had cu
 All these illusions being dissipated, it remains to be learned who was this prisoner who was always masked, the age at which he died, and under what name he was buried. It is clear that if he was not allowed to pass into the courtyard of the Bastille, if he was not allowed to speak to his doctor, unless covered by a mask, it was for fear that in his features might be recognized some too striking resemblance. He might show his tongue, and never his face. As regards his age, he himself said to the Bastille apothecary, a few days before his death, that he thought he was about sixty; and Master Marsolan, surgeon to the Marechal de Richelieu, and later to the Duc d'Orleans, regent, son-in-law of this apothecary, has repeated it to me more than once.
 
 Finally, why give him an Italian name? he was always called Marchiali! He who writes this article knows more about it, maybe, than Father Griffet, and will not say more.
-
 
 #### Publishers Note
 
@@ -2104,7 +2023,6 @@ The author conjectures, from the way that M. de Voltaire has told the facts, tha
 
 "It seems to me, our author continues, that the more one knows of the history of those times, the more one must be struck by these assembled circumstances which are in favour of such a supposition."
 
-
 ## _MARRIAGE_
 
 I came across a reasoner who said: "Engage your subjects to marry as soon as possible; let them be exempt from taxes the first year, and let their tax be distributed over those who at the same age are celibate.
@@ -2121,7 +2039,6 @@ The Roman warriors were married; they fought for their wives and children; and t
 
 A great Italian politician, who further was very learned in oriental languages, a very rare thing among our politicians, said to me in my youth: "_Caro figlio_, remember that the Jews have never had but one good institution, that of having a horror of virginity." If this little race of superstitious intermediaries had not considered marriage as the first law of man, if there had been among them convents of nuns, they were irreparably lost.
 
-
 ## _MASTER_
 
 ### SECTION I
@@ -2133,7 +2050,6 @@ A great Italian politician, who further was very learned in oriental languages, 
 Thus did Ardassan Ougli speak, after receiving the stirrup-leather from one of his masters.
 
 After a few years Ardassan Ougli became pasha with three tails. He made a prodigious fortune, and he firmly believed that all men, excepting the Great Turk and the Grand Vizier, were born to serve him, and all women to give him pleasure in accordance with his caprice.
-
 
 ### SECTION II
 
@@ -2148,7 +2064,6 @@ The giant having died, his son, who was not by a long way as strong and as big a
 The Siamese, on the contrary, maintain that the family had started by being republican, and that the giant did not come until after a great number of years and dissensions; but all the authors of Benares and Siam agree that mankind lived an infinity of centuries before having the intelligence to make laws; and they prove it by an unanswerable reason, which is that even to-day when everyone plumes himself on his intelligence, no way has been found of making a score of passably good laws.
 
 It is indeed still an insoluble question in India whether republics were established before or after monarchies, whether confusion appeared more horrible to mankind than despotism. I do not know what happened in order of time; but in that of nature it must be agreed that all men being born equal, violence and adroitness made the first masters, the laws made the last.
-
 
 ## _MEN OF LETTERS_
 
@@ -2170,11 +2085,9 @@ The greatest misfortune of a man of letters is not perhaps being the object of h
 
 Every public man pays tribute to malignity, but he is paid in honours and gold.
 
-
 ## _METAMORPHOSIS_, _METEMPSYCHOSIS_
 
 Is it not very natural that all the metamorphoses with which the world is covered should have made people imagine in the Orient, where everything has been imagined, that our souls passed from one body to another? An almost imperceptible speck becomes a worm, this worm becomes a butterfly; an acorn transforms itself into an oak; an egg into a bird; water becomes cloud and thunder; wood is changed into fire and ash; everything in nature appears, in fine, metamorphosed. Soon people attributed to souls, which were regarded as light figures, what they saw in more gross bodies. The idea of metempsychosis is perhaps the most ancient dogma of the known universe, and it still reigns in a large part of India and China.
-
 
 ## _MILTON, ON THE REPROACH OF PLAGIARISM AGAINST_
 
@@ -2204,7 +2117,6 @@ It is certain that generally Milton, in his "Paradise", has in imitating flown o
 
 It is true that he should have avowed having translated two hundred of a Jesuit's verses; but in his time, at the court of Charles II., people did not worry themselves with either the Jesuits, or Milton, or "Paradise Lost", or "Paradise Regained". All those things were either scoffed at, or unknown.
 
-
 ## _MOHAMMEDANS_
 
 I tell you again, ignorant imbeciles, whom other ignoramuses have made believe that the Mohammedan religion is voluptuous and sensual, there is not a word of truth in it; you have been deceived on this point as on so many others.
@@ -2221,11 +2133,9 @@ I do not know why the historian of the Lower Empire maintains that Mohammed spea
 
 One must combat ceaselessly. When one has destroyed an error, there is always someone who resuscitates it.
 
-
 ## _MOUNTAIN_
 
 It is a very old, very universal fable that tells of the mountain which, having frightened all the countryside by its outcry that it was in labour, was hissed by all present when it brought into the world a mere mouse. The people in the pit were not philosophers. Those who hissed should have admired. It was as fine for the mountain to give birth to a mouse, as for the mouse to give birth to a mountain. A rock which produces a rat is a very prodigious thing; and never has the world seen anything approaching this miracle. All the globes of the universe could not call a fly into existence. Where the vulgar laugh, the philosopher admires; and he laughs where the vulgar open their big, stupid eyes in astonishment.
-
 
 ## _NAKEDNESS_
 
@@ -2248,7 +2158,6 @@ It is said particularly that the Abelians renounced marriage. If there were any 
 But I avow that it would have been very comic to see a hundred Helens and Parises singing anthems, giving each other the kiss of peace, and making agapae.
 
 All of which shows that there is no singularity, no extravagance, no superstition which has not passed through the heads of mankind. Happy the day when these superstitions do not trouble society and make of it a scene of disorder, hatred and fury! It is better without doubt to pray God stark naked, than to stain His altars and the public places with human blood.
-
 
 ## _NATURAL LAW_
 
@@ -2291,7 +2200,6 @@ A: It is natural also to be one-eyed, hump-backed, lame, deformed, unhealthy; bu
 B: Why are there so many one-eyed and deformed minds?
 
 A: Peace! But go to the article on "Power."
-
 
 ## _NATURE_
 
@@ -2362,7 +2270,6 @@ Would not non-existence be better than this multitude of existences made in orde
 NATURE:
 
 Oh! go and ask Him who made me.
-
 
 ## _NECESSARY_
 
@@ -2472,7 +2379,6 @@ SELIM:
 
 I am not a doctor, and you are not ill; but it seems to me I should be giving you a very good prescription if I said to you: "Put not your trust in all the inventions of charlatans, worship God, be an honest man, and believe that two and two make four."
 
-
 ## _NEW NOVELTIES_
 
 It seems that the first words of Ovid's "Metamorphoses," _In nova fert animus_, are the motto of the human race. Nobody is touched by the admirable spectacle of the sun which rises, or rather seems to rise, every day; everybody runs to see the smallest little meteor which appears for an instant in that accumulation of vapours, called the sky, that surround the earth.
@@ -2482,7 +2388,6 @@ An itinerant bookseller does not burden himself with a Virgil, with a Horace, bu
 From the beginning of the world women have complained of the fickleness that is imputed to them in favour of the first new object which presents itself, and whose novelty is often its only merit. Many ladies (it must be confessed, despite the infinite respect we have for them) have treated men as they complain they have themselves been treated; and the story of Gioconda is much older than Ariosto.
 
 Perhaps this universal taste for novelty is one of nature's favours. People cry to us: "Be content with what you have, desire nothing that is beyond your estate, restrain your curiosity, tame your intellectual disquiet." These are very good maxims; but if we had always followed them, we should still be eating acorns, we should be sleeping in the open air, and we should not have had Corneille, Racine, Moliere, Poussin, Lebrun, Lemoine or Pigalle.
-
 
 ## _PHILOSOPHER_
 
@@ -2519,7 +2424,6 @@ Which is the citizen among us who would deprive himself, like Julian, Antoninus 
 There have been philosophers of the study in France; and all, except Montaigne, have been persecuted. It is, I think, the last degree of the malignity of our nature, to wish to oppress these very philosophers who would correct it.
 
 I quite understand that the fanatics of one sect slaughter the enthusiasts of another sect, that the Franciscans hate the Dominicans, and that a bad artist intrigues to ruin one who surpasses him; but that the wise Charron should have been threatened with the loss of his life, that the learned and generous Ramus should have been assassinated, that Descartes should have been forced to flee to Holland to escape the fury of the ignorant, that Gassendi should have been obliged to withdraw several times to Digne, far from the calumnies of Paris; these things are a nation's eternal shame.
-
 
 ## _POWER_, _OMNIPOTENCE_
 
@@ -2591,7 +2495,6 @@ Why has the source of life been poisoned all over the world since the discovery 
 
 I speak here to philosophers only and not to theologians. We know well that faith is the thread in the labyrinth. We know that the fall of Adam and Eve, original sin, the immense power given to the devil, the predilection accorded by the great Being to the Jewish people, and the baptism substituted for the amputation of the prepuce, are the answers which explain everything. We have argued only against Zarathustra and not against the university of Conimbre or Coimbre, to which we submit in our articles.
 
-
 ## _PRAYERS_
 
 We do not know any religion without prayers, even the Jews had some, although there was not among them any public form, until the time when they sang canticles in their synagogues, which happened very late.
@@ -2607,7 +2510,6 @@ In a word, we pray to God only because we have made Him in our own image. We tre
 In short, all nations pray to God: wise men resign themselves and obey Him.
 
 Let us pray with the people, and resign ourselves with the wise men.
-
 
 ## _PRÉCIS OF ANCIENT PHILOSOPHY_
 
@@ -2661,7 +2563,6 @@ These preliminary assertions are the basis of the ancient Oriental philosophy an
 
 After the assertions of the ancient philosophers, which I have reconciled as far as has been possible for me, what is left to us? a chaos of doubts and chimeras. I do not think that there has ever been a philosopher with a system who did not at the end of his life avow that he had wasted his time. It must be admitted that the inventors of the mechanical arts have been much more useful to mankind than the inventors of syllogisms: the man who invented the shuttle surpasses with a vengeance the man who imagined innate ideas.
 
-
 ## _PREJUDICES_
 
 Prejudice is an opinion without judgment. Thus all over the world do people inspire children with all the opinions they desire, before the children can judge.
@@ -2696,7 +2597,6 @@ A monk writes that Clovis, being in great danger at the battle of Tolbiac, made 
 
 If your nurse has told you that Ceres rules over the crops, or that Vistnou and Xaca made themselves men several times, or that Sammonocodom came to cut down a forest, or that Odin awaits you in his hall near Jutland, or that Mohammed or somebody else made a journey into the sky; if lastly your tutor comes to drive into your brain what your nurse has imprinted on it you keep it for life. If your judgment wishes to rise against these prejudices, your neighbours and, above all, your neighbours' wives cry out "Impious reprobate," and dismay you; your dervish, fearing to see his income diminish, accuses you to the cadi, and this cadi has you impaled if he can, because he likes ruling over fools, and thinks that fools obey better than others: and that will last until your neighbours and the dervish and the cadi begin to understand that foolishness is good for nothing, and that persecution is abominable.
 
-
 ## _RARE_
 
 Rare in natural philosophy is the opposite of dense. In moral philosophy, it is the opposite of common.
@@ -2725,7 +2625,6 @@ But, my dear reader, will it be the same with the works of nature? Will you be d
 
 In Paris a few years ago people admired a rhinoceros. If there were in one province ten thousand rhinoceroses, men would run after them only to kill them. But let there be a hundred thousand beautiful women men will always run after them to ... honour them.
 
-
 ## _REASON_
 
 At the time when all France was mad about Law's system, and Law was controller-general, there came to him in the presence of a great assembly a man who was always right, who always had reason on his side. Said he to Law:
@@ -2751,7 +2650,6 @@ When he came out of the Tower of St. Mark's, he went to Constantinople; he had a
 "Your religion, although it has some good points, such as worship of the great Being, and the necessity of being just and charitable, is otherwise nothing but a rehash of Judaism and a tedious collection of fairy tales. If the archangel Gabriel had brought the leaves of the Koran to Mahomet from some planet, all Arabia would have seen Gabriel come down: nobody saw him; therefore Mahomet was a brazen impostor who deceived imbeciles."
 
 Hardly had he pronounced these words than he was impaled. Nevertheless he had always been right, and had always had reason on his side.
-
 
 ## _RELIGION_
 
@@ -2879,7 +2777,6 @@ I was about to beg him to be so good as to tell me just who he was. My guide war
 
 "Well, if that is so, I take you for my only master." Then he made me a sign with his head which filled me with consolation. The vision disappeared, and a clear conscience stayed with me.
 
-
 ## _SECT_
 
 ### SECTION I
@@ -2924,7 +2821,6 @@ When you say that the blood circulates, that the air is heavy, that the sun's ra
 
 This is the character of truth; it is of all time; it is for all men; it has only to show itself to be recognized; one cannot argue against it. A long dispute signifies--"Both parties are wrong."
 
-
 ## _SELF-ESTEEM_
 
 Nicole in his "Essais de Morale," written after two or three thousand volumes of ethics ("Treatise on Charity," Chap. II), says that "by means of the wheels and gibbets which people establish in common are repressed the tyrannous thoughts and designs of each individual's self-esteem."
@@ -2944,7 +2840,6 @@ A missionary travelling in India met a fakir laden with chains, naked as a monke
 "Self-denial!" answered the fakir. "Learn that I have myself flogged in this world in order to return it in another, when you will be horses and I horseman."
 
 Those who have said that love of ourselves is the basis of all our opinions and all our actions, have therefore been quite right in India, Spain, and all the habitable world: and as one does not write to prove to men that they have faces, it is not necessary to prove to them that they have self-esteem. Self-esteem is the instrument of our conservation; it resembles the instrument of the perpetuity of the species: it is necessary, it is dear to us, it gives us pleasure, and it has to be hidden.
-
 
 ## _SOUL_
 
@@ -3010,7 +2905,6 @@ We have so evident a need of the decision of the infallible Church on these poin
 
 The great difficulty is to understand how a being, whoever he be, has thoughts.
 
-
 ### SECTION II
 
 The author of the article SOUL in the "Encyclopedia" (the Abbe Yvon) followed Jaquelot scrupulously; but Jaquelot teaches us nothing. He sets himself also against Locke, because the modest Locke said (liv. iv, ch. iii, para. vi.)--"We possibly shall never be able to know whether any mere material being thinks or no; it being impossible for us, by the contemplation of our own ideas without revelation, to discover whether Omnipotency has not given to some systems of matter, fitly disposed, a power to perceive and think, or else joined and fixed to matter, so disposed, a thinking immaterial substance: it being, in respect of our notions, not much more remote from our comprehension to conceive that God can, if he pleases, superadd to matter a faculty of thinking, than that he should superadd to it another substance with a faculty of thinking; since we know not wherein thinking consists, nor to what sort of substances the Almighty has been pleased to give that power which cannot be in any created being but merely by the good pleasure and bounty of the Creator, for I see no contradiction in it, that the first eternal thinking Being should, if he pleased, give to certain systems of created senseless matter, put together as he thinks fit, some degrees of sense, perception and thought."
@@ -3075,7 +2969,6 @@ There have always been in the mud of our literature more than one of these miscr
 
 In short, while we worship God with all our soul, let us confess always our profound ignorance of this soul, of this faculty of feeling and thinking which we possess from His infinite goodness. Let us avow that our feeble reasonings can take nothing away from, or add anything to revelation and faith. Let us conclude in fine that we should use this intelligence, the nature of which is unknown, for perfecting the sciences which are the object of the "Encyclopedia"; just as watchmakers use springs in their watches, without knowing what a spring is.
 
-
 ### SECTION IV
 
 #### About the Soul, and About our Little Knowledge
@@ -3086,13 +2979,11 @@ What have all the philosophers, ancient and modern, taught us? a child is wiser 
 
 You will say that it is sad for our insatiable curiosity, for our inexhaustible thirst for happiness, to be thus ignorant of ourselves! I agree, and there are still sadder things; but I shall answer you:
 
-
 _Sors tua mortalis, non est mortale quod optas._
 
 Ovid, Met. II. 56
 
 "You have a man's fate, and a god's desires."
-
 
 Once again, it seems that the nature of every principle of things is the Creator's secret. How does the air carry sound? how are animals formed? how do some of our limbs constantly obey our wills? what hand puts ideas in our memory, keeps them there as in a register, and pulls them out sometimes when we want them and sometimes in spite of ourselves? Our nature, the nature of the universe, the nature of the least plant, everything for us is sunk in a shadowy pit.
 
@@ -3103,7 +2994,6 @@ Here on one side the soul of Archimedes, on the other the soul of an idiot; are 
 Let us conclude therefore what we have already concluded, that we are ignoramuses about all first principles. As regards ignoramuses who pride themselves on their knowledge, they are far inferior to monkeys.
 
 Now dispute, choleric arguers: present your petitions against each other; proffer your insults, pronounce your sentences, you who do not know one word about the matter.
-
 
 ### SECTION V
 
@@ -3133,7 +3023,6 @@ All one can say about it is that, if he was right, it was not for a bishop to be
 
 At Salamanca, Coimbre or Rome, he would have been obliged to recant and to ask pardon. In England he became a peer of the realm with an income of a hundred thousand _livres_; it was enough to modify his methods.
 
-
 ### SECTION VI
 
 #### Of the Need of Revelation
@@ -3149,7 +3038,6 @@ The Roman Empire was divided between two principal sects: that of Epicurus which
 We still have a hundred monuments of this belief of the Romans. It is by virtue of this opinion graved profoundly in their hearts, that so many simple Roman citizens killed themselves without the least scruple; they did not wait for a tyrant to hand them over to the executioners.
 
 The most virtuous men even, and those most persuaded of the existence of a God, hoped for no reward, and feared no punishment. Clement, who later was Pope and saint, began by himself doubting what the early Christians said of another life, and consulted St. Peter at Caesarea. We are far from believing that St. Clement wrote the history that is attributed to him; but this history makes evident the need the human race had of a precise revelation. All that can surprise us is that so repressive and salutary a doctrine has left a prey to so many horrible crimes men who have so little time to live, and who see themselves squeezed between two eternities.
-
 
 ### SECTION VII
 
@@ -3174,7 +3062,6 @@ One asks still further what would be a soul which never has any but fantastic id
 What is one to think of a child with two heads? without deformity apart from this? Some say that it has two souls because it is provided with two pineal glands, with two _corpus callosum_, with two _sensorium commune_. Others reply that one cannot have two souls when one has only one chest and one navel.
 
 In fine, so many questions have been asked about this poor human soul, that if it were necessary to answer them all, this examination of its own person would cause it the most intolerable boredom. There would happen to it what happened to Cardinal de Polignac at a conclave. His steward, tired of never being able to make him settle his accounts, made the journey from Rome, and came to the little window of his cell burdened with an immense bundle of papers. He read for nearly two hours. At last, seeing that no reply was forthcoming, he put his head forward. The cardinal had departed nearly two hours before. Our souls will depart before their stewards have acquainted them with the facts: but let us be exact before God, whatever sort of ignoramuses we are, we and our stewards.
-
 
 ## _STATES_, _GOVERNMENTS_
 
@@ -3226,7 +3113,6 @@ The Brahmin answered: "The state where only the laws are obeyed."
 
 "We must look for it," answered the Brahmin.
 
-
 ## _SUPERSTITION_
 
 The superstitious man is to the rogue what the slave is to the tyrant. Further, the superstitious man is governed by the fanatic and becomes fanatic. Superstition born in Paganism, adopted by Judaism, infested the Christian Church from the earliest times. All the fathers of the Church, without exception, believed in the power of magic. The Church always condemned magic, but she always believed in it: she did not excommunicate sorcerers as madmen who were mistaken, but as men who were really in communication with the devil.
@@ -3246,7 +3132,6 @@ Up to what point does statecraft permit superstition to be destroyed? This is a 
 Can there exist a people free from all superstitious prejudices? That is to ask--Can there exist a nation of philosophers? It is said that there is no superstition in the magistrature of China. It is probable that none will remain in the magistrature of a few towns of Europe.
 
 Then the magistrates will stop the superstition of the people from being dangerous. These magistrates' example will not enlighten the mob, but the principal persons of the middle-classes will hold the mob in check. There is not perhaps a single riot, a single religious outrage in which the middle-classes were not formerly imbrued, because these middle classes were then the mob; but reason and time will have changed them. Their softened manners will soften those of the lowest and most savage populace; it is a thing of which we have striking examples in more than one country. In a word, less superstition, less fanaticism; and less fanaticism, less misery.
-
 
 ## _TEARS_
 
@@ -3273,7 +3158,6 @@ It is thus that Pope has said in the prologue to Addison's Cato:--
 _"Tyrants no more their savage nature kept;_
 _And foes to virtue wondered how they wept."_
 
-
 ## _THEIST_
 
 The theist is a man firmly persuaded of the existence of a Supreme Being as good as He is powerful, who has formed all beings with extension, vegetating, sentient and reflecting; who perpetuates their species, who punishes crimes without cruelty, and rewards virtuous actions with kindness.
@@ -3281,7 +3165,6 @@ The theist is a man firmly persuaded of the existence of a Supreme Being as good
 The theist does not know how God punishes, how he protects, how he pardons, for he is not reckless enough to flatter himself that he knows how God acts, but he knows that God acts and that He is just. Difficulties against Providence do not shake him in his faith, because they are merely great difficulties, and not proofs. He submits to this Providence, although he perceives but a few effects and a few signs of this Providence: and, judging of the things he does not see by the things he sees, he considers that this Providence reaches all places and all centuries.
 
 Reconciled in this principle with the rest of the universe, he does not embrace any of the sects, all of which contradict each other; his religion is the most ancient and the most widespread; for the simple worship of a God has preceded all the systems of the world. He speaks a language that all peoples understand, while they do not understand one another. He has brothers from Pekin to Cayenne, and he counts all wise men as his brethren. He believes that religion does not consist either in the opinions of an unintelligible metaphysic, or in vain display, but in worship and justice. The doing of good, there is his service; being submissive to God, there is his doctrine. The Mahometan cries to him--"Have a care if you do not make the pilgrimage to Mecca!" "Woe unto you," says a Recollet, "if you do not make a journey to Notre-Dame de Lorette!" He laughs at Lorette and at Mecca; but he succours the needy and defends the oppressed.
-
 
 ## _TOLERANCE_
 
@@ -3304,7 +3187,6 @@ Thus have reasoned the men whom centuries of bigotry have made powerful. They ha
 It is thus that a great part of the world long was treated; but to-day when so many sects make a balance of power, what course to take with them? Every sect, as one knows, is a ground of error; there are no sects of geometers, algebraists, arithmeticians, because all the propositions of geometry, algebra and arithmetic are true. In every other science one may be deceived. What Thomist or Scotist theologian would dare say seriously that he is sure of his case?
 
 If it were permitted to reason consistently in religious matters, it is clear that we all ought to become Jews, because Jesus Christ our Saviour was born a Jew, lived a Jew, died a Jew, and that he said expressly that he was accomplishing, that he was fulfilling the Jewish religion. But it is clearer still that we ought to be tolerant of one another, because we are all weak, inconsistent, liable to fickleness and error. Shall a reed laid low in the mud by the wind say to a fellow reed fallen in the opposite direction: "Crawl as I crawl, wretch, or I shall petition that you be torn up by the roots and burned?"
-
 
 ## _TRUTH_
 
@@ -3340,7 +3222,6 @@ If you have the thing from only one of these witnesses, you know nothing; you sh
 
 From generation to generation scepticism increases, and probability diminishes; and soon probability is reduced to zero.
 
-
 ## _TYRANNY_
 
 One gives the name of tyrant to the sovereign who knows no laws but those of his caprice, who takes his subjects' property, and who afterwards enrols them to go to take the property of his neighbours. There are none of these tyrants in Europe.
@@ -3351,7 +3232,6 @@ Under which tyranny would you like to live? Under neither; but if I had to choos
 
 If I have only one despot, I am quit of him by drawing myself up against a wall when I see him pass, or by bowing low, or by striking the ground with my forehead, according to the custom of the country; but if there is a company of a hundred despots, I am exposed to repeating this ceremony a hundred times a day, which in the long run is very annoying if one's hocks are not supple. If I have a farm in the neighbourhood of one of our lords, I am crushed; if I plead against a relation of the relations of one of our lords, I am ruined. What is to be done? I fear that in this world one is reduced to being either hammer or anvil; lucky the man who escapes these alternatives!
 
-
 ## _VIRTUE_
 
 ### SECTION I
@@ -3361,7 +3241,6 @@ It is said of Marcus Brutus that, before killing himself, he uttered these words
 You were right, Brutus, if you considered virtue as being head of a faction, and assassin of your benefactor; but if you had considered virtue as consisting only of doing good to those dependent on you, you would not have called it a phantom, and you would not have killed yourself in despair.
 
 I am very virtuous says this excrement of theology, for I have the four cardinal virtues, and the three divine. An honest man asks him--"What is the cardinal virtue?" The other answers--"Strength, prudence, temperance and justice."
-
 
 THE HONEST MAN:
 
@@ -3401,7 +3280,6 @@ THE HONEST MAN:
 
 Go along, denounce!
 
-
 ### SECTION II
 
 What is virtue? Beneficence towards the fellow-creature. Can I call virtue things other than those which do me good? I am needy, you are generous. I am in danger, you help me. I am deceived, you tell me the truth. I am neglected, you console me. I am ignorant, you teach me. Without difficulty I shall call you virtuous. But what will become of the cardinal and divine virtues? Some of them will remain in the schools.
@@ -3415,7 +3293,6 @@ But, you say to me, if a recluse is a glutton, a drunkard, given to secret debau
 A much stronger objection is made; Nero, Pope Alexander VI., and other monsters of this species, have bestowed kindnesses; I answer hardily that on that day they were virtuous.
 
 A few theologians say that the divine emperor Antonine was not virtuous; that he was a stubborn Stoic who, not content with commanding men, wished further to be esteemed by them; that he attributed to himself the good he did to the human race; that all his life he was just, laborious, beneficent through vanity, and that he only deceived men through his virtues. "My God!" I exclaim. "Give us often rogues like him!"
-
 
 ## _WHY?_
 
@@ -3446,4 +3323,3 @@ Why and how does one have dreams during sleep, if one has no soul; and how is it
 Why do the stars move from west to east rather than from east to west?
 
 Why do we exist? why is there anything?
-

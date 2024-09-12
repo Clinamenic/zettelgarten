@@ -1,11 +1,9 @@
 ---
 title: 
 author: 
-Year: 
+date published: 
 Text URL: 
-Licensing: 
-Description: 
-Has Been Read: 
+license: 
 Started Reading: 
 Finished Reading: 
 publish: false

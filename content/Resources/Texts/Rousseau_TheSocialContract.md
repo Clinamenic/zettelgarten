@@ -1,13 +1,11 @@
 ---
 title: The Social Contract
-Primary Author(s): "[[Rousseau, Jean-Jacques]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Jean-Jacques Rousseau
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # The Social Contract

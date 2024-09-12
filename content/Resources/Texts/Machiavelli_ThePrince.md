@@ -1,13 +1,11 @@
 ---
 title: The Prince
-Primary Author(s): "[[Machiavelli, Niccolò]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Niccolo Machiavelli
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # The Prince

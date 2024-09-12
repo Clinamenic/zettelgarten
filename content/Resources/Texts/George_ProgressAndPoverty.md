@@ -1,10 +1,9 @@
 ---
 Text Title: Progress and Poverty
-Primary Author(s): "[[George, Henry]]"
-Secondary Author(s): 
+author: Henry George
 Year: 
 Link to Text: 
-Description: 
+publish: true
 tags:
 ---
 # Content

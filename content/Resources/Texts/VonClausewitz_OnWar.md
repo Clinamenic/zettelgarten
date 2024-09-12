@@ -1,13 +1,11 @@
 ---
 title: On War
-Primary Author(s): "[[von Clausewitz, Carl]]"
-Secondary Author(s): 
-Year: 
-Link to Text: 
-Description: 
+author: Carl von Clausewitz
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # On War
@@ -16,7 +14,8 @@ Associated works:
 
 ## Year: 1832
 
--------
+---
+
 _Translated by Colonel J.J. Graham_
 
 ### BOOK I. ON THE NATURE OF WAR
@@ -27,7 +26,7 @@ _Translated by Colonel J.J. Graham_
 
 We propose to consider first the single elements of our subject, then each branch or part, and, last of all, the whole, in all its relations--therefore to advance from the simple to the complex. But it is necessary for us to commence with a glance at the nature of the whole, because it is particularly necessary that in the consideration of any of the parts their relation to the whole should be kept constantly in view.
 
-####  2 - DEFINITION.
+#### 2 - DEFINITION.
 
 We shall not enter into any of the abstruse definitions of War used by publicists. We shall keep to the element of the thing itself, to a duel. War is nothing but a duel on an extensive scale. If we would conceive as a unit the countless number of duels which make up a War, we shall do so best by supposing to ourselves two wrestlers. Each strives by physical force to compel the other to submit to his will: each endeavours to throw his adversary, and thus render him incapable of further resistance.
 
@@ -35,7 +34,7 @@ _War therefore is an act of violence intended to compel our opponent to fulfil o
 
 Violence arms itself with the inventions of Art and Science in order to contend against violence. Self-imposed restrictions, almost imperceptible and hardly worth mentioning, termed usages of International Law, accompany it without essentially impairing its power. Violence, that is to say, physical force (for there is no moral force without the conception of States and Law), is therefore the _means;_ the compulsory submission of the enemy to our will is the ultimate object. In order to attain this object fully, the enemy must be disarmed, and disarmament becomes therefore the immediate _object_ of hostilities in theory. It takes the place of the final object, and puts it aside as something we can eliminate from our calculations.
 
-####  3 - UTMOST USE OF FORCE.
+#### 3 - UTMOST USE OF FORCE.
 
 Now, philanthropists may easily imagine there is a skilful method of disarming and overcoming an enemy without great bloodshed, and that this is the proper tendency of the Art of War. However plausible this may appear, still it is an error which must be extirpated; for in such dangerous things as War, the errors which proceed from a spirit of benevolence are the worst. As the use of physical power to the utmost extent by no means excludes the co-operation of the intelligence, it follows that he who uses force unsparingly, without reference to the bloodshed involved, must obtain a superiority if his adversary uses less vigour in its application. The former then dictates the law to the latter, and both proceed to extremities to which the only limitations are those imposed by the amount of counter-acting force on each side.
 
@@ -53,17 +52,17 @@ Therefore, if we find civilised nations do not put their prisoners to death, do 
 
 We therefore repeat our proposition, that War is an act of violence pushed to its utmost bounds; as one side dictates the law to the other, there arises a sort of reciprocal action, which logically must lead to an extreme. This is the first reciprocal action, and the first extreme with which we meet ( _first reciprocal action_ ).
 
-####  4 - THE AIM IS TO DISARM THE ENEMY.
+#### 4 - THE AIM IS TO DISARM THE ENEMY.
 
 We have already said that the aim of all action in War is to disarm the enemy, and we shall now show that this, theoretically at least, is indispensable.
 
 If our opponent is to be made to comply with our will, we must place him in a situation which is more oppressive to him than the sacrifice which we demand; but the disadvantages of this position must naturally not be of a transitory nature, at least in appearance, otherwise the enemy, instead of yielding, will hold out, in the prospect of a change for the better. Every change in this position which is produced by a continuation of the War should therefore be a change for the worse. The worst condition in which a belligerent can be placed is that of being completely disarmed. If, therefore, the enemy is to be reduced to submission by an act of War, he must either be positively disarmed or placed in such a position that he is threatened with it. From this it follows that the disarming or overthrow of the enemy, whichever we call it, must always be the aim of Warfare. Now War is always the shock of two hostile bodies in collision, not the action of a living power upon an inanimate mass, because an absolute state of endurance would not be making War; therefore, what we have just said as to the aim of action in War applies to both parties. Here, then, is another case of reciprocal action. As long as the enemy is not defeated, he may defeat me; then I shall be no longer my own master; he will dictate the law to me as I did to him. This is the second reciprocal action, and leads to a second extreme ( _second reciprocal action_ ).
 
-####  5 - UTMOST EXERTION OF POWERS.
+#### 5 - UTMOST EXERTION OF POWERS.
 
 If we desire to defeat the enemy, we must proportion our efforts to his powers of resistance. This is expressed by the product of two factors which cannot be separated, namely, _the sum of available means_ and _the strength of the Will_. The sum of the available means may be estimated in a measure, as it depends (although not entirely) upon numbers; but the strength of volition is more difficult to determine, and can only be estimated to a certain extent by the strength of the motives. Granted we have obtained in this way an approximation to the strength of the power to be contended with, we can then take of our own means, and either increase them so as to obtain a preponderance, or, in case we have not the resources to effect this, then do our best by increasing our means as far as possible. But the adversary does the same; therefore, there is a new mutual enhancement, which, in pure conception, must create a fresh effort towards an extreme. This is the third case of reciprocal action, and a third extreme with which we meet ( _third reciprocal action_ ).
 
-####  6 - MODIFICATION IN THE REALITY.
+#### 6 - MODIFICATION IN THE REALITY.
 
 Thus reasoning in the abstract, the mind cannot stop short of an extreme, because it has to deal with an extreme, with a conflict of forces left to themselves, and obeying no other but their own inner laws. If we should seek to deduce from the pure conception of War an absolute point for the aim which we shall propose and for the means which we shall apply, this constant reciprocal action would involve us in extremes, which would be nothing but a play of ideas produced by an almost invisible train of logical subtleties. If, adhering closely to the absolute, we try to avoid all difficulties by a stroke of the pen, and insist with logical strictness that in every case the extreme must be the object, and the utmost effort must be exerted in that direction, such a stroke of the pen would be a mere paper law, not by any means adapted to the real world.
 
@@ -77,11 +76,11 @@ But everything takes a different shape when we pass from abstractions to reality
 
 (3) If it contains within itself the solution perfect and complete, free from any reaction upon it, through a calculation beforehand of the political situation which will follow from it.
 
-####  7 - WAR IS NEVER AN ISOLATED ACT.
+#### 7 - WAR IS NEVER AN ISOLATED ACT.
 
 With regard to the first point, neither of the two opponents is an abstract person to the other, not even as regards that factor in the sum of resistance which does not depend on objective things, viz., the Will. This Will is not an entirely unknown quantity; it indicates what it will be to-morrow by what it is to-day. War does not spring up quite suddenly, it does not spread to the full in a moment; each of the two opponents can, therefore, form an opinion of the other, in a great measure, from what he is and what he does, instead of judging of him according to what he, strictly speaking, should be or should do. But, now, man with his incomplete organisation is always below the line of absolute perfection, and thus these deficiencies, having an influence on both sides, become a modifying principle.
 
-####  8 - WAR DOES NOT CONSIST OF A SINGLE INSTANTANEOUS BLOW.
+#### 8 - WAR DOES NOT CONSIST OF A SINGLE INSTANTANEOUS BLOW.
 
 The second point gives rise to the following considerations:--
 
@@ -103,17 +102,17 @@ Now this, in itself, furnishes no ground for relaxing our efforts to accumulate 
 
 But the possibility of gaining a later result causes men to take refuge in that expectation, owing to the repugnance in the human mind to making excessive efforts; and therefore forces are not concentrated and measures are not taken for the first decision with that energy which would otherwise be used. Whatever one belligerent omits from weakness, becomes to the other a real objective ground for limiting his own efforts, and thus again, through this reciprocal action, extreme tendencies are brought down to efforts on a limited scale.
 
-####  9 - THE RESULT IN WAR IS NEVER ABSOLUTE.
+#### 9 - THE RESULT IN WAR IS NEVER ABSOLUTE.
 
 Lastly, even the final decision of a whole War is not always to be regarded as absolute. The conquered State often sees in it only a passing evil, which may be repaired in after times by means of political combinations. How much this must modify the degree of tension, and the vigour of the efforts made, is evident in itself.
 
-####  10 - THE PROBABILITIES OF REAL LIFE TAKE THE PLACE OF THE CONCEPTIONS OF THE EXTREME AND THE ABSOLUTE.
+#### 10 - THE PROBABILITIES OF REAL LIFE TAKE THE PLACE OF THE CONCEPTIONS OF THE EXTREME AND THE ABSOLUTE.
 
 In this manner, the whole act of War is removed from the rigorous law of forces exerted to the utmost. If the extreme is no longer to be apprehended, and no longer to be sought for, it is left to the judgment to determine the limits for the efforts to be made in place of it, and this can only be done on the data furnished by the facts of the real world by the LAWS OF PROBABILITY. Once the belligerents are no longer mere conceptions, but individual States and Governments, once the War is no longer an ideal, but a definite substantial procedure, then the reality will furnish the data to compute the unknown quantities which are required to be found.
 
 From the character, the measures, the situation of the adversary, and the relations with which he is surrounded, each side will draw conclusions by the law of probability as to the designs of the other, and act accordingly.
 
-####  11 - THE POLITICAL OBJECT NOW REAPPEARS.
+#### 11 - THE POLITICAL OBJECT NOW REAPPEARS.
 
 Here the question which we had laid aside forces itself again into consideration (see No. 2), viz., the political object of the War. The law of the extreme, the view to disarm the adversary, to overthrow him, has hitherto to a certain extent usurped the place of this end or object. Just as this law loses its force, the political must again come forward. If the whole consideration is a calculation of probability based on definite persons and relations, then the political object, being the original motive, must be an essential factor in the product. The smaller the sacrifice we demand from ours, the smaller, it may be expected, will be the means of resistance which he will employ; but the smaller his preparation, the smaller will ours require to be. Further, the smaller our political object, the less value shall we set upon it, and the more easily shall we be induced to give it up altogether.
 
@@ -123,8 +122,7 @@ This applies to the efforts which the political object will call forth in the tw
 
 If the aim of the military action is an equivalent for the political object, that action will in general diminish as the political object diminishes, and in a greater degree the more the political object dominates. Thus it is explained how, without any contradiction in itself, there may be Wars of all degrees of importance and energy, from a War of extermination down to the mere use of an army of observation. This, however, leads to a question of another kind which we have hereafter to develop and answer.
 
-
-####  12 - A SUSPENSION IN THE ACTION OF WAR UNEXPLAINED BY ANYTHING SAID AS YET.
+#### 12 - A SUSPENSION IN THE ACTION OF WAR UNEXPLAINED BY ANYTHING SAID AS YET.
 
 However insignificant the political claims mutually advanced, however weak the means put forth, however small the aim to which military action is directed, can this action be suspended even for a moment? This is a question which penetrates deeply into the nature of the subject.
 
@@ -134,7 +132,7 @@ About this more or less we shall not trouble ourselves here. Each person acts in
 
 If we allow now to every action in War this, its length, then we must assume, at first sight at least, that any expenditure of time beyond this length, that is, every suspension of hostile action, appears an absurdity; with respect to this it must not be forgotten that we now speak not of the progress of one or other of the two opponents, but of the general progress of the whole action of the War.
 
-####  13 - THERE IS ONLY ONE CAUSE WHICH CAN SUSPEND THE ACTION, AND THIS SEEMS TO BE ONLY POSSIBLE ON ONE SIDE IN ANY CASE.
+#### 13 - THERE IS ONLY ONE CAUSE WHICH CAN SUSPEND THE ACTION, AND THIS SEEMS TO BE ONLY POSSIBLE ON ONE SIDE IN ANY CASE.
 
 If two parties have armed themselves for strife, then a feeling of animosity must have moved them to it; as long now as they continue armed, that is, do not come to terms of peace, this feeling must exist; and it can only be brought to a standstill by either side by one single motive alone, which is, THAT HE WAITS FOR A MORE FAVOURABLE MOMENT FOR ACTION. Now, at first sight, it appears that this motive can never exist except on one side, because it, eo ipso, must be prejudicial to the other. If the one has an interest in acting, then the other must have an interest in waiting.
 
@@ -144,19 +142,19 @@ Let us suppose, therefore, that one of two States has a positive object, as, for
 
 But from that moment the logical course for the enemy appears to be to act that he may not give the conquered party THE DESIRED time. Of course, in this mode of reasoning a complete insight into the state of circumstances on both sides is supposed.
 
-####  14 - THUS A CONTINUANCE OF ACTION WILL ENSUE WHICH WILL ADVANCE TOWARDS A CLIMAX.
+#### 14 - THUS A CONTINUANCE OF ACTION WILL ENSUE WHICH WILL ADVANCE TOWARDS A CLIMAX.
 
 If this unbroken continuity of hostile operations really existed, the effect would be that everything would again be driven towards the extreme; for, irrespective of the effect of such incessant activity in inflaming the feelings, and infusing into the whole a greater degree of passion, a greater elementary force, there would also follow from this continuance of action a stricter continuity, a closer connection between cause and effect, and thus every single action would become of more importance, and consequently more replete with danger.
 
 But we know that the course of action in War has seldom or never this unbroken continuity, and that there have been many Wars in which action occupied by far the smallest portion of time employed, the whole of the rest being consumed in inaction. It is impossible that this should be always an anomaly; suspension of action in War must therefore be possible, that is no contradiction in itself. We now proceed to show how this is.
 
-####  15 - HERE, THEREFORE, THE PRINCIPLE OF POLARITY IS BROUGHT INTO REQUISITION.
+#### 15 - HERE, THEREFORE, THE PRINCIPLE OF POLARITY IS BROUGHT INTO REQUISITION.
 
 As we have supposed the interests of one Commander to be always antagonistic to those of the other, we have assumed a true _polarity_. We reserve a fuller explanation of this for another chapter, merely making the following observation on it at present.
 
 The principle of polarity is only valid when it can be conceived in one and the same thing, where the positive and its opposite the negative completely destroy each other. In a battle both sides strive to conquer; that is true polarity, for the victory of the one side destroys that of the other. But when we speak of two different things which have a common relation external to themselves, then it is not the things but their relations which have the polarity.
 
-####  16 - ATTACK AND DEFENCE ARE THINGS DIFFERING IN KIND AND OF UNEQUAL FORCE. POLARITY IS, THEREFORE, NOT APPLICABLE TO THEM.
+#### 16 - ATTACK AND DEFENCE ARE THINGS DIFFERING IN KIND AND OF UNEQUAL FORCE. POLARITY IS, THEREFORE, NOT APPLICABLE TO THEM.
 
 If there was only one form of War, to wit, the attack of the enemy, therefore no defence; or, in other words, if the attack was distinguished from the defence merely by the positive motive, which the one has and the other has not, but the methods of each were precisely one and the same: then in this sort of fight every advantage gained on the one side would be a corresponding disadvantage on the other, and true polarity would exist.
 
@@ -164,7 +162,7 @@ But action in War is divided into two forms, attack and defence, which, as we sh
 
 If the one Commander wishes the solution put off, the other must wish to hasten it, but only by the same form of action. If it is A's interest not to attack his enemy at present, but four weeks hence, then it is B's interest to be attacked, not four weeks hence, but at the present moment. This is the direct antagonism of interests, but it by no means follows that it would be for B's interest to attack A at once. That is plainly something totally different.
 
-####  17 - THE EFFECT OF POLARITY IS OFTEN DESTROYED BY THE SUPERIORITY OF THE DEFENCE OVER THE ATTACK, AND THUS THE SUSPENSION OF ACTION IN WAR IS EXPLAINED.
+#### 17 - THE EFFECT OF POLARITY IS OFTEN DESTROYED BY THE SUPERIORITY OF THE DEFENCE OVER THE ATTACK, AND THUS THE SUSPENSION OF ACTION IN WAR IS EXPLAINED.
 
 If the form of defence is stronger than that of offence, as we shall hereafter show, the question arises, Is the advantage of a deferred decision as great on the one side as the advantage of the defensive form on the other? If it is not, then it cannot by its counter-weight over-balance the latter, and thus influence the progress of the action of the War. We see, therefore, that the impulsive force existing in the polarity of interests may be lost in the difference between the strength of the offensive and the defensive, and thereby become ineffectual.
 
@@ -176,47 +174,47 @@ But there is still another cause which may stop action in War, viz., an incomple
 
 The possibility of a standstill brings into the action of War a new modification, inasmuch as it dilutes that action with the element of time, checks the influence or sense of danger in its course, and increases the means of reinstating a lost balance of force. The greater the tension of feelings from which the War springs, the greater therefore the energy with which it is carried on, so much the shorter will be the periods of inaction; on the other hand, the weaker the principle of warlike activity, the longer will be these periods: for powerful motives increase the force of the will, and this, as we know, is always a factor in the product of force.
 
-####  19 - FREQUENT PERIODS OF INACTION IN WAR REMOVE IT FURTHER FROM THE ABSOLUTE, AND MAKE IT STILL MORE A CALCULATION OF PROBABILITIES.
+#### 19 - FREQUENT PERIODS OF INACTION IN WAR REMOVE IT FURTHER FROM THE ABSOLUTE, AND MAKE IT STILL MORE A CALCULATION OF PROBABILITIES.
 
 But the slower the action proceeds in War, the more frequent and longer the periods of inaction, so much the more easily can an error be repaired; therefore, so much the bolder a General will be in his calculations, so much the more readily will he keep them below the line of the absolute, and build everything upon probabilities and conjecture. Thus, according as the course of the War is more or less slow, more or less time will be allowed for that which the nature of a concrete case particularly requires, calculation of probability based on given circumstances.
 
-####  20 - THEREFORE, THE ELEMENT OF CHANCE ONLY IS WANTING TO MAKE OF WAR A GAME, AND IN THAT ELEMENT IT IS LEAST OF ALL DEFICIENT.
+#### 20 - THEREFORE, THE ELEMENT OF CHANCE ONLY IS WANTING TO MAKE OF WAR A GAME, AND IN THAT ELEMENT IT IS LEAST OF ALL DEFICIENT.
 
 We see from the foregoing how much the objective nature of War makes it a calculation of probabilities; now there is only one single element still wanting to make it a game, and that element it certainly is not without: it is chance. There is no human affair which stands so constantly and so generally in close connection with chance as War. But together with chance, the accidental, and along with it good luck, occupy a great place in War.
 
-####  21 - WAR IS A GAME BOTH OBJECTIVELY AND SUBJECTIVELY.
+#### 21 - WAR IS A GAME BOTH OBJECTIVELY AND SUBJECTIVELY.
 
 If we now take a look at the _subjective nature_ of War, that is to say, at those conditions under which it is carried on, it will appear to us still more like a game. Primarily the element in which the operations of War are carried on is danger; but which of all the moral qualities is the first in danger? _Courage_. Now certainly courage is quite compatible with prudent calculation, but still they are things of quite a different kind, essentially different qualities of the mind; on the other hand, daring reliance on good fortune, boldness, rashness, are only expressions of courage, and all these propensities of the mind look for the fortuitous (or accidental), because it is their element.
 
 We see, therefore, how, from the commencement, the absolute, the mathematical as it is called, nowhere finds any sure basis in the calculations in the Art of War; and that from the outset there is a play of possibilities, probabilities, good and bad luck, which spreads about with all the coarse and fine threads of its web, and makes War of all branches of human activity the most like a gambling game.
 
-####  22 - HOW THIS ACCORDS BEST WITH THE HUMAN MIND IN GENERAL.
+#### 22 - HOW THIS ACCORDS BEST WITH THE HUMAN MIND IN GENERAL.
 
 Although our intellect always feels itself urged towards clearness and certainty, still our mind often feels itself attracted by uncertainty. Instead of threading its way with the understanding along the narrow path of philosophical investigations and logical conclusions, in order, almost unconscious of itself, to arrive in spaces where it feels itself a stranger, and where it seems to part from all well-known objects, it prefers to remain with the imagination in the realms of chance and luck. Instead of living yonder on poor necessity, it revels here in the wealth of possibilities; animated thereby, courage then takes wings to itself, and daring and danger make the element into which it launches itself as a fearless swimmer plunges into the stream.
 
 Shall theory leave it here, and move on, self-satisfied with absolute conclusions and rules? Then it is of no practical use. Theory must also take into account the human element; it must accord a place to courage, to boldness, even to rashness. The Art of War has to deal with living and with moral forces, the consequence of which is that it can never attain the absolute and positive. There is therefore everywhere a margin for the accidental, and just as much in the greatest things as in the smallest. As there is room for this accidental on the one hand, so on the other there must be courage and self-reliance in proportion to the room available. If these qualities are forthcoming in a high degree, the margin left may likewise be great. Courage and self-reliance are, therefore, principles quite essential to War; consequently, theory must only set up such rules as allow ample scope for all degrees and varieties of these necessary and noblest of military virtues. In daring there may still be wisdom, and prudence as well, only they are estimated by a different standard of value.
 
-####  23 - WAR IS ALWAYS A SERIOUS MEANS FOR A SERIOUS OBJECT. ITS MORE PARTICULAR DEFINITION.
+#### 23 - WAR IS ALWAYS A SERIOUS MEANS FOR A SERIOUS OBJECT. ITS MORE PARTICULAR DEFINITION.
 
 Such is War; such the Commander who conducts it; such the theory which rules it. But War is no pastime; no mere passion for venturing and winning; no work of a free enthusiasm: it is a serious means for a serious object. All that appearance which it wears from the varying hues of fortune, all that it assimilates into itself of the oscillations of passion, of courage, of imagination, of enthusiasm, are only particular properties of this means.
 
 The War of a community--of whole Nations, and particularly of civilised Nations--always starts from a political condition, and is called forth by a political motive. It is, therefore, a political act. Now if it was a perfect, unrestrained, and absolute expression of force, as we had to deduct it from its mere conception, then the moment it is called forth by policy it would step into the place of policy, and as something quite independent of it would set it aside, and only follow its own laws, just as a mine at the moment of explosion cannot be guided into any other direction than that which has been given to it by preparatory arrangements. This is how the thing has really been viewed hitherto, whenever a want of harmony between policy and the conduct of a War has led to theoretical distinctions of the kind. But it is not so, and the idea is radically false. War in the real world, as we have already seen, is not an extreme thing which expends itself at one single discharge; it is the operation of powers which do not develop themselves completely in the same manner and in the same measure, but which at one time expand sufficiently to overcome the resistance opposed by inertia or friction, while at another they are too weak to produce an effect; it is therefore, in a certain measure, a pulsation of violent force more or less vehement, consequently making its discharges and exhausting its powers more or less quickly--in other words, conducting more or less quickly to the aim, but always lasting long enough to admit of influence being exerted on it in its course, so as to give it this or that direction, in short, to be subject to the will of a guiding intelligence., if we reflect that War has its root in a political object, then naturally this original motive which called it into existence should also continue the first and highest consideration in its conduct. Still, the political object is no despotic lawgiver on that account; it must accommodate itself to the nature of the means, and though changes in these means may involve modification in the political objective, the latter always retains a prior right to consideration. Policy, therefore, is interwoven with the whole action of War, and must exercise a continuous influence upon it, as far as the nature of the forces liberated by it will permit.
 
-####  24 - WAR IS A MERE CONTINUATION OF POLICY BY OTHER MEANS.
+#### 24 - WAR IS A MERE CONTINUATION OF POLICY BY OTHER MEANS.
 
 We see, therefore, that War is not merely a political act, but also a real political instrument, a continuation of political commerce, a carrying out of the same by other means. All beyond this which is strictly peculiar to War relates merely to the peculiar nature of the means which it uses. That the tendencies and views of policy shall not be incompatible with these means, the Art of War in general and the Commander in each particular case may demand, and this claim is truly not a trifling one. But however powerfully this may react on political views in particular cases, still it must always be regarded as only a modification of them; for the political view is the object, War is the means, and the means must always include the object in our conception.
 
-####  25 - DIVERSITY IN THE NATURE OF WARS.
+#### 25 - DIVERSITY IN THE NATURE OF WARS.
 
 The greater and the more powerful the motives of a War, the more it affects the whole existence of a people. The more violent the excitement which precedes the War, by so much the nearer will the War approach to its abstract form, so much the more will it be directed to the destruction of the enemy, so much the nearer will the military and political ends coincide, so much the more purely military and less political the War appears to be; but the weaker the motives and the tensions, so much the less will the natural direction of the military element--that is, force--be coincident with the direction which the political element indicates; so much the more must, therefore, the War become diverted from its natural direction, the political object diverge from the aim of an ideal War, and the War appear to become political.
 
 But, that the reader may not form any false conceptions, we must here observe that by this natural tendency of War we only mean the philosophical, the strictly logical, and by no means the tendency of forces actually engaged in conflict, by which would be supposed to be included all the emotions and passions of the combatants. No doubt in some cases these also might be excited to such a degree as to be with difficulty restrained and confined to the political road; but in most cases such a contradiction will not arise, because by the existence of such strenuous exertions a great plan in harmony therewith would be implied. If the plan is directed only upon a small object, then the impulses of feeling amongst the masses will be also so weak that these masses will require to be stimulated rather than repressed.
 
-####  26 - THEY MAY ALL BE REGARDED AS POLITICAL ACTS.
+#### 26 - THEY MAY ALL BE REGARDED AS POLITICAL ACTS.
 
 Returning now to the main subject, although it is true that in one kind of War the political element seems almost to disappear, whilst in another kind it occupies a very prominent place, we may still affirm that the one is as political as the other; for if we regard the State policy as the intelligence of the personified State, then amongst all the constellations in the political sky whose movements it has to compute, those must be included which arise when the nature of its relations imposes the necessity of a great War. It is only if we understand by policy not a true appreciation of affairs in general, but the conventional conception of a cautious, subtle, also dishonest craftiness, averse from violence, that the latter kind of War may belong more to policy than the first.
 
-####  27 - INFLUENCE OF THIS VIEW ON THE RIGHT UNDERSTANDING OF MILITARY HISTORY, AND ON THE FOUNDATIONS OF THEORY.
+#### 27 - INFLUENCE OF THIS VIEW ON THE RIGHT UNDERSTANDING OF MILITARY HISTORY, AND ON THE FOUNDATIONS OF THEORY.
 
 We see, therefore, in the first place, that under all circumstances War is to be regarded not as an independent thing, but as a political instrument; and it is only by taking this point of view that we can avoid finding ourselves in opposition to all military history. This is the only means of unlocking the great book and making it intelligible. Secondly, this view shows us how Wars must differ in character according to the nature of the motives and circumstances from which they proceed.
 
@@ -224,7 +222,7 @@ Now, the first, the grandest, and most decisive act of judgment which the States
 
 For the present we content ourselves with having brought the subject up to this point, and having thereby fixed the chief point of view from which War and its theory are to be studied.
 
-####  28 - RESULT FOR THEORY.
+#### 28 - RESULT FOR THEORY.
 
 War is, therefore, not only chameleon-like in character, because it changes its colour in some degree in each particular case, but it is also, as a whole, in relation to the predominant tendencies which are in it, a wonderful trinity, composed of the original violence of its elements, hatred and animosity, which may be looked upon as blind instinct; of the play of probabilities and chance, which make it a free activity of the soul; and of the subordinate nature of a political instrument, by which it belongs purely to the reason.
 
@@ -235,7 +233,6 @@ These three tendencies, which appear like so many different law-givers, are deep
 The problem is, therefore, that theory shall keep itself poised in a manner between these three tendencies, as between three points of attraction.
 
 The way in which alone this difficult problem can be solved we shall examine in the book on the "Theory of War." In every case the conception of War, as here defined, will be the first ray of light which shows us the true foundation of theory, and which first separates the great masses and allows us to distinguish them from one another.
-
 
 ### CHAPTER II. Ends and Means in War
 
@@ -364,7 +361,6 @@ We have seen, therefore, in the foregoing reflections, that there are many ways 
 What may be achieved by combinations of another kind in War we shall only learn in the sequel, and naturally only by degrees. We content ourselves here with acknowledging in general their possibility, as something pointing to the difference between the reality and the conception, and to the influence of particular circumstances. But we could not avoid showing at once that the _bloody solution of the crisis_ , the effort for the destruction of the enemy's force, is the firstborn son of War. If when political objects are unimportant, motives weak, the excitement of forces small, a cautious commander tries in all kinds of ways, without great crises and bloody solutions, to twist himself skilfully into a peace through the characteristic weaknesses of his enemy in the field and in the Cabinet, we have no right to find fault with him, if the premises on which he acts are well founded and justified by success; still we must require him to remember that he only travels on forbidden tracks, where the God of War may surprise him; that he ought always to keep his eye on the enemy, in order that he may not have to defend himself with a dress rapier if the enemy takes up a sharp sword.
 
 The consequences of the nature of War, how ends and means act in it, how in the modifications of reality it deviates sometimes more, sometimes less, from its strict original conception, fluctuating backwards and forwards, yet always remaining under that strict conception as under a supreme law: all this we must retain before us, and bear constantly in mind in the consideration of each of the succeeding subjects, if we would rightly comprehend their true relations and proper importance, and not become involved incessantly in the most glaring contradictions with the reality, and at last with our own selves.
-
 
 ### CHAPTER III. The Genius for War
 
@@ -522,7 +518,6 @@ All that becomes known of the course of events in War is usually very simple, an
 
 If, now, in conclusion, without venturing upon a closer definition of the higher powers of the soul, we should admit a distinction in the intelligent faculties themselves according to the common ideas established by language, and ask ourselves what kind of mind comes closest to military genius, then a look at the subject as well as at experience will tell us that searching rather than inventive minds, comprehensive minds rather than such as have a special bent, cool rather than fiery heads, are those to which in time of War we should prefer to trust the welfare of our women and children, the honour and the safety of our fatherland.
 
-
 ### CHAPTER IV. Of Danger in War
 
 Usually before we have learnt what danger really is, we form an idea of it which is rather attractive than repulsive. In the intoxication of enthusiasm, to fall upon the enemy at the charge--who cares then about bullets and men falling? To throw oneself, blinded by excitement for a moment, against cold death, uncertain whether we or another shall escape him, and all this close to the golden gate of victory, close to the rich fruit which ambition thirsts for--can this be difficult? It will not be difficult, and still less will it appear so. But such moments, which, however, are not the work of a single pulse-beat, as is supposed, but rather like doctors' draughts, must be taken diluted and spoilt by mixture with time--such moments, we say, are but few.
@@ -532,7 +527,6 @@ Let us accompany the novice to the battle-field. As we approach, the thunder of 
 To add to all this, compassion strikes the beating heart with pity at the sight of the maimed and fallen. The young soldier cannot reach any of these different strata of danger without feeling that the light of reason does not move here in the same medium, that it is not refracted in the same manner as in speculative contemplation. Indeed, he must be a very extraordinary man who, under these impressions for the first time, does not lose the power of making any instantaneous decisions. It is true that habit soon blunts such impressions; in half in hour we begin to be more or less indifferent to all that is going on around us: but an ordinary character never attains to complete coolness and the natural elasticity of mind; and so we perceive that here again ordinary qualities will not suffice--a thing which gains truth, the wider the sphere of activity which is to be filled. Enthusiastic, stoical, natural bravery, great ambition, or also long familiarity with danger--much of all this there must be if all the effects produced in this resistant medium are not to fall far short of that which in the student's chamber may appear only the ordinary standard.
 
 Danger in War belongs to its friction; a correct idea of its influence is necessary for truth of perception, and therefore it is brought under notice here.
-
 
 ### CHAPTER V. Of Bodily Exertion in War
 
@@ -548,13 +542,11 @@ We have spoken here of bodily effort, chiefly because, like danger, it belongs t
 
 To check the abuse of these considerations, of such a survey of things which aggravate the difficulties of War, nature has given our judgment a guide in our sensibilities, just as an individual cannot with advantage refer to his personal deficiencies if he is insulted and ill-treated, but may well do so if he has successfully repelled the affront, or has fully revenged it, so no Commander or Army will lessen the impression of a disgraceful defeat by depicting the danger, the distress, the exertions, things which would immensely enhance the glory of a victory. Thus our feeling, which after all is only a higher kind of judgment, forbids us to do what seems an act of justice to which our judgment would be inclined.
 
-
 ### CHAPTER VI. Information in War
 
 By the word "information" we denote all the knowledge which we have of the enemy and his country; therefore, in fact, the foundation of all our ideas and actions. Let us just consider the nature of this foundation, its want of trustworthiness, its changefulness, and we shall soon feel what a dangerous edifice War is, how easily it may fall to pieces and bury us in its ruins. For although it is a maxim in all books that we should trust only certain information, that we must be always suspicious, that is only a miserable book comfort, belonging to that description of knowledge in which writers of systems and compendiums take refuge for want of anything better to say.
 
 Great part of the information obtained in War is contradictory, a still greater part is false, and by far the greatest part is of a doubtful character. What is required of an officer is a certain power of discrimination, which only knowledge of men and things and good judgment can give. The law of probability must be his guide. This is not a trifling difficulty even in respect of the first plans, which can be formed in the chamber outside the real sphere of War, but it is enormously increased when in the thick of War itself one report follows hard upon the heels of another; it is then fortunate if these reports in contradicting each other show a certain balance of probability, and thus themselves call forth a scrutiny. It is much worse for the inexperienced when accident does not render him this service, but one report supports another, confirms it, magnifies it, finishes off the picture with fresh touches of colour, until necessity in urgent haste forces from us a resolution which will soon be discovered to be folly, all those reports having been lies, exaggerations, errors, &c. &c. In a few words, most reports are false, and the timidity of men acts as a multiplier of lies and untruths. As a general rule, every one is more inclined to lend credence to the bad than the good. Every one is inclined to magnify the bad in some measure, and although the alarms which are thus propagated like the waves of the sea subside into themselves, still, like them, without any apparent cause they rise again. Firm in reliance on his own better convictions, the Chief must stand like a rock against which the sea breaks its fury in vain. The _rÃ´le_ is not easy; he who is not by nature of a buoyant disposition, or trained by experience in War, and matured in judgment, may let it be his rule to do violence to his own natural conviction by inclining from the side of fear to that of hope; only by that means will he be able to preserve his balance. This difficulty of seeing things correctly, which is one of the greatest sources of friction in War, makes things appear quite different from what was expected. The impression of the senses is stronger than the force of the ideas resulting from methodical reflection, and this goes so far that no important undertaking was ever yet carried out without the Commander having to subdue new doubts in himself at the time of commencing the execution of his work. Ordinary men who follow the suggestions of others become, therefore, generally undecided on the spot; they think that they have found circumstances different from what they had expected, and this view gains strength by their again yielding to the suggestions of others. But even the man who has made his own plans, when he comes to see things with his own eyes will often think he has done wrong. Firm reliance on self must make him proof against the seeming pressure of the moment; his first conviction will in the end prove true, when the foreground scenery which fate has pushed on to the stage of War, with its accompaniments of terrific objects, is drawn aside and the horizon extended. This is one of the great chasms which separate _conception_ from _execution_.
-
 
 ### CHAPTER VII. Friction in War
 
@@ -574,7 +566,6 @@ Further, every War is rich in particular facts, while at the same time each is a
 
 It is therefore this friction, or what is so termed here, which makes that which appears easy in War difficult in reality. As we proceed, we shall often meet with this subject again, and it will hereafter become plain that besides experience and a strong will, there are still many other rare qualities of the mind required to make a man a consummate General.
 
-
 ### CHAPTER VIII. Concluding Remarks, Book I
 
 Those things which as elements meet together in the atmosphere of War and make it a resistant medium for every activity we have designated under the terms danger, bodily effort (exertion), information, and friction. In their impedient effects they may therefore be comprehended again in the collective notion of a general friction. Now is there, then, no kind of oil which is capable of diminishing this friction? Only one, and that one is not always available at the will of the Commander or his Army. It is the habituation of an Army to War.
@@ -588,7 +579,6 @@ Habituation to War no General can give his Army at once, and the camps of manÅ�
 Another less comprehensive but still very important means of gaining habituation to War in time of peace is to invite into the service officers of foreign armies who have had experience in War. Peace seldom reigns over all Europe, and never in all quarters of the world. A State which has been long at peace should, therefore, always seek to procure some officers who have done good service at the different scenes of Warfare, or to send there some of its own, that they may get a lesson in War.
 
 However small the number of officers of this description may appear in proportion to the mass, still their influence is very sensibly felt. Their experience, the bent of their genius, the stamp of their character, influence their subordinates and comrades; and besides that, if they cannot be placed in positions of superior command, they may always be regarded as men acquainted with the country, who may be questioned on many special occasions.
-
 
 ### BOOK II. ON THE THEORY OF WAR
 
@@ -678,54 +668,53 @@ But the first business of every theory is to clear up conceptions and ideas whic
 
 He to whom all this is nothing, must either repudiate all theoretical consideration, _or his understanding has not as yet been pained_ by the confused and perplexing ideas resting on no fixed point of view, leading to no satisfactory result, sometimes dull, sometimes fantastic, sometimes floating in vague generalities, which we are often obliged to hear and read on the conduct of War, owing to the spirit of scientific investigation having hitherto been little directed to these subjects.
 
-
 ### CHAPTER II. On the Theory of War
 
-####  1 - THE FIRST CONCEPTION OF THE "ART OF WAR" WAS MERELY THE PREPARATION OF THE ARMED FORCES.
+#### 1 - THE FIRST CONCEPTION OF THE "ART OF WAR" WAS MERELY THE PREPARATION OF THE ARMED FORCES.
 
 Formerly by the term "Art of War," or "Science of War," nothing was understood but the totality of those branches of knowledge and those appliances of skill occupied with material things. The pattern and preparation and the mode of using arms, the construction of fortifications and entrenchments, the organism of an army and the mechanism of its movements, were the subject; these branches of knowledge and skill above referred to, and the end and aim of them all was the establishment of an armed force fit for use in War. All this concerned merely things belonging to the material world and a one-sided activity only, and it was in fact nothing but an activity advancing by gradations from the lower occupations to a finer kind of mechanical art. The relation of all this to War itself was very much the same as the relation of the art of the sword cutler to the art of using the sword. The employment in the moment of danger and in a state of constant reciprocal action of the particular energies of mind and spirit in the direction proposed to them was not yet even mooted.
 
-####  2 - TRUE WAR FIRST APPEARS IN THE ART OF SIEGES.
+#### 2 - TRUE WAR FIRST APPEARS IN THE ART OF SIEGES.
 
 In the art of sieges we first perceive a certain degree of guidance of the combat, something of the action of the intellectual faculties upon the material forces placed under their control, but generally only so far that it very soon embodied itself again in new material forms, such as approaches, trenches, counter-approaches, batteries, &c., and every step which this action of the higher faculties took was marked by some such result; it was only the thread that was required on which to string these material inventions in order. As the intellect can hardly manifest itself in this kind of War, except in such things, so therefore nearly all that was necessary was done in that way.
 
-####  3 - THEN TACTICS TRIED TO FIND ITS WAY IN THE SAME DIRECTION.
+#### 3 - THEN TACTICS TRIED TO FIND ITS WAY IN THE SAME DIRECTION.
 
 Afterwards tactics attempted to give to the mechanism of its joints the character of a general disposition, built upon the peculiar properties of the instrument, which character leads indeed to the battle-field, but instead of leading to the free activity of mind, leads to an Army made like an automaton by its rigid formations and orders of battle, which, movable only by the word of command, is intended to unwind its activities like a piece of clockwork.
 
-####  4 - THE REAL CONDUCT OF WAR ONLY MADE ITS APPEARANCE INCIDENTALLY AND INCOGNITO.
+#### 4 - THE REAL CONDUCT OF WAR ONLY MADE ITS APPEARANCE INCIDENTALLY AND INCOGNITO.
 
 The conduct of War properly so called, that is, a use of the prepared means adapted to the most special requirements, was not considered as any suitable subject for theory, but one which should be left to natural talents alone. By degrees, as War passed from the hand-to-hand encounters of the middle ages into a more regular and systematic form, stray reflections on this point also forced themselves into men's minds, but they mostly appeared only incidentally in memoirs and narratives, and in a certain measure incognito.
 
-####  5 - REFLECTIONS ON MILITARY EVENTS BROUGHT ABOUT THE WANT OF A THEORY.
+#### 5 - REFLECTIONS ON MILITARY EVENTS BROUGHT ABOUT THE WANT OF A THEORY.
 
 As contemplation on War continually increased, and its history every day assumed more of a critical character, the urgent want appeared of the support of fixed maxims and rules, in order that in the controversies naturally arising about military events the war of opinions might be brought to some one point. This whirl of opinions, which neither revolved on any central pivot nor according to any appreciable laws, could not but be very distasteful to people's minds.
 
-####  6 - ENDEAVOURS TO ESTABLISH A POSITIVE THEORY.
+#### 6 - ENDEAVOURS TO ESTABLISH A POSITIVE THEORY.
 
 There arose, therefore, an endeavour to establish maxims, rules, and even systems for the conduct of War. By this the attainment of a positive object was proposed, without taking into view the endless difficulties which the conduct of War presents in that respect. The conduct of War, as we have shown, has no definite limits in any direction, while every system has the circumscribing nature of a synthesis, from which results an irreconcileable opposition between such a theory and practice.
 
-####  7 - LIMITATION TO MATERIAL OBJECTS.
+#### 7 - LIMITATION TO MATERIAL OBJECTS.
 
 Writers on theory felt the difficulty of the subject soon enough, and thought themselves entitled to get rid of it by directing their maxims and systems only upon material things and a one-sided activity. Their aim was to reach results, as in the science for the preparation for War, entirely certain and positive, and therefore only to take into consideration that which could be made matter of calculation.
 
-####  8 - SUPERIORITY OF NUMBERS.
+#### 8 - SUPERIORITY OF NUMBERS.
 
 The superiority in numbers being a material condition, it was chosen from amongst all the factors required to produce victory, because it could be brought under mathematical laws through combinations of time and space. It was thought possible to leave out of sight all other circumstances, by supposing them to be equal on each side, and therefore to neutralise one another. This would have been very well if it had been done to gain a preliminary knowledge of this one factor, according to its relations, but to make it a rule for ever to consider superiority of numbers as the sole law; to see the whole secret of the Art of War in the formula, _in a certain time, at a certain point, to bring up superior masses_ --was a restriction overruled by the force of realities.
 
-####  9 - VICTUALLING OF TROOPS.
+#### 9 - VICTUALLING OF TROOPS.
 
 By one theoretical school an attempt was made to systematise another material element also, by making the subsistence of troops, according to a previously established organism of the Army, the supreme legislator in the higher conduct of War. In this way certainly they arrived at definite figures, but at figures which rested on a number of arbitrary calculations, and which therefore could not stand the test of practical application.
 
-####  10 - BASE.
+#### 10 - BASE.
 
 An ingenious author tried to concentrate in a single conception, that of a BASE, a whole host of objects amongst which sundry relations even with immaterial forces found their way in as well. The list comprised the subsistence of the troops, the keeping them complete in numbers and equipment, the security of communications with the home country, lastly, the security of retreat in case it became necessary; and, first of all, he proposed to substitute this conception of a base for all these things; then for the base itself to substitute its own length (extent); and, last of all, to substitute the angle formed by the army with this base: all this was done to obtain a pure geometrical result utterly useless. This last is, in fact, unavoidable, if we reflect that none of these substitutions could be made without violating truth and leaving out some of the things contained in the original conception. The idea of a base is a real necessity for strategy, and to have conceived it is meritorious; but to make such a use of it as we have depicted is completely inadmissible, and could not but lead to partial conclusions which have forced these theorists into a direction opposed to common sense, namely, to a belief in the decisive effect of the enveloping form of attack.
 
-####  11 - INTERIOR LINES.
+#### 11 - INTERIOR LINES.
 
 As a reaction against this false direction, another geometrical principle, that of the so-called interior lines, was then elevated to the throne. Although this principle rests on a sound foundation, on the truth that the combat is the only effectual means in War, still it is, just on account of its purely geometrical nature, nothing but another case of one-sided theory which can never gain ascendency in the real world.
 
-####  12 - ALL THESE ATTEMPTS ARE OPEN TO OBJECTION.
+#### 12 - ALL THESE ATTEMPTS ARE OPEN TO OBJECTION.
 
 All these attempts at theory are only to be considered in their analytical part as progress in the province of truth, but in their synthetical part, in their precepts and rules, they are quite unserviceable.
 
@@ -735,7 +724,7 @@ They direct the attention only upon material forces, while the whole military ac
 
 They only pay regard to activity on one side, whilst War is a constant state of reciprocal action, the effects of which are mutual.
 
-####  13 - AS A RULE THEY EXCLUDE GENIUS.
+#### 13 - AS A RULE THEY EXCLUDE GENIUS.
 
 All that was not attainable by such miserable philosophy, the offspring of partial views, lay outside the precincts of science--and was the field of genius, which RAISES ITSELF ABOVE RULES.
 
@@ -743,13 +732,13 @@ Pity the warrior who is contented to crawl about in this beggardom of rules, whi
 
 Pity the theory which sets itself in opposition to the mind! It cannot repair this contradiction by any humility, and the humbler it is so much the sooner will ridicule and contempt drive it out of real life.
 
-####  14 - THE DIFFICULTY OF THEORY AS SOON AS MORAL QUANTITIES COME INTO CONSIDERATION.
+#### 14 - THE DIFFICULTY OF THEORY AS SOON AS MORAL QUANTITIES COME INTO CONSIDERATION.
 
 Every theory becomes infinitely more difficult from the moment that it touches on the province of moral quantities. Architecture and painting know quite well what they are about as long as they have only to do with matter; there is no dispute about mechanical or optical construction. But as soon as the moral activities begin their work, as soon as moral impressions and feelings are produced, the whole set of rules dissolves into vague ideas.
 
 The science of medicine is chiefly engaged with bodily phenomena only; its business is with the animal organism, which, liable to perpetual change, is never exactly the same for two moments. This makes its practice very difficult, and places the judgment of the physician above his science; but how much more difficult is the case if a moral effect is added, and how much higher must we place the physician of the mind?
 
-####  15 - THE MORAL QUANTITIES MUST NOT BE EXCLUDED IN WAR.
+#### 15 - THE MORAL QUANTITIES MUST NOT BE EXCLUDED IN WAR.
 
 But now the activity in War is never directed solely against matter; it is always at the same time directed against the intelligent force which gives life to this matter, and to separate the two from each other is impossible.
 
@@ -763,11 +752,11 @@ Every one knows the moral effect of a surprise, of an attack in flank or rear. E
 
 Certainly experience is an indispensable title for these truths. With psychological and philosophical sophistries no theory, no General, should meddle.
 
-####  16 - PRINCIPAL DIFFICULTY OF A THEORY FOR THE CONDUCT OF WAR.
+#### 16 - PRINCIPAL DIFFICULTY OF A THEORY FOR THE CONDUCT OF WAR.
 
 In order to comprehend clearly the difficulty of the proposition which is contained in a theory for the conduct of War, and thence to deduce the necessary characteristics of such a theory, we must take a closer view of the chief particulars which make up the nature of activity in War.
 
-####  17 - FIRST SPECIALITY.--MORAL FORCES AND THEIR EFFECTS. (HOSTILE FEELING.)
+#### 17 - FIRST SPECIALITY.--MORAL FORCES AND THEIR EFFECTS. (HOSTILE FEELING.)
 
 The first of these specialities consists in the moral forces and effects.
 
@@ -775,48 +764,47 @@ The combat is, in its origin, the expression of _hostile feeling_ , but in our g
 
 Besides that excitation of feelings naturally arising from the combat itself, there are others also which do not essentially belong to it, but which, on account of their relationship, easily unite with it--ambition, love of power, enthusiasm of every kind, &c. &c.
 
-####  18 - THE IMPRESSIONS OF DANGER. (COURAGE.)
+#### 18 - THE IMPRESSIONS OF DANGER. (COURAGE.)
 
 Finally, the combat begets the element of danger, in which all the activities of War must live and move, like the bird in the air or the fish in the water. But the influences of danger all pass into the feelings, either directly--that is, instinctively--or through the medium of the understanding. The effect in the first case would be a desire to escape from the danger, and, if that cannot be done, fright and anxiety. If this effect does not take place, then it is _courage_ , which is a counterpoise to that instinct. Courage is, however, by no means an act of the understanding, but likewise a feeling, like fear; the latter looks to the physical preservation, courage to the moral preservation. Courage, then, is a nobler instinct. But because it is so, it will not allow itself to be used as a lifeless instrument, which produces its effects exactly according to prescribed measure. Courage is therefore no mere counterpoise to danger in order to neutralise the latter in its effects, but a peculiar power in itself.
 
-####  19 - EXTENT OF THE INFLUENCE OF DANGER.
+#### 19 - EXTENT OF THE INFLUENCE OF DANGER.
 
 But to estimate exactly the influence of danger upon the principal actors in War, we must not limit its sphere to the physical danger of the moment. It dominates over the actor, not only by threatening him, but also by threatening all entrusted to him, not only at the moment in which it is actually present, but also through the imagination at all other moments, which have a connection with the present; lastly, not only directly by itself, but also indirectly by the responsibility which makes it bear with tenfold weight on the mind of the chief actor. Who could advise, or resolve upon a great battle, without feeling his mind more or less wrought up, or perplexed by, the danger and responsibility which such a great act of decision carries in itself? We may say that action in War, in so far as it is real action, not a mere condition, is never out of the sphere of danger.
 
-####  20 - OTHER POWERS OF FEELING.
+#### 20 - OTHER POWERS OF FEELING.
 
 If we look upon these affections which are excited by hostility and danger as peculiarly belonging to War, we do not, therefore, exclude from it all others accompanying man in his life's journey. They will also find room here frequently enough. Certainly we may say that many a petty action of the passions is silenced in this serious business of life; but that holds good only in respect to those acting in a lower sphere, who, hurried on from one state of danger and exertion to another, lose sight of the rest of the things of life, _become unused to deceit_ , because it is of no avail with death, and so attain to that soldierly simplicity of character which has always been the best representative of the military profession. In higher regions it is otherwise, for the higher a man's rank, the more he must look around him; then arise interests on every side, and a manifold activity of the passions of good and bad. Envy and generosity, pride and humility, fierceness and tenderness, all may appear as active powers in this great drama.
 
-####  21 - PECULIARITY OF MIND.
+#### 21 - PECULIARITY OF MIND.
 
 The peculiar characteristics of mind in the chief actor have, as well as those of the feelings, a high importance. From an imaginative, flighty, inexperienced head, and from a calm, sagacious understanding, different things are to be expected.
 
-####  22 - FROM THE DIVERSITY IN MENTAL INDIVIDUALITIES ARISES THE DIVERSITY OF WAYS LEADING TO THE END.
+#### 22 - FROM THE DIVERSITY IN MENTAL INDIVIDUALITIES ARISES THE DIVERSITY OF WAYS LEADING TO THE END.
 
 It is this great diversity in mental individuality, the influence of which is to be supposed as chiefly felt in the higher ranks, because it increases as we progress upwards, which chiefly produces the diversity of ways leading to the end noticed by us in the first book, and which gives, to the play of probabilities and chance, such an unequal share in determining the course of events.
 
-####  23 - SECOND PECULIARITY.--LIVING REACTION.
+#### 23 - SECOND PECULIARITY.--LIVING REACTION.
 
 The second peculiarity in War is the living reaction, and the reciprocal action resulting therefrom. We do not here speak of the difficulty of estimating that reaction, for that is included in the difficulty before mentioned, of treating the moral powers as quantities; but of this, that reciprocal action, by its nature, opposes anything like a regular plan. The effect which any measure produces upon the enemy is the most distinct of all the data which action affords; but every theory must keep to classes (or groups) of phenomena, and can never take up the really individual case in itself: that must everywhere be left to judgment and talent. It is therefore natural that in a business such as War, which in its plan--built upon general circumstances--is so often thwarted by unexpected and singular accidents, more must generally be left to talent; and less use can be made of a _theoretical guide_ than in any other.
 
-####  24 - THIRD PECULIARITY.--UNCERTAINTY OF ALL DATA.
+#### 24 - THIRD PECULIARITY.--UNCERTAINTY OF ALL DATA.
 
 Lastly, the great uncertainty of all data in War is a peculiar difficulty, because all action must, to a certain extent, be planned in a mere twilight, which in addition not unfrequently--like the effect of a fog or moonshine--gives to things exaggerated dimensions and an unnatural appearance.
 
 What this feeble light leaves indistinct to the sight talent must discover, or must be left to chance. It is therefore again talent, or the favour of fortune, on which reliance must be placed, for want of objective knowledge.
 
-####  25 - POSITIVE THEORY IS IMPOSSIBLE.
+#### 25 - POSITIVE THEORY IS IMPOSSIBLE.
 
 With materials of this kind we can only say to ourselves that it is a sheer impossibility to construct for the Art of War a theory which, like a scaffolding, shall ensure to the chief actor an external support on all sides. In all those cases in which he is thrown upon his talent he would find himself away from this scaffolding of theory and in opposition to it, and, however many-sided it might be framed, the same result would ensue of which we spoke when we said that talent and genius act beyond the law, and theory is in opposition to reality.
 
-####  26 - MEANS LEFT BY WHICH A THEORY IS POSSIBLE (THE DIFFICULTIES ARE NOT EVERYWHERE EQUALLY GREAT).
+#### 26 - MEANS LEFT BY WHICH A THEORY IS POSSIBLE (THE DIFFICULTIES ARE NOT EVERYWHERE EQUALLY GREAT).
 
 Two means present themselves of getting out of this difficulty. In the first place, what we have said of the nature of military action in general does not apply in the same manner to the action of every one, whatever may be his standing. In the lower ranks the spirit of self-sacrifice is called more into request, but the difficulties which the understanding and judgment meet with are infinitely less. The field of occurrences is more confined. Ends and means are fewer in number. Data more distinct; mostly also contained in the actually visible. But the higher we ascend the more the difficulties increase, until in the Commander-in-Chief they reach their climax, so that with him almost everything must be left to genius.
 
 Further, according to a division of the subject in _agreement with its nature_ , the difficulties are not everywhere the same, but diminish the more results manifest themselves in the material world, and increase the more they pass into the moral, and become motives which influence the will. Therefore it is easier to determine, by theoretical rules, the order and conduct of a battle, than the use to be made of the battle itself. Yonder physical weapons clash with each other, and although mind is not wanting therein, matter must have its rights. But in the effects to be produced by battles when the material results become motives, we have only to do with the moral nature. In a word, it is easier to make a theory for _tactics_ than for _strategy_.
 
-
-####  27 - THEORY MUST BE OF THE NATURE OF OBSERVATIONS NOT OF DOCTRINE.
+#### 27 - THEORY MUST BE OF THE NATURE OF OBSERVATIONS NOT OF DOCTRINE.
 
 The second opening for the possibility of a theory lies in the point of view that it does not necessarily require to be a _direction_ for action. As a general rule, whenever an _activity_ is for the most part occupied with the same objects over and over again, with the same ends and means, although there may be trifling alterations and a corresponding number of varieties of combination, such things are capable of becoming a subject of study for the reasoning faculties. But such study is just the most essential part of every _theory_ , and has a peculiar title to that name. It is an analytical investigation of the subject that leads to an exact knowledge; and if brought to bear on the results of experience, which in our case would be military history, to a thorough familiarity with it. The nearer theory attains the latter object, so much the more it passes over from the objective form of knowledge into the subjective one of skill in action; and so much the more, therefore, it will prove itself effective when circumstances allow of no other decision but that of personal talents; it will show its effects in that talent itself. If theory investigates the subjects which constitute War; if it separates more distinctly that which at first sight seems amalgamated; if it explains fully the properties of the means; if it shows their probable effects; if it makes evident the nature of objects; if it brings to bear all over the field of War the light of essentially critical investigation--then it has fulfilled the chief duties of its province. It becomes then a guide to him who wishes to make himself acquainted with War from books; it lights up the whole road for him, facilitates his progress, educates his judgment, and shields him from error.
 
@@ -824,85 +812,85 @@ If a man of expertness spends half his life in the endeavour to clear up an obsc
 
 If maxims and rules result of themselves from the considerations which theory institutes, if the truth accretes itself into that form of crystal, then theory will not oppose this natural law of the mind; it will rather, if the arch ends in such a keystone, bring it prominently out; but so does this, only in order to satisfy the philosophical law of reason, in order to show distinctly the point to which the lines all converge, not in order to form out of it an algebraical formula for use upon the battle-field; for even these maxims and rules serve more to determine in the reflecting mind the leading outline of its habitual movements than as landmarks indicating to it the way in the act of execution.
 
-####  28 - BY THIS POINT OF VIEW THEORY BECOMES POSSIBLE, AND CEASES TO BE IN CONTRADICTION TO PRACTICE.
+#### 28 - BY THIS POINT OF VIEW THEORY BECOMES POSSIBLE, AND CEASES TO BE IN CONTRADICTION TO PRACTICE.
 
 Taking this point of view, there is a possibility afforded of a satisfactory, that is, of a useful, theory of the conduct of War, never coming into opposition with the reality, and it will only depend on rational treatment to bring it so far into harmony with action that between theory and practice there shall no longer be that absurd difference which an unreasonable theory, in defiance of common sense, has often produced, but which, just as often, narrow-mindedness and ignorance have used as a pretext for giving way to their natural incapacity.
 
-####  29 - THEORY THEREFORE CONSIDERS THE NATURE OF ENDS AND MEANS--ENDS AND MEANS IN TACTICS.
+#### 29 - THEORY THEREFORE CONSIDERS THE NATURE OF ENDS AND MEANS--ENDS AND MEANS IN TACTICS.
 
 Theory has therefore to consider the nature of the means and ends.
 
 In tactics the means are the disciplined armed forces which are to carry on the contest. The object is victory. The precise definition of this conception can be better explained hereafter in the consideration of the combat. Here we content ourselves by denoting the retirement of the enemy from the field of battle as the sign of victory. By means of this victory strategy gains the object for which it appointed the combat, and which constitutes its special signification. This signification has certainly some influence on the nature of the victory. A victory which is intended to weaken the enemy's armed forces is a different thing from one which is designed only to put us in possession of a position. The signification of a combat may therefore have a sensible influence on the preparation and conduct of it, consequently will be also a subject of consideration in tactics.
 
-####  30 - CIRCUMSTANCES WHICH ALWAYS ATTEND THE APPLICATION OF THE MEANS.
+#### 30 - CIRCUMSTANCES WHICH ALWAYS ATTEND THE APPLICATION OF THE MEANS.
 
 As there are certain circumstances which attend the combat throughout, and have more or less influence upon its result, therefore these must be taken into consideration in the application of the armed forces.
 
 These circumstances are the locality of the combat (ground), the time of day, and the weather.
 
-####  31 - LOCALITY.
+#### 31 - LOCALITY.
 
 The locality, which we prefer leaving for solution, under the head of "Country and Ground," might, strictly speaking, be without any influence at all if the combat took place on a completely level and uncultivated plain.
 
 In a country of steppes such a case may occur, but in the cultivated countries of Europe it is almost an imaginary idea. Therefore a combat between civilised nations, in which country and ground have no influence, is hardly conceivable.
 
-####  32 - TIME OF DAY.
+#### 32 - TIME OF DAY.
 
 The time of day influences the combat by the difference between day and night; but the influence naturally extends further than merely to the limits of these divisions, as every combat has a certain duration, and great battles last for several hours. In the preparations for a great battle, it makes an essential difference whether it begins in the morning or the evening. At the same time, certainly many battles may be fought in which the question of the time of day is quite immaterial, and in the generality of cases its influence is only trifling.
 
-####  33 - WEATHER.
+#### 33 - WEATHER.
 
 Still more rarely has the weather any decisive influence, and it is mostly only by fogs that it plays a part.
 
-####  34 - END AND MEANS IN STRATEGY.
+#### 34 - END AND MEANS IN STRATEGY.
 
 Strategy has in the first instance only the victory, that is, the tactical result, as a means to its object, and ultimately those things which lead directly to peace. The application of its means to this object is at the same time attended by circumstances which have an influence thereon more or less.
 
-####  35 - CIRCUMSTANCES WHICH ATTEND THE APPLICATION OF THE MEANS OF STRATEGY.
+#### 35 - CIRCUMSTANCES WHICH ATTEND THE APPLICATION OF THE MEANS OF STRATEGY.
 
 These circumstances are country and ground, the former including the territory and inhabitants of the whole theatre of war; next the time of the day, and the time of the year as well; lastly, the weather, particularly any unusual state of the same, severe frost, &c.
 
-####  36 - THESE FORM NEW MEANS.
+#### 36 - THESE FORM NEW MEANS.
 
 By bringing these things into combination with the results of a combat, strategy gives this result--and therefore the combat--a special signification, places before it a particular object. But when this object is not that which leads directly to peace, therefore a subordinate one, it is only to be looked upon as a means; and therefore in strategy we may look upon the results of combats or victories, in all their different significations, as means. The conquest of a position is such a result of a combat applied to ground. But not only are the different combats with special objects to be considered as means, but also every higher aim which we may have in view in the combination of battles directed on a common object is to be regarded as a means. A winter campaign is a combination of this kind applied to the season.
 
 There remain, therefore, as objects, only those things which may be supposed as leading _directly_ to peace, Theory investigates all these ends and means according to the nature of their effects and their mutual relations.
 
-####  37 - STRATEGY DEDUCES ONLY FROM EXPERIENCE THE ENDS AND MEANS TO BE EXAMINED.
+#### 37 - STRATEGY DEDUCES ONLY FROM EXPERIENCE THE ENDS AND MEANS TO BE EXAMINED.
 
 The first question is, How does strategy arrive at a complete list of these things? If there is to be a philosophical inquiry leading to an absolute result, it would become entangled in all those difficulties which the logical necessity of the conduct of War and its theory exclude. It therefore turns to experience, and directs its attention on those combinations which military history can furnish. In this manner, no doubt, nothing more than a limited theory can be obtained, which only suits circumstances such as are presented in history. But this incompleteness is unavoidable, because in any case theory must either have deduced from, or have compared with, history what it advances with respect to things. Besides, this incompleteness in every case is more theoretical than real.
 
 One great advantage of this method is that theory cannot lose itself in abstruse disquisitions, subtleties, and chimeras, but must always remain practical.
 
-####  38 - HOW FAR THE ANALYSIS OF THE MEANS SHOULD BE CARRIED.
+#### 38 - HOW FAR THE ANALYSIS OF THE MEANS SHOULD BE CARRIED.
 
 Another question is, How far should theory go in its analysis of the means? Evidently only so far as the elements in a separate form present themselves for consideration in practice. The range and effect of different weapons is very important to tactics; their construction, although these effects result from it, is a matter of indifference; for the conduct of War is not making powder and cannon out of a given quantity of charcoal, sulphur, and saltpetre, of copper and tin: the given quantities for the conduct of War are arms in a finished state and their effects. Strategy makes use of maps without troubling itself about triangulations; it does not inquire how the country is subdivided into departments and provinces, and how the people are educated and governed, in order to attain the best military results; but it takes things as it finds them in the community of European States, and observes where very different conditions have a notable influence on War.
 
-####  39 - GREAT SIMPLIFICATION OF THE KNOWLEDGE REQUIRED.
+#### 39 - GREAT SIMPLIFICATION OF THE KNOWLEDGE REQUIRED.
 
 That in this manner the number of subjects for theory is much simplified, and the knowledge requisite for the conduct of War much reduced, is easy to perceive. The very great mass of knowledge and appliances of skill which minister to the action of War in general, and which are necessary before an army fully equipped can take the field, unite in a few great results before they are able to reach, in actual War, the final goal of their activity; just as the streams of a country unite themselves in rivers before they fall into the sea. Only those activities emptying themselves directly into the sea of War have to be studied by him who is to conduct its operations.
 
-####  40 - THIS EXPLAINS THE RAPID GROWTH OF GREAT GENERALS, AND WHY A GENERAL IS NOT A MAN OF LEARNING.
+#### 40 - THIS EXPLAINS THE RAPID GROWTH OF GREAT GENERALS, AND WHY A GENERAL IS NOT A MAN OF LEARNING.
 
 This result of our considerations is in fact so necessary, any other would have made us distrustful of their accuracy. Only thus is explained how so often men have made their appearance with great success in War, and indeed in the higher ranks even in supreme Command, whose pursuits had been previously of a totally different nature; indeed how, as a rule, the most distinguished Generals have never risen from the very learned or really erudite class of officers, but have been mostly men who, from the circumstances of their position, could not have attained to any great amount of knowledge. On that account those who have considered it necessary or even beneficial to commence the education of a future General by instruction in all details have always been ridiculed as absurd pedants. It would be easy to show the injurious tendency of such a course, because the human mind is trained by the knowledge imparted to it and the direction given to its ideas. Only what is great can make it great; the little can only make it little, if the mind itself does not reject it as something repugnant.
 
-####  41 - FORMER CONTRADICTIONS.
+#### 41 - FORMER CONTRADICTIONS.
 
 Because this simplicity of knowledge requisite in War was not attended to, but that knowledge was always jumbled up with the whole impedimenta of subordinate sciences and arts, therefore the palpable opposition to the events of real life which resulted could not be solved otherwise than by ascribing it all to genius, which requires no theory and for which no theory could be prescribed.
 
-####  42 - ON THIS ACCOUNT ALL USE OF KNOWLEDGE WAS DENIED, AND EVERYTHING ASCRIBED TO NATURAL TALENTS.
+#### 42 - ON THIS ACCOUNT ALL USE OF KNOWLEDGE WAS DENIED, AND EVERYTHING ASCRIBED TO NATURAL TALENTS.
 
 People with whom common sense had the upper hand felt sensible of the immense distance remaining to be filled up between a genius of the highest order and a learned pedant; and they became in a manner free-thinkers, rejected all belief in theory, and affirmed the conduct of War to be a natural function of man, which he performs more or less well according as he has brought with him into the world more or less talent in that direction. It cannot be denied that these were nearer to the truth than those who placed a value on false knowledge: at the same time it may easily be seen that such a view is itself but an exaggeration. No activity of the human understanding is possible without a certain stock of ideas; but these are, for the greater part at least, not innate but acquired, and constitute his knowledge. The only question therefore is, of what kind should these ideas be; and we think we have answered it if we say that they should be directed on those things which man has directly to deal with in War.
 
-####  43 - THE KNOWLEDGE MUST BE MADE SUITABLE TO THE POSITION.
+#### 43 - THE KNOWLEDGE MUST BE MADE SUITABLE TO THE POSITION.
 
 Inside this field itself of military activity, the knowledge required must be different according to the station of the Commander. It will be directed on smaller and more circumscribed objects if he holds an inferior, upon greater and more comprehensive ones if he holds a higher situation. There are Field Marshals who would not have shone at the head of a cavalry regiment, and _vice versa_.
 
-####  44 - THE KNOWLEDGE IN WAR IS VERY SIMPLE, BUT NOT, AT THE SAME TIME, VERY EASY.
+#### 44 - THE KNOWLEDGE IN WAR IS VERY SIMPLE, BUT NOT, AT THE SAME TIME, VERY EASY.
 
 But although the knowledge in War is simple, that is to say directed to so few subjects, and taking up those only in their final results, the art of execution is not, on that account, easy. Of the difficulties to which activity in War is subject generally, we have already spoken in the first book; we here omit those things which can only be overcome by courage, and maintain also that the activity of mind, is only simple, and easy in inferior stations, but increases in difficulty with increase of rank, and in the highest position, in that of Commander-in-Chief, is to be reckoned among the most difficult which there is for the human mind.
 
-####  45 - OF THE NATURE OF THIS KNOWLEDGE.
+#### 45 - OF THE NATURE OF THIS KNOWLEDGE.
 
 The Commander of an Army neither requires to be a learned explorer of history nor a publicist, but he must be well versed in the higher affairs of State; he must know, and be able to judge correctly of traditional tendencies, interests at stake, the immediate questions at issue, and the characters of leading persons; he need not be a close observer of men, a sharp dissector of human character, but he must know the character, the feelings, the habits, the peculiar faults and inclinations of those whom he is to command. He need not understand anything about the make of a carriage, or the harness of a battery horse, but he must know how to calculate exactly the march of a column, under different circumstances, according to the time it requires. These are matters the knowledge of which cannot be forced out by an apparatus of scientific formula and machinery: they are only to be gained by the exercise of an accurate judgment in the observation of things and of men, aided by a special talent for the apprehension of both.
 
@@ -910,7 +898,7 @@ The necessary knowledge for a high position in military action is therefore dist
 
 It is therefore not necessary that, in order to vindicate the intellectual dignity of military activity, we should resort to untruth and silly pedantry. There never has been a great and distinguished Commander of contracted mind, but very numerous are the instances of men who, after serving with the greatest distinction in inferior positions, remained below mediocrity in the highest, from insufficiency of intellectual capacity. That even amongst those holding the post of Commander-in-Chief there may be a difference according to the degree of their plenitude of power is a matter of course.
 
-####  46 - SCIENCE MUST BECOME ART.
+#### 46 - SCIENCE MUST BECOME ART.
 
 Now we have yet to consider one condition which is more necessary for the knowledge of the conduct of War than for any other, which is, that it must pass completely into the mind and almost completely cease to be something objective. In almost all other arts and occupations of life the active agent can make use of truths which he has only learnt once, and in the spirit and sense of which he no longer lives, and which he extracts from dusty books. Even truths which he has in hand and uses daily may continue something external to himself, If the architect takes up a pen to settle the strength of a pier by a complicated calculation, the truth found as a result is no emanation from his own mind. He had first to find the data with labour, and then to submit these to an operation of the mind, the rule for which he did not discover, the necessity of which he is perhaps at the moment only partly conscious of, but which he applies, for the most part, as if by mechanical dexterity. But it is never so in War. The moral reaction, the ever-changeful form of things, makes it necessary for the chief actor to carry in himself the whole mental apparatus of his knowledge, that anywhere and at every pulse-beat he may be capable of giving the requisite decision from himself. Knowledge must, by this complete assimilation with his own mind and life, be converted into real power. This is the reason why everything seems so easy with men distinguished in War, and why everything is ascribed to natural talent. We say natural talent, in order thereby to distinguish it from that which is formed and matured by observation and study.
 
@@ -920,7 +908,6 @@ Of the two fields into which we have divided the conduct of War, tactics and str
 
 Theory, therefore, especially where it comprehends the highest services, will stop much sooner in strategy than in tactics at the simple consideration of things, and content itself to assist the Commander to that insight into things which, blended with his whole thought, makes his course easier and surer, never forces him into opposition with himself in order to obey an objective truth.
 
-
 ### CHAPTER III. Art or Science of War
 
 #### 1 - USAGE STILL UNSETTLED
@@ -929,7 +916,7 @@ Theory, therefore, especially where it comprehends the highest services, will st
 
 The choice between these terms seems to be still unsettled, and no one seems to know rightly on what grounds it should be decided, and yet the thing is simple. We have already said elsewhere that "knowing" is something different from "doing." The two are so different that they should not easily be mistaken the one for the other. The "doing" cannot properly stand in any book, and therefore also Art should never be the title of a book. But because we have once accustomed ourselves to combine in conception, under the name of theory of Art, or simply Art, the branches of knowledge (which may be separately pure sciences) necessary for the practice of an Art, therefore it is consistent to continue this ground of distinction, and to call everything Art when the object is to carry out the "doing" (being able), as for example, Art of building; Science, when merely knowledge is the object; as Science of mathematics, of astronomy. That in every Art certain complete sciences may be included is intelligible of itself, and should not perplex us. But still it is worth observing that there is also no science without a mixture of Art. In mathematics, for instance, the use of figures and of algebra is an Art, but that is only one amongst many instances. The reason is, that however plain and palpable the difference is between knowledge and power in the composite results of human knowledge, yet it is difficult to trace out their line of separation in man himself.
 
-####  2 - DIFFICULTY OF SEPARATING PERCEPTION FROM JUDGMENT.
+#### 2 - DIFFICULTY OF SEPARATING PERCEPTION FROM JUDGMENT.
 
 (ART OF WAR.)
 
@@ -939,17 +926,15 @@ So much for this, because we cannot do without these conceptions. But now we com
 
 This has indeed been felt before now, and on that it was maintained that War is a handicraft; but there was more lost than gained by that, for a handicraft is only an inferior art, and as such is also subject to definite and rigid laws. In reality the Art of War did go on for some time in the spirit of a handicraft--we allude to the times of the Condottieri--but then it received that direction, not from intrinsic but from external causes; and military history shows how little it was at that time in accordance with the nature of the thing.
 
-####  3 - WAR IS PART OF THE INTERCOURSE OF THE HUMAN RACE.
+#### 3 - WAR IS PART OF THE INTERCOURSE OF THE HUMAN RACE.
 
 We say therefore War belongs not to the province of Arts and Sciences, but to the province of social life. It is a conflict of great interests which is settled by bloodshed, and only in that is it different from others. It would be better, instead of comparing it with any Art, to liken it to business competition, which is also a conflict of human interests and activities; and it is still more like State policy, which again, on its part, may be looked upon as a kind of business competition on a great scale. Besides, State policy is the womb in which War is developed, in which its outlines lie hidden in a rudimentary state, like the qualities of living creatures in their germs.
 
-
-####  4 - DIFFERENCE.
+#### 4 - DIFFERENCE.
 
 The essential difference consists in this, that War is no activity of the will, which exerts itself upon inanimate matter like the mechanical Arts; or upon a living but still passive and yielding subject, like the human mind and the human feelings in the ideal Arts, but against a living and reacting force. How little the categories of Arts and Sciences are applicable to such an activity strikes us at once; and we can understand at the same time how that constant seeking and striving after laws like those which may be developed out of the dead material world could not but lead to constant errors. And yet it is just the mechanical Arts that some people would imitate in the Art of War. The imitation of the ideal Arts was quite out of the question, because these themselves dispense too much with laws and rules, and those hitherto tried, always acknowledged as insufficient and one-sided, are perpetually undermined and washed away by the current of opinions, feelings, and customs.
 
 Whether such a conflict of the living, as takes place and is settled in War, is subject to general laws, and whether these are capable of indicating a useful line of action, will be partly investigated in this book; but so much is evident in itself, that this, like every other subject which does not surpass our powers of understanding, may be lighted up, and be made more or less plain in its inner relations by an inquiring mind, and that alone is sufficient to realise the idea of a THEORY.
-
 
 ### CHAPTER IV. Methodicism
 
@@ -998,7 +983,6 @@ How high up in military activity the admissibility of method in action reaches n
 As long as there exists no theory which can be sustained, that is, no enlightened treatise on the conduct of War, method in action cannot but encroach beyond its proper limits in high places, for men employed in these spheres of activity have not always had the opportunity of educating themselves, through study and through contact with the higher interests. In the impracticable and inconsistent disquisitions of theorists and critics they cannot find their way, their sound common sense rejects them, and as they bring with them no knowledge but that derived from experience, therefore in those cases which admit of, and require, a free individual treatment they readily make use of the means which experience gives them--that is, an imitation of the particular methods practised by great Generals, by which a method of action then arises of itself. If we see Frederick the Great's Generals always making their appearance in the so-called oblique order of battle, the Generals of the French Revolution always using turning movements with a long, extended line of battle, and Buonaparte's lieutenants rushing to the attack with the bloody energy of concentrated masses, then we recognise in the recurrence of the mode of proceeding evidently an adopted method, and see therefore that method of action can reach up to regions bordering on the highest. Should an improved theory facilitate the study of the conduct of War, form the mind and judgment of men who are rising to the highest commands, then also method in action will no longer reach so far, and so much of it as is to be considered indispensable will then at least be formed from theory itself, and not take place out of mere imitation. However pre-eminently a great Commander does things, there is always something subjective in the way he does them; and if he has a certain manner, a large share of his individuality is contained in it which does not always accord with the individuality of the person who copies his manner.
 
 At the same time, it would neither be possible nor right to banish subjective methodicism or manner completely from the conduct of War: it is rather to be regarded as a manifestation of that influence which the general character of a War has upon its separate events, and to which satisfaction can only be done in that way if theory is not able to foresee this general character and include it in its considerations. What is more natural than that the War of the French Revolution had its own way of doing things? and what theory could ever have included that peculiar method? The evil is only that such a manner originating in a special case easily outlives itself, because it continues whilst circumstances imperceptibly change. This is what theory should prevent by lucid and rational criticism. When in the year 1806 the Prussian Generals, Prince Louis at Saalfeld, Tauentzien on the Dornberg near Jena, Grawert before and Ruechel behind Kappellendorf, all threw themselves into the open jaws of destruction in the oblique order of Frederick the Great, and managed to ruin Hohenlohe's Army in a way that no Army was ever ruined, even on the field of battle, all this was done through a manner which had outlived its day, together with the most downright stupidity to which methodicism ever led.
-
 
 ### CHAPTER V. Criticism
 
@@ -1160,7 +1144,6 @@ But what can be gained for practical life by such obscure, partly false, confuse
 
 But it is impossible that this could have been the case, if theory in simple language, and by natural treatment of those things which constitute the Art of making War, had merely sought to establish just so much as admits of being established; if, avoiding all false pretensions and irrelevant display of scientific forms and historical parallels, it had kept close to the subject, and gone hand in hand with those who must conduct affairs in the field by their own natural genius.
 
-
 ### CHAPTER VI. On Examples
 
 Examples from history make everything clear, and furnish the best description of proof in the empirical sciences. This applies with more force to the Art of War than to any other. General Scharnhorst, whose handbook is the best ever written on actual War, pronounces historical examples to be of the first importance, and makes an admirable use of them himself. Had he survived the War in which he fell, the fourth part of his revised treatise on artillery would have given a still greater proof of the observing and enlightened spirit in which he sifted matters of experience.
@@ -1223,7 +1206,6 @@ It would be an immense service to teach the Art of War entirely by historical ex
 
 Whoever, stirred by ambition, undertakes such a task, let him prepare himself for his pious undertaking as for a long pilgrimage; let him give up his time, spare no sacrifice, fear no temporal rank or power, and rise above all feelings of personal vanity, of false shame, in order, according to the French code, to speak _the Truth, the whole Truth, and nothing but the Truth._
 
-
 ## BOOK III. OF STRATEGY IN GENERAL
 
 ### CHAPTER I. Strategy
@@ -1272,13 +1254,13 @@ Is it to be supposed that all this could have been done without producing great 
 
 This illustration is intended to give more clearness to the course of our ideas, and in closing this chapter we will only briefly observe that in our exposition of Strategy we shall describe those separate subjects which appear to us the most important, whether of a moral or material nature; then proceed from the simple to the complex, and conclude with the inner connection of the whole act of War, in other words, with the plan for a War or campaign.
 
-####  OBSERVATION.
+#### OBSERVATION.
 
 In an earlier manuscript of the second book are the following passages endorsed by the author himself _to be used for the first Chapter of the second Book:_ the projected revision of that chapter not having been made, the passages referred to are introduced here in full.
 
 By the mere assemblage of armed forces at a particular point, a battle there becomes possible, but does not always take place. Is that possibility now to be regarded as a reality and therefore an effective thing? Certainly, it is so by its results, and these effects, whatever they may be, can never fail.
 
-####  1 - POSSIBLE COMBATS ARE ON ACCOUNT OF THEIR RESULTS TO BE LOOKED UPON AS REAL ONES.
+#### 1 - POSSIBLE COMBATS ARE ON ACCOUNT OF THEIR RESULTS TO BE LOOKED UPON AS REAL ONES.
 
 If a detachment is sent away to cut off the retreat of a flying enemy, and the enemy surrenders in consequence without further resistance, still it is through the combat which is offered to him by this detachment sent after him that he is brought to his decision.
 
@@ -1288,24 +1270,23 @@ In both cases, therefore, the mere possibility of a battle has produced results,
 
 In this manner we see that the destruction of the enemy's military forces, the overthrow of the enemy's power, is only to be done through the effect of a battle, whether it be that it actually takes place, or that it is merely offered, and not accepted.
 
-####  2 - TWOFOLD OBJECT OF THE COMBAT.
+#### 2 - TWOFOLD OBJECT OF THE COMBAT.
 
 But these effects are of two kinds, direct and indirect they are of the latter, if other things intrude themselves and become the object of the combat--things which cannot be regarded as the destruction of enemy's force, but only leading up to it, certainly by a circuitous road, but with so much the greater effect. The possession of provinces, towns, fortresses, roads, bridges, magazines, &c., may be the _immediate_ object of a battle, but never the ultimate one. Things of this description can never be, looked upon otherwise than as means of gaining greater superiority, so as at last to offer battle to the enemy in such a way that it will be impossible for him to accept it. Therefore all these things must only be regarded as intermediate links, steps, as it were, leading up to the effectual principle, but never as that principle itself.
 
-####  3 - EXAMPLE.
+#### 3 - EXAMPLE.
 
 In 1814, by the capture of Buonaparte's capital the object of the War was attained. The political divisions which had their roots in Paris came into active operation, and an enormous split left the power of the Emperor to collapse of itself. Nevertheless the point of view from which we must look at all this is, that through these causes the forces and defensive means of Buonaparte were suddenly very much diminished, the superiority of the Allies, therefore, just in the same measure increased, and any further resistance then became _impossible_. It was this impossibility which produced the peace with France. If we suppose the forces of the Allies at that moment diminished to a like extent through external causes;--if the superiority vanishes, then at the same time vanishes also all the effect and importance of the taking of Paris.
 
 We have gone through this chain of argument in order to show that this is the natural and only true view of the thing from which it derives its importance. It leads always back to the question, What at any given moment of the War or campaign will be the probable result of the great or small combats which the two sides might offer to each other? In the consideration of a plan for a campaign, this question only is decisive as to the measures which are to be taken all through from the very commencement.
 
-####  4 - WHEN THIS VIEW IS NOT TAKEN, THEN A FALSE VALUE IS GIVEN TO OTHER THINGS.
+#### 4 - WHEN THIS VIEW IS NOT TAKEN, THEN A FALSE VALUE IS GIVEN TO OTHER THINGS.
 
 If we do not accustom ourselves to look upon War, and the single campaigns in a War, as a chain which is all composed of battles strung together, one of which always brings on another; if we adopt the idea that the taking of a certain geographical point, the occupation of an undefended province, is in itself anything; then we are very likely to regard it as an acquisition which we may retain; and if we look at it so, and not as a term in the whole series of events, we do not ask ourselves whether this possession may not lead to greater disadvantages hereafter. How often we find this mistake recurring in military history.
 
 We might say that, just as in commerce the merchant cannot set apart and place in security gains from one single transaction by itself, so in War a single advantage cannot be separated from the result of the whole. Just as the former must always operate with the whole bulk of his means, just so in War, only the sum total will decide on the advantage or disadvantage of each item.
 
 If the mind's eye is always directed upon the series of combats, so far as they can be seen beforehand, then it is always looking in the right direction, and thereby the motion of the force acquires that rapidity, that is to say, willing and doing acquire that energy which is suitable to the matter, and which is not to be thwarted or turned aside by extraneous influences.
-
 
 ### CHAPTER II. Elements of Strategy
 
@@ -1314,7 +1295,6 @@ The causes which condition the use of the combat in Strategy may be easily divid
 The first class includes all that can be called forth by moral qualities and effects; to the second belong the whole mass of the military force, its organisation, the proportion of the three arms, &c. &c.; to the third, the angle of the lines of operation, the concentric and eccentric movements in as far as their geometrical nature has any value in the calculation; to the fourth, the influences of country, such as commanding points, hills, rivers, woods, roads, &c. &c.; lastly, to the fifth, all the means of supply. The separation of these things once for all in the mind does good in giving clearness and helping us to estimate at once, at a higher or lower value, the different classes as we pass onwards. For, in considering them separately, many lose of themselves their borrowed importance; one feels, for instance, quite plainly that the value of a base of operations, even if we look at nothing in it but its relative position to the line of operations, depends much less in that simple form on the geometrical element of the angle which they form with one another, than on the nature of the roads and the country through which they pass.
 
 But to treat upon Strategy according to these elements would be the most unfortunate idea that could be conceived, for these elements are generally manifold, and intimately connected with each other in every single operation of War. We should lose ourselves in the most soulless analysis, and as if in a horrid dream, we should be for ever trying in vain to build up an arch to connect this base of abstractions with facts belonging to the real world. Heaven preserve every theorist from such an undertaking! We shall keep to the world of things in their totality, and not pursue our analysis further than is necessary from time to time to give distinctness to the idea which we wish to impart, and which has come to us, not by a speculative investigation, but through the impression made by the realities of War in their entirety.
-
 
 ### CHAPTER III. Moral Forces
 
@@ -1332,7 +1312,6 @@ The value of the moral powers, and their frequently incredible influence, are be
 
 We might go through the most important moral phenomena in War, and with all the care of a diligent professor try what we could impart about each, either good or bad. But as in such a method one slides too much into the commonplace and trite, whilst real mind quickly makes its escape in analysis, the end is that one gets imperceptibly to the relation of things which everybody knows. We prefer, therefore, to remain here more than usually incomplete and rhapsodical, content to have drawn attention to the importance of the subject in a general way, and to have pointed out the spirit in which the views given in this book have been conceived.
 
-
 ### CHAPTER IV. The Chief Moral Powers
 
 These are _The Talents of the Commander; The Military Virtue of the Army; Its National feeling_. Which of these is the most important no one can tell in a general way, for it is very difficult to say anything in general of their strength, and still more difficult to compare the strength of one with that of another. The best plan is not to undervalue any of them, a fault which human judgment is prone to, sometimes on one side, sometimes on another, in its whimsical oscillations. It is better to satisfy ourselves of the undeniable efficacy of these three things by sufficient evidence from history.
@@ -1346,7 +1325,6 @@ Expertness of an Army through training, and that well-tempered courage which hol
 The talent of a General has most room to display itself in a closely intersected, undulating country. In mountains he has too little command over the separate parts, and the direction of all is beyond his powers; in open plains it is simple and does not exceed those powers.
 
 According to these undeniable elective affinities, plans should be regulated.
-
 
 ### CHAPTER V. Military Virtue of an Army
 
@@ -1377,7 +1355,6 @@ The military virtue of an Army is, therefore, one of the most important moral po
 This spirit can only be generated from two sources, and only by these two conjointly; the first is a succession of campaigns and great victories; the other is, an activity of the Army carried sometimes to the highest pitch. Only by these, does the soldier learn to know his powers. The more a General is in the habit of demanding from his troops, the surer he will be that his demands will be answered. The soldier is as proud of overcoming toil, as he is of surmounting danger. Therefore it is only in the soil of incessant activity and exertion that the germ will thrive, but also only in the sunshine of victory. Once it becomes a _strong tree_ , it will stand against the fiercest storms of misfortune and defeat, and even against the indolent inactivity of peace, at least for a time. It can therefore only be created in War, and under great Generals, but no doubt it may last at least for several generations, even under Generals of moderate capacity, and through considerable periods of peace.
 
 With this generous and noble spirit of union in a line of veteran troops, covered with scars and thoroughly inured to War, we must not compare the self-esteem and vanity of a standing Army, held together merely by the glue of service-regulations and a drill book; a certain plodding earnestness and strict discipline may keep up military virtue for a long time, but can never create it; these things therefore have a certain value, but must not be over-rated. Order, smartness, good will, also a certain degree of pride and high feeling, are qualities of an Army formed in time of peace which are to be prized, but cannot stand alone. The whole retains the whole, and as with glass too quickly cooled, a single crack breaks the whole mass. Above all, the highest spirit in the world changes only too easily at the first check into depression, and one might say into a kind of rhodomontade of alarm, the French _sauve que peut_.--Such an Army can only achieve something through its leader, never by itself. It must be led with double caution, until by degrees, in victory and hardships, the strength grows into the full armour. Beware then of confusing the SPIRIT of an Army with its temper.
-
 
 ### CHAPTER VI. Boldness
 
@@ -1419,13 +1396,11 @@ Now in our days there is hardly any other means of educating the spirit of a peo
 
 A Nation can hope to have a strong position in the political world only if its character and practice in actual War mutually support each other in constant reciprocal action.
 
-
 ### CHAPTER VII. Perseverance
 
 The reader expects to hear of angles and lines, and finds, instead of these citizens of the scientific world, only people out of common life, such as he meets with every day in the street. And yet the author cannot make up his mind to become a hair's breadth more mathematical than the subject seems to him to require, and he is not alarmed at the surprise which the reader may show.
 
 In War more than anywhere else in the world things happen differently to what we had expected, and look differently when near, to what they did at a distance. With what serenity the architect can watch his work gradually rising and growing into his plan. The doctor although much more at the mercy of mysterious agencies and chances than the architect, still knows enough of the forms and effects of his means. In War, on the other hand, the Commander of an immense whole finds himself in a constant whirlpool of false and true information, of mistakes committed through fear, through negligence, through precipitation, of contraventions of his authority, either from mistaken or correct motives, from ill will, true or false sense of duty, indolence or exhaustion, of accidents which no mortal could have foreseen. In short, he is the victim of a hundred thousand impressions, of which the most have an intimidating, the fewest an encouraging tendency. By long experience in War, the tact is acquired of readily appreciating the value of these incidents; high courage and stability of character stand proof against them, as the rock resists the beating of the waves. He who would yield to these impressions would never carry out an undertaking, and on that account _perseverance_ in the proposed object, as long as there is no decided reason against it, is a most necessary counterpoise. Further, there is hardly any celebrated enterprise in War which was not achieved by endless exertion, pains, and privations; and as here the weakness of the physical and moral man is ever disposed to yield, only an immense force of will, which manifests itself in perseverance admired by present and future generations, can conduct to our goal.
-
 
 ### CHAPTER VIII. Superiority of Numbers
 
@@ -1485,7 +1460,6 @@ We think we have now allotted to the superiority in numbers the importance which
 
 But to regard it on this account as a necessary condition of victory would be a complete misconception of our exposition; in the conclusion to be drawn from it there lies nothing more than the value which should attach to numerical strength in the combat. If that strength is made as great as possible, then the maxim is satisfied; a review of the total relations must then decide whether or not the combat is to be avoided for want of sufficient force.
 
-
 ### CHAPTER IX. The Surprise
 
 From the subject of the foregoing chapter, the general endeavour to attain a relative superiority, there follows another endeavour which must consequently be just as general in its nature: this is the _surprise_ of the enemy. It lies more or less at the foundation of all undertakings, for without it the preponderance at the decisive point is not properly conceivable.
@@ -1526,7 +1500,6 @@ So should it be, but practical life does not keep to this line so exactly, and t
 
 Much depends here on the general relation in which the two parties stand to each other. If the one side through a general moral superiority can intimidate and outdo the other, then he can make use of the surprise with more success, and even reap good fruit where properly he should come to ruin.
 
-
 ### CHAPTER X. Stratagem
 
 Stratagem implies a concealed intention, and therefore is opposed to straightforward dealing, in the same way as wit is the opposite of direct proof. It has therefore nothing in common with means of persuasion, of self-interest, of force, but a great deal to do with deceit, because that likewise conceals its object. It is itself a deceit as well when it is done, but still it differs from what is commonly called deceit, in this respect that there is no direct breach of word. The deceiver by stratagem leaves it to the person himself whom he is deceiving to commit the errors of understanding which at last, flowing into _one_ result, suddenly change the nature of things in his eyes. We may therefore say, as nit is a sleight of hand with ideas and conceptions, so stratagem is a sleight of hand with actions.
@@ -1551,7 +1524,6 @@ The conclusion which we draw, is that a correct and penetrating eye is a more ne
 
 But the weaker the forces become which are under the command of Strategy, so much the more they become adapted for stratagem, so that to the quite feeble and little, for whom no prudence, no sagacity is any longer sufficient at the point where all art seems to forsake him, stratagem offers itself as a last resource. The more helpless his situation, the more everything presses towards one single, desperate blow, the more readily stratagem comes to the aid of his boldness. Let loose from all further calculations, freed from all concern for the future, boldness and stratagem intensify each other, and thus collect at one point an infinitesimal glimmering of hope into a single ray, which may likewise serve to kindle a flame.
 
-
 ### CHAPTER XI. Assembly of Forces in Space
 
 The best Strategy is _always to be very strong_ , first generally then at the decisive point. Therefore, apart from the energy which creates the Army, a work which is not always done by the General, there is no more imperative and no simpler law for Strategy than to _keep the forces concentrated_.--No portion is to be separated from the main body unless called away by some urgent necessity. On this maxim we stand firm, and look upon it as a guide to be depended upon. What are the reasonable grounds on which a detachment of forces may be made we shall learn by degrees. Then we shall also see that this principle cannot have the same general effects in every War, but that these are different according to the means and end.
@@ -1559,7 +1531,6 @@ The best Strategy is _always to be very strong_ , first generally then at the de
 It seems incredible, and yet it has happened a hundred times, that troops have been divided and separated merely through a mysterious feeling of conventional manner, without any clear perception of the reason.
 
 If the concentration of the whole force is acknowledged as the norm, and every division and separation as an exception which must be justified, then not only will that folly be completely avoided, but also many an erroneous ground for separating troops will be barred admission.
-
 
 ### CHAPTER XII. Assembly of Forces in Time
 
@@ -1615,7 +1586,6 @@ But still there is in Strategy a renewal of effort and a persistent action which
 
 We now turn to a subject very closely connected with our present considerations, which must be settled before full light can be thrown on the whole, we mean the _strategic reserve_.
 
-
 ### CHAPTER XIII. Strategic Reserve
 
 A reserve has two objects which are very distinct from each other, namely, first, the prolongation and renewal of the combat, and secondly, for use in case of unforeseen events. The first object implies the utility of a successive application of forces, and on that account cannot occur in Strategy. Cases in which a corps is sent to succour a point which is supposed to be about to fall are plainly to be placed in the category of the second object, as the resistance which has to be offered here could not have been sufficiently foreseen. But a corps which is destined expressly to prolong the combat, and with that object in view is placed in rear, would be only a corps placed out of reach of fire, but under the command and at the disposition of the General Commanding in the action, and accordingly would be a tactical and not a strategic reserve.
@@ -1646,13 +1616,11 @@ We have pointed out as an absurdity the idea of a strategic reserve which is not
 
 After these examples we cannot be accused of having been fighting with windmills.
 
-
 ### CHAPTER XIV. Economy of Forces
 
 The road of reason, as we have said, seldom allows itself to be reduced to a mathematical line by principles and opinions. There remains always a certain margin. But it is the same in all the practical arts of life. For the lines of beauty there are no abscissae and ordinates; circles and ellipses are not described by means of their algebraical formulae. The actor in War therefore soon finds he must trust himself to the delicate tact of judgment which, founded on natural quickness of perception, and educated by reflection, almost unconsciously seizes upon the right; he soon finds that at one time he must simplify the law (by reducing it) to some prominent characteristic points which form his rules; that at another the adopted method must become the staff on which he leans.
 
 As one of these simplified characteristic points as a mental appliance, we look upon the principle of watching continually over the co-operation of all forces, or in other words, of keeping constantly in view that no part of them should ever be idle. Whoever has forces where the enemy does not give them sufficient employment, whoever has part of his forces on the march--that is, allows them to lie dead--while the enemy's are fighting, he is a bad manager of his forces. In this sense there is a waste of forces, which is even worse than their employment to no purpose. If there must be action, then the first point is that all parts act, because the most purposeless activity still keeps employed and destroys a portion of the enemy's force, whilst troops completely inactive are for the moment quite neutralised. Unmistakably this idea is bound up with the principles contained in the last three chapters, it is the same truth, but seen from a somewhat more comprehensive point of view and condensed into a single conception.
-
 
 ### CHAPTER XV. Geometrical Element
 
@@ -1665,7 +1633,6 @@ In Strategy this is only faintly reflected, on account of the greater space and 
 In Strategy therefore the scope for such combinations, that is for those resting on the geometrical element, is much smaller, and for the same reason the effect of an advantage once actually gained at any point is much greater. Such advantage has time to bring all its effects to maturity before it is disturbed, or quite neutralised therein, by any counteracting apprehensions. We therefore do not hesitate to regard as an established truth, that in Strategy more depends on the number and the magnitude of the victorious combats, than on the form of the great lines by which they are connected.
 
 A view just the reverse has been a favourite theme of modern theory, because a greater importance was supposed to be thus given to Strategy, and, as the higher functions of the mind were seen in Strategy, it was thought by that means to ennoble War, and, as it was said--through a new substitution of ideas--to make it more scientific. We hold it to be one of the principal uses of a complete theory openly to expose such vagaries, and as the geometrical element is the fundamental idea from which theory usually proceeds, therefore we have expressly brought out this point in strong relief.
-
 
 ### CHAPTER XVI. On the Suspension of the Act in War
 
@@ -1705,7 +1672,6 @@ Nevertheless in this kind of Warfare, there is also a certain shrewdness, indeed
 
 The result of all the causes now adduced is, that the hostile action of a campaign does not progress by a continuous, but by an intermittent movement, and that, therefore, between the separate bloody acts, there is a period of watching, during which both parties fall into the defensive, and also that usually a higher object causes the principle of aggression to predominate on one side, and thus leaves it in general in an advancing position, by which then its proceedings become modified in some degree.
 
-
 ### CHAPTER XVII. On the Character of Modern War
 
 The attention which must be paid to the character of War as it is now made, has a great influence upon all plans, especially on strategic ones.
@@ -1713,7 +1679,6 @@ The attention which must be paid to the character of War as it is now made, has 
 Since all methods formerly usual were upset by Buonaparte's luck and boldness, and first-rate Powers almost wiped out at a blow; since the Spaniards by their stubborn resistance have shown what the general arming of a nation and insurgent measures on a great scale can effect, in spite of weakness and porousness of individual parts; since Russia, by the campaign of 1812 has taught us, first, that an Empire of great dimensions is not to be conquered (which might have been easily known before), secondly, that the probability of final success does not in all cases diminish in the same measure as battles, capitals, and provinces are lost (which was formerly an incontrovertible principle with all diplomatists, and therefore made them always ready to enter at once into some bad temporary peace), but that a nation is often strongest in the heart of its country, if the enemy's offensive power has exhausted itself, and with what enormous force the defensive then springs over to the offensive; further, since Prussia (1813) has shown that sudden efforts may add to an Army sixfold by means of the militia, and that this militia is just as fit for service abroad as in its own country;--since all these events have shown what an enormous factor the heart and sentiments of a Nation may be in the product of its political and military strength, in fine, since governments have found out all these additional aids, it is not to be expected that they will let them lie idle in future Wars, whether it be that danger threatens their own existence, or that restless ambition drives them on.
 
 That a War which is waged with the whole weight of the national power on each side must be organised differently in principle to those where everything is calculated according to the relations of standing Armies to each other, it is easy to perceive. Standing Armies once resembled fleets, the land force the sea force in their relations to the remainder of the State, and from that the Art of War on shore had in it something of naval tactics, which it has now quite lost.
-
 
 ### CHAPTER XVIII. Tension and Rest
 
@@ -1749,7 +1714,6 @@ That a Commander should thoroughly understand these states, that he should have 
 
 But this speculative distinction which we have made is also necessary for our further progress in the construction of our theory, because all that we have to say on the relation of attack and defence, and on the completion of this double-sided act, concerns the state of the crisis in which the forces are placed during the tension and motion, and because all the activity which can take place during the condition of equilibrium can only be regarded and treated as a corollary; for that crisis is the real War and this state of equilibrium only its reflection.
 
-
 ## BOOK IV. THE COMBAT
 
 ### CHAPTER I. Introductory
@@ -1759,7 +1723,6 @@ Having in the foregoing book examined the subjects which may be regarded as the 
 The formation of the combat is tactical in its nature; we only glance at it here in a general way in order to get acquainted with it in its aspect as a whole. In practice the minor or more immediate objects give every combat a characteristic form; these minor objects we shall not discuss until hereafter. But these peculiarities are in comparison to the general characteristics of a combat mostly only insignificant, so that most combats are very like one another, and, therefore, in order to avoid repeating that which is general at every stage, we are compelled to look into it here, before taking up the subject of its more special application.
 
 In the first place, therefore, we shall give in the next chapter, in a few words, the characteristics of the modern battle in its tactical course, because that lies at the foundation of our conceptions of what the battle really is.
-
 
 ### CHAPTER II. Character of a Modern Battle
 
@@ -1774,7 +1737,6 @@ This description, which is not intended as a finished picture of a modern battle
 But modern battles are not so by accident; they are so because the parties find themselves nearly on a level as regards military organisation and the knowledge of the Art of War, and because the warlike element inflamed by great national interests has broken through artificial limits and now flows in its natural channel. Under these two conditions, battles will always preserve this character.
 
 This general idea of the modern battle will be useful to us in the sequel in more places than one, if we want to estimate the value of the particular co-efficients of strength, country, &c. &c. It is only for general, great, and decisive combats, and such as come near to them that this description stands good; inferior ones have changed their character also in the same direction but less than great ones. The proof of this belongs to tactics; we shall, however, have an opportunity hereafter of making this subject plainer by giving a few particulars.
-
 
 ### CHAPTER III. The Combat in General
 
@@ -1813,7 +1775,6 @@ After this abstract view we shall only add that experience, very far from leadin
 Whoever reads history with a mind free from prejudice cannot fail to arrive at a conviction that of all military virtues, energy in the conduct of operations has always contributed the most to the glory and success of arms.
 
 How we make good our principle of regarding the destruction of the enemy's force as the principal object, not only in the War as a whole but also in each separate combat, and how that principle suits all the forms and conditions necessarily demanded by the relations out of which War springs, the sequel will show. For the present all that we desire is to uphold its general importance, and with this result we return again to the combat.
-
 
 ### CHAPTER IV. The Combat in General ( _continuation_ )
 
@@ -1885,7 +1846,6 @@ Jena and Belle Alliance were routs, but not so Borodino.
 
 Although without pedantry we can here give no single line of separation, because the difference between the things is one of degrees, yet still the retention of the conception is essential as a central point to give clearness to our theoretical ideas and it is a want in our terminology that for a victory over the enemy tantamount to a rout, and a conquest of the enemy only tantamount to a simple victory, there is only one and the same word to use.
 
-
 ### CHAPTER V. On the Signification of the Combat
 
 Having in the preceding chapter examined the combat in its absolute form, as the miniature picture of the whole War, we now turn to the relations which it bears to the other parts of the great whole. First we inquire what is more precisely the signification of a combat.
@@ -1896,18 +1856,15 @@ That a multiplication of combats should arise from a fractioning of forces is a 
 
 Destruction of the enemy's military forces is in reality the object of all combats; but other objects may be joined thereto, and these other objects may be at the same time predominant; we must therefore draw a distinction between those in which the destruction of the enemy's forces is the principal object, and those in which it is more the means. The destruction of the enemy's force, the possession of a place or the possession of some object may be the general motive for a combat, and it may be either one of these alone or several together, in which case however usually one is the principal motive. Now the two principal forms of War, the offensive and defensive, of which we shall shortly speak, do not modify the first of these motives, but they certainly do modify the other two, and therefore if we arrange them in a scheme they would appear thus:--
 
-
 OFFENSIVE.
 1 - Destruction of enemy's force
 2 - Conquest of a place.
 3 - Conquest of some object.
 
-
 DEFENSIVE.
 1 - Destruction of enemy's force.
 2 - Defence of a place.
 3 - Defence of some object.
-
 
 These motives, however, do not seem to embrace completely the whole of the subject, if we recollect that there are reconnaissances and demonstrations, in which plainly none of these three points is the object of the combat. In reality we must, therefore, on this account be allowed a fourth class. Strictly speaking, in reconnaissances in which we wish the enemy to show himself, in alarms by which we wish to wear him out, in demonstrations by which we wish to prevent his leaving some point or to draw him off to another, the objects are all such as can only be attained indirectly and _under the pretext of one of the three objects specified in the table_ , usually of the second; for the enemy whose aim is to reconnoitre must draw up his force as if he really intended to attack and defeat us, or drive us off, &c. &c. But this pretended object is not the real one, and our present question is only as to the latter; therefore, we must to the above three objects of the offensive further add a fourth, which is to lead the enemy to make a false conclusion. That offensive means are conceivable in connection with this object, lies in the nature of the thing.
 
@@ -1916,7 +1873,6 @@ On the other hand we must observe that the defence of a place may be of two kind
 That the nature of these different intentions of a combat must have an essential influence on the dispositions which are its preliminaries, is a thing clear in itself. We act differently if our object is merely to drive an enemy's post out of its place from what we should if our object was to beat him completely; differently, if we mean to defend a place to the last extremity from what we should do if our design is only to detain the enemy for a certain time. In the first case we trouble ourselves little about the line of retreat, in the latter it is the principal point, &c.
 
 But these reflections belong properly to tactics, and are only introduced here by way of example for the sake of greater clearness. What Strategy has to say on the different objects of the combat will appear in the chapters which touch upon these objects. Here we have only a few general observations to make, first, that the importance of the object decreases nearly in the order as they stand above, therefore, that the first of these objects must always predominate in the great battle; lastly, that the two last in a defensive battle are in reality such as yield no fruit, they are, that is to say, purely negative, and can, therefore, only be serviceable, indirectly, by facilitating something else which is positive. _It is, therefore, a bad sign of the strategic situation if battles of this kind become too frequent._
-
 
 ### CHAPTER VI. Duration of Combat
 
@@ -1935,7 +1891,6 @@ From this it follows, therefore, that strength, relation of the three arms, and 
 Even the resistance of an ordinary Division of 8000 to 10,000 men of all arms even opposed to an enemy considerably superior in numbers, will last several hours, if the advantages of country are not too preponderating, and if the enemy is only a little, or not at all, superior in numbers, the combat will last half a day. A Corps of three or four Divisions will prolong it to double the time; an Army of 80,000 or 100,000 to three or four times. Therefore the masses may be left to themselves for that length of time, and no separate combat takes place if within that time other forces can be brought up, whose co-operation mingles then at once into one stream with the results of the combat which has taken place.
 
 These calculations are the result of experience; but it is important to us at the same time to characterise more particularly the moment of the decision, and consequently the termination.
-
 
 ### CHAPTER VII. Decision of the Combat
 
@@ -2005,7 +1960,6 @@ On the duration of the combat and the moment of its decision depend the distance
 
 Dispositions of this kind are: marches in separate masses and columns, the formation of advance guards, and flanking columns, also the grouping of reserves intended to serve as supports for more than one strategic point; the concentration of several Corps from widely extended cantonments, &c. &c. We can see that the necessity for these arrangements may constantly arise, and may consider them something like the small change in the strategic economy, whilst the capital battles, and all that rank with them are the gold and silver pieces.
 
-
 ### CHAPTER VIII. Mutual Understanding as to a Battle
 
 No battle can take place unless by mutual consent; and in this idea, which constitutes the whole basis of a duel, is the root of a certain phraseology used by historical writers, which leads to many indefinite and false conceptions.
@@ -2041,7 +1995,6 @@ The battle of Rosbach is another example, if we suppose the commander of the all
 Of the battle of Soor, the King himself says that it was only fought because a retreat in the presence of the enemy appeared to him a critical operation; at the same time the King has also given other reasons for the battle.
 
 On the whole, regular night surprises excepted, such cases will always be of rare occurrence, and those in which an enemy is compelled to fight by being practically surrounded, will happen mostly to single corps only, like Mortier's at DÃ¼rrenstein 1809, and Vandamme at Kulm, 1813.
-
 
 ### CHAPTER IX. The Battle
 
@@ -2097,7 +2050,6 @@ As a conclusion to this subject, we must dwell for a moment on the point at whic
 
 If, on the one hand the overbearing pride of a victorious conqueror, if the inflexible will of a naturally obstinate spirit, if the strenuous resistance of noble feelings will not yield the battlefield, where they must leave their honour, yet on the other hand, reason counsels not to give up everything, not to risk the last upon the game, but to retain as much over as is necessary for an orderly retreat. However highly we must esteem courage and firmness in War, and however little prospect there is of victory to him who cannot resolve to seek it by the exertion of all his power, still there is a point beyond which perseverance can only be termed desperate folly, and therefore can meet with no approbation from any critic. In the most celebrated of all battles, that of Belle-Alliance, Buonaparte used his last reserve in an effort to retrieve a battle which was past being retrieved. He spent his last farthing, and then, as a beggar, abandoned both the battle-field and his crown.
 
-
 ### CHAPTER X. Effects of Victory
 
 According to the point from which our view is taken, we may feel as much astonished at the extraordinary results of some great battles as at the want of results in others. We shall dwell for a moment on the nature of the effect of a great victory.
@@ -2143,7 +2095,6 @@ Therefore, if hereafter in another place we examine what is to be done after the
 Another question is, whether, through the loss of a great battle, forces are not perhaps roused into existence, which otherwise would never have come to life. This case is certainly conceivable, and it is what has actually occurred with many Nations. But to produce this intensified reaction is beyond the province of military art, which can only take account of it where it might be assumed as a possibility.
 
 If there are cases in which the fruits of a victory appear rather of a destructive nature in consequence of the reaction of the forces which it had the effect of rousing into activity--cases which certainly are very exceptional--then it must the more surely be granted, that there is a difference in the effects which one and the same victory may produce according to the character of the people or state, which has been conquered.
-
 
 ### CHAPTER XI. The Use of the Battle
 
@@ -2217,7 +2168,6 @@ The impulse towards a great battle, the voluntary, sure progress to it, must pro
 
 Great examples are the best teachers, but it is certainly a misfortune if a cloud of theoretical prejudices comes between, for even the sunbeam is refracted and tinted by the clouds. To destroy such prejudices, which many a time rise and spread themselves like a miasma, is an imperative duty of theory, for the misbegotten offspring of human reason can also be in turn destroyed by pure reason.
 
-
 ### CHAPTER XII. Strategic Means of Utilising Victory
 
 The more difficult part, viz., that of perfectly preparing the victory, is a silent service of which the merit belongs to Strategy and yet for which it is hardly sufficiently commended. It appears brilliant and full of renown by turning to good account a victory gained.
@@ -2274,7 +2224,6 @@ The beneficial effect of the smallest successes is incredible; but with most Gen
 
 Such marches tell upon the pursuer as well as the pursued, and they are not advisable if the enemy's Army rallies itself upon another considerable one; if it has a distinguished General at its head, and if its destruction is not already well prepared. But when this means can be adopted, it acts also like a great mechanical power. The losses of the beaten Army from sickness and fatigue are on such a disproportionate scale, the spirit of the Army is so weakened and lowered by the constant solicitude about impending ruin, that at last anything like a well organised stand is out of the question; every day thousands of prisoners fall into the enemy's hands without striking a blow. In such a season of complete good fortune, the conqueror need not hesitate about dividing his forces in order to draw into the vortex of destruction everything within reach of his Army, to cut off detachments, to take fortresses unprepared for defence, to occupy large towns, &c. &c. He may do anything until a new state of things arises, and the more he ventures in this way the longer will it be before that change will take place. There is no want of examples of brilliant results from grand decisive victories, and of great and vigorous pursuits in the wars of Buonaparte. We need only quote Jena 1806, Ratisbonne 1809, Leipsic 1813, and Belle- Alliance 1815.
 
-
 ### CHAPTER XIII. Retreat After a Lost Battle
 
 In a lost battle the power of an Army is broken, the moral to a greater degree than the physical. A second battle unless fresh favourable circumstances come into play, would lead to a complete defeat, perhaps, to destruction. This is a military axiom. According to the usual course the retreat is continued up to that point where the equilibrium of forces is restored, either by reinforcements, or by the protection of strong fortresses, or by great defensive positions afforded by the country, or by a separation of the enemy's force. The magnitude of the losses sustained, the extent of the defeat, but still more the character of the enemy, will bring nearer or put off the instant of this equilibrium. How many instances may be found of a beaten Army rallied again at a short distance, without its circumstances having altered in any way since the battle. The cause of this may be traced to the moral weakness of the adversary, or to the preponderance gained in the battle not having been sufficient to make lasting impression.
@@ -2290,7 +2239,6 @@ The difficulties of a retreat are naturally greater or less according as the bat
 Now and again it has been suggested to divide for the purpose of retreating, therefore to retreat in separate divisions or even eccentrically. Such a separation as is made merely for convenience, and along with which concentrated action continues possible and is kept in view, is not what we now refer to; any other kind is extremely dangerous, contrary to the nature of the thing, and therefore a great error. Every lost battle is a principle of weakness and disorganisation; and the first and immediate desideratum is to concentrate, and in concentration to recover order, courage, and confidence. The idea of harassing the enemy by separate corps on both flanks at the moment when he is following up his victory, is a perfect anomaly; a faint-hearted pedant might be overawed by his enemy in that manner, and for such a case it may answer; but where we are not sure of this failing in our opponent it is better let alone. If the strategic relations after a battle require that we should cover ourselves right and left by detachments, so much must be done, as from circumstances is unavoidable, but this fractioning must always be regarded as an evil, and we are seldom in a state to commence it the day after the battle itself.
 
 If Frederick the Great after the battle of Kollin, and the raising of the siege of Prague retreated in three columns that was done not out of choice, but because the position of his forces, and the necessity of covering Saxony, left him no alternative, Buonaparte after the battle of Brienne, sent Marmont back to the Aube, whilst he himself passed the Seine, and turned towards Troyes; but that this did not end in disaster, was solely owing to the circumstance that the Allies, instead of pursuing divided their forces in like manner, turning with the one part (BlÃ¼cher) towards the Marne, while with the other (Schwartzenberg), from fear of being too weak, they advanced with exaggerated caution.
-
 
 ### CHAPTER XIV. Night Fighting
 
@@ -2338,7 +2286,6 @@ But in all these cases there is still the condition that the enemy's army is und
 
 As for the rest, most night combats are so conducted as to end with daylight, so that only the approach and the first attack are made under cover of darkness, because the assailant in that manner can better profit by the consequences of the state of confusion into which he throws his adversary; and combats of this description which do not commence until daybreak, in which the night therefore is only made use of to approach, are not to be counted as night combats.
 
-
 ## BOOK V. MILITARY FORCES
 
 ### CHAPTER I. General Scheme
@@ -2355,16 +2302,15 @@ We shall consider military forces:
 
 Thus we shall devote this book to the consideration of things appertaining to an army, which only come under the head of _necessary conditions of fighting_ , but do not constitute the fight itself. They stand in more or less close connection with and react upon the fighting, and therefore, in considering the application of the combat they must often appear; but we must first consider each by itself, as a whole, in its essence and peculiarities.
 
-
 ### CHAPTER II. Theatre of War, Army, Campaign
 
 The nature of the things does not allow of a completely satisfactory definition of these three factors, denoting respectively, space, mass, and time in war; but that we may not sometimes be quite misunderstood, we must try to make somewhat plainer the usual meaning of these terms, to which we shall in most cases adhere.
 
-####  1 - Theatre of War.
+#### 1 - Theatre of War.
 
 This term denotes properly such a portion of the space over which war prevails as has its boundaries protected, and thus possesses a kind of independence. This protection may consist in fortresses, or important natural obstacles presented by the country, or even in its being separated by a considerable distance from the rest of the space embraced in the war.--Such a portion is not a mere piece of the whole, but a small whole complete in itself; and consequently it is more or less in such a condition that changes which take place at other points in the seat of war have only an indirect and no direct influence upon it. To give an adequate idea of this, we may suppose that on this portion an advance is made, whilst in another quarter a retreat is taking place, or that upon the one an army is acting defensively, whilst an offensive is being carried on upon the other. Such a clearly defined idea as this is not capable of universal application; it is here used merely to indicate the line of distinction.
 
-####  2 - Army.
+#### 2 - Army.
 
 With the assistance of the conception of a Theatre of War, it is very easy to say what an Army is: it is, in point of fact, the mass of troops in the same Theatre of War. But this plainly does not include all that is meant by the term in its common usage. BlÃ¼cher and Wellington commanded each a separate army in 1815, although the two were in the same Theatre of War. The chief command is, therefore, another distinguishing sign for the conception of an Army. At the same time this sign is very nearly allied to the preceding, for where things are well organised, there should only exist one supreme command in a Theatre of War, and the commander-in-chief in a particular Theatre of War should always have a proportionate degree of independence.
 
@@ -2372,12 +2318,11 @@ The mere absolute numerical strength of a body of troops is less decisive on the
 
 The conceptions of Army and Theatre of War therefore, as a rule, go together, and mutually include each other.
 
-####  3 - Campaign.
+#### 3 - Campaign.
 
 Although the sum of all military events which happen in all the Theatres of War in one year is often called a _Campaign_ , still, however, it is more usual and more exact to understand by the term the events in _one single_ Theatre of War. But it is worse still to connect the notion of a Campaign with the period of one year, for wars no longer divide themselves naturally into Campaigns of a year's duration by fixed and long periods in winter quarters. As, however, the events in a Theatre of War of themselves form certain great chapters--if, for instance, the direct effects of some more or less great catastrophe cease, and new combinations begin to develop themselves--therefore these natural subdivisions must be taken into consideration in order to allot to each year (Campaign) its complete share of events. No one would make the Campaign of 1812 terminate at Memel, where the armies were on the 1st January, and transfer the further retreat of the French until they recrossed the Elbe to the campaign of 1813, as that further retreat was plainly only a part of the whole retreat from Moscow.
 
 That we cannot give these conceptions any greater degree of distinctness is of no consequence, because they cannot be used as philosophical definitions for the basis of any kind of propositions. They only serve to give a little more clearness and precision to the language we use.
-
 
 ### CHAPTER III. Relation of Power
 
@@ -2406,7 +2351,6 @@ The more that an army involved in an unequal combat falls short of the number of
 If with this energy of powers is combined a wise moderation in the object proposed, then there is that play of brilliant actions and prudent forbearance which we admire in the wars of Frederick the Great.
 
 But the less that this moderation and caution can effect, the more must the tension and energy of the forces become predominant. When the disproportion of forces is so great that no modification of our own object can ensure us safety from a catastrophe, or where the probable continuance of the danger is so great that the greatest economy of our powers can no longer suffice to bring us to our object, then the tension of our powers should be concentrated for one desperate blow; he who is pressed on all sides expecting little help from things which promise none, will place his last and only reliance in the moral ascendancy which despair gives to courage, and look upon the greatest daring as the greatest wisdom,--at the same time employ the assistance of subtle stratagem, and if he does not succeed, will find in an honourable downfall the right to rise hereafter.
-
 
 ### CHAPTER IV. Relation of the Three Arms
 
@@ -2514,7 +2458,6 @@ The principal results we obtain from the whole of these considerations, are--
 
 4 - That artillery being the strongest arm, as regards destructive action, and cavalry the weakest in that respect, the question must in general arise, how much artillery can we have without inconvenience, and what is the least proportion of cavalry we require?
 
-
 ### CHAPTER V. Order of Battle of an Army
 
 The order of battle is that division and formation of the different arms into separate parts or sections of the whole Army, and that form of general position or disposition of those parts which is to be the norm throughout the whole campaign or war.
@@ -2533,7 +2476,7 @@ The greater armies become, the more they are distributed over wide spaces and th
 
 We now turn to those three points, the _division, combination of arms_ , and _order of battle_ ( _disposition_ ) in a strategic point of view.
 
-####  1 - Division.
+#### 1 - Division.
 
 In strategy we must never ask what is to be the strength of a division or a corps, but how many corps or division an army should have. There is nothing more unmanageable than an army divided into three parts, except it be one divided into only two, in which case the chief command must be almost neutralised.
 
@@ -2569,7 +2512,7 @@ As we mean by the term numbers, or parts of a whole, only those which are made b
 
 The tendency of all this is to show that the number of co-ordinate divisions should be as great, and the gradational steps as few as possible; and the only limitation to this conclusion is, that in armies no more than from eight to ten, and in subordinate corps no more than from four or at most six, subdivisions can be conveniently directed.
 
-####  2 - Combination of Arms.
+#### 2 - Combination of Arms.
 
 For strategy the combination of the three arms in the order of battle is only important in regard to those parts of the army which, according to the usual order of things, are likely to be frequently employed in a detached position, where they may be obliged to engage in an independent combat. Now it is in the nature of things, that the members of the first class, and for the most part only these, are destined for detached positions, because, as we shall see elsewhere, detached positions are most generally adopted upon the supposition and the necessity of a body independent in itself.
 
@@ -2579,12 +2522,11 @@ But it is easy to see that, when corps are of considerable size, such as 30,000 
 
 The details of the combination of the three arms, how far it should extend, how low down it should be carried, what proportions should be observed, the strength of the reserves of each to be set apart--these are all purely tactical considerations.
 
-####  3 - The Disposition.
+#### 3 - The Disposition.
 
 The determination as to the relations in space, according to which the parts of an army amongst themselves are to be drawn up in order of battle, is likewise completely a tactical subject, referring solely to the battle. No doubt there is also a strategic disposition of the parts; but it depends almost entirely on determinations and requirements of the moment, and what there is in it of the rational, does not come within the meaning of the term "order of battle." We shall therefore treat of it in the following chapter under the head of _Disposition of an Army_.
 
 The order of battle of an army is therefore the organisation and disposition of it in mass ready prepared for battle. Its parts are united in such a manner that both the tactical and strategical requirements of the moment can be easily satisfied by the employment of single parts drawn from the general mass. When such momentary exigency has passed over, these parts resume their original place, and thus the order of battle becomes the first step to, and principal foundation of, that wholesome methodicism which, like the beat of a pendulum, regulates the work in war, and of which we have already spoken in the fourth chapter of the Second Book.
-
 
 ### CHAPTER VI. General Disposition of an Army
 
@@ -2657,7 +2599,6 @@ Respecting corps on the flanks, as we have already said, the combat of an ordina
 From this natural and general disposition of the main body, in four or five divisions at particular distances, a certain method has arisen of dividing an army in a mechanical manner whenever there are no strong special reasons against this ordinary method.
 
 But although we assume that each of these distinct parts of an army shall be competent to undertake an independent combat, and it may be obliged to engage in one, it does not therefore by any means follow that the real object of fractioning an army is that the parts should fight separately; the necessity for this distribution of the army is mostly only a condition of existence imposed by time. If the enemy approaches our position to try the fate of a general action, the strategic period is over, everything concentrates itself into the one moment of the battle, and therewith terminates and vanishes the object of the distribution of the army. As soon as the battle commences, considerations about quarters and subsistence are suspended; the observation of the enemy before our front and on our flanks has fulfilled the purpose of checking his advance by a partial resistance, and now all resolves itself into the one great unit--the great battle. The best criterion of skill in the disposition of an army lies in the proof that the distribution has been considered merely as a condition, as a necessary evil, but that united action in battle has been considered the object of the disposition.
-
 
 ### CHAPTER VII. Advanced Guard and Out-Posts
 
@@ -2745,7 +2686,6 @@ The use of a reinforced line of outposts was brought to great perfection by the 
 
 It cannot be disputed that in certain circumstances, great advantages may be derived from this system. We propose to return to the subject on another occasion.
 
-
 ### CHAPTER VIII. Mode of Action of Advanced Corps
 
 We have just seen how the security of the army is expected, from the effect which an advanced guard and flank corps produce on an advancing enemy. Such corps are always to be considered as very weak whenever we imagine them in conflict with the main body of the enemy, and therefore a peculiar mode of using them is required, that they may fulfil the purpose for which they are intended, without incurring the risk of the serious loss which is to be feared from this disproportion in strength.
@@ -2806,7 +2746,6 @@ The most usual and best means of supporting an advanced corps is by a considerab
 
 The conclusion to be drawn from the preceding reflections is, that an advanced corps effects more by its presence than by its efforts, less by the combats in which it engages than by the possibility of those in which it might engage: that it should never attempt to stop the enemy's movements, but only serve like a pendulum to moderate and regulate them, so that they may be made matter of calculation.
 
-
 ### CHAPTER IX. Camps
 
 We are now considering the three situations of an army outside of the combat only strategically, that is, so far as they are conditioned by place, time, and the number of the effective force. All those subjects which relate to the internal arrangement of the combat and the transition into the state of combat belong to tactics.
@@ -2832,7 +2771,6 @@ This would indeed have been the case had there not been, in the same epoch of ti
 The elementary fire of war has become so overpowering, its energy so extraordinary, that these regular periods of rest also have disappeared, and every power presses forward with persistent force towards the great decision, which will be treated of more fully in the ninth book. Under these circumstances, therefore, any question about effects on an army from the discontinuance of the use of tents in the field is quite thrown into the shade. Troops now occupy huts, or bivouac under the canopy of heaven, without regard to season of the year, weather, or locality, just according as the general plan and object of the campaign require.
 
 Whether war will in the future continue to maintain, under all circumstances and at all times, this energy, is a question we shall consider hereafter; where this energy is wanting, the want of tents is calculated to exercise some influence on the conduct of war; but that this reaction will ever be strong enough to bring back the use of tents is very doubtful, because now that much wider limits have been opened for the elements of war it will never return within its old narrow bounds, except occasionally for a certain time and under certain circumstances, only to break out again with the all-powerful force of its nature. Permanent arrangements for an army must, therefore, be based only upon that nature.
-
 
 ### CHAPTER X. Marches
 
@@ -2880,7 +2818,6 @@ Further, an order of battle in three parts in juxtaposition being, as we have se
 
 It only remains to observe that the notion of a column in strategy does not found itself mainly on the line of march of one body of troops. The term is used in strategy to designate masses of troops marching on the same road on different days as well. For the division into columns is made chiefly to shorten and facilitate the march, as a small number marches quicker and more conveniently than large bodies. But this end may, be attained by marching troops on different days, as well as by marching them on different roads.
 
-
 ### CHAPTER XI. Marches ( _Continued_ )
 
 Respecting the length of a march and the time it requires, it is natural for us to depend on the general results of experience.
@@ -2917,7 +2854,6 @@ On long marches, as from the Tagus to the Niemen, that lightening of the army is
 
 Generally the diminution of baggage tends more to a saving of power than to the acceleration of movement.
 
-
 ### CHAPTER XII. Marches ( _continued_ )
 
 We have now to consider the destructive influence which marches have upon an army. It is so great that it may be regarded as an active principle of destruction, just as much as the combat.
@@ -2951,7 +2887,6 @@ Of the retreat of the French army from Moscow to the Niemen, we shall say nothin
 One more example from BlÃ¼cher's campaign of 1813 in Silesia and Saxony, a campaign very remarkable not for any long march but for the amount of marching to and fro. York's corps of BlÃ¼cher's army began this campaign 16th August about 40,000 strong, and was reduced to 12,000 at the battle of Leipsic, 19th October. The principal combats which this corps fought at Goldberg, Lowenberg, on the Katsbach, at Wartenburg, and Mockern (Leipsic) cost it, on the authority of the best writers, 12,000 men. According to that their losses from other causes in eight weeks amounted to 16,000, or two-fifths of the whole.
 
 We must, therefore, make up our minds to great wear and tear of our own forces, if we are to carry on a war rich in movements, we must arrange the rest of our plan accordingly, and above all things the reinforcements which are to follow.
-
 
 ### CHAPTER XIII. Cantonments
 
@@ -3017,7 +2952,6 @@ But Buonaparte did not resolve to make his attack on Ligny until two in the afte
 
 Some of the considerations here raised are plainly more tactical than strategic in their nature; but we have preferred rather to encroach a little than to run the risk of not being sufficiently explicit.
 
-
 ### CHAPTER XIV. Subsistence
 
 This subject has acquired much greater importance in modern warfare from two causes in particular. First, because the armies in general are now much greater than those of the middle ages, and even those of the old world; for, although formerly armies did appear here and there which equalled or even surpassed modern ones in size, still these were only rare and transient occurrences, whilst in modern military history, since the time of Louis XIV, armies have always been very strong in number. But the second cause is still more important, and belongs entirely to modern times. It is the very much closer inner connection which our wars have in themselves, the constant state of readiness for battle of the belligerents engaged in carrying them on. Almost all old wars consist of single unconnected enterprises, which are separated from each other by intervals during which the war in reality either completely rested, and only still existed in a political sense, or when the armies at least had removed so far from each other that each, without any care about the army opposite, only occupied itself with its own wants.
@@ -3048,8 +2982,7 @@ Between these two extremes the war under Buonaparte, and against him, preserved 
 
 The modern method of subsisting troops, that is, seizing every thing which is to be found in the country without regard to _meum et tuum_ may be carried out in four different ways: that is, subsisting on the inhabitant, contributions which the troops themselves look after, general contributions and magazines. All four are generally applied together, one generally prevailing more than the others: still it sometimes happens that only one is applied entirely by itself.
 
-
-####  1 - Living on the inhabitants, or on the community, which is the same thing.
+#### 1 - Living on the inhabitants, or on the community, which is the same thing.
 
 If we bear in mind that in a community consisting even as it does in great towns, of consumers only, there must always be provisions enough to last for several days, we may easily see that the most densely populated place can furnish food and quarters for a day for about as many troops as there are inhabitants, and for a less number of troops for several days without the necessity of any particular previous preparation. In towns of considerable size this gives a very satisfactory result, because it enables us to subsist a large force at one point. But in smaller towns, or even in villages, the supply would be far from sufficient; for a population of 3,000 or 4,000 in a square mile which would be large in such a space, would only suffice to feed 3,000 or 4,000 soldiers, and if the whole mass of troops is great they would have to be spread over such an extent of country at this rate as would hardly be consistent with other essential points. But in level countries, and even in small towns, the quantity of those kinds of provisions which are essential in war is generally much greater; the supply of bread which a peasant has is generally adequate to the consumption of his family for several, perhaps from eight to fourteen days; meat can be obtained daily, vegetable productions are generally forthcoming in sufficient quantity to last till the following crop. Therefore in quarters which have never been occupied there is no difficulty in subsisting troops three or four times the number of the inhabitants for several days, which again is a very satisfactory result. According to this, where the population is about 2,000 or 3,000 per square mile, and if no large town is included, a column of 30,000 would require about four square miles, which would be a length of side of two miles. Therefore for an army of 90,000, which we may reckon at about 75,000 combatants, if marching in three columns contiguous to each other, we should require to take up a front six miles in breadth in case three roads could be found within that breadth.
 
@@ -3069,7 +3002,7 @@ The second arrangement is that of a regular commissariat, which whenever there i
 
 Subsisting in cantonments has the immense advantage that hardly any transport is required, and that it is done in the shortest time, but certainly it supposes as a prior condition that cantonments can be provided for all the troops.
 
-####  2 - Subsistence through exactions enforced by the troops themselves.
+#### 2 - Subsistence through exactions enforced by the troops themselves.
 
 If a single battalion occupies a camp, this camp may be placed in the vicinity of some villages, and these may receive notice to furnish subsistence; then the method of subsistence would not differ essentially from the preceding mode. But, as is most usual, if the mass of troops to be encamped at some one point is much larger, there is no alternative but to make a collection in common within the circle of districts marked out for the purpose, collecting sufficient for the supply of one of the parts of the army, a brigade or division, and afterwards to make a distribution from the common stock thus collected.
 
@@ -3081,8 +3014,7 @@ It cannot in general be avoided in the case of troops directly in front of the e
 
 The more troops are accustomed to live by regular requisitions, the more time and circumstances permit the adoption of that way of subsisting, then the more satisfactory will be the result. But time is generally wanting, for what the troops get for themselves directly is got much quicker.
 
-
-####  3 - By regular requisitions.
+#### 3 - By regular requisitions.
 
 This is unquestionably the simplest and most efficacious means of subsisting troops, and it has been the basis of all modern wars.
 
@@ -3108,7 +3040,7 @@ Since the first campaigns of the French revolutionary war, the requisition syste
 
 When Buonaparte had to retreat in 1812, it was impossible for him to do so by any other line but the one upon which he had advanced, on account of the subsistence of his army; and if he had attempted any other he would only have plunged into more speedy and certain destruction; all the censure therefore passed on him by even French writers as well as by others with regard to this point is sheer nonsense.
 
-####  4 - Subsistence from Magazines.
+#### 4 - Subsistence from Magazines.
 
 If we are to make a generic distinction between this method of subsisting troops and the preceding, it must be by an organisation such as existed for about thirty years at the close of the seventeenth and during the eighteenth century. Can this organisation ever reappear?
 
@@ -3154,7 +3086,6 @@ Frequently has the difficulty we are now speaking of resulted in obscuring the s
 
 Forage, of which, as we have before said, there is usually at first the least deficiency, will run short soonest if a country begins to become exhausted, for it is the most difficult supply to procure from a distance, on account of its bulk, and the horse feels the effect of low feeding much sooner than the man. For this reason, an over-numerous cavalry and artillery may become a real burden, and an element of weakness to an army.
 
-
 ### CHAPTER XV. Base of Operations
 
 If an army sets out on any expedition, whether it be to attack the enemy and his theatre of war, or to take post on its own frontier, it continues in a state of necessary dependence on the sources from which it draws its subsistence and reinforcements, and must maintain its communication with them, as they are the conditions of its existence and preservation. This dependence increases in intensity and extent in proportion to the size of the army. But now it is neither always possible nor requisite that the army should continue in direct communication with the whole of its own country; it is sufficient if it does so with that portion immediately in its rear, and which is consequently covered by its position. In this portion of the country then, as far as necessary, special depÃ´ts of provisions are formed, and arrangements are made for regularly forwarding reinforcements and supplies. This strip of territory is therefore the foundation of the army and of all its undertakings, and the two must be regarded as forming in connection only one whole. If the supplies for their greater security are lodged in fortified places, the idea of a base becomes more distinct; but the idea does not originate in any arrangement of that kind, and in a number of cases no such arrangement is made.
@@ -3180,7 +3111,6 @@ We have said that the dependence on the base increases in intensity and extent w
 Further it is consistent with the nature of things that for the immediate wants of the present hour the _subsistence_ is the main point, but for the general efficiency of the army through a long period of time the _refitment_ and _recruitment_ are the more important, because the latter can only be done from particular sources while the former may be obtained in many ways; this again defines still more distinctly the influence of the base on the operations of the army.
 
 However great that influence may be, we must never forget that it belongs to those things which can only show a decisive effect after some considerable time, and that therefore the question always remains what may happen in that time. The value of a base of operations will seldom determine the choice of an undertaking in the first instance. Mere difficulties which may present themselves in this respect must be put side by side and compared with other means actually at our command; obstacles of this nature often vanish before the force of decisive victories.
-
 
 ### CHAPTER XVI. Lines of Communication
 
@@ -3211,7 +3141,6 @@ With respect to the cutting off an enemy's retreat, we must not be overconfident
 The means of shortening and protecting long lines of communication are very limited. The seizure of some fortresses adjacent to the position taken up by the army, and on the roads leading to the rear--or in the event of there being no fortresses in the country, the construction of temporary defences at suitable points--the kind treatment of the people of the country, strict discipline on the military roads, good police, and active measures to improve the roads, are the only means by which the evil may be diminished, but it is one which can never be entirely removed.
 
 Furthermore, what we said when treating of the question of subsistence with respect to the roads which the army should chose by preference, applies also particularly to lines of communication. The best lines of communication are roads leading through the most flourishing towns and the most important provinces; they ought to be preferred, even if considerably longer, and in most cases they exercise an important influence on the definitive disposition of the army.
-
 
 ### CHAPTER XVII. On Country and Ground
 
@@ -3255,7 +3184,6 @@ In all countries which are difficult to traverse, whether the obstacles are moun
 
 But it is undeniable that infantry has a decided advantage over every other arm in difficult country, and that, therefore, in such a country its number may considerably exceed the usual proportion.
 
-
 ### CHAPTER XVIII. Command of Ground
 
 The word "command" has a charm in the art of war peculiar to itself, and in fact to this element belongs a great part, perhaps half the influence which ground exercises on the use of troops. Here many of the sacred relics of military erudition have their root, as, for instance, commanding positions, key positions, strategic manÅuvres, etc. We shall take as clear a view of the subject as we can without prolixity, and pass in review the true and the false, reality and exaggeration.
@@ -3284,16 +3212,15 @@ The possession of elevated ground may therefore become virtually command, and we
 
 Consequently, if nothing but the number and value of victorious combats decides in war, it is plain that the comparative value of the opposing armies and ability of their respective leaders again rank as the first points for consideration, and that the part which the influence of ground plays can only be one of an inferior grade.
 
-
 ## BOOK VI. DEFENCE
 
 ### CHAPTER I. Offence and Defence
 
-####  1 - Conception of Defence.
+#### 1 - Conception of Defence.
 
 What is defence in conception? The warding off a blow. What is then its characteristic sign? The state of expectancy (or of waiting for this blow). This is the sign by which we always recognise an act as of a defensive character, and by this sign alone can the defensive be distinguished from the offensive in war. But inasmuch as an absolute defence completely contradicts the idea of war, because there would then be war carried on by one side only, it follows that the defence in war can only be relative and the above distinguishing signs must therefore only be applied to the essential idea or general conception: it does not apply to all the separate acts which compose the war. A partial combat is defensive if we receive the onset, the charge of the enemy; a battle is so if we receive the attack, that is, wait for the appearance of the enemy before our position and within range of our fire; a campaign is defensive if we wait for the entry of the enemy into our theatre of war. In all these cases the sign of waiting for and warding off belongs to the general conception, without any contradiction arising with the conception of war, for it may be to our advantage to wait for the charge against our bayonets, or the attack on our position or our theatre of war. But as we must return the enemy's blows if we are really to carry on war on our side, therefore this offensive act in defensive war takes place more or less under the general title defensive--that is to say, the offensive of which we make use falls under the conception of position or theatre of war. We can, therefore, in a defensive campaign fight offensively, in a defensive battle we may use some divisions for offensive purposes, and lastly, while remaining in position awaiting the enemy's onslaught, we still make use of the offensive by sending at the same time balls into the enemy's ranks. The defensive form in war is therefore no mere shield but a shield formed of blows delivered with skill.
 
-####  2 - Advantages of the Defensive.
+#### 2 - Advantages of the Defensive.
 
 What is the object of defence? _To preserve_. To preserve is easier than to acquire; from which follows at once that the means on both sides being supposed equal, the defensive is easier than the offensive. But in what consists the greater facility of preserving or keeping possession? In this, that all time which is not turned to any account falls into the scale in favour of the defence. He reaps where he has not sowed. Every suspension of offensive action, either from erroneous views, from fear or from indolence, is in favour of the side acting defensively. This advantage saved the State of Prussia from ruin more than once in the Seven Years' War. It is one which derives itself from the conception and object of the defensive, lies in the nature of all defence, and in ordinary life, particularly in legal business which bears so much resemblance to war, it is expressed by the Latin proverb, _Beati sunt possidentes_. Another advantage arising from the nature of war and belonging to it exclusively, is the aid afforded by locality or ground; this is one of which the defensive form has a preferential use.
 
@@ -3312,7 +3239,6 @@ In the Seven Years' War, at least in the last three years of it, Frederick the G
 Having thus defined the true meaning of the defensive, having defined its boundaries, we return again to the assertion that the defensive _is the stronger form of making war._
 
 Upon a closer examination, and comparison of the offensive and defensive, this will appear perfectly plain; but for the present we shall confine ourselves to noticing the contradiction in which we should be involved with ourselves, and with the results of experience by maintaining the contrary to be the fact. If the offensive form was the stronger there would be no further occasion ever to use the defensive, as it has merely a negative object, every one would be for attacking, and the defensive would be an absurdity. On the other hand, it is very natural that the higher object should be purchased by greater sacrifices. Whoever feels himself strong enough to make use of the weaker form has it in his power to aim at the greater object; whoever sets before himself the smaller object can only do so in order to have the benefit of the stronger form--If we look to experience, such a thing is unheard of as any one carrying on a war upon two different theatres--offensively on one with the weaker army, and defensively on the other with his strongest force But if the reverse of this has everywhere and at all times taken place that shows plainly that generals although their own inclination prompts them to the offensive, still hold the defensive to be the stronger form. We have still in the next chapters to explain some preliminary points.
-
 
 ### CHAPTER II. The Relations of the Offensive and Defensive to Each Other in Tactics
 
@@ -3337,7 +3263,6 @@ If we go through the progressive development of the modern art of war, we find t
 This does not preclude a partially passive defence of the ground; its advantage is too great for it not to be used a hundred times in a campaign. But that kind of passive defence of the ground is usually no longer the principal affair: that is what we have to do with here.
 
 If the offensive should discover some new and powerful element which it can bring to its assistance--an event not very probable, seeing the point of simplicity and natural order to which all is now brought--then the defence must again alter its method. But the defensive is always certain of the assistance of ground, which insures to it in general its natural superiority, as the special properties of country and ground exercise a greater influence than ever on actual warfare.
-
 
 ### CHAPTER III. The Relations of the Offensive and Defensive to Each Other in Strategy
 
@@ -3393,7 +3318,6 @@ The great moral forces which at times saturate the element of war, as it were wi
 
 We think we have now sufficiently established our proposition, that the _defensive is a stronger form of war than the offensive;_ but there still remains to be mentioned one small factor hitherto unnoticed. It is the high spirit, the feeling of superiority in an army which springs from a consciousness of belonging to the attacking party. The thing is in itself a fact, but the feeling soon merges into the more general and more powerful one which is imparted by victory or defeat, by the talent or incapacity of the general.
 
-
 ### CHAPTER IV. Convergence of Attack and Divergence of Defence
 
 These two conceptions, these forms in the use of offensive and defensive, appear so frequently in theory and reality, that the imagination is involuntarily disposed to look upon them as intrinsic forms, necessary to attack and defence, which, however, is not really the case, as the smallest reflection will show. We take the earliest opportunity of examining them, that we may obtain once for all clear ideas respecting them, and that, in proceeding with our consideration of the relations of attack and defence, we may be able to set these conceptions aside altogether, and not have our attention for ever distracted by the appearance of advantage and the reverse which they cast upon things. We treat them here as pure abstractions, extract the conception of them like an essence, and reserve our remarks on the part which it has in actual things for a future time.
@@ -3426,7 +3350,6 @@ What has been said up to the present, relates to both tactics and strategy; we h
 
 We here close our considerations on the convergent and divergent use of forces, and the relation of those forms to attack and defence, proposing to return to the subject at another time.
 
-
 ### CHAPTER V. Character of the Strategic Defensive
 
 We have already explained what the defensive is generally, namely, nothing more than a stronger form of carrying on war, by means of which we endeavour to wrest a victory, in order, after having gained a superiority, to pass over to the offensive, that is to the positive object of war.
@@ -3443,32 +3366,31 @@ At the same time, it must be looked upon in general as an advantage for the offe
 
 If, therefore, we imagine to ourselves a defensive, such as it should be, we must suppose it with every possible preparation of all means, with an army fit for, and inured to, war, with a general who does not wait for his adversary with anxiety from an embarrassing feeling of uncertainty, but from his own free choice, with cool presence of mind, with fortresses which do not dread a siege, and lastly, with a loyal people who fear the enemy as little as he fears them. With such attributes the defensive will act no such contemptible part in opposition to the offensive, and the latter will not appear such an easy and certain form of war, as it does in the gloomy imaginations of those who can only see in the offensive courage, strength of will, and energy; in the defensive, helplessness and apathy.
 
-
 ### CHAPTER VI. Extent of the Means of Defence
 
 We have shown in the second and third chapters of this book how the defence has a natural advantage in the employment of those things, which,--irrespective of the absolute strength and qualities of the combatant force,--influence the tactical as well as the strategic result, namely, the advantage of ground, sudden attack, attack from several directions (converging form of attack), the assistance of the theatre of war, support of the people, and the utilising great moral forces. We think it useful now to cast again a glance over the extent of the means which are at command of the defensive in particular, and which are to be regarded as the columns of the different orders of architecture in his edifice.
 
-####  1 - Landwehr (Militia).
+#### 1 - Landwehr (Militia).
 
 This force has been used in modern times to combat the enemy on foreign soil; and it is not to be denied that its organisation in many states, for instance in Prussia, is of such a kind, that it may almost be regarded as part of the standing army, therefore it does not belong to the defensive exclusively. At the same time, we must not overlook the fact, that the very great use made of it in 1813-14-15 was the result of defensive war; that it is organised in very few places to the same degree as in Prussia, and that always when its organisation falls below the level of complete efficiency, it is better suited for the defensive than for the offensive. But besides that, there always lies in the idea of a militia the notion of a very extensive more or less voluntary co-operation of the whole mass of the people in support of the war, with all their physical powers, as well as with their feelings, and a ready sacrifice of all they possess. The more its organisation deviates from this, so much the more the force thus created will become a standing army under another name, and the more it will have the advantages of such a force; but it will also lose in proportion the advantages which belong properly to the militia, those of being a force, the limits of which are undefined, and capable of being easily increased by appealing to the feelings and patriotism of the people. In these things lies the essence of a militia; in its organisation, latitude must be allowed for this co-operation of the whole people; if we seek to obtain something extraordinary from a militia, we are only following a shadow.
 
 But now the close relationship between this essence of a militia system, and the conception of the defensive, is not to be denied, neither can it be denied that such a militia will always belong more to the defensive form than to the offensive, and that it will manifest chiefly in the defensive, those effects through which it surpasses the attack.
 
-####  2 - Fortresses.
+#### 2 - Fortresses.
 
 The assistance afforded by fortresses to the offensive does not extend beyond what is given by those close upon the frontiers, and is only feeble in influence; the assistance which the defensive can derive from this reaches further into the heart of the country, and therefore more of them can be brought into use, and their utility itself differs in the degree of its intensity. A fortress which is made the object of a regular siege, and holds out, is naturally of more considerable weight in the scales of war, than one which by the strength of its works merely forbids the idea of its capture, and therefore neither occupies nor consumes any of the enemy's forces.
 
-####  3 - The People.
+#### 3 - The People.
 
 Although the influence of a single inhabitant of the theatre of war on the course of the war in most cases is not more perceptible than the co-operation of a drop of water in a whole river, still even in cases where there is no such thing as a general rising of the people, the _total influence_ of the inhabitants of a country in war is anything but imperceptible. Every thing goes on easier in our own country, provided it is not opposed by the general feeling of the population. All contributions great and small, are only yielded to the enemy under the compulsion of direct force; that operation must be undertaken by the troops, and cost the employment of many men as well as great exertions. The defensive receives all he wants, if not always voluntarily, as in cases of enthusiastic devotion, still through the long-used channels of submission to the state on the part of the citizens, which has become second nature, and which besides that, is enforced by the terrors of the law with which the army has nothing to do. But the spontaneous co-operation of the people proceeding from true attachment is in all cases most important, as it never fails in all those points where service can be rendered without any sacrifice. We shall only notice one point, which is of the highest importance in war, that is _intelligence_ , not so much special, great and important information through persons employed, as that respecting the innumerable little matters in connection with which the daily service of an army is carried on in uncertainty, and with regard to which a good understanding with the inhabitants gives the defensive a general advantage.
 
 If we ascend from this quite general and never failing beneficial influence, up to special cases in which the populace begins to take part in the war, and then further up to the highest degree, where as in Spain, the war, as regards its leading events is chiefly a war carried on by the people themselves, we may see that we have here virtually a new power rather than a manifestation of increased cooperation on the part of the people, and therefore that--
 
-####  4 - The National Armament,
+#### 4 - The National Armament,
 
 or general call to arms, may be considered as a particular means of defence.
 
-####  5 - Allies.
+#### 5 - Allies.
 
 Finally, we may further reckon _allies_ as the last support of the defensive. Naturally we do not mean ordinary allies, which the assailant may likewise have; we speak of those _essentially interested in maintaining_ the integrity of the country. If for instance we look at the various states composing Europe at the present time, we find (without speaking of a systematically regulated balance of power and interests, as that does not exist, and therefore is often with justice disputed, still, unquestionably) that the great and small states and interests of nations are interwoven with each other in a most diversified and changeable manner, each of these points of intersection forms a binding knot, for in it the direction of the one gives equilibrium to the direction of the other; by all these knots therefore, evidently a more or less compact connection of the whole will be formed, and this general connection must be partially overturned by every change. In this manner the whole relations of all states to each other serve rather to preserve the stability of the whole than to produce changes, that is to say, _this tendency_ to stability exists in general.
 
@@ -3492,7 +3414,6 @@ We return to our subject, and think we have proved that the defensive in general
 
 Of course the subjects which have been here enumerated as means properly belonging to the defensive will not be at the command of each particular defensive. Sometimes one, sometimes another, may be wanting; but they all belong to the idea of the defensive as a whole.
 
-
 ### CHAPTER VII. Mutual Action and Reaction of Attack and Defence
 
 We shall now consider attack and defence separately, as far as they can be separated from each other. We commence with the defensive for the following reasons:--It is certainly very natural and necessary to base the rules for the defence upon those of the offensive, and _vice versÃ¢;_ but one of the two must still have a third point of departure, if the whole chain of ideas is to have a beginning, that is, to be possible. The first question concerns this point.
@@ -3506,7 +3427,6 @@ If this is a logical consequence, the defensive must have motives of action, eve
 The second question is now: what is theoretically the nature of the motives which must arise in the mind of the defensive first, before the attack itself is thought of? Plainly the advance made with a view to taking possession, which we have imagined extraneous to the war, but which is the foundation of the opening chapter. The defence is to oppose this advance; therefore in idea we must connect this advance with the land (country); and thus arise the first most general measures of the defensive. When these are once established, then upon them the application of the offensive is founded, and from a consideration of the means which the offensive then applies, new principles again of defence are derived. Now here is the reciprocal effect which theory can follow in its inquiry, as long as it finds the fresh results which are produced are worth examination.
 
 This little analysis was necessary in order to give more clearness and stability to what follows, such as it is; it is not made for the field of battle, neither is it for the generals of the future; it is only for the army of theorists, who have made a great deal too light of the subject hitherto.
-
 
 ### CHAPTER VIII. Methods of Resistance
 
@@ -3630,7 +3550,6 @@ But this influence will not, in general, be decisive unless the inequality in th
 
 We cannot omit to observe, that from this chapter, more than from any other in our book, it is plainly shown that our object is not to lay down new principles and methods of conducting war, but merely to investigate what has long existed in its innermost relations, and to reduce it to its simplest elements.
 
-
 ### CHAPTER IX. Defensive Battle
 
 We have said, in the preceding chapter, that the defender, in his defensive, would make use of a battle, technically speaking, of a purely offensive character, if, at the moment the enemy invades his theatre of war, he marches against him and attacks him; but that he might also wait for the appearance of the enemy in his front, and then pass over to the attack; in which case also the battle tactically would be again an offensive battle, although in a modified form; and lastly, that he might wait till the enemy attacked his position, and then oppose him both by holding a particular spot, and by offensive action with portions of his force. In all this we may imagine several different gradations and shades, deviating always more from the principle of a positive counterstroke, and passing into that of the defence of a spot of ground. We cannot here enter on the subject of how far this should be carried, and which is the most advantageous proportion of the two elements of offensive and defensive, as regards the winning a decisive victory. But we maintain that when such a result is desired, the offensive part of the battle should never be completely omitted, and we are convinced that all the effects of a decisive victory may and must be produced by this offensive part, just as well as in a purely tactical offensive battle.
@@ -3654,7 +3573,6 @@ This battle on the Katzbach itself is a similar example. In it the defender, at 
 The conclusion we draw from this is, that if the assailant, by the concentric form which is homogeneous to him, has the means of giving expansion to his victory, on the other hand the defender also, by the divergent form which is homogeneous to the defence, acquires a a means of giving greater results to his victory than would be the case by a merely parallel position and perpendicular attack, and we think that one means is at least as good as the other.
 
 If in military history we rarely find such great victories resulting from the defensive battle as from the offensive, that proves nothing against our assertion that the one is as well suited to produce victory as the other; the real cause is in the very different relations of the defender. The army acting on the defensive is generally the weaker of the two, not only in the amount of his forces, but also in every other respect; he either is, or thinks he is, not in a condition to follow up his victory with great results, and contents himself with merely fending off the danger and saving the honour of his arms. That the defender by inferiority of force and other circumstances may be tied down to that degree we do not dispute, but there is no doubt that this, which is only the consequence of a contingent necessity, has often been assumed to be the consequence of that part which every defender has to play: and thus in an absurd manner it has become a prevalent view of the defensive that its battles should really be confined to warding off the attacks of the enemy, and not directed to the destruction of the enemy. We hold this to be a prejudicial error, a regular substitution of the form for the thing itself; and we maintain unreservedly that in the form of war which we call _defence_ , the victory may not only be more probable, but may also attain the same magnitude and efficacy as in the attack, and that this may be the case not only in the _total result_ of all the combats which constitute campaign, but also in any _particular_ battle, if the necessary degree of force and energy is not wanting.
-
 
 ### CHAPTER X. Fortresses
 
@@ -3750,7 +3668,6 @@ Besides, a fortress is a place of refuge for wounded, the seat of the civil func
 
 Fortresses in mountains are important in a similar manner. They there form the knots of whole systems of roads, which have their commencement and termination at that spot; they thus command the whole country which is traversed by these roads, and they may be regarded as the true buttresses of the whole defensive system.
 
-
 ### CHAPTER XI. Fortresses ( _Continued_ )
 
 We have discussed the object of fortresses: now for their situation. At first the subject seems very complicated, when we think of the diversity of objects, each of which may again be modified by the locality; but such a view has very little foundation if we keep to the essence of the thing, and guard against unnecessary subtilties.
@@ -3802,7 +3719,6 @@ The question has been often raised as to whether towns situated in a very diffic
 If we now, in conclusion, cast a retrospective glance over our simple system of fortification for a country, we may assert that it rests on comprehensive data, lasting in their nature, and directly connected with the foundations of the state itself, not on transient views on war, fashionable for a day; not on imaginary strategic niceties, nor on requirements completely singular in character an error which might be attended with irreparable consequences if allowed to influence the construction of fortresses intended to last five hundred, perhaps a thousand, years. Silberberg, in Silesia, built by Frederick the Great on one of the ridges of the Sudetics, has, from the complete alteration in circumstances which has since taken place, lost almost entirely its importance and object, whilst Breslau, if it had been made a strong place of arms, and continued to be so, would have always maintained its value against the French, as well as against the Russians, Poles, and Austrians.
 
 Our reader will not overlook the fact that these considerations are not raised on the supposed case of a state providing itself with a set of new fortifications; they would be useless if such was their object, as such a case seldom, if ever, happens; but they may all arise at the designing of each single fortification.
-
 
 ### CHAPTER XII. Defensive Position
 
@@ -3871,7 +3787,6 @@ According to our opinion, a defensive position will come the nearer to the true 
 The vicinity of a considerable fortress, in whatever direction it may be, confers on every position a great advantage over the enemy in the movement and use of the forces belonging to it. By suitable field-works, the want of natural strength at particular points may be remedied, and in that manner the great features of the battle may be settled beforehand at will; these are the means of strengthening by art; if with these we combine a good selection of those natural obstacles of ground which impede the effective action of the enemy's forces without making action absolutely impossible, if we turn to the best account the advantage we have over the enemy in knowing the ground, which he does not, so that we succeed in concealing our movements better than he does his, and that we have a general superiority over him in unexpected movements in the course of the battle, then from these advantages united, there may result in our favour an overpowering and decisive influence in connection with the ground, under the power of which the enemy will succumb, without knowing the real cause of his defeat. This is what we understand under _defensive position_ , and we consider it one of the greatest advantages of defensive war.
 
 Leaving out of consideration particular circumstances, we may assume that an undulating, not too well, but still not too little, cultivated country affords the most positions of this kind.
-
 
 ### CHAPTER XIII. Strong Positions and Entrenched Camps
 
@@ -3951,7 +3866,6 @@ If, in conclusion, we should summarise our opinion in a general view, then stron
 
 3 - The more efficacious, the weaker the elementary force of the enemy's attack.
 
-
 ### CHAPTER XIV. Flank Positions
 
 We have only allotted to this prominent conception, in the world of ordinary military theory, a special chapter in dictionary fashion, that it may the more easily be found; for we do not believe that anything independent in itself is denoted by the term.
@@ -3971,7 +3885,6 @@ Still less would it bespeak a clear idea if those positions which _cannot_ be ma
 It appears from this that there is nothing new to establish with regard to the properties of a flank position. A few words only on the character of the measure may properly be introduced here; we set aside, however, completely strong positions in the true sense, as we have said enough about them already.
 
 A flank position which is not assailable is an extremely efficacious instrument, but certainly just on that account a dangerous one. If the assailant is checked by it, then we have obtained a great effect by a small expenditure of force; it is the pressure of the finger on the long lever of a sharp bit. But if the effect is too insignificant, if the assailant is not stopped, then the defensive has more or less imperilled his retreat, and must seek to escape either in haste and by a detour--consequently under very unfavourable circumstances, or he is in danger of being compelled to fight without any line of retreat being open to him. Against a bold adversary, having the moral superiority, and seeking a decisive solution, this means is therefore extremely hazardous and entirely out of place, as shown by the example of 1806 above quoted. On the other hand, when used against a cautious opponent in a war of mere observation, it may be reckoned one of the best means which the defensive can adopt. The Duke Ferdinand's defence of the Weser by his position on the left bank, and the well-known positions of Schmotseifen and Landshut are examples of this; only the latter, it is true, by the catastrophe which befell FouquÃ©'s corps in 1760, also shows the danger of a false application.
-
 
 ### CHAPTER XV. Defence of Mountains
 
@@ -4031,7 +3944,6 @@ These disadvantages will, for the most part, disappear, leaving all the advantag
 
 For smaller bodies of troops, the disadvantages of a defensive position in mountains diminish as we have already remarked. The cause of this is, that such bodies take up less space, and require fewer roads for retreat, etc., etc. A single hill is not a mountain system, and has not the same disadvantages. The smaller the force, the more easily it can establish itself on a single ridge or hill, and the less will be the necessity for it to get entangled in the intricacies of countless steep mountain gorges.
 
-
 ### CHAPTER XVI. Defence of Mountains ( _Continued_ )
 
 We now proceed to the strategic use of the tactical results developed in the preceding chapter. We make a distinction between the following points:
@@ -4050,7 +3962,7 @@ _a._ A general action.
 
 _b._ Inferior combats.
 
-####  1 - A mountain system as a battle-field.
+#### 1 - A mountain system as a battle-field.
 
 We have shown in the preceding chapter how unfavourable _mountain ground_ is to the defensive in a _decisive battle_ , and, on the other hand, how much it favours the assailant. This runs exactly counter to the generally received opinion; but then how many other things there are which general opinion confuses; how little does it draw distinctions between things which are of the most opposite nature! From the powerful resistance which small bodies of troops may offer in a mountainous country, common opinion becomes impressed with an idea that all mountain defence is extremely strong, and is astonished when any one denies that this great strength is communicated to the greatest act of all defence, the defensive battle. On the other hand, it is instantly ready, whenever a battle is lost by the defensive in mountain warfare, to point out the inconceivable error of a system of cordon war, without any regard to the fact that in the nature of things such a system is unavoidable in mountain warfare. We do not hesitate to put ourselves in direct opposition to such an opinion, and at the same time we must mention, that to our great satisfaction, we have found our views supported in the works of an author whose opinion ought to have great weight in this matter; we allude to the history of the campaigns of 1796 and 1797, by the Archduke Charles, himself a good historical writer, a good critic, and above all, a good general.
 
@@ -4074,7 +3986,7 @@ _e._ Lastly, a mountainous country is the true region for the efforts of a peopl
 
 Thus much for mountains in connection with the positions which may be taken up there for battle.
 
-####  2 - The influence of mountains on other parts of the country.
+#### 2 - The influence of mountains on other parts of the country.
 
 Because, as we have seen, it is so easy in mountainous ground to secure a considerable tract of territory by small posts, so weak in numbers that in a district easily traversed they could not maintain themselves, and would be continually exposed to danger; because every step forward in mountains which have been occupied by the enemy must be made much more slowly than in a level country, and therefore cannot be made at the same rate with him therefore the question, Who is in possession? is also much more important in reference to mountains than to any other tract of country of equal extent. In an open country, the possession may change from day to day. The mere advance of strong detachments compels the enemy to give up the country we want to occupy. But it is not so in mountains; there a very stout resistance is possible by much inferior forces, and for that reason, if we require a portion of country which includes mountains, enterprises of a special nature, formed for the purpose, and often necessitating a considerable expenditure of time as well as of men, are always required in order to obtain possession. If, therefore, the mountains of a country are not the theatre of the principal operations of a war, we cannot, as we should were it the case of a district of level country, look upon the possession of the mountains as dependent on and a necessary consequence of our success at other parts.
 
@@ -4084,7 +3996,7 @@ In this manner every mountain system, as far as a certain distance, exercises a 
 
 Buonaparte, in 1805 and 1809, advanced upon Vienna without troubling himself much about the Tyrol; but Moreau had to leave Swabia in 1796, chiefly because he was not master of the more elevated parts of the country, and too many troops were required to watch them. In campaigns, in which there is an evenly balanced series of alternate successes on each side, we shall not expose ourselves to the constant disadvantage of the mountains remaining in possession of the enemy: we need, therefore, only endeavour to seize and retain possession of that portion of them which is required on account of the direction of the principal lines of our attack; this generally leads to the mountains being the arena of the separate minor combats which take place between forces on each side. But we must be careful of overrating the importance of this circumstance, and being led to consider a mountain-chain as the key to the whole in all cases, and its possession as the main point. When a victory is the object sought; then it is the principal, object; and if the victory is gained, other things can be regulated according to the paramount requirement of the situation.
 
-####  3 - Mountains considered in their aspect of a strategic barrier.
+#### 3 - Mountains considered in their aspect of a strategic barrier.
 
 We must divide this subject under two heads.
 
@@ -4094,7 +4006,7 @@ We know of no battle given under such circumstances unless the battle with Alvin
 
 The second influence which mountains may have as a barrier is that which they have upon the lines of communication if they cross those lines. Without taking into account what may be done by erecting forts at the points of passage and by arming the people, the bad roads in mountains at certain seasons of the year may of themselves alone prove at once destructive to an army; they have frequently compelled a retreat after having first sucked all the marrow and blood out of the army. If, in addition, troops of active partisans hover round, or there is a national rising to add to the difficulties, then the enemy's army is obliged to make large detachments, and at last driven to form strong posts in the mountains and thus gets engaged in one of the most disadvantageous situations that can be in an offensive war.
 
-####  4 - Mountains in their relation to the provisioning of an army.
+#### 4 - Mountains in their relation to the provisioning of an army.
 
 This is a very simple subject, easy to understand. The opportunity to make the best use of them in this respect is when the assailant is either obliged to remain in the mountains, or at least to leave them close in his rear.
 
@@ -4115,7 +4027,6 @@ We do not assert that Spain would be stronger without the Pyrenees than _with_ t
 It is here as in dioptrics, the image represented becomes more luminous when moved in a certain direction, not, however, as far as one pleases, but only until the focus is reached, beyond that the effect is reversed.
 
 If the defensive is weaker in the mountains, that would seem to be a reason for the assailant to prefer a line of operations in the mountains. But this will seldom occur, because the difficulties of supporting an army, and those arising from the roads, the uncertainty as to whether the enemy will accept battle in the mountains, and even whether he will take up a position there with his principal force, tend to neutralise that possible advantage.
-
 
 ### CHAPTER XVII. Defence of Mountains ( _continued_ )
 
@@ -4158,7 +4069,6 @@ Between each of these separate posts, which are one or two leagues from each oth
 How much, according to this, may be expected from mountain defence, in what cases this means may be used, how far we can and may go in the extension and fractioning of the forces--these are all questions which theory must leave to the tact of the general. It is enough if it tells him what these means really are, and what rÃ´le they can perform in the active operations of the army.
 
 A general who allows himself to be beaten in an extended mountain position deserves to be brought before a court martial.
-
 
 ### CHAPTER XVIII. Defence of Streams and Rivers
 
@@ -4302,7 +4212,6 @@ In the third kind of river defence, a demonstration would in all probability be 
 
 Lastly, the two first forms of defence are very well suited to give a chain of outposts, or any other defensive line (cordon) established for a secondary object, or to a corps of observation, much greater and more reliable strength than it would have without the river. In all these cases the question is limited to a relative resistance, and that must naturally be considerably strengthened by such a great natural obstacle. At the same time, we must not think only of the relative quantity of time gained by the resistance in fight in a case of this sort, but also of the many anxieties which such undertakings usually excite in the mind of the enemy, and which in ninety-nine cases out of a hundred lead to his giving up his plans if not urged or pressed by necessity.
 
-
 ### CHAPTER XIX. Defence of Streams and Rivers ( _continued_ )
 
 We have still to add something respecting the influence of streams and rivers on the defence of a country, even when they are not themselves defended.
@@ -4319,8 +4228,7 @@ If a river crosses the theatre of war more or less at a right angle with the str
 
 It is only the convenience of a river as a means of transport, when its course is more or less in a perpendicular direction, which can, in general, be advantageous to the assailant; in that respect it may be so for this reason, that as he has the longer line of communication, and, therefore, the greater difficulty in the transport of all he requires, water carriage may relieve him of a great deal of trouble and prove very useful. The defender, on his side, certainly has it in his power to close the navigation within his own frontier by fortresses; still even by that means the advantages which the river affords the assailant will not be lost so far as regards its course up to that frontier. But if we reflect upon the fact that many rivers are often not navigable, even where they are of no unimportant breadth as respects other military relations, that others are not navigable at all seasons, that the ascent against the stream is tedious, that the winding of a river often doubles its length, that the chief communications between countries now are high roads, and that now more than ever the wants of an army are supplied from the country adjacent to the scene of its operations, and not by carriage from distant parts,--we can well see that the use of a river does not generally play such a prominent part in the subsistence of troops as is usually represented in books, and that its influence on the march of events is therefore very remote and uncertain.
 
-
-### CHAPTER XX. 
+### CHAPTER XX.
 
 #### A. Defence of Swamps
 
@@ -4388,7 +4296,6 @@ Although the organisation and method of defence of such a defensive line are tac
 
 We think, namely, that however passive the defence must naturally be at each point in a line of this kind, still an offensive action from some one point of the line is not impossible, and may not be unproductive of good results if the enemy, as was the case in 1787, is not decidedly very superior. For although such an attack must be executed by means of dykes, and on that account cannot certainly have the advantage of much freedom of movement or of any great impulsive force, nevertheless, it is impossible for the offensive side to occupy all the dykes and roads which he does not require for his own purposes, and therefore the defensive with his better knowledge of the country, and being in possession of the strong points, should be able by some of the unoccupied dykes to effect a real flank attack against the columns of the assailant, or to cut them off from their sources of supply. If now, on the other hand, we reflect for a moment on the constrained position in which the assailant is placed, how much more dependent he is on his communications than in almost any other conceivable case, we may well imagine that every sally on the part of the defensive side which has the remotest possibility of success must at once as a demonstration be most effective. We doubt very much if the prudent and cautious duke of Brunswick would have ventured to approach Amsterdam if the Dutch had only made such a demonstration, from Utrecht for instance.
 
-
 ### CHAPTER XXI. Defence of Forests
 
 Above all things we must distinguish thick tangled and impassable forests from extensive woods under a certain degree of culture, which are partly quite clear, partly intersected by numerous roads.
@@ -4404,7 +4311,6 @@ But impassable forests, that is, such as can only be traversed on certain roads,
 But a direct defence of forests, let them be ever so impracticable, is a very hazardous piece of work for even the thinnest chain of outposts; for abattis are only imaginary barriers, and no wood is so completely impassable that it cannot be penetrated in a hundred places by small detachments, and these, in their relation to a chain of defensive posts, may be likened to the first drops of water which ooze through a roof and are soon followed by a general rush of water.
 
 Much more important is the influence of great forests of every kind in connection with the arming of a nation; they are undoubtedly the true element for such levies; if, therefore, the strategic plan of defence can be so arranged that the enemy's communications pass through great forests, then, by that means, another mighty lever is brought into use in support of the work of defence.
-
 
 ### CHAPTER XX. The Cordon
 
@@ -4431,7 +4337,6 @@ But in mountains where all occupation of ground is more dependent on local defen
 A cordon war, therefore, carried on by the principal force of an army, is not to be considered a form of war designedly chosen with a view to stopping every blow which the enemy's forces might attempt, but a situation which the army is drawn into in the pursuit of a very different object, namely, the holding and covering the country against an enemy who has no decisive undertaking in view. Such a situation must always be looked upon as a mistake; and the motives through which generals have been lured by degrees into allowing one small post after another, are contemptible in connection with the object of a large army; this point of view shows, at all events, the possibility of such a mistake. That it is really an error, namely, a mistaken appreciation of our own position, and that of the enemy is sometimes not observed, and it is spoken of as an erroneous _system_. But this same system, when it is pursued with advantage, or, at all events, without causing damage, is quietly approved. Every one praises the _faultless_ campaigns of Prince Henry in the Seven Years' War, because they have been pronounced so by the king, although these campaigns exhibit the most decided and most incomprehensible examples of chains of posts so extended that they may just with as much propriety be called cordons as any that ever were. We may completely justify these positions by saying, the prince knew his opponent; he knew that he had no enterprises of a decisive character to apprehend from that quarter, and as the object of his position besides was to occupy always as much territory as possible, he therefore carried out that object as far as circumstances in any way permitted. If the prince had once been unfortunate with one of these cobwebs, and had met with a severe loss, we should not say that he had pursued a faulty system of warfare, but that he had been mistaken about a measure and had applied it to a case to which it was not suited.
 
 While we thus seek to explain how the cordon system, as it is called, may be resorted to by the principal force in a theatre in war, and how it may even be a judicious and useful measure, and, therefore, far from being an absurdity, we must, at the same time, acknowledge that there appear to have been instances where generals or their staff have overlooked the real meaning or object of a cordon system, and assumed its relative value to be a general one; conceiving it to be really suited to afford protection against every kind of attack, instances, therefore, where there was no mistaken application of the measure but a complete misunderstanding of its nature; we shall further allow that this very absurdity amongst others seems to have taken place in the defence of the Vosges by the Austrian and Prussian armies in 1793 and 1794.
-
 
 ### CHAPTER XXIII. Key to the Country
 
@@ -4464,7 +4369,6 @@ We have only dwelt so long upon this false idea because a whole--and very preten
 We say, then, that if the expression, _key-position_ , is to represent an independent conception in strategy, it must only be that of a locality the possession of which is indispensable before daring to enter the enemy's country. But if we choose to designate by that term every convenient point of entrance to a country, or every advantageous central point in the country, then the term loses its real meaning (that is, its value), and denotes something which may be found anywhere more or less. It then becomes a mere pleasing figure of speech.
 
 But positions such as the term conveys to our mind are very rarely indeed to be found. In general, the best key to the country lies in the enemy's army; and when the idea of country predominates over that of the armed force, some very specially advantageous circumstances must prevail. These, according to our opinion, may be recognised by their tending to two principal results: first, that the force occupying the position, through the help of the ground, obtains extraordinary capability of tactical resistance; second, that the enemy's lines of communication can be sooner effectively threatened from this position than he can threaten ours.
-
 
 ### CHAPTER XXIV. Operating Against a Flank
 
@@ -4507,7 +4411,6 @@ Through this difficulty, therefore, an army occupying a perpendicular position c
 On the other hand, in the case of a decidedly oblique position, no such part of the line of communication is covered; the smallest pressure, the most insignificant attempt on the part of the enemy, leads at once to a vulnerable point.
 
 But now, what is it which determines the front of a position, if it is not just the direction perpendicular to the line of communication? The front of the enemy; but then, again, this may be equally as well supposed as dependent on our front. Here there is a reciprocal effect, for the origin of which we must search.
-
 
 If we suppose the lines of communication of the assailant, _a b_ , so situated with respect to those of the enemy, _c d_ , that the two lines form a considerable angle with each other, it is evident that if the defensive wishes to take up a position at _e_ , where the two lines intersect, the assailant from _b_ , by the mere geometrical relation, could compel him to form front opposite to him, and thus to lay bare his communications. The case would be reversed if the defensive took up his position on this side of the point of junction, about _d_ ; then the assailant must make front towards him, if so be that his line of operations, which closely depends on geographical conditions, cannot be arbitrarily changed, and moved, for instance, to the direction _a d_. From this it would seem to follow that the defender has an advantage in this system of reciprocal action, because he only requires to take a position on this side of the intersection of the two lines. But very far from attaching any importance to this geometrical element, we only brought it into consideration to make ourselves the better understood; and we are rather of opinion that local and generally individual relations have much more to do with determining the position of the defender; that, therefore, it is quite impossible to lay down in general which of two belligerents will be obliged soonest to expose his communications.
 
@@ -4602,7 +4505,6 @@ This same scheme formed part of the disposition of the forces laid down in the f
 As the action against the enemy's line of retreat, if it is more than a demonstration, becomes a formal attack from the rear, there remains therefore still a good deal to be said on the subject, but it will come in more appropriately in the book upon the attack; we shall therefore break off here and content ourselves with having given the conditions under which this kind of reaction may take place.
 
 Very commonly the design of causing the enemy to retreat by menacing his line of retreat, is understood to imply rather a mere demonstration than the actual execution of the threat. If it was necessary that every efficacious demonstration should be founded on the actual practicability of real action, which seems a matter of course at first sight, then it would accord with the same in all respects. But this is not the case: on the contrary, in the chapter on demonstrations we shall see that they are connected with conditions somewhat different, at all events in some respects, we therefore refer our readers to that chapter.
-
 
 ### CHAPTER XXV. Retreat into the Interior of the Country
 
@@ -4752,7 +4654,6 @@ Whenever a strategic attack, without coming to the issue of a battle, is wrecked
 
 In Russia, and in the other cases cited, the crisis or turn of affairs took place without any successful battle, having given the decision at the culminating point; but even when such an effect is not to be expected, it is always a matter of immense importance in this mode of defence to bring about such a relation of forces as makes victory possible, and through that victory, as through a first blow, to cause a movement which usually goes on increasing in its disastrous effects according to the laws applicable to falling bodies.
 
-
 ### CHAPTER XXVI. Arming the Nation
 
 A people's war in civilised Europe is a phenomenon of the nineteenth century. It has its advocates and its opponents: the latter either considering it in a political sense as a revolutionary means, a state of anarchy declared lawful, which is as dangerous as a foreign enemy to social order at home; or on military grounds, conceiving that the result is not commensurate with the expenditure of the nation's strength. The first point does not concern us here, for we look upon a people's war merely as a means of fighting, therefore, in its connection with the enemy; but with regard to the latter point, we must observe that a people's war in general is to be regarded as a consequence of the outburst which the military element in our day has made through its old formal limits; as an expansion and strengthening of the whole fermentation-process which we call war. The requisition system, the immense increase in the size of armies by means of that system, and the general liability to military service, the utilizing militia, are all things which lie in the same direction, if we make the limited military system of former days our starting point; and the _levÃ©e en masse_ , or arming of the people, now lies also in the same direction. If the first named of these new aids to war are the natural and necessary consequences of barriers thrown down; and if they have so enormously increased the power of those who first used them, that the enemy has been carried along in the current, and obliged to adopt them likewise, this will be the case also with people-wars. In the generality of cases, the people who make judicious use of this means, will gain a proportionate superiority over those who despise its use. If this be so, then the only question is whether this modern intensification of the military element is, upon the whole, salutary for the interests of humanity or otherwise,--a question which it would be about as easy to answer as the question of war itself--we leave both to philosophers. But the opinion may be advanced, that the resources swallowed up in people's wars might be more profitably employed, if used in providing other military means; no very deep investigation, however, is necessary to be convinced that these resources are for the most part not disposable, and cannot be utilized in an arbitrary manner at pleasure. One essential part that is the moral element, is not called into existence until this kind of employment for it arises.
@@ -4795,7 +4696,6 @@ However decisive, therefore, the overthrow may be which is experienced by a Stat
 
 If the victorious enemy is engaged in siege works, if he has left strong garrisons behind him everywhere to secure his communications, or detached corps to make himself elbow-room, and to keep the adjacent provinces in subjection, if he is already weakened by his various losses in active means and material of war, then the moment is arrived when the defensive army should again enter the lists, and by a well-directed blow make the assailant stagger in his disadvantageous position.
 
-
 ### CHAPTER XXVII. Defence of a Theatre of War
 
 Having treated of the _most important defensive means_ , we might perhaps be contented to leave the manner in which these means attach themselves to the plan of defence as a whole to be discussed in the last Book, which will be devoted to the _Plan of a War;_ for from this every secondary scheme, either of attack or defence, emanates and is determined in its leading features; and moreover in many cases the plan of the war itself is nothing more than the plan of the attack or defence of the principal theatre of war. But we have not been able to commence with war as a whole, although in war more than in any other phase of human activity, the parts are shaped by the whole, imbued with and essentially altered by its character; instead of that, we have been obliged to make ourselves thoroughly acquainted, in the first instance, with each single subject as a separate part. Without this progress from the simple to the complex, a number of undefined ideas would have overpowered us, and the manifold phases of reciprocal action in particular would have constantly confused our conceptions. We shall therefore still continue to advance towards the whole by one step at a time; that is, we shall consider the defence of a theatre in itself, and look for the thread by which the subjects already treated of connect themselves with it.
@@ -4831,7 +4731,6 @@ Thus it is that theatres of war or particular army regions originate. These are 
 Although it lies quite in the nature of the thing, we must again remind our readers expressly that here as well as everywhere else our definitions are only directed at the centres of certain speculative regions, the limits of which we neither desire to, nor can we, define by sharp lines.
 
 We think, therefore, a theatre of war, whether large or small, with its military force, whatever may be the size of that, represents a unity which maybe reduced to one centre of gravity. At this centre of gravity the decision must take place, and to be conqueror here means to defend the theatre of war in the widest sense.
-
 
 ### CHAPTER XXVIII. Defence of a Theatre of War--( _continued_ )
 
@@ -5017,7 +4916,6 @@ _c_ , when there are peculiarities in the country which are favourable to the me
 
 We thus close the chapter on the defence of a theatre of war if a decisive solution is sought for by one or other party, and is therefore inevitable. But it must be particularly borne in mind, that events in war do not exhibit themselves in such a pure abstract form, and that therefore, if our maxims and arguments should be used in reasoning on actual war, our thirtieth chapter should also be kept in view, and we must suppose the general, in the majority of cases, as placed between two tendencies, urged _more_ towards one or the other, according to circumstances.
 
-
 ### CHAPTER XXIX. Defence of a Theatre of War ( _continued_ )
 
 #### Successive Resistance.
@@ -5039,7 +4937,6 @@ There is, therefore, in strategy, in the use of the theatre of war as well as in
 But in order to prevent a great misconception, we must draw attention to this, that the subject of our present consideration is not how much resistance an army can offer, or the enterprises which it can undertake after a lost battle, but only the result which we can promise ourselves _beforehand_ from this second act in our defence; consequently, how high we can estimate it in our plan. Here there is only one point almost which the defender has to look to, which is the character and the situation of his opponent. An adversary weak in character, with little self-confidence, without noble ambition, placed under great restrictions, will content himself, in case he is successful, with a moderate advantage, and timidly hold back at every fresh offer of a decision which the defender ventures to make. In this case the defender may count upon the beneficial use of all the means of resistance of his theatre of war in succession, in constantly fresh, although in themselves small, combats, in which the prospect always brightens of an ultimate decision in his favour.
 
 But who does not feel that we are now on the road to campaigns devoid of decision, which are much more the field of a successive application of force. Of these we shall speak in the following chapter.
-
 
 ### CHAPTER XXX. Defence of a Theatre of War ( _continued_ )
 
@@ -5229,7 +5126,6 @@ But even Buonaparte sometimes used a false standard. After the armistice of 1813
 
 In general, he under-estimated the enterprising spirit of old BlÃ¼cher. At Leipsic BlÃ¼cher alone wrested from him the victory; at Laon BlÃ¼cher might have entirely ruined him, and if he did not do so the cause lay in circumstances completely out of the calculation of Buonaparte; lastly, at Belle-Alliance, the penalty of this mistake reached him like a thunderbolt.
 
-
 ## SKETCHES FOR BOOK VII. THE ATTACK
 
 ### CHAPTER I. The Attack in Relation to the Defence
@@ -5237,7 +5133,6 @@ In general, he under-estimated the enterprising spirit of old BlÃ¼cher. At Lei
 If two ideas form an exact logical antithesis, that is to say if the one is the complement of the other, then, in fact, each one is implied in the other; and when the limited power of our mind is insufficient to apprehend both at once, and, by the mere antithesis, to recognise in the one perfect conception the totality of the other also, still, at all events, the one always throws on the other a strong, and in many parts a sufficient light Thus we think the first chapter on the defence throws a sufficient light on all the points of the attack which it touches upon. But it is not so throughout in respect of every point; the train of thought could nowhere be carried to a finality; it is, therefore, natural that where the opposition of ideas does not lie so immediately at the root of the conception as in the first chapters, all that can be said about the attack does not follow directly from what has been said on the defence. An alteration of our point of view brings us nearer to the subject, and it is natural for us to observe, at this closer point of view, that which escaped observation at our former standpoint. What is thus perceived will, therefore, be the complement of our former train of thought; and it will not unfrequently happen that what is said on the attack will throw a new light on the defence.
 
 In treating of the attack we shall, of course, very frequently have the same subjects before us with which our attention has been occupied in the defence. But we have no intention, nor would it be consistent with the nature of the thing, to adopt the usual plan of works on engineering, and in treating of the attack, to circumvent or upset all that we have found of positive value in the defence, by showing that against every means of defence, there is an infallible method of attack. The defence has its strong points and weak ones; if the first are even not unsurmountable, still they can only be overcome at a disproportionate price, and that must remain true from whatever point of view we look at it, or we get involved in a contradiction. Further, it is not our intention thoroughly to review the reciprocal action of the means; each means of defence suggests a means of attack; but this is often so evident, that there is no occasion to transfer oneself from our standpoint in treating of the defence to a fresh one for the attack, in order to perceive it; the one issues from the other of itself. Our object is, in each subject, to set forth the peculiar relations of the attack, so far as they do not directly come out of the defence, and this mode of treatment must necessarily lead us to many chapters to which there are no corresponding ones in the defence.
-
 
 ### CHAPTER II. Nature of the Strategical Attack
 
@@ -5253,13 +5148,11 @@ As the principle of the attack is _strictly_ active, and the defensive, which co
 
 Lastly, as a rule, the extent of the means of attack consists of the armed force only; of course, we must add to these the fortresses, for if in the vicinity of the theatre of war, they have a decided influence on the attack. But this influence gradually diminishes as the attack advances; and it is conceivable that, in the attack, its own fortresses never can play such an important part as in the defence, in which they often become objects of primary importance. The assistance of the people may be supposed in co-operation with the attack, in those cases in which the inhabitants of the country are better disposed towards the invader of the country than they are to their own army; finally, the assailant may also have allies, but then they are only the result of special or accidental relations, not an assistance proceeding from the nature of the aggressive. Although, therefore, in speaking of the defence we have reckoned fortresses, popular insurrections, and allies as available means of resistance; we cannot do the same in the attack; there they belong to the nature of the thing; here they only appear rarely, and for the most part accidentally.
 
-
 ### CHAPTER III. Of the Objects of Strategical Attack
 
 The overthrow of the enemy is the aim in war; destruction of the hostile military forces, the means both in attack and defence. By the destruction of the enemy's military force, the defensive is led on to the offensive, the offensive is led by it to the conquest of territory. Territory is, therefore, the object of the attack; but that need not be a whole country, it may be confined to a part, a province, a strip of country, a fortress. All these things may have a substantial value from their political importance, in treating for peace, whether they are retained or exchanged.
 
 The object of the strategic attack is, therefore, conceivable in an infinite number of gradations, from the conquest of the whole country down to that of some insignificant place. As soon as this object is attained, and the attack ceases, the defensive commences. We may, therefore, represent to ourselves the strategic attack as a distinctly limited unit. But it is not so if we consider the matter practically, that is in accordance with actual phenomena. Practically the moments of the attack, that is, its views and measures, often glide just as imperceptibly into the defence as the plans of the defence into the offensive. It is seldom, or at all events not always, that a general lays down positively for himself what he will conquer, he leaves that dependent on the course of events. His attack often leads him further than he had intended; after rest more or less, he often gets renewed strength, without our being obliged to make out of this two quite different acts; at another time he is brought to a standstill sooner than he expected, without, however, giving up his intentions, and changing to a real defensive. We see, therefore, that if the successful defence may change imperceptibly into the offensive; so on the other hand an attack may, in like manner, change into a defence. These gradations must be kept in view, in order to avoid making a wrong application of what we have to say of the attack in general.
-
 
 ### CHAPTER IV. Decreasing Force of the Attack
 
@@ -5283,13 +5176,11 @@ The decrease of absolute power arises--
 
 But frequently, in opposition to these weakening causes, there may be many others which contribute to strengthen the attack. It is clear, at all events, that a net result can only be obtained by comparing these different quantities; thus, for example, the weakening of the attack may be partly or completely compensated, or even surpassed by the weakening of the defensive. This last is a case which rarely happens; we cannot always bring into the comparison any more forces than those in the immediate front or at decisive points, not the whole of the forces in the field.--Different examples: The French in Austria and Prussia, in Russia; the allies in France, the French in Spain.
 
-
 ### CHAPTER V. Culminating Point of the Attack
 
 The success of the attack is the result of a present superiority of force, it being understood that the moral as well as physical forces are included. In the preceding chapter we have shown that the power of the attack gradually exhausts itself; possibly at the same time the superiority may increase, but in most cases it diminishes. The assailant buys up prospective advantages which are to be turned to account hereafter in negotiations for peace; but, in the meantime, he has to pay down on the spot for them a certain amount of his military force. If a preponderance on the side of the attack, although thus daily diminishing, is still maintained until peace is concluded, the object is attained. There are strategic attacks which have led to an immediate peace but such instances are rare; the majority, on the contrary, lead only to a point at which the forces remaining are just sufficient to maintain a defensive, and to wait for peace. Beyond that point the scale turns, there is a reaction; the violence of such a reaction is commonly much greater than the force of the blow. This we call the culminating point of the attack. As the object of the attack is the possession of the enemy's territory, it follows that the advance must continue till the superiority is exhausted; this cause, therefore, impels us towards the ultimate object, and may easily lead us beyond it. If we reflect upon the number of the elements of which an equation of the forces in action is composed, we may conceive how difficult it is in many cases to determine which of two opponents has the superiority on his side. Often all hangs on the silken thread of imagination.
 
 Everything then depends on discovering the culminating point by the fine tact of judgment. Here we come upon a seeming contradiction. The defence is stronger than the attack; therefore we should think that the latter can never lead us too far, for as long as the weaker form remains strong enough for what is required, the stronger form ought to be still more so.
-
 
 ### CHAPTER VI. Destruction of the Enemy's Armies
 
@@ -5309,7 +5200,6 @@ The occupation of an undefended strip of territory, therefore, in addition to th
 
 We must always consider means of this description as small investments, from which only small profits are to be expected; as means suited only to very limited State relations and weak motives. Then they are certainly better than battles without a purpose--than victories, the results of which cannot be realised to the full.
 
-
 ### CHAPTER VII. The Offensive Battle
 
 What we have said about the defensive battle throws a strong light upon the offensive also.
@@ -5319,7 +5209,6 @@ We there had in view that class of battle in which the defensive appears most de
 A combat in lines, formed to envelope, has evidently in itself great advantages; it is, however, a subject of tactics. The attack must not give up these advantages because the defence has a means of counteracting them; for the attack itself cannot make use of that means, inasmuch as it is one that is too closely dependent upon other things connected with the defence. To be able in turn to operate with success against the flanks of an enemy, whose aim is to turn our line, it is necessary to have a well chosen and well prepared position. But what is much more important is, that all the advantages which the defensive possesses, cannot be made use of; most defences are poor makeshifts; the greater number of defenders find themselves in a very harassing and critical position, in which, expecting the worst, they meet the attack half way. The consequence of this is, that battles formed with enveloping lines, or even with an oblique front, which should properly result from an advantageous relation of the lines of communication, are commonly the result of a moral and physical preponderance (Marengo, Austerlitz, Jena). Besides, in the first battle fought, the base of the assailant, if not superior to that of the defender, is still mostly very wide in extent, on account of the proximity of the frontier; he can, therefore, afford to venture a little.--The flank-attack, that is, the battle with oblique front, is moreover generally more efficacious than the enveloping form. It is an erroneous idea that an enveloping strategic advance from the very commencement must be connected with it, as at Prague. (That strategic measure has seldom anything in common with it, and is very hazardous; of which we shall speak further in the attack of a theatre of war.)
 
 As it is an object with the commander in the defensive battle to delay the decision as long as possible, and gain time, because a defensive battle undecided at sunset is commonly one gained: therefore the commander, in the offensive battle, requires to hasten the decision; but, on the other hand, there is a great risk in too much haste, because it leads to a waste of forces. One peculiarity in the offensive battle is the uncertainty, in most cases, as to the position of the enemy; it is a complete groping about amongst things that are unknown (Austerlitz, Wagram, Hohenlinden, Jena, Katzbach). The more this is the case, so much the more concentration of forces becomes paramount, and turning a flank to be preferred to surrounding. That the principal fruits of victory are first gathered in the pursuit, we have already learnt in the twelfth chapter of the 4th Book. According to the nature of the thing, the pursuit is more an integral part of the whole action in the offensive than in the defensive battle.
-
 
 ### CHAPTER VIII. Passage of Rivers
 
@@ -5343,13 +5232,11 @@ Suppose, for instance, an attack which is not intended to end in a great solutio
 
 But also in cases of a great solution, a river is an important object; it always weakens and deranges the offensive; and the most fortunate thing, in this case is, if the defender is induced through that to look upon the river as a tactical barrier, and to make the particular defence of that barrier the principal act of his resistance, so that the assailant at once obtains the advantage of being able to strike a decisive blow in a very easy manner.--Certainly, in the first instance, this blow will never amount to a complete defeat of the enemy, but it will consist of several advantageous combats, and these bring about a state of general relations very adverse to the enemy, as happened to the Austrians on the Lower Rhine, 1796.
 
-
 ### CHAPTER IX. Attack on Defensive Positions
 
 In the book on the defence, it has been sufficiently explained how far defensive positions can compel the assailant either to attack them, or to give up his advance. Only those which can effect this are subservient to our object, and suited to wear out or neutralise the forces of the aggressor, either wholly or in part, and in so far the attack can do nothing against such positions, that is to say, there are no means at its disposal by which to counter-balance this advantage. But defensive positions are not all really of this kind. If the assailant sees he can pursue his object without attacking such a position, it would be an error to make the attack; if he cannot follow out his object, then it is a question whether he cannot manÅuvre the enemy out of his position by threatening his flank. It is only if such means are ineffectual, that a commander determines on the attack of a good position, and then an attack directed against one side, always in general presents the less difficulty; but the choice of the side must depend on the position and direction of the mutual lines of retreat, consequently, on the threatening the enemy's retreat, and covering our own. Between these two objects a competition may arise, in which case the first is entitled to the preference, as it is of an offensive nature; therefore homogeneous with the attack, whilst the other is of a defensive character. But it is certain, and may be regarded as a truth of the first importance, that _to attack an enemy thoroughly inured to war, in a good position, is a critical thing_. No doubt instances are not wanting of such battles, and of successful ones too, as Torgau, Wagram (we do not say Dresden, because we cannot call the enemy there quite aguerried); but upon the whole, the danger is small, and it vanishes altogether, opposed to the infinite number of cases in which we have seen the most resolute commanders make their bow before such positions. (Torres Vedras.)
 
 We must not, however, confuse the subject now before us with ordinary battles. Most battles are real " _rencontres_ ," in which one party certainly occupies a position, but one which has not been prepared.
-
 
 ### CHAPTER X. Attack on an Entrenched Camp
 
@@ -5358,7 +5245,6 @@ It was for a time the fashion to speak with contempt of entrenchments and their 
 It is consistent with the nature of an entrenched camp that it should be weakly garrisoned; but with good, natural obstacles of ground and strong field works, it is possible to bid defiance to superior numbers. Frederick the Great considered the attack of the camp of Pirna as impracticable, although he had at his command double the force of the garrison; and although it has been since asserted, here and there, that it was quite possible to have taken it; the only proof in favour of this assertion is founded on the bad condition of the Saxon troops; an argument which does not at all detract in any way from the value of entrenchments. But it is a question, whether those who have since contended not only for the feasibility but also for the facility of the attack, would have made up their minds to execute it at the time.
 
 We, therefore, think that the attack of an entrenched camp belongs to the category of quite exceptional means on the part of the offensive. It is only if the entrenchments have been thrown up in haste are not completed, still less strengthed by obstacles to prevent their being approached, or when, as is often the case taken altogether, the whole camp is only an outline of what it was intended to be, a half-finished ruin, that then an attack on it may be advisable, and at the same time become the road to gain an easy conquest over the enemy.
-
 
 ### CHAPTER XI. Attack on a Mountain
 
@@ -5384,7 +5270,6 @@ The dispositions for the attack of mountain-positions are mostly of a tactical n
 
 3 - But if the enemy to be attacked occupies a position somewhat concentrated, turning movements are an essential part of the scheme of attack, as the front attacks fall upon the mass of the defender's forces; but the turning movements again must be made more with a view to cutting off the enemy's retreat, than as a tactical rolling up of the flank or attack on the rear; for mountain positions are capable of a prolonged resistance even in rear if forces are not wanting, and the quickest result is invariably to be expected only from the enemy's apprehension of losing his line of retreat; this sort of uneasiness arises sooner, and acts more powerfully in mountains, because, when it comes to the worst, it is not so easy to make room sword in hand. A mere demonstration is no sufficient means here; it might certainly maneuvere the enemy out of his position, but would not ensure any special result; the aim must therefore be to cut him off, in reality, from his line of retreat.
 
-
 ### CHAPTER XII. Attack on Cordon Lines
 
 If a supreme decision should lie in their defence and their attack, they place the assailant in an advantageous situation, for their wide extent is still more in opposition to all the requirements of a decisive battle than the direct defence of a river or a mountain range. Eugene's lines of Denain, 1712, are an illustration to the point here, for their loss was quite equal to a complete defeat, but Villars would hardly have gained such a victory against Eugene in a concentrated position. If the offensive side does not possess the means required for a decisive battle, then even lines are treated with respect, that is, if they are occupied by the main body of an army; for instance, those of Stollhofen, held by Louis of Baden in the year 1703, were respected even by Villars. But if they are only held by a secondary force, then it is merely a question of the strength of the corps which we can spare for their attack. The resistance in such cases is seldom great, but at the same time the result of the victory is seldom worth much.
@@ -5392,7 +5277,6 @@ If a supreme decision should lie in their defence and their attack, they place t
 The circumvallation lines of a besieger have a peculiar character, of which we shall speak in the chapter on the attack of a theatre of war.
 
 All positions of the cordon kind, as, for instance, entrenched lines of outposts, etc., etc., have always this property, that they can be easily broken through; but when they are not forced with a view of going further and bringing on a decision, there is so little to be gained in general by the attack, that it hardly repays the trouble expended.
-
 
 ### CHAPTER XIII. Maneuvering
 
@@ -5428,7 +5312,6 @@ These five interests may establish themselves in the smallest features of detail
 
 We are convinced that there are no rules of any kind for strategic maneuvering; that no method, no general principle can determine the mode of action; but that superior energy, precision, order, obedience, intrepidity in the most special and trifling circumstances may find means to obtain for themselves signal advantages, and that, therefore, chiefly on those qualities will depend the victory in this sort of contest.
 
-
 ### CHAPTER XIV. Attack on Morasses, Inundations, Woods
 
 Morasses, that is, impassable swamps, which are only traversed by a few embankments, present peculiar difficulties to the tactical attack, as we have stated in treating of the defence. Their breadth hardly ever admits of the enemy being driven from the opposite bank by artillery, and of the construction of a roadway across. The strategic consequence is that endeavours are made to avoid attacking them by passing round them. Where the state of culture, as in many low countries, is so great that the means of passing are innumerable, the resistance of the defender is still strong enough relatively, but it is proportionably weakened for an absolute decision, and, therefore, wholly unsuitable for it. On the other hand, if the low land (as in Holland) is aided by inundations, the resistance may become absolute, and defy every attack. This was shown in Holland in the year 1672, when, after the conquest and occupation of all the fortresses outside the margin of the inundation, 50,000 French troops became available, who,--first under CondÃ© and then under Luxemburg,--were unable to force the line of inundation, although it was only defended by about 20,000 men. The campaign of the Prussians, in 1787, under the Duke of Brunswick, against the Dutch, ended, it is true, in a quite contrary way, as these lines were then carried by a force very little superior to the defenders, and with trifling loss; but the reason of that is to be found in the dissensions amongst the defenders from political animosities, and a want of unity in the command, and yet nothing is more certain than that the success of the campaign, that is, the advance through the last line of inundation up to the walls of Amsterdam depended on a point of such extreme nicety that it is impossible to draw any general deduction from this case. The point alluded to was the leaving unguarded the Sea of Haarlem. By means of this, the Duke turned the inundation line, and got in rear of the post of Amselvoen. If the Dutch had had a couple of armed vessels on this lake the duke would never have got to Amsterdam, for he was " _au bout de son latin._ " What influence that might have had on the conclusion of peace does not concern us here, but it is certain that any further question of carrying the last line of inundation would have been put an end to completely.
@@ -5436,7 +5319,6 @@ Morasses, that is, impassable swamps, which are only traversed by a few embankme
 The winter is, no doubt, the natural enemy of this means of defence, as the French have shown in 1794 and 1795, but it must be a _severe_ winter.
 
 Woods, which are scarcely passable, we have also included amongst the means which afford the defence powerful assistance. If they are of no great depth then the assailant may force his way through by several roads running near one another, and thus reach better ground, for no one point can have any great tactical strength, as we can never suppose a wood as absolutely impassable as a river or a morass.--But when, as in Russia and Poland, a very large tract of country is nearly everywhere covered with wood, and the assailant has not the power of getting beyond it, then, certainly, his situation becomes very embarrassing. We have only to think of the difficulties he must contend with to subsist his army, and how little he can do in the depths of the forest to make his ubiquitous adversary feel his superiority in numbers. Certainly this is one of the worst situations in which the offensive can be placed.
-
 
 ### CHAPTER XV. Attack on a Theatre of War with the View to a Decision
 
@@ -5464,7 +5346,6 @@ Such separation into several columns as is indispensably necessary must be made 
 
 Dangers of this description, to which the assailant is exposed, must be measured chiefly by the situation and character of the adversary. When everything lies under the pressure of an imminent great decision, there is little room for the defender to engage in undertakings of this description; the assailant has, therefore, in ordinary circumstances not much to fear. But if the advance is over, if the assailant himself is gradually passing into the defensive, then the covering of the rear becomes every moment more necessary, becomes more a thing of the first importance. For the rear of the assailant being naturally weaker than that of the defender, therefore the latter, long before he passes over to the real offensive, and even at the same time that he is yielding ground, may have commenced to operate against the communications of the assailant.
 
-
 ### CHAPTER XVI. Attack on a Theatre of War without the View to a Great Decision
 
 1 - Although there is neither the will nor the power sufficient for a great decision, there may still exist a decided view in a strategic attack, but it is directed against some secondary object. If the attack succeeds, then, with the attainment of this object the whole falls again into a state of rest and equilibrium. If difficulties to a certain extent present themselves, the general progress of the attack comes to a standstill before the object is gained. Then in its place commences a mere occasional offensive or strategic maneuvering. This is the character of most campaigns.
@@ -5488,7 +5369,6 @@ The aim of such a combat of course presupposes; ( _a_ ) that there is an adequat
 4 - The operation of the defensive on the communications of the offensive, is a kind of reaction which in wars waged for the great solution, can only take place when the lines of operation are very long; on the other hand, this kind of reaction lies more in accordance with the nature of things in wars which are not aimed at the great solution. The enemy's lines of communication are seldom very long in such a case; but then, neither is it here so much a question of inflicting great losses of this description on the enemy, a mere impeding and cutting short his means of subsistence often produces an effect, and what the lines want in length is made up for in some degree by the length of time which can be expended in this kind of contest with the enemy: for this reason, the covering his strategic flanks becomes an important object for the assailant. If, therefore, a contest (or rivalry) of this description takes place between the assailant and defender, then the assailant must seek to compensate by numbers for his natural disadvantages. If he retains sufficient power and resolution still to venture a decisive stroke against one of the enemy's corps, or against the enemy's main body itself, the danger which he thus holds over the head of his opponent is his best means of covering himself.
 
 5 - In conclusion, we must notice another great advantage which the assailant certainly has over the defender in wars of this kind, which is that of being better able to judge of the intentions and force of his adversary than the latter can in turn of his. It is much more difficult to discover in what degree an assailant is enterprising and bold than when the defender has something of consequence in his mind. Practically viewed, there usually lies already in the choice of the defensive form of war a sort of guarantee that nothing positive is intended; besides this, the preparations for a great reaction differ much more from the ordinary preparations for defence than the preparations for a great attack differ from those directed against minor objects. Finally, the defender is obliged to take his measures soonest of the two, which gives the assailant the advantage of playing the last hand.
-
 
 ### CHAPTER XVII. Attack on Fortresses
 
@@ -5540,7 +5420,6 @@ Lastly, it is a disadvantage in lines of circumvallation, that in case of a reve
 
 In taking up a position for an army of observation, an important question to be considered is the distance at which it should be placed from the besieged place. This question will, in most cases, be decided by the nature of the country, or by the position of other armies or corps with which the besiegers have to remain in communication. In other respects, it is easy to see that, with a greater distance, the siege is better covered, but that by a smaller distance, not exceeding a few miles, the two armies are better able to afford each other mutual support.
 
-
 ### CHAPTER XVIII. Attack on Convoys
 
 The attack and defence of a convoy form a subject of tactics: we should, therefore, have nothing to say upon the subject here if it was not necessary, first, to demonstrate generally, to a certain extent, the possibility of the thing, which can only be done from strategic motives and relations. We should have had to speak of it in this respect before when treating of the defence, had it not been that the little which can be said about it can easily be framed to suit for both attack and defence, while at the same time the first plays the higher part in connection with it.
@@ -5556,7 +5435,6 @@ It is only if the strategic situation of an army involves it in the unnatural ne
 When Eugene besieged Landrecy in 1712, he drew his supplies for the siege from Bouchain by Denain; therefore, in reality, from the front of the strategic position. It is well known what means he was obliged to use to overcome the difficulty of protecting his convoys on that occasion, and in what embarrassments he involved himself, ending in a complete change of circumstances.
 
 The conclusion we draw, therefore, is that however easy an attack on a convoy may appear in its tactical aspect, still it has not much in its favour on strategic grounds, and only promises important results in the exceptional instances of lines of communication very much exposed.
-
 
 ### CHAPTER XIX. Attack on the Enemy's Army in its Cantonments
 
@@ -5612,7 +5490,6 @@ The first condition is:--
 
 (7.) Finally, the retreat in case of ill-success must be thought of, and a rallying point be fixed upon beforehand.
 
-
 ### CHAPTER XX. Diversion
 
 According to the ordinary use of language, under the term diversion is understood such an incursion into the enemy's country as draws off a portion of his force from the principal point. It is only when this is the chief end in view, and not the gain of the object which is selected as the point of attack, that it is an enterprise of a special character, otherwise it is only an ordinary attack.
@@ -5655,11 +5532,9 @@ _Execution._
 
 3 - If the forces employed are not quite inconsiderable, and the retreat is restricted to certain points, then a reserve on which the whole may rally is an essential condition.
 
-
 ### CHAPTER XXI. Invasion
 
 Almost all that we have to say on this subject consists in an explanation of the term. We find the expression very frequently used by modern authors and also that they pretend to denote by it something particular. _Guerre d 'invasion_ occurs perpetually in French authors. They use it as a term for every attack which enters deep into the enemy's country, and perhaps sometimes mean to apply it as the antithesis to methodical attack, that is, one which only nibbles at the frontier. But this is a very unphilosophical confusion of language. Whether an attack is to be confined to the frontier or to be carried into the heart of the country, whether it shall make the seizure of the enemy's strong places the chief object, or seek out the core of the enemy's power, and pursue it unremittingly, is the result of circumstances, and not dependent on a system. In some cases, to push forward may be more methodical, and at the same time more prudent than to tarry on the frontier, but in most cases it is nothing else than just the fortunate result of a vigorous _attack_ , and consequently does not differ from it in any respect.
-
 
 ### CHAPTER XXII. On the Culminating Point of Victory
 
@@ -5785,7 +5660,6 @@ If now we look back at all the points which the commander should bear in mind in
 
 Thus it happens that the majority of generals prefer to fall short of the mark rather than to approach too close; and thus it happens that a fine courage and great spirit of enterprise often go beyond the point, and therefore also fail to hit the mark. Only he that does great things with small means has made a successful hit.
 
-
 ## SKETCHES FOR BOOK VIII PLAN OF WAR
 
 ### CHAPTER I. Introduction
@@ -5801,7 +5675,6 @@ If, on the one hand, we see how extremely simple the operations of war appear; i
 With some fear we proceed again; we can only do so by pursuing the way which we have prescribed for ourselves from the first. Theory ought to throw a clear light on the mass of objects, that the mind may the easier find its bearings; theory ought to pull up the weeds which error has sown broadcast; it should show the relations of things to each other, separate the important from the trifling. Where ideas resolve themselves spontaneously into such a core of Truth as is called Principle, when they of themselves keep such a line as forms a rule, Theory should indicate the same
 
 Whatever the mind seizes, the rays of light which are awakened in it by this exploration amongst the fundamental notions of things, _that is the assistance which Theory affords the mind_. Theory can give no formulas with which to solve problems; it cannot confine the mind's course to the narrow line of necessity by Principles set up on both sides. It lets the mind take a look at the mass of objects and their relations, and then allows it to go free to the higher regions of action, there to act according to the measure of its natural forces, with the energy of the whole of those forces combined, and to grasp the True and the Right, as one single clear idea, which shooting forth from under the united pressure of all these forces, would seem to be rather a product of feeling than of reflection.
-
 
 ### CHAPTER II. Absolute and Real War
 
@@ -5840,7 +5713,6 @@ Theory is indebted to the last wars for being able to do this effectually now. W
 Would Prussia have ventured to penetrate into France in the year 1798 with 70,000 men, if she had foreseen that the reaction in case of failure would be so strong as to overthrow the old balance of power in Europe?
 
 Would Prussia, in 1806, have made war with 100,000 against France, if she had supposed that the first pistol shot would be a spark in the heart of the mine, which would blow it into the air?
-
 
 ### CHAPTER III.
 
@@ -5978,7 +5850,6 @@ The latest period of past time, in which war reached its absolute strength, cont
 
 Accordingly, we must add that the object which every one who undertakes war proposes to himself, and the means which he calls forth, are determined entirely according to the particular details of his position; and on that very account they will also bear in themselves the character of the time and of the general relations; lastly, _that they are always subject to the general conclusions to be deduced from the nature of war_.
 
-
 ### CHAPTER IV. Ends in War More Precisely Defined
 
 #### Overthrow of the Enemy
@@ -6079,7 +5950,6 @@ We say, this appears to be the general truth, by which we only wish to set aside
 
 It may appear perhaps as if we had left our general point of view, and had nothing in our eye except offensive war; but it is not so by any means. Certainly, he who can set before himself the complete overthrow of the enemy as his object, will not easily be reduced to take refuge in the defensive, the immediate object of which is only to keep possession; but as we stand by the declaration throughout, that a defensive without any positive principle is a contradiction in strategy as well as in tactics, and therefore always come back to the fact that every defensive, according to its strength, will seek to change to the attack as soon as it has exhausted the advantages of the defensive, so therefore, however great or small the defence may be, we still also include in it contingently the overthrow of the enemy as an object which this attack may have, and which is to be considered as the proper object of the defensive, and we say that there may be cases in which the assailant, notwithstanding he has in view such a great object, may still prefer at first to make use of the defensive form. That this idea is founded in reality is easily shown by the campaign of 1812. The Emperor Alexander in engaging in the war did not perhaps think of ruining his enemy completely, as was done in the sequel; but is there anything which makes such an idea impossible? And yet, if so, would it not still remain very natural that the Russians began the war on the defensive?
 
-
 ### CHAPTER V. Ends in War More Precisely Defined ( _continued_ )
 
 #### Limited Object
@@ -6103,7 +5973,6 @@ If it has had the audacity to propose to itself a positive end in the face of su
 These considerations on the limited object apply to its connection both with offensive war and defensive war; we shall consider both in separate chapters. But we shall first turn our attention to another phase.
 
 Hitherto we have deduced the modifications in the object of war solely from intrinsic reasons. The nature of the political view (or design) we have only taken into consideration in so far as it is or is not directed at something positive. Everything else in the political design is in reality something extraneous to war; but in the second chapter of the first book (End and Means in War) we have already admitted that the nature of the political object, the extent of our own or the enemy's demand, and our whole political relation practically have a most decisive influence on the conduct of the war, and we shall therefore devote the following chapter to that subject specially.
-
 
 ### CHAPTER VI.
 
@@ -6130,7 +5999,6 @@ Thus it comes to pass that the reciprocal action, the rivalry, the violence and 
 If this influence of the political object is once permitted, as it then must be, there is no longer any limit, and we must be pleased to come down to such warfare as consists in a _mere threatening of the enemy_ and in _negotiating_.
 
 That the theory of war, if it is to be and to continue a philosophical study, finds itself here in a difficulty is clear. All that is essentially inherent in the conception of war seems to fly from it, and it is in danger of being left without any point of support. But the natural outlet soon shows itself. According as a modifying principle gains influence over the act of war, or rather, the weaker the motives to action become, the more the action will glide into a passive resistance, the less eventful it will become, and the less it will require guiding principles. All military art then changes itself into mere prudence, the principal object of which will be to prevent the trembling balance from suddenly turning to our disadvantage, and the half war from changing into a complete one.
-
 
 #### B. War as an Instrument of Policy
 
@@ -6218,7 +6086,6 @@ Therefore, the actual changes in the art of war are a consequence of alterations
 
 Therefore, once more: war is an instrument of policy; it must necessarily bear its character, it must measure with its scale: the conduct of war, in its great features, is therefore policy itself, which takes up the sword in place of the pen, but does not on that account cease to think according to its own laws.
 
-
 ### CHAPTER VII. Limited Object--Offensive War
 
 Even if the complete overthrow of the enemy cannot be the object, there may still be one which is directly positive, and this positive object can be nothing else than the conquest of a part of the enemy's country.
@@ -6248,7 +6115,6 @@ Even if we suppose two provinces (one on each side) to be of equal value, we sha
 The consequence of all this is that a strategic attack directed against only a moderate object involves a greater necessity for steps to defend other points which it does not directly cover than one which is directed against the centre of the enemy's force; consequently, in such an attack the concentration of forces in time and space cannot be carried out to the same extent. In order that it may take place, at least as regards time, it becomes necessary for the advance to be made offensively from every point possible, and at the same moment exactly: and therefore this attack loses the other advantage of being able to make shift with a much smaller force by acting on the defensive at particular points. In this way the effect of aiming at a minor object is to bring all things more to a level: the whole act of the war cannot now be concentrated into one principal affair which can be governed according to leading points of view; it is more dispersed; the friction becomes greater everywhere, and there is everywhere more room for chance.
 
 This is the natural tendency of the thing. The commanders weighed down by it, finds himself more and more neutralised. The more he is conscious of his own powers, the greater his resources subjectively, and his power objectively, so much the more he will seek to liberate himself from this tendency in order to give to some one point a preponderating importance, even if that should only be possible by running greater risks.
-
 
 ### CHAPTER VIII. Limited Object--Defence
 
@@ -6287,7 +6153,6 @@ The relation in point of numbers between the Russian and French armies opposed t
 That this was not the opinion at the time, and that such a view would then have been looked upon as preposterous, is no reason for our now denying it to be the right one. If we are to learn from history, we must look upon things which have actually happened as also possible in the future, and that the series of great events which succeeded the march upon Moscow is not a succession of mere accidents every one will grant who can claim to give an opinion on such subjects. If it had been possible for the Russians, with great efforts, to defend their frontier, it is certainly probable that in such case also the French power would have sunk, and that they would have at last suffered a reverse of fortune; but the reaction then would certainly not have been so violent and decisive. By sufferings and sacrifices (which certainly in any other country would have been greater, and in most would have been impossible) Russia purchased this enormous success.
 
 Thus a great positive success can never be obtained except through positive measures, planned not with a view to a mere state of "waiting-for," but with a view to a _decision_ , in short, even on the defensive, there is no great gain to be won except by a great stake.
-
 
 ### CHAPTER IX. Plan of War when the Destruction of the Enemy is the Object
 
@@ -6533,7 +6398,6 @@ If Austria, Prussia, the German Con-federation, the Netherlands and England, det
 
 The countries we have named have, exclusive of their possessions out of Europe, above 75,000,000 inhabitants, whilst France has only 30,000,000; and the army which they could call out for a war against France really meant in earnest, would be as follows, without exaggeration:--
 
-
 Austria: 250,000
 Prussia: 200,000
 The rest of Germany: 150,000
@@ -6541,7 +6405,6 @@ Netherlands: 75,000
 England: 50,000
 
 Total: 725,000
-
 
 Should this force be placed on a warfooting it would, in all probability, very much exceed that which France could oppose; for under Buonaparte the country never had an army of the like strength. Now, if we take into account the deductions required as garrisons for fortresses and depÃ´ts, to watch the coasts, etc., there can be no doubt the allies would have a great superiority in the principal theatre of war, and upon that the object or plan of overthrowing the enemy is chiefly founded.
 
@@ -6557,7 +6420,6 @@ Another consideration deserving attention, is the relation of France in respect 
 
 Our plan of war would then consist simply in this:
 
-
 1 - That in the Netherlands:--
 200,000 Prussians,
 75,000 Netherlanders,
@@ -6565,7 +6427,6 @@ Our plan of war would then consist simply in this:
 50,000 North German Confederation,
 
 Total: 350,000 be assembled,
-
 
 of whom about 50,000 should be set aside to garrison frontier fortresses, and the remaining 300,000 should advance against Paris, and engage the French Army in a decisive battle.
 
@@ -6590,4 +6451,3 @@ We are quite convinced that in this way France may be overthrown and chastised w
 How little the provisional organisation of the German federal armies is adapted to such a disposition, will strike the reader. By that organisation the federative part of Germany forms the nucleus of the German power, and Prussia and Austria thus weakened, lose their natural influence. But a federative state is a very brittle nucleus in war. There is in it no unity, no energy, no rational choice of a commander, no authority, no responsibility.
 
 Austria and Prussia are the two natural centres of force of the German empire; they form the pivot (or fulcrum), the forte of the sword; they are monarchical states, used to war; they have well-defined interests, independence of power; they are predominant over the others. The organisation should follow these natural lineaments, and not a false notion about unity, which is an impossibility in such a case; and he who neglects the possible in quest of the impossible is a fool.
-

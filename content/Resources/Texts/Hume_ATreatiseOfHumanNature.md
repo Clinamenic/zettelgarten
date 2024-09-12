@@ -1,13 +1,11 @@
 ---
 title: A Treatise of Human Nature
-Primary Author(s): "[[Hume, David]]"
-Secondary Author(s): 
+author: David Hume
 Year: "1738"
-Link to Text: 
-Description: 
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # A Treatise of Human Nature

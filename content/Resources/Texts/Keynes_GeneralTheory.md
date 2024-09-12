@@ -1,13 +1,12 @@
 ---
 title: The General Theory of Employment, Interest and Money
 author: "[[Keynes, John Maynard]]"
-Secondary Author(s): 
+Secondary Author(s):
 Year: "1936"
 Attached Text: "[[private/resources/Keynes_GeneralTheory_PDF.pdf]]"
-Description: 
+publish: true
 tags:
   - text
-publish: true
 ---
 
 # The General Theory of Employment, Interest and Money
@@ -23,16 +22,13 @@ publish: true
 - BOOK I: INTRODUCTION
   - Chapter 1: The General Theory
   - Chapter 2: The Postulates of the Classical Economics
-    - [[#Chapter 2, Section I]] {Summary: [[r-JK-GT 4]]}
-	    - {[[r-JK-GT 1]], }
-    - [[#Chapter 2, Section II]] {Summary: [[r-JK-GT 5]]}
-	    - {[[r-JK-GT 2]], [[r-JK-GT 3]], }
-    - [[#Chapter 2, Section III]] {Summary: [[r-JK-GT 8]]}
-	    - {[[r-JK-GT 6]], [[r-JK-GT 7]], }
-    - [[#Chapter 2, Section IV]] {Summary: [[r-JK-GT 9]]}
-    - [[#Chapter 2, Section V]] {Summary: [[r-JK-GT 10]]}
-    - [[#Chapter 2, Section VI]] {Summary: [[r-JK-GT 11]]}
-    - [[#Chapter 2, Section VII]] {Summary: }
+    - [[#Chapter 2, Section I]]
+    - [[#Chapter 2, Section II]]
+    - [[#Chapter 2, Section III]]
+    - [[#Chapter 2, Section IV]]
+    - [[#Chapter 2, Section V]]
+    - [[#Chapter 2, Section VI]]
+    - [[#Chapter 2, Section VII]]
   - Chapter 3: The Principle of Effective Demand
     - [[#Chapter 3, Section I]] {Summary: }
     - [[#Chapter 3, Section II]] {Summary: }
@@ -171,89 +167,6 @@ publish: true
   - [[#Appendix 2]]: Fluctuations in Net Investment in the United States (1936)
   - [[#Appendix 3]]: Relative Movements of Real Wages and Output
 
-### {Variables}
-
-
-- $A$ (*Proceeds*)
-	- Proceeds received by entrepreneur for finished output, for given period.
-- $A_1$ (*Cost of acquired output*)
-	- Sum paid by entrepreneur, during given period, for finished output of other entrepreneur(s).
-- $G$ (*Value of capital equipment*)
-	- Value of accrued capital equipment of entrepreneur, at the end of a given period, over all previous periods.
-	-  References
-		- ![[Keynes_GeneralTheory#^eedb96]]
-- $G'$ (*Maximum potential value of capital equipment*)
-	- Optimum value of capital equipment, given proper maintenance, at the end of a given period, over all previous periods
-- $B'$ (*Optimally efficient maintenance cost*)
-	- Optimum cost of maintaining capital equipment, for a given period.
-	- $G' - B'$ (*Maximum potential net value of capital equipment*)
-		- Maximum potential value of capital equipment, if maintained and unused in given period of production
-		- **References**
-- $E$ (*Wages Bill*)
-	- $E = N × W$
-	-  References
-		- ![[Keynes_GeneralTheory#^8827b4]]
-- $I$ (*Current Investment*)
-	- $I = G - (G' - B')$
-	- Entrepreneur's current investment in capital equipment
-	- References
-- $U$ (*User Cost*)
-	- $U = (G' - B') - (G - A_1)$
-		- $U = A_1 + (G' - B') - G$
-		- $U = A_1 - I$
-- $F$ (*Factor Cost)
-- $V$ (*Supplementary Cost*)
-	- Excess of expected depreciation of capital equipment beyond User Cost.
-	- *Basic Supplementary Cost*: Initial calculation of Supplementary Cost at the start of a given period of production.
-	- *Current Supplementary Cost*: Revised calculation of Supplementary Cost, up to date.
-- $D$ (*Expected Proceeds from Demand*)
-	- Entrepreneur's expected proceeds purchasers (consumers and investors).
-	- $D = D_1 + D_2$
-	- $D_1$ (*Propensity to Consume*)
-	- The amount which the community is expected to spend on consumption.
-	- $D_2$ (Propensity to Save?)
-	- The amount which the community is expected to devote to new investment.
-- $Z$ (*Aggregate Supply Price*)
-	- $Z = φ(N)$
-- $N$ (*Quantity of Employment*)
-	- Number of people employed during a given period of production.
-	- **References**
-		- ![[Keynes_GeneralTheory#^8827b4]]
-- $𝑓$ (Aggregate Demand Function)
-	- Function relating employment volume ($N$) to entrepreneur's expected proceeds ($D$).
-	- $D = 𝑓(N)$ (*Aggregate Demand Function*)
-- $φ$ (Aggregate Supply Function)
-	- Function relating employment volume ($N$) to aggregate supply price ($Z$).
-	- $Z = φ(N)$ (*Aggregate Supply Function*)
-- $Y$ (Income)
-- $r$ (Interest Rate)
-- $M$ (Amount of cash held)
-	- $M = M_1 + M_2 = L_1(Y) + L_2(r)$
-	- $M_1$ (Amount of cash held to satisfy transactions-motive and precautionary-motive)
-	- $M_2$ (Amount of cash held to satisfy speculative-motive)
-- $L_1$ (Liquidity function of income)
-	- The function that relates income ($Y$), as an input, to $M_1$ as an output
-- $L_2$ (Liquidity function of interest rate )
-	- The function that relates interest rate ($r$), as an input, to $M_1$ as an output
-- $V$ (*Income-Velocity of Money*)
-	- $$L_1(Y) = \frac{Y}{V} = M_1$$
-#### {Equations}
-
-$$'User Cost' = U = (G' - B') - (G - A_1)$$ 
-- $U + F$ (*Prime Cost*)
-- $D = 𝑓(N)$ (*Aggregate Demand Function*)
-- $Z = φ(N)$ (*Aggregate Supply Function*)
-- $A - U$ (*Income of Entrepreneur*)
-	- Proceeds minus User Cost
-- Net Income of Entrepreneur: $$A - U - V$$
-	- Proceeds minus User Cost, minus Supplementary Cost
-	- References
-		- ![[Keynes_GeneralTheory#^96c69b]]
-- Aggregate amount of money saved?: $$M = M_1 + M_2 = L_1(Y) + L_2(r)$$
-- Maximum potential net value of capital equipment: $$G' - B'$$
-- Transactions- and Precautionary-Motive Liquidity Function of Income: $$L_1(Y) = \frac{Y}{V} = M_1$$
-
-
 ## Introductory Materials
 
 ### GENERAL INTRODUCTION
@@ -350,7 +263,7 @@ I have called this book the General Theory of Employment, Interest and Money, pl
 
 Most treatises on the theory of value and production are primarily concerned with the distribution of a given volume of employed resources between different uses and with the conditions which, assuming the employment of this quantity of resources, determine their relative rewards and the relative values of their products.
 
-The question, also, of the volume of the available resources, in the sense of the size of the employable population, the extent of natural wealth and the accumulated capital equipment, has often been treated descriptively. But the pure theory of what determines the actual employment of the available resources has seldom been examined in great detail. To say that it has not been examined at all would, of course, be absurd. For every discussion concerning fluctuations of employment, of which there have been many, has been concerned with it. I mean, not that the topic has been overlooked, but that the fundamental theory underlying it has been deemed so simple and obvious that it has received, at the most, a bare mention. ^chapter2section1paragraph2
+The question, also, of the volume of the available resources, in the sense of the size of the employable population, the extent of natural wealth and the accumulated capital equipment, has often been treated descriptively. But the pure theory of what determines the actual employment of the available resources has seldom been examined in great detail. To say that it has not been examined at all would, of course, be absurd. For every discussion concerning fluctuations of employment, of which there have been many, has been concerned with it. I mean, not that the topic has been overlooked, but that the fundamental theory underlying it has been deemed so simple and obvious that it has received, at the most, a bare mention. ^7c3575
 
 The classical theory of employment--supposedly simple and obvious--has been based, I think, on two fundamental postulates, though practically without discussion, namely:
 
@@ -382,7 +295,7 @@ Is it true that the above categories are comprehensive in view of the fact that 
 
 This calls for two observations, the first of which relates to the actual attitude of workers towards real wages and money-wages respectively and is not theoretically fundamental, but the second of which is fundamental.
 
-Let us assume, for the moment, that labour is not prepared to work for a lower money-wage and that a reduction in the existing level of money-wages would lead, through strikes or otherwise, to a withdrawal from the labour market of labour which is now employed. Does it follow from this that the existing level of real wages accurately measures the marginal disutility of labour? Not necessarily. For, although a reduction in the existing money-wage would lead to a withdrawal of labour, it does not follow that a fall in the value of the existing money-wage in terms of wage-goods would do so, if it were due to a rise in the price of the latter. In other words, it may be the case that within a certain range the demand of labour is for a minimum money-wage and not for a minimum real wage. The classical school have tacitly assumed that this would involve no significant change in their theory. But this is not so. For if the supply of labour is not a function of real wages as its sole variable, their argument breaks down entirely and leaves the question of what the actual employment will be quite indeterminate. They do not seem to have realised that, unless the supply of labour is a function of real wages alone, their supply curve for labour will shift bodily with every movement of prices. Thus their method is tied up with their very special assumptions, and cannot be adapted to deal with the more general case. ^chapter2section2paragraph3
+Let us assume, for the moment, that labour is not prepared to work for a lower money-wage and that a reduction in the existing level of money-wages would lead, through strikes or otherwise, to a withdrawal from the labour market of labour which is now employed. Does it follow from this that the existing level of real wages accurately measures the marginal disutility of labour? Not necessarily. For, although a reduction in the existing money-wage would lead to a withdrawal of labour, it does not follow that a fall in the value of the existing money-wage in terms of wage-goods would do so, if it were due to a rise in the price of the latter. In other words, it may be the case that within a certain range the demand of labour is for a minimum money-wage and not for a minimum real wage. The classical school have tacitly assumed that this would involve no significant change in their theory. But this is not so. For if the supply of labour is not a function of real wages as its sole variable, their argument breaks down entirely and leaves the question of what the actual employment will be quite indeterminate. They do not seem to have realised that, unless the supply of labour is a function of real wages alone, their supply curve for labour will shift bodily with every movement of prices. Thus their method is tied up with their very special assumptions, and cannot be adapted to deal with the more general case. ^baec3a
 
 Now ordinary experience tells us, beyond doubt, that a situation where labour stipulates (within limits) for a money-wage rather than a real wage, so far from being a mere possibility, is the normal case. Whilst workers will usually resist a reduction of money-wages, it is not their practice to withdraw their labour whenever there is a rise in the price of wage-goods. It is sometimes said that it would be illogical for labour to resist a reduction of money-wages but not to resist a reduction of real wages. For reasons given below (p. 14), this might not be so illogical as it appears at first; and, as we shall see later, fortunately so. But, whether logical or illogical, experience shows that this is how labour in fact behaves.
 
@@ -394,7 +307,7 @@ If, indeed, it were true that the existing real wage is a minimum below which mo
 
 But there is a more fundamental objection. The second postulate flows from the idea that the real wages of labour depend on the wage bargains which labour makes with the entrepreneurs. It is admitted, of course, that the bargains are actually made in terms of money, and even that the real wages acceptable to labour are not altogether independent of what the corresponding money-wage happens to be. Nevertheless it is the money-wage thus arrived at which is held to determine the real wage. Thus the classical theory assumes that it is always open to labour to reduce its real wage by accepting a reduction in its money-wage. The postulate that there is a tendency for the real wage to come to equality with the marginal disutility of labour clearly presumes that labour itself is in a position to decide the real wage for which it works, though not the quantity of employment forthcoming at this wage.
 
-The traditional theory maintains, in short, that the wage bargains between the entrepreneurs and the workers determine the real wage; so that, assuming free competition amongst employers and no restrictive combination amongst workers, the latter can, if they wish, bring their real wages into conformity with the marginal disutility of the amount of employment offered by the employers at that wage. If this is not true, then there is no longer any reason to expect a tendency towards equality between the real wage and the marginal disutility of labour. ^chapter2section2paragraph9
+The traditional theory maintains, in short, that the wage bargains between the entrepreneurs and the workers determine the real wage; so that, assuming free competition amongst employers and no restrictive combination amongst workers, the latter can, if they wish, bring their real wages into conformity with the marginal disutility of the amount of employment offered by the employers at that wage. If this is not true, then there is no longer any reason to expect a tendency towards equality between the real wage and the marginal disutility of labour. ^288b3d
 
 The classical conclusions are intended, it must be remembered, to apply to the whole body of labour and do not mean merely that a single individual can get employment by accepting a cut in money-wages which his fellows refuse. They are supposed to be equally applicable to a closed system as to an open system, and are not dependent on the characteristics of an open system or on the effects of a reduction of money-wages in a single country on its foreign trade, which lie, of course, entirely outside the field of this discussion. Nor are they based on indirect effects due to a lower wages-bill in terms of money having certain reactions on the banking system and the state of credit, effects which we shall examine in detail in chapter 19. They are based on the belief that in a closed system a reduction in the general level of money-wages will be accompanied, at any rate in the short period and subject only to minor qualifications, by some, though not always a proportionate, reduction in real wages.
 
@@ -408,9 +321,9 @@ But the other, more fundamental, objection, which we shall develop in the ensuin
 
 Though the struggle over money-wages between individuals and groups is often believed to determine the general level of real-wages, it is, in fact, concerned with a different object. Since there is imperfect mobility of labour, and wages do not tend to an exact equality of net advantage in different occupations, any individual or group of individuals, who consent to a reduction of money-wages relatively to others, will suffer a relative reduction in real wages, which is a sufficient justification for them to resist it. On the other hand it would be impracticable to resist every reduction of real wages, due to a change in the purchasing-power of money which affects all workers alike; and in fact reductions of real wages arising in this way are not, as a rule, resisted unless they proceed to an extreme degree. Moreover, a resistance to reductions in money-wages applying to particular industries does not raise the same insuperable bar to an increase in aggregate employment which would result from a similar resistance to every reduction in real wages.
 
-In other words, the struggle about money-wages primarily affects the distribution of the aggregate real wage between different labour-groups, and not its average amount per unit of employment, which depends, as we shall see, on a different set of forces. The effect of combination on the part of a group of workers is to protect their relative real wage. The general level of real wages depends on the other forces of the economic system. ^chapter2section3paragraph2
+In other words, the struggle about money-wages primarily affects the distribution of the aggregate real wage between different labour-groups, and not its average amount per unit of employment, which depends, as we shall see, on a different set of forces. The effect of combination on the part of a group of workers is to protect their relative real wage. The general level of real wages depends on the other forces of the economic system. ^8e90d9
 
-Thus it is fortunate that the workers, though unconsciously, are instinctively more reasonable economists than the classical school, inasmuch as they resist reductions of money-wages, which are seldom or never of an all-round character, even though the existing real equivalent of these wages exceeds the marginal disutility of the existing employment; whereas they do not resist reductions of real wages, which are associated with increases in aggregate employment and leave relative money-wages unchanged, unless the reduction proceeds so far as to threaten a reduction of the real wage below the marginal disutility of the existing volume of employment. Every trade union will put up some resistance to a cut in money-wages, however small. But since no trade union would dream of striking on every occasion of a rise in the cost of living, they do not raise the obstacle to any increase in aggregate employment which is attributed to them by the classical school. ^chapter2section3paragraph3
+Thus it is fortunate that the workers, though unconsciously, are instinctively more reasonable economists than the classical school, inasmuch as they resist reductions of money-wages, which are seldom or never of an all-round character, even though the existing real equivalent of these wages exceeds the marginal disutility of the existing employment; whereas they do not resist reductions of real wages, which are associated with increases in aggregate employment and leave relative money-wages unchanged, unless the reduction proceeds so far as to threaten a reduction of the real wage below the marginal disutility of the existing volume of employment. Every trade union will put up some resistance to a cut in money-wages, however small. But since no trade union would dream of striking on every occasion of a rise in the cost of living, they do not raise the obstacle to any increase in aggregate employment which is attributed to them by the classical school. ^172d94
 
 #### Chapter 2, Section IV
 
@@ -479,11 +392,11 @@ These three assumptions, however, all amount to the same thing in the sense that
 
 #### Chapter 3, Section I
 
-We need, to start with, a few terms which will be defined precisely later. In a given state of technique, resources and costs, the employment of a given volume of labour by an entrepreneur involves him in two kinds of expense: first of all, the amounts which he pays out to the factors of production (exclusive of other entrepreneurs) for their current services, which we shall call the factor cost of the employment in question; and secondly, the amounts which he pays out to other entrepreneurs for what he has to purchase from them together with the sacrifice which he incurs by employing the equipment instead of leaving it idle, which we shall call the user cost of the employment in question. The excess of the value of the resulting output over the sum of its factor cost and its user cost is the profit or, as we shall call it, the income of the entrepreneur. The factor cost is, of course, the same thing, looked at from the point of view of the entrepreneur, as what the factors of production regard as their income. Thus the factor cost and the entrepreneur's profit make up, between them, what we shall define as the total income resulting from the employment given by the entrepreneur. The entrepreneur's profit thus defined is, as it should be, the quantity which he endeavours to maximise when he is deciding what amount of employment to offer. It is sometimes convenient, when we are looking at it from the entrepreneur's standpoint, to call the aggregate income (i.e. factor cost plus profit) resulting from a given amount of employment the proceeds of that employment. On the other hand, the aggregate supply price of the output of a given amount of employment is the expectation of proceeds which will just make it worth the while of the entrepreneurs to give that employment.
+We need, to start with, a few terms which will be defined precisely later. In a given state of technique, resources and costs, the employment of a given volume of labour by an entrepreneur involves him in two kinds of expense: first of all, the amounts which he pays out to the factors of production (exclusive of other entrepreneurs) for their current services, which we shall call the factor cost of the employment in question; and secondly, the amounts which he pays out to other entrepreneurs for what he has to purchase from them together with the sacrifice which he incurs by employing the equipment instead of leaving it idle, which we shall call the user cost of the employment in question. The excess of the value of the resulting output over the sum of its factor cost and its user cost is the profit or, as we shall call it, the income of the entrepreneur. The factor cost is, of course, the same thing, looked at from the point of view of the entrepreneur, as what the factors of production regard as their income. Thus the factor cost and the entrepreneur's profit make up, between them, what we shall define as the total income resulting from the employment given by the entrepreneur. The entrepreneur's profit thus defined is, as it should be, the quantity which he endeavours to maximise when he is deciding what amount of employment to offer. It is sometimes convenient, when we are looking at it from the entrepreneur's standpoint, to call the aggregate income (i.e. factor cost plus profit) resulting from a given amount of employment the proceeds of that employment. On the other hand, the aggregate supply price of the output of a given amount of employment is the expectation of proceeds which will just make it worth the while of the entrepreneurs to give that employment. ^760af4
 
 It follows that in a given situation of technique, resources and factor cost per unit of employment, the amount of employment, both in each individual firm and industry and in the aggregate, depends on the amount of the proceeds which the entrepreneurs expect to receive from the corresponding output. For entrepreneurs will endeavour to fix the amount of employment at the level which they expect to maximise the excess of the proceeds over the factor cost.
 
-Let $Z$ be the aggregate supply price of the output from employing $N$ men, the relationship between $Z$ and $N$ being written $Z = φ(N)$, which can be called the aggregate supply function. Similarly, let D be the proceeds which entrepreneurs expect to receive from the employment of $N$ men, the relationship between $D$ and $N$ being written $D = f(N)$, which can be called the aggregate demand function.
+Let $Z$ be the aggregate supply price of the output from employing $N$ men, the relationship between $Z$ and $N$ being written $Z = φ(N)$, which can be called the aggregate supply function. Similarly, let D be the proceeds which entrepreneurs expect to receive from the employment of $N$ men, the relationship between $D$ and $N$ being written $D = f(N)$, which can be called the aggregate demand function. ^fbe1e8
 
 Now if for a given value of $N$ the expected proceeds are greater than the aggregate supply price, i.e. if $D$ is greater than $Z$, there will be an incentive to entrepreneurs to increase employment beyond $N$ and, if necessary, to raise costs by competing with one another for the factors of production, up to the value of $N$ for which $Z$ has become equal to $D$. Thus the volume of employment is given by the point of intersection between the aggregate demand function and the aggregate supply function; for it is at this point that the entrepreneurs' expectation of profits will be maximised. The value of $D$ at the point of the aggregate demand function, where it is intersected by the aggregate supply function, will be called the effective demand. Since this is the substance of the General Theory of Employment, which it will be our object to expound, the succeeding chapters will be largely occupied with examining the various factors upon which these two functions depend.
 
@@ -523,7 +436,7 @@ increases our consumption increases also, but not by so much. The key to our pra
 
 Thus the volume of employment is not determined by the marginal disutility of labour measured in terms of real wages, except in so far as the supply of labour available at a given real wage sets a maximum level to employment. The propensity to consume and the rate of new investment determine between them the volume of employment, and the volume of employment is uniquely related to a given level of real wages--not the other way round. If the propensity to consume and the rate of new investment result in a deficient effective demand, the actual level of employment will fall short of the supply of labour potentially available at the existing real wage, and the equilibrium real wage will be greater than the marginal disutility of the equilibrium level of employment.
 
-This analysis supplies us with an explanation of the paradox of poverty in the midst of plenty. For the mere existence of an insufficiency of effective demand may, and often will, bring the increase of employment to a standstill before a level of full employment has been reached. The insufficiency of effective demand will inhibit the process of production in spite of the fact that the marginal product of labour still exceeds in value the marginal disutility of employment.
+This analysis supplies us with an explanation of the paradox of poverty in the midst of plenty. For the mere existence of an insufficiency of effective demand may, and often will, bring the increase of employment to a standstill before a level of full employment has been reached. The insufficiency of effective demand will inhibit the process of production in spite of the fact that the marginal product of labour still exceeds in value the marginal disutility of employment. ^e645e8
 
 Moreover the richer the community, the wider will tend to be the gap between its actual and its potential production; and therefore the more obvious and outrageous the defects of the economic system. For a poor community will be prone to consume by far the greater part of its output, so that a very modest measure of investment will be sufficient to provide full employment; whereas a wealthy community will have to discover much ampler opportunities for investment if the saving propensities of its wealthier members are to be compatible with the employment of its poorer members. If in a potentially wealthy community the inducement to invest is weak, then, in spite of its potential wealth, the working of the principle of effective demand will compel it to reduce its actual output, until, in spite of its potential wealth, it has become so poor that its surplus over its consumption is sufficiently diminished to correspond to the weakness of the inducement to invest.
 

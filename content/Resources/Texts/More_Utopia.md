@@ -1,12 +1,11 @@
 ---
 title: Utopia
-author: "[[More, Thomas]]"
-Year: 
-Link to Text: 
-Description: 
+author: Thomas More
+Year:
+Link to Text:
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # Utopia

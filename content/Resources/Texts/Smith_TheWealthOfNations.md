@@ -1,13 +1,11 @@
 ---
 title: An Inquiry into the Nature and Causes of the Wealth of Nations
-Primary Author(s): "[[Smith, Adam]]"
-Secondary Author(s): 
+author: Adam Smith
 Year: 
 Link to Text: 
-Description: 
+publish: true
 tags:
   - text
-Associated works:
 ---
 
 # The Wealth of Nations
