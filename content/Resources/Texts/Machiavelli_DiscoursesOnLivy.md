@@ -118,7 +118,7 @@ with Revisions by Brian Richardson
       - [[#Book One, Discourse 60. That the Consulate and all Other Offices in Rome were conferred without Respect to Age]]
   - Book Two - THE GROWTH OF ROME’S EMPIRE
     - The Preface.
-      - 1–5 METHODS OF EXPANSION
+    - 1–5 METHODS OF EXPANSION
       - [[#Book Two, Discourse 1. Whether Virtue or Fortune was the Principal Cause of the Empire which Rome acquired]]
       - [[#Book Two, Discourse 2]]
 -
