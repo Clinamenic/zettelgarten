@@ -1,6 +1,7 @@
 ---
 title: Zettelgarten Index
 publish: true
+keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
 tags:
   - personal-discourse/index
 ---
@@ -26,8 +27,8 @@ Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
 
 ### Logs
 
-- [[Log 08.25.24 - Notes on active discursive efforts]]
-- [[Log 09.08.24 - Notes on the distinction between theoretical and applied governance]]
+- [[log-2024-08-25]]
+- [[log-2024-09-08]]
 
 ### Drafts
 

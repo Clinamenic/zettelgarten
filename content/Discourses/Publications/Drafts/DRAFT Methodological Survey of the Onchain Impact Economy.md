@@ -30,8 +30,6 @@ The effects this potential has on the culture of this industry, including the mo
 
 For the purposes of this discourse, which is intended for curious newcomers to this industry as well as its more seasoned practitioners, it may help to clearly define some of the more important terms at play, and introduce some of the novel concepts and technologies. It is in this spirit of sensemaking that following introductory section is provided.
 
-While the overall scope of this survey regards the onchain impact economy at large, consisting of various sub-sectors or domain-specific ecosystems, particular reference will be made throughout the survey to the legal engineering ecosystem in particular, which will be introduced after the section on nomenclature.
-
 ### 1.1 - Nomenclature & Semantic Considerations
 
 Because the matters at hand are complex enough without the added confusion of semantic ambiguity, some effort here is made to disambiguate the meaning of the integral terms of this discourse. The following is not necessarily presented as prescriptive, but rather merely as an indication of how these terms are interpreted for our purposes in this survey. If this clarity isn't needed, the reader may wish to skip past the nomenclature section.
@@ -83,11 +81,7 @@ The major conventional alternative to private funding is, of source, public fund
 
 The term 'onchain' refers to any activity on a blockchain, similar to how the term 'online' refers to any activity on the internet. The particulars capacities in which this technology enters into the complex of digital public infrastructure will be covered in the section on selected onchain infrastructure.
 
-### 1.2 - The Legal Engineering Ecosystem
-
-Text here
-
-### 1.3 - Selected Onchain Infrastructure
+### 1.2 - Selected Onchain Infrastructure
 
 Text here.
 
@@ -95,9 +89,17 @@ Worth noting here is the manner in which blockchain and comparable technologies 
 
 #### Hypercerts
 
-Text here
+Hypercerts are onchain certificates designed to facilitate the assessment and funding of public goods. Someone working on a public good can mint a hypercert, specify the work they are doing, and sell a number of these hypercerts to funders who want to support public goods. This last step can also be understood as issuing a donation receipt to funders of public goods.
+
+Like other protocols in the blockchain public goods space, hypercerts were designed with the intention of supporting an ecosystem. That is, they are configured to be interoperable within a network of developers, funders and beneficiaries revolving around public goods, all of whom having their own information to share and seek. People building public goods need to convey the work they are doing and the impact it is having, in order to receive funding. People funding public goods want to see evidence of the impactful work being done, in order to feel confident that their donations are being effectively allocated.
 
 #### Ethereum Attestation Service
+
+Ethereum Attestation Service is a general-purpose protocol for storing and indexing information onchain. Users can create and publish attestations as particular statements of information, and these statements can be integrated with smart contracts to trigger desired onchain outcomes. Not only can individuals publish information using attestations, they can also create attestation schemas to for other users to publish information.
+
+For example, attestations can be used for [programmatic membership agreements](https://docs.hatsprotocol.xyz/hats-integrations/eligibility-and-accountability-criteria/agreement-eligibility), where signing a membership agreement results in the user receiving membership in an onchain organization. Attestations can also be used in workflow management, wherein supervisors issue attestations to publicly recognize the work done by an employee or contributor. While attestations can be used for private purposes, they are generally understood as useful in situations where the information being conveyed or verified is public in nature.
+
+In our case, we will be exploring how attestations can be used to qualitatively and quantitatively evaluate the impact and outcomes of public goods in the field of legal engineering. EAS, like Hypercerts, is itself a public good insofar as it is freely accessible and open-source. In this sense, protocols such as these collectively constitute digital public infrastructure, and can be used to systematically promote and support philanthropic and commercial work alike.
 
 #### Grants Stack
 
