@@ -83,39 +83,37 @@ The term 'onchain' refers to any activity on a blockchain, similar to how the te
 
 ### 1.2 - Selected Onchain Infrastructure
 
-Text here.
-
-Worth noting here is the manner in which blockchain and comparable technologies may factor into the digital public infrastructure under consideration. A great deal of clamor is generated within and around the blockchain industry, owing to the largely speculative nature of its potential.
+In this section we will highlight how certain blockchain-based protocols and platforms factor into the complex of digital public infrastructure. Because this technology is still nascent, and its field of application is still being explored, we will consider it all in light of both its current actual implementation, as well as how it may be implemented in the future, in a more integrated ecosystem of impact.
 
 #### Hypercerts
 
-Hypercerts are onchain certificates designed to facilitate the assessment and funding of public goods. Someone working on a public good can mint a hypercert, specify the work they are doing, and sell a number of these hypercerts to funders who want to support public goods. This last step can also be understood as issuing a donation receipt to funders of public goods.
+[Hypercerts](https://hypercerts.org/docs/) are onchain certificates designed to facilitate the assessment and funding of public goods. Someone working on a public good can mint a hypercert, specify the work they are doing, and sell a number of these hypercerts to funders who want to support public goods. This last step can also be understood as issuing a donation receipt to funders of public goods.
 
 Like other protocols in the blockchain public goods space, hypercerts were designed with the intention of supporting an ecosystem. That is, they are configured to be interoperable within a network of developers, funders and beneficiaries revolving around public goods, all of whom having their own information to share and seek. People building public goods need to convey the work they are doing and the impact it is having, in order to receive funding. People funding public goods want to see evidence of the impactful work being done, in order to feel confident that their donations are being effectively allocated.
 
 #### Ethereum Attestation Service
 
-Ethereum Attestation Service is a general-purpose protocol for storing and indexing information onchain. Users can create and publish attestations as particular statements of information, and these statements can be integrated with smart contracts to trigger desired onchain outcomes. Not only can individuals publish information using attestations, they can also create attestation schemas to for other users to publish information.
+[Ethereum Attestation Service](https://docs.attest.org/docs/purpose/eas-purpose) (EAS) is a general-purpose protocol for storing and indexing information onchain. Users can create and publish attestations as particular statements of information, and these statements can be integrated with smart contracts to trigger desired onchain outcomes. Not only can individuals publish information using attestations, they can also create attestation schemas to for other users to publish information.
 
-For example, attestations can be used for [programmatic membership agreements](https://docs.hatsprotocol.xyz/hats-integrations/eligibility-and-accountability-criteria/agreement-eligibility), where signing a membership agreement results in the user receiving membership in an onchain organization. Attestations can also be used in workflow management, wherein supervisors issue attestations to publicly recognize the work done by an employee or contributor. While attestations can be used for private purposes, they are generally understood as useful in situations where the information being conveyed or verified is public in nature.
+Using attestations, individuals can make claims and reference the claims of others. In our case, we will be exploring how attestations can be used to qualitatively and quantitatively evaluate the impact and outcomes of public goods in the field of legal engineering. EAS, like Hypercerts, is itself a public good insofar as it is freely accessible and open-source. In this sense, protocols such as these collectively constitute digital public infrastructure, and can be used to systematically promote and support philanthropic and commercial work alike.
 
-In our case, we will be exploring how attestations can be used to qualitatively and quantitatively evaluate the impact and outcomes of public goods in the field of legal engineering. EAS, like Hypercerts, is itself a public good insofar as it is freely accessible and open-source. In this sense, protocols such as these collectively constitute digital public infrastructure, and can be used to systematically promote and support philanthropic and commercial work alike.
+#### Allo Protocol & Grants Stack
 
-#### Grants Stack
+[Allo Protocol](https://docs.allo.gitcoin.co/) is a framework for constructing custom funding allocation processes. Specifically this framework enables the configuration of certain processes, such as how funds are collected into a pool, how recipients are approved, and how funds are disbursed. 
 
-Text here
+One example of an implementation of Allo Protocol is [Grants Stack](https://www.gitcoin.co/grants-stack), which can be described as an off-the-shelf customizable grantmaking program. An institution or community can operate a grant program using Grants Stack, which allows them to pool funds, field and approve grantee applications, determine the precise allocation of the funding pool to the grantees, and disburse this funding. This entire process unfolds publicly onchain, according to the underlying mechanisms of Allo Protocol$^2$. Further implementation nuances of Grants Stack will be explored in a later section.
 
 #### Grantee Accountability Protocol
 
-Text here
+[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is a particular configuration of EAS, specifically geared around impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. These statements are public, and can be referenced by other attestations. For example, a given grantmaking institution may wish to publish a statement verifying a grantee's specified outcome. 
 
-#### RetroPGF
+The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits$^3$, albeit in a more granular peer-to-peer fashion. 
 
-Text here
+While GAP provides specialized infrastructure for onchain impact reporting and assessment, there remains work to be done in the area of standardization and ontology. This matter will be explored in a later section of this inquiry.
 
 #### Miscellaneous
 
-Drips, Stacks, Safe, Hats, ENS
+In addition to the various platforms and protocols highlighted above, there are various other examples of onchain infrastructure. Protocols like 0xSplits and Drips can facilitate targeted fund distribution, in 
 
 ## Section 2 - Challenges
 
@@ -209,6 +207,10 @@ Text here
 
 Text here
 
+#### Quadratic and Direct Funding
+
+Text here
+
 #### Progressive Public Goods Funding
 
 text here
@@ -236,14 +238,16 @@ Text here
 
 ## Disclaimers, Licensing & Contact
 
-The contents of this report do not constitute legal, financial or operational advice, and is intended purely for educational purposes.
+The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations. 
 
 The contents of this report are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-At the time of writing this, Spencer Saar Cavanaugh holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance or operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
+At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
 
-If you would like to consult with Clinamenic LLC or commission research similar in nature to this report, please reach out to ssc@clinamenic.com with your inquiry.
+If you would like to consult with the author or commission research similar in nature to this report, please reach out to ssc@clinamenic.com with your inquiry.
 
 ## Footnotes
 
 1. For example, grantees included in Gitcoin's quadratic funding rounds tend to participate in public panels, such as Twitter spaces, intended to cross-promote the grantees' projects and to more generally promote the development of the Gitcoin ecosystem.
+2. While the process at large is public and transparent, there are certain configurable exceptions to this, such as the solicitation of private personal data from grant applicants, such as email addresses and KYC/AML screening information.
+3. For example, information collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing paradigm that any novel unified onchain impact assessment ontology should be adopted.
