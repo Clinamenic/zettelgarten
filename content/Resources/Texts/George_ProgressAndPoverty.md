@@ -1,5 +1,5 @@
 ---
-Text Title: Progress and Poverty
+title: Progress and Poverty
 author: Henry George
 Year: 
 Link to Text: 

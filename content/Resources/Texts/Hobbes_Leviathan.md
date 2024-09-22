@@ -1,5 +1,5 @@
 ---
-Full Title: Leviathan
+title: Leviathan
 author: Thomas Hobbes
 Year: 
 Link to Text: 
