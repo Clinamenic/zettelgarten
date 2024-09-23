@@ -26,7 +26,7 @@ The onchain impact economy, which utilizes open-source blockchain infrastructure
 
 The ecosystem under consideration, referred to as the onchain impact economy, is multi-faceted, interdisciplinary, and rapidly evolving in lockstep with breakthroughs in its underlying technological infrastructure. Due to the promising potential of this technology to improve human coordination at scale, there is an unusual degree of solidarity across this industry, which spans from the simple alignment of values to the more ideological forms of utopianism.
 
-The effects this potential has on the culture of this industry, including the more philanthropic sector in question, can be beneficial or detrimental, in terms of the actual impact this technology makes. A beneficial aspect of this alignment is that it promotes a communitarian spirit of collaboration across organizational lines, with projects openly promoting each other's donation portals and grant applications, to drive interest in and funding for their respective areas of impact $^1$. A detrimental aspect of this technologically-oriented alignment is the collective propensity to fixate on the engineering-related dimensions of these challenges without adequate feedback from non-technical beneficiaries and stakeholders. This design vacuum tends to create a technological environment which is only accessible to people who are already actively involved, and, moreover, who are able to keep up with the bleeding edge.
+The effects this potential has on the culture of this industry, including the more philanthropic sector in question, can be beneficial or detrimental, in terms of the actual impact this technology makes. A beneficial aspect of this alignment is that it promotes a communitarian spirit of collaboration across organizational lines, with projects openly promoting each other's donation portals and grant applications, to drive interest in and funding for their respective areas of impact<sup>1</sup>. A detrimental aspect of this technologically-oriented alignment is the collective propensity to fixate on the engineering-related dimensions of these challenges without adequate feedback from non-technical beneficiaries and stakeholders. This design vacuum tends to create a technological environment which is only accessible to people who are already actively involved, and, moreover, who are able to keep up with the bleeding edge.
 
 For the purposes of this discourse, which is intended for curious newcomers to this industry as well as its more seasoned practitioners, it may help to clearly define some of the more important terms at play, and introduce some of the novel concepts and technologies. It is in this spirit of sensemaking that following introductory section is provided.
 
@@ -67,7 +67,9 @@ Platforms, such as Gmail, are usually apps intended for users to engage with, wh
 
 Most of the time, users engage with these protocols through platforms, i.e. the platform creates a user-friendly environment for people to leverage the underlying capabilities of the protocols. Gmail creates a relatively simple and accessible way for people to use SMTP without requiring them to be a programmer. Broadly speaking, if not for these platforms, only highly technical individuals would be able to use the internet.
 
-A key aspect of the nascent coordination paradigm under consideration is the potential to couch the actual mechanisms of coordination within the protocol layer, rather then restricting them to the platform level, which usually involves centralized administration by companies with profit-maximizing imperatives which are not always incentivized to maintain digital public infrastructure as such. This engineering constraint is intended to distinguish digital public goods from digital private goods, because while they each need sustainable funding, the manners by which each can be viably funded are different.
+A key aspect of the nascent coordination paradigm under consideration is the potential to couch the actual mechanisms of coordination within the protocol layer, rather then restricting them to the platform level, which usually involves centralized administration by companies with profit-maximizing imperatives which are not always incentivized to maintain digital public infrastructure as such. Much of this can be understood in terms of capture-resistant technology (Graham, 2022). 
+
+This engineering constraint is intended to distinguish digital public goods from digital private goods, because while they each need sustainable funding, the manners by which each can be viably funded are different. If we are to build digital public infrastructure using this technology, there is a strong argument to be made that, at the protocol level, the solutions themselves need to be distributed and resistant to capture. 
 
 #### 'Digital Public Infrastructure'
 
@@ -79,7 +81,7 @@ The major conventional alternative to private funding is, of source, public fund
 
 #### 'Onchain'
 
-The term 'onchain' refers to any activity on a blockchain, similar to how the term 'online' refers to any activity on the internet. The particulars capacities in which this technology enters into the complex of digital public infrastructure will be covered in the section on selected onchain infrastructure.
+The term 'onchain' refers to any activity on a blockchain, similar to how the term 'online' refers to any activity on the internet. The particulars capacities in which this technology enters into the complex of digital public infrastructure will be covered in the section on selected onchain infrastructure. For now, it will suffice to introduce the following technology as viable infrastructure for peer-to-peer settlement and computation.
 
 ### 1.2 - Selected Onchain Infrastructure
 
@@ -101,25 +103,60 @@ Using attestations, individuals can make claims and reference the claims of othe
 
 [Allo Protocol](https://docs.allo.gitcoin.co/) is a framework for constructing custom funding allocation processes. Specifically this framework enables the configuration of certain processes, such as how funds are collected into a pool, how recipients are approved, and how funds are disbursed. 
 
-One example of an implementation of Allo Protocol is [Grants Stack](https://www.gitcoin.co/grants-stack), which can be described as an off-the-shelf customizable grantmaking program. An institution or community can operate a grant program using Grants Stack, which allows them to pool funds, field and approve grantee applications, determine the precise allocation of the funding pool to the grantees, and disburse this funding. This entire process unfolds publicly onchain, according to the underlying mechanisms of Allo Protocol$^2$. Further implementation nuances of Grants Stack will be explored in a later section.
+One example of an implementation of Allo Protocol is [Grants Stack](https://www.gitcoin.co/grants-stack), which can be described as an off-the-shelf customizable grant-making program. An institution or community can operate a grant program using Grants Stack, which allows them to pool funds, field and approve grantee applications, determine the precise allocation of the funding pool to the grantees, and disburse this funding. This entire process unfolds publicly onchain, according to the underlying mechanisms of Allo Protocol<sup>2</sup>. Further implementation nuances of Grants Stack will be explored in a later section.
 
 #### Grantee Accountability Protocol
 
-[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is a particular configuration of EAS, specifically geared around impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. These statements are public, and can be referenced by other attestations. For example, a given grantmaking institution may wish to publish a statement verifying a grantee's specified outcome. 
+[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is a particular configuration of EAS, specifically geared around impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. These statements are public, and can be referenced by other attestations. For example, a given grant-making institution may wish to publish a statement verifying a grantee's specified outcome. 
 
-The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits$^3$, albeit in a more granular peer-to-peer fashion. 
+The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits<sup>3</sup>, albeit in a more granular peer-to-peer fashion. 
 
 While GAP provides specialized infrastructure for onchain impact reporting and assessment, there remains work to be done in the area of standardization and ontology. This matter will be explored in a later section of this inquiry.
 
-#### Miscellaneous
+#### Additional Examples
 
-In addition to the various platforms and protocols highlighted above, there are various other examples of onchain infrastructure. Protocols like 0xSplits and Drips can facilitate targeted fund distribution, in 
+In addition to the various platforms and protocols highlighted above, there are various other examples of onchain infrastructure. These smart contracts can be understood as components for designing onchain organizations (Cavanaugh, 2023). The following examples, as those provided above, qualify as public goods insofar as they are free and inexhaustible, but that does not necessarily extend  
 
-## Section 2 - Challenges
+[0xSplits](https://docs.splits.org/) and [Drips](https://docs.drips.network/) are smart contracts which can facilitate targeted fund distribution, with incoming funds divided among recipients according to a specified breakdown.
+
+[Hats Protocol](https://www.hatsprotocol.xyz/) is a distributed role and permissions management protocol, which lends itself to centralized and decentralized oversight of organizational hierarchy. 
+
+[Ethereum Name Service](https://ens.domains/) (ENS) is an Ethereum-based domain registry and protocol, allowing users to resolve human-readable domain names to their account addresses.
+
+[Safe](https://docs.safe.global/home/what-is-safe) multi-signature or "multisig" accounts are shared accounts which allow users to exercise joint custody of assets. These shared accounts presently constitute the industry standard for organizational treasury management.
+
+## Section 2 - Experiments & Challenges
+
+Having secured some measure of orientation, we will now advance to address the various experiments active in this ecosystem, and the challenges they encounter. 
+
+The utilization of blockchain and related technologies for funding public goods is still a novel and radical phenomenon, constituting a movement in its own right. Over the last several years, this experimental infrastructure has enabled several novel funding mechanisms, which will be examined later in this section, and has distributed over $150 million dollars in public goods funding, to date<sup>5</sup>. 
+
+### 2.1 - Active Experiments
 
 Text here
 
-### 2.1 - Technical Challenges
+#### Quadratic and Direct Funding
+
+Text here
+
+#### Retroactive Public Goods Funding
+
+"[Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) aims to reward past impact based on the idea that it is easier to agree on what was useful than what will be useful. One of the most important experiment parameters in RetroPGF is determining how and what information about projects is presented to voters." (https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)
+
+#### Progressive Public Goods Funding
+
+text here
+
+#### Hyperactive Public Goods Funding
+
+text here
+
+#### Continuous Funding Streams
+
+Text here
+Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
+
+### 2.2 - Technical Challenges
 
 Text here
 
@@ -147,7 +184,7 @@ Text here
 
 Text here
 
-### 2.2 - Financial Challenges
+### 2.3 - Financial Challenges
 
 Text here
 
@@ -159,7 +196,7 @@ Text here, something about ROI for public goods.
 
 Text here, something about risk tolerance
 
-### 2.3 - Operational Challenges
+### 2.4 - Operational Challenges
 
 Text here
 
@@ -203,34 +240,15 @@ Text here
 
 Text here
 
-### 3.3 - Active Experiments
-
-Text here
-
-#### Quadratic and Direct Funding
-
-Text here
-
-#### Progressive Public Goods Funding
-
-text here
-
-#### Hyperactive Public Goods Funding
-
-text here
-
-#### Continuous Funding Streams
-
-Text here
-Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
-
-#### Unified Ontology for Impact Reporting
+### 3.3 Unified Ontology for Impact Reporting
 
 Text here, Common Impact Data Standards
 
-### 3.4 - Prospects of an Extitutional Neofiscal Paradigm
+### 3.4 - A Peer-to-Peer Parafiscal Paradigm
 
 Text here
+
+- Optimism onchain revenue tracker: https://docs.google.com/spreadsheets/d/1XtyBu5lvCI6MtMBQPC6ZOnjZ5nbbPw4bOH7WO2Pn7cI/edit?gid=0#gid=0
 
 ## Conclusion
 
@@ -246,8 +264,33 @@ At the time of writing this, the author holds a material amount of ETH and other
 
 If you would like to consult with the author or commission research similar in nature to this report, please reach out to ssc@clinamenic.com with your inquiry.
 
-## Footnotes
+## Endnotes
 
 1. For example, grantees included in Gitcoin's quadratic funding rounds tend to participate in public panels, such as Twitter spaces, intended to cross-promote the grantees' projects and to more generally promote the development of the Gitcoin ecosystem.
 2. While the process at large is public and transparent, there are certain configurable exceptions to this, such as the solicitation of private personal data from grant applicants, such as email addresses and KYC/AML screening information.
 3. For example, information collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing paradigm that any novel unified onchain impact assessment ontology should be adopted.
+
+## Bibliography
+
+- Cavanaugh, S. S. (2023). [[What Are Onchain Organizations?]] (Self-published). [Arweave](https://viewblock.io/arweave/tx/GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs).
+- Graham, S (2022). [Anticapture: Towards a Framework of Capture-Resistant Governance](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) (Self-published). [Arweave](https://viewblock.io/arweave/tx/yAxnXi_oZlIa5eB3CkKujBwzrprX177jEPemu2LeLl8).
+- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa) (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
+- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf) (Self-published). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
+- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E) (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
+- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict) (Self-published) [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
+
+‌
+
+
+## Appendix on Grant Volume
+
+1. See the following reports:
+	1. Gitcoin, over $60 million to date ([Report](https://impact.gitcoin.co/))
+	2. Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset ($OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
+		1. Round 1, Q4 2022, $1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)). 
+		2. Round 2, Q2 2023, 10 million $OP distributed, approx. $25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)).
+			1. In Q2 2023 the $OP token had an SMA of $1.73, and a standard deviation of approximately 24%. 
+		3. Round 3, Q4 2023, 30 million $0P, approx. $78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA))
+			1. In Q4 2023 the $OP token had an SMA of $1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+		4. Round 4, Q2 2024, 10 million $OP, approx. $25 million ([Results](https://retrofunding.optimism.io/round/results))
+			1. In Q2 2024 the $OP token had an SMA of $2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.

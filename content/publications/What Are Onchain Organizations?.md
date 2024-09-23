@@ -5,7 +5,7 @@ title: What Are Onchain Organizations?
 subtitle: Using smart contracts to design organizations and facilitate governance processes.
 date published: 2023-12-10
 license: CC BY-SA 4.0
-arweave hash: uxcKIXkKLBPh_Aq6IAKENveLZcyMhITGTZetcGBkbOA
+arweave hash: GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs
 publish: true
 tags:
   - personal-discourse
