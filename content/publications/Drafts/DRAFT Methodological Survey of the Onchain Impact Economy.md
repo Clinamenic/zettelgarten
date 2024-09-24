@@ -1,13 +1,13 @@
 ---
 author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
-title: Methodological Survey of Onchain Impact Ecosystems
+title: Methodological Survey of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
 draft started: 0024-06-28
-date published:
+date published: 
 license: CC BY-SA 4.0
 sponsor(s): LexDAO, SuperBenefitDAO
-arweave hash:
+arweave hash: 
 publish: true
 tags:
 ---
@@ -107,7 +107,7 @@ One example of an implementation of Allo Protocol is [Grants Stack](https://www.
 
 #### Grantee Accountability Protocol
 
-[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is a particular configuration of EAS, specifically geared around impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. These statements are public, and can be referenced by other attestations. For example, a given grant-making institution may wish to publish a statement verifying a grantee's specified outcome. 
+[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is an onchain protocol and application built using EAS, specifically geared around accountability, impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. Upon completion of work, they share their work along with proof, all of which are recorded on chain. 
 
 The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits<sup>3</sup>, albeit in a more granular peer-to-peer fashion. 
 
