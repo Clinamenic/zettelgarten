@@ -7,7 +7,7 @@ draft started: 2024-09-18
 date published: 
 license: CC BY-SA 4.0
 arweave hash: 
-publish: false
+publish: true
 tags:
   - personal-discourse/draft
 ---
