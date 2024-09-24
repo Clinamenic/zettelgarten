@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
-title: Methodological Survey of the Onchain Impact Economy
+title: DRAFT Methodological Survey of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
 draft started: 0024-06-28
 date published: 
