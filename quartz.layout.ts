@@ -20,11 +20,16 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ArticleTitle(),
+    Component.ArticleTitle({
+      showTitle: (frontmatter) => !frontmatter.hideTitle,
+    }),
     Component.AuthorName(),
     Component.PublishDate(),
     Component.TagList(),
-    Component.Graph(),
+    Component.Graph({
+      showGraph: (frontmatter) => !frontmatter.hideGraph,
+      // ... other graph options
+    }),
   ],
   left: [
     // Component.PageTitle(),

@@ -23,6 +23,12 @@ export interface D3Config {
 interface GraphOptions {
   localGraph: Partial<D3Config> | undefined
   globalGraph: Partial<D3Config> | undefined
+  showGraph?: (frontmatter: Frontmatter) => boolean
+}
+
+interface Frontmatter {
+  hideGraph?: boolean
+  // ... other frontmatter properties
 }
 
 const defaultOptions: GraphOptions = {
@@ -54,12 +60,18 @@ const defaultOptions: GraphOptions = {
     removeTags: [],
     focusOnHover: true,
   },
+  showGraph: (frontmatter: Frontmatter) => !frontmatter.hideGraph,
 }
 
 export default ((opts?: GraphOptions) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+    const showGraph = opts?.showGraph ?? defaultOptions.showGraph
+
+    if (showGraph && !showGraph(fileData.frontmatter)) {
+      return null
+    }
     return (
       <div class={classNames(displayClass, "graph")}>
         {/*<h3>{i18n(cfg.locale).components.graph.title}</h3>*/}

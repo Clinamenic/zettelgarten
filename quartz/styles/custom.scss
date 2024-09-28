@@ -13,10 +13,56 @@
     font-style: normal;
   }
 
-.test-box {
-    background-color: red;
-    border: 1px white solid;
-    border-radius: 10px;
+.heading1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    margin: 1rem;
 }
 
+.body-p{
+  text-align: justify;
+  font-size: small;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  padding: 0rem;
+  margin: 0rem;
+}
 
+.text-box{
+  position: relative;
+  background-color: var(--light);
+  border: 1px solid var(--dark);
+  border-radius: 10px;
+  padding: 1rem;
+  overflow-x: hidden;
+  z-index: 0;
+}
+
+.clinamenic-cube{
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+}
+
+.spacer10{
+  height: 10px;
+  width: 10px;
+}
+
+@keyframes fade-in {
+  0%{ opacity: 0%; }
+  100%{ opacity: 100%; } 
+}
+@keyframes fade-up {
+  0%{ opacity: 0%; transform:translateY(25px)}
+  100%{ opacity: 100%; transform:translateY(0px)} 
+}
+@keyframes fade-down {
+  0%{ opacity: 0%; transform:translateY(-25px)}
+  100%{ opacity: 100%; transform:translateY(0px)} 
+}
