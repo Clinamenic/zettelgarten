@@ -11,16 +11,23 @@ arweave hash:
 publish: true
 tags:
 ---
+## Index
+
+Text here
 
 ## Acknowledgments
 
-The following research was conducted for [LexDAO](https://lexdao.org/) by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Funding for this research was provided by LexDAO and SuperBenefitDAO.
+The following research was conducted by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Funding for this research was provided by [LexDAO](https://lexdao.org/) and SuperBenefitDAO.
 
 I would like to thank the following individuals for their feedback and support: Kyle Smith of LexClinic, rathermercurial of SuperBenefitDAO, Holke Brammer and bitbeckers of Hypercerts, Mahesh Murthy of Karma, Natalie J. Crüe, Monty Merlin of ReFi DAO, Eugene Leventhal of MetaGov, Mashal Waqar of Octant, LauNaMu of Optimism, and Mike Natanzon of Abundance Protocol.
 
 ## Abstract
 
 The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which may bring innovation to the traditional philanthropic sector. It has also encountered various challenges familiar to, and runs the risk of repeating some systematic inefficiencies of, traditional philanthropy. Various open-source protocols exist, or are actively being developed, to: administer onchain grant programs; configure and issue onchain certificates of impact; publish claims and attestations to build onchain trust networks; and retroactively fund public goods via protocol-based fiscal systems. These functions are developed as distinct softwares, but with the intention of being combined into multi-functional open-source assemblages for evaluating and funding impact, based largely on the premise that impact is not adequately valued at present, thus resulting in inadequate funding for publicly impactful work. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and ought to learn from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue, in order to avoid reinventing wheels and recreating systematic inefficiencies. This report is a holistic survey of existing practices and challenges, and a prospectus of methodological considerations to inform the collective stewardship of this promising ecosystem.
+
+## Disclaimers
+
+At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
 
 ## Section 1 - Introduction
 
@@ -240,7 +247,7 @@ Text here
 
 Text here
 
-### 3.3 Unified Ontology for Impact Reporting
+### 3.3 - Unified Ontology for Impact Reporting
 
 Text here, Common Impact Data Standards
 
@@ -253,16 +260,6 @@ Text here
 ## Conclusion
 
 Text here
-
-## Disclaimers, Licensing & Contact
-
-The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations. 
-
-The contents of this report are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
-
-If you would like to consult with the author or commission research similar in nature to this report, please reach out to ssc@clinamenic.com with your inquiry.
 
 ## Endnotes
 
@@ -294,3 +291,9 @@ If you would like to consult with the author or commission research similar in n
 			1. In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
 		4. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results))
 			1. In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
+
+## Licensing
+
+The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations. 
+
+The contents of this report are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

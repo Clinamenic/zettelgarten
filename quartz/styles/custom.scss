@@ -4,3 +4,19 @@
 @import "../components/styles/licenseinfo.scss";
 
 // put your custom CSS here!
+
+
+@font-face {
+    font-family: 'Geist Mono Regular';
+    src: url('GeistMono-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.test-box {
+    background-color: red;
+    border: 1px white solid;
+    border-radius: 10px;
+}
+
+
