@@ -178,7 +178,7 @@ a {
         flex-direction: row;
         padding: 0;
         width: initial;
-        margin-top: 2rem;
+        margin-top: 0rem;
       }
     }
 
@@ -207,7 +207,6 @@ a {
   & .page-footer {
     width: $pageWidth;
     margin-top: 1rem;
-
     @media all and (max-width: $fullPageWidth) {
       width: initial;
     }
@@ -216,11 +215,19 @@ a {
   & .page-header {
     margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
-      margin-top: 2rem;
     }
   }
 
-  & .center,
+  & .center {
+    margin-left: auto;
+    margin-right: auto;
+    width: $pageWidth;
+    @media all and (max-width: $fullPageWidth) {
+      width: initial;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
   & footer {
     margin-left: auto;
     margin-right: auto;
