@@ -2,7 +2,7 @@
 title: Clinamenic LLC
 publish: true
 keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
-hideGraph: true
+hideGraph: false
 hideTitle: true
 tags:
 ---
@@ -10,14 +10,14 @@ tags:
 <div class="text-box" style="padding-bottom: 2rem;">
   <div class="clinamenic-cube">
     <img
-      src="../../quartz/static/img/SSC Cube.gif"
+      src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC_Cube_Ivory.gif?raw=true"
       width="300px"
       height="300px"
       alt="Clinamenic Cube"
-      style="animation: fade-in 3s linear; "
+      style="animation: fade-in 3s ease-in;"
     />
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 2rem; font-weight: 300; letter-spacing: 1px; text-align: center;">Clinamenic LLC</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.75rem; font-weight: 300; letter-spacing: 1px; text-align: center;">Clinamenic LLC</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1rem; font-weight: 100; letter-spacing: 1px; text-align: center; font-style: italic; margin: 1rem 0rem;">the consultancy of</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1rem; font-weight: 200; text-align: center; font-style: normal;">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">

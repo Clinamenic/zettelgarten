@@ -34,5 +34,6 @@ export default ((opts?: ArticleTitleOptions) => {
   }
   `
 
+
   return ArticleTitle
 }) satisfies QuartzComponentConstructor
