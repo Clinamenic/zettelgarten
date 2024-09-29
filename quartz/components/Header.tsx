@@ -7,6 +7,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
 Header.css = `
 header {
   position: fixed;
+  height: 2rem;
   top: 0;
   left: calc((100vw - 750px) / 2);
   right: calc((100vw - 750px) / 2);
@@ -15,7 +16,7 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 15px;
+  padding: 0.75rem;
   gap: 1.5rem;
   border-top: 0px solid var(--dark);
   border-right: 1px solid var(--dark);

@@ -25,11 +25,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.AuthorName(),
     Component.PublishDate(),
-    Component.TagList(),
-    Component.Graph({
-      showGraph: (frontmatter) => !frontmatter.hideGraph,
-      // ... other graph options
-    }),
   ],
   left: [
     // Component.PageTitle(),
@@ -37,8 +32,13 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Search(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.TagList()),
   ],
   right: [
+    Component.Graph({
+      showGraph: (frontmatter) => !frontmatter.hideGraph,
+      // ... other graph options
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.LicenseInfo(),
