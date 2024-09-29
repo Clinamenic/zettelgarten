@@ -1,3 +1,7 @@
+* {
+  transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+}
+
 .darkmode {
   cursor: pointer;
   padding: 0;
@@ -14,8 +18,12 @@
     width: 20px;
     height: 20px;
     top: calc(50% - 10px);
-    fill: var(--darkgray);
+    fill: var(--gray);
     transition: opacity 0.1s ease;
+  }
+
+  & svg:hover {
+    fill: var(--dark);
   }
 }
 

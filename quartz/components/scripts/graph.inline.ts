@@ -259,7 +259,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         alpha = l.active ? 1 : 0.2
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
+      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--light"]
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -435,7 +435,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
-      color: computedStyleMap["--lightgray"],
+      color: computedStyleMap["--light"],
       alpha: 1,
       active: false,
     }
@@ -497,17 +497,23 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           [0, 0],
           [width, height],
         ])
-        .scaleExtent([0.25, 4])
+        .scaleExtent([0.5, 8])
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
-
-          // zoom adjusts opacity of labels too
+  
+          // Adjust these values to control when labels appear
+          const minZoom = 3 // Minimum zoom level for labels to start appearing
+          const maxZoom = 4 // Zoom level at which labels are fully visible
+  
+          // Calculate opacity based on zoom level
           const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
+          let scaleOpacity = Math.max((scale - minZoom) / (maxZoom - minZoom), 0)
+          scaleOpacity = Math.min(scaleOpacity, 1) // Ensure opacity doesn't exceed 1
+  
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
-
+  
           for (const label of labelsContainer.children) {
             if (!activeNodes.includes(label)) {
               label.alpha = scaleOpacity

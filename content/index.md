@@ -74,7 +74,7 @@ Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
   - [[Note 6#Archiving Unused Notes]]
   - [[Note 7#Alphanumeric Alternative-Base Ordering System]]
   - [[Note 9#Top-Level String]]
-  - [[Note 13#Spatial Repetition and Semantic Association]]
+  - [[Note 13#Spaced Repetition and Semantic Association]]
 - [[Note 2#Pace Layering]]
 - [[Note 8#Active Inference Applied to Organization Design]]
 - [[Note 10#Notes on Machiavelli's Discourses]]

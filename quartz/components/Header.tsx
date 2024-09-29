@@ -16,7 +16,7 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 0.75rem;
+  padding: 0.75rem 1.5rem;
   gap: 1.5rem;
   border-top: 0px solid var(--dark);
   border-right: 1px solid var(--dark);
@@ -24,12 +24,13 @@ header {
   border-bottom: 1px solid var(--dark);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
 }
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: calc(750px + 2rem)) {
   header {
     left: 1rem;
     right: 1rem;
+    justify-content: space-between;
   }
 }
 

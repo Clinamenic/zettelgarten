@@ -171,7 +171,7 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 2rem;
+      padding: 0 1.5rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -213,7 +213,7 @@ a {
   }
 
   & .page-header {
-    margin: 6rem auto 0 auto;
+    margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
     }
   }

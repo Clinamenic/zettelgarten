@@ -9,9 +9,10 @@
   & > .graph-outer {
     border-radius: 10px;
     border: 1px solid var(--dark);
+    background-color: var(--lightgray);
     box-sizing: border-box;
     height: 250px;
-    margin: 0.5em 0;
+    margin: 0 0;
     position: relative;
     overflow: hidden;
 
@@ -28,7 +29,7 @@
       margin: 0.3rem;
       top: 0;
       right: 0;
-      border-radius: 4px;
+      border-radius: 10px;
       background-color: transparent;
       transition: background-color 0.5s ease;
       cursor: pointer;
@@ -54,8 +55,8 @@
     }
 
     & > #global-graph-container {
-      border: 1px solid var(--lightgray);
-      background-color: var(--light);
+      border: 1px solid var(--dark);
+      background-color: var(--lightgray);
       border-radius: 5px;
       box-sizing: border-box;
       position: fixed;
