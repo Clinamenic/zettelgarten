@@ -10,10 +10,10 @@ tags:
 <div class="text-box" style="padding-bottom: 2rem;">
   <div class="clinamenic-cube">
     <img
-      src="https://raw.githubusercontent.com/Clinamenic/clinamenic.github.io/main/img/SSC%20Cube%20GIF%20TransBG.gif"
+      src="../../quartz/static/img/SSC Cube.gif"
       width="300px"
       height="300px"
-      alt="Clinamenic Cube GIF"
+      alt="Clinamenic Cube"
       style="animation: fade-in 3s linear; "
     />
   </div>

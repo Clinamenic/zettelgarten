@@ -11,7 +11,7 @@ header {
   left: calc((100vw - 750px) / 2);
   right: calc((100vw - 750px) / 2);
   z-index: 1000;
-  background-color: var(--light);
+  background-color: var(--lightgray);
   display: flex;
   flex-direction: row;
   align-items: center;
