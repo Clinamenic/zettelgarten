@@ -1,7 +1,7 @@
 footer {
   justify-content: center;
   text-align: center;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   background-color: var(--lightgray);
   border-top: 1px solid var(--dark);
   border-right: 1px solid var(--dark);
@@ -42,6 +42,7 @@ footer {
 }
 .nav-button:hover {
   background-color: var(--tertiary);
+  transition: all 0.1s;
 }
 .nav-button:active {
   background-color: var(--secondary);
