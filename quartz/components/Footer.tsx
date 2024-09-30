@@ -13,17 +13,24 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+
+        <div className="footer-section">
+          <div className="nav-button">
+            <a className="nav-link" href="https://warpcast.com/clinamenic">Farcaster</a>
+          </div>
+          <div className="nav-button">
+            <a className="nav-link" href="https://www.github.com/clinamenic">Github</a>
+          </div>
+          <div className="nav-button">
+            <a className="nav-link" href="https://www.x.com/clinamenic">Twitter</a>
+          </div>
+        </div>
+
+          <p>
+            {i18n(cfg.locale).components.footer.createdWith}{" "}
+            <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          </p>
+        
       </footer>
     )
   }

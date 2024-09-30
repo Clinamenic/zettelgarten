@@ -8,16 +8,16 @@
   position: relative;
   background: none;
   border: none;
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
   margin: 0 10px;
   text-align: inherit;
 
   & svg {
     position: absolute;
-    width: 20px;
-    height: 20px;
-    top: calc(50% - 10px);
+    width: 25px;
+    height: 25px;
+    top: 0;
     fill: var(--gray);
     transition: opacity 0.1s ease;
   }

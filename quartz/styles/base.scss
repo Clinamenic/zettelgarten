@@ -2,6 +2,71 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+/* Geist Mono Thin */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmQ5e6jXzTmgWFK4jpbr4eAfRFyqf922cfr6CkQMrj2PPg);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmQ5e6jXzTmgWFK4jpbr4eAfRFyqf922cfr6CkQMrj2PPg) format("opentype");
+  font-weight: 100;
+}
+/* Geist Mono Ultralight */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/Qma6K2ZE6Ch7K76xkHQ8NFZ4odzNMDmDc41pcUVMBdSNot);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/Qma6K2ZE6Ch7K76xkHQ8NFZ4odzNMDmDc41pcUVMBdSNot) format("opentype");
+  font-weight: 200;
+}
+/* Geist Mono Light */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmSY4bzyQNZ3XZWTDdJgMovgSyfdrm6fa2wE426kTfkuuN);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmSY4bzyQNZ3XZWTDdJgMovgSyfdrm6fa2wE426kTfkuuN) format("opentype");
+  font-weight: 300;
+}
+/* Geist Mono Regular */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmUManxUqYX4sd1R4TjBJbR19YsCaVt7gpqiiuxVb6ins3);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmUManxUqYX4sd1R4TjBJbR19YsCaVt7gpqiiuxVb6ins3) format("opentype");
+  font-weight: 400;
+}
+/* Geist Mono Medium */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmPrcRxMJ4wwR3UyKH91iFC7bgeEfJisW4CKSPS9FSdX4M);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmPrcRxMJ4wwR3UyKH91iFC7bgeEfJisW4CKSPS9FSdX4M) format("opentype");
+  font-weight: 500;
+}
+/* Geist Mono Semibold */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmcPEgkJ2sRz5oUzxeuGWYp7KRfrLktr1HmX7wzeEBv6c6);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmcPEgkJ2sRz5oUzxeuGWYp7KRfrLktr1HmX7wzeEBv6c6) format("opentype");
+  font-weight: 600;
+}
+/* Geist Mono Bold */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmXLsfAzuBZRLRSuxndV6YDng3xZcNWBuMo7kisDZhTmV3);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmXLsfAzuBZRLRSuxndV6YDng3xZcNWBuMo7kisDZhTmV3) format("opentype");
+  font-weight: 700;
+}
+/* Geist Mono Black */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmSVHJB1cNPr7j3tm3rZHhEVZnAvmaojL3RPAE6Zy7jYqk);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmSVHJB1cNPr7j3tm3rZHhEVZnAvmaojL3RPAE6Zy7jYqk) format("opentype");
+  font-weight: 800;
+}
+/* Geist Mono Ultrablack */
+@font-face {
+  font-family: "GeistMono";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmZFtLSb3WzJUy8oy3t49iU6MCnsVynKFJmwJcKPGZBbP7);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmZFtLSb3WzJUy8oy3t49iU6MCnsVynKFJmwJcKPGZBbP7) format("opentype");
+  font-weight: 900;
+}
+
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -9,14 +74,22 @@ html {
   width: 100vw;
 }
 
-body,
+body {
+  margin: 0;
+  max-width: 100%;
+  font-weight: 200;
+  box-sizing: border-box;
+  background-color: var(--light);
+  font-family: "GeistMono";
+  color: var(--darkgray);
+}
 section {
   margin: 0;
   max-width: 100%;
   font-weight: 200;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: "GeistMono";
   color: var(--darkgray);
 }
 
@@ -291,7 +364,7 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: "GeistMono";
   color: var(--dark);
   font-weight: 700;
   margin-bottom: 0;
