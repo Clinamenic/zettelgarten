@@ -14,16 +14,22 @@ const PublishDate: QuartzComponent = ({ cfg, fileData }) => {
   }
 
   const formatDate = (date: Date): string => {
-    return date.toLocaleDateString(cfg.locale, {
+    const formattedDate = date.toLocaleDateString(cfg.locale, {
       year: 'numeric',
       month: 'long',
       day: 'numeric'
     })
+    
+    // Split the formatted date string
+    const [month, day, year] = formattedDate.split(' ')
+    
+    // Capitalize the month and reconstruct the date string
+    return `${month.toUpperCase()} ${day} ${year}`
   }
 
   return (
     <div className="publish-date quartz-publish-date">
-      Published on{" "}
+      PUBLISHED ON{" "}
       <time dateTime={date.toISOString()}>{formatDate(date)}</time>
     </div>
   )

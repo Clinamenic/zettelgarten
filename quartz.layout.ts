@@ -9,7 +9,14 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
-  afterBody: [],
+  afterBody: [
+    Component.TagList(),
+    Component.Graph({
+      showGraph: (frontmatter) => !frontmatter.hideGraph,
+      // ... other graph options
+    }),
+    Component.LicenseInfo(),
+  ],
   footer: Component.Footer({
     links: {
       // Your footer links here
@@ -32,32 +39,21 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Search(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.TagList()),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    Component.Graph({
-      showGraph: (frontmatter) => !frontmatter.hideGraph,
-      // ... other graph options
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-    Component.LicenseInfo(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(), 
+    // Component.Breadcrumbs(), 
     Component.ArticleTitle(), 
-    Component.ContentMeta(),
-    Component.Graph(),
+    // Component.ContentMeta(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [

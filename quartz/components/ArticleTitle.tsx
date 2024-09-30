@@ -29,8 +29,8 @@ export default ((opts?: ArticleTitleOptions) => {
 
   ArticleTitle.css = `
   .article-title {
-    padding: 0rem;
-    margin-top: 0.5rem;
+    padding: 1rem 0rem;
+    margin-top: 0rem;
     text-align: center;
   }
   `

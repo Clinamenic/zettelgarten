@@ -31,7 +31,7 @@ TagList.css = `
 .tags-container {
   overflow-x: auto;
   padding: 0.5rem 0;
-  margin: 0.5rem 0;
+  margin: 0rem 0;
 }
 
 .tags {
