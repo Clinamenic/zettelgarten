@@ -1,7 +1,13 @@
 footer {
+  position: relative;
   justify-content: center;
   text-align: center;
   padding-bottom: 1rem;
+  bottom: 0;
+  margin-top: -124px;
+  width: calc(750px - 3rem);
+  left: 1.5rem;
+  right: 1.5rem;
   background-color: var(--lightgray);
   border-top: 1px solid var(--dark);
   border-right: 1px solid var(--dark);
@@ -9,6 +15,18 @@ footer {
   border-bottom: 0px solid var(--dark);
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+
+  @media only screen and (min-width: 1510px) {
+    width: 750px;
+    left: 0rem;
+    right: 0rem; 
+  }
+
+  @media only screen and (max-width: calc(750px + 2rem)) {
+    width: 100%;
+    left: 0rem;
+    right: 0rem;
+  }
 
   & ul {
     justify-content: space-between;
@@ -21,6 +39,8 @@ footer {
     margin-top: -1rem;
   }
 }
+
+
 
 .nav-link {
   margin: 0rem;

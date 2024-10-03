@@ -140,11 +140,11 @@ The utilization of blockchain and related technologies for funding public goods 
 
 ### 2.1 - Active Experiments
 
-Text here
+The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate donations and allocate funding to public goods. Arguably the primary purpose of the usage of smart contracts in this capacity is to uphold high standards of financial transparency while minimizing unnecessary administrative and bureaucratic burden. As we will see in the section on challenges, there remain significant obstacles 
 
-#### Quadratic and Direct Funding
+#### Quadratic and Direct Funding Rounds
 
-Text here
+The major in the onchain philanthropy sector is the usage of 
 
 #### Retroactive Public Goods Funding
 
@@ -209,7 +209,15 @@ Text here
 
 #### Promotional Overhead
 
-Text here
+In some of the more participatory and community-driven grant programs, such as quadratic funding rounds, grantees are expected to undertake some degree of promotional work to receive donations from their community and other surrounding donor bases. 
+
+Similar to more traditional donation campaigns, this promotional work primarily serves to increase grantee's exposure to the wider potential donor base. However, in the case of quadratic funding rounds and similarly participatory grant programs, this promotional work also serves to increase exposure to the other grantees in the round, as well as any institution involved in operating or funding the grant round. 
+
+For example, it is common practice during quadratic funding rounds for grantees of a given round to join some number of twitter spaces, usually hosted by the institution operating the ground round. During these twitter spaces, grantees take turns describing to listeners the nature of their project, and encouraging listeners to donate. The tone of these twitter spaces is usually highly cooperative and cross-promotional, with grantees often promoting one another's projects.
+
+Depending on the size of the audience, as well as other technical factors, grantees may or may not receive additional donations as a result of these promotional efforts. That is, this promotional work does not always prove worthwhile for the grantees. 
+
+#insert-more
 
 #### Reporting Burden
 

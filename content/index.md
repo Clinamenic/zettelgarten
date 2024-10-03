@@ -17,15 +17,15 @@ tags:
       style="animation: fade-in 3s ease-in;"
     />
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.75rem; font-weight: 300; letter-spacing: 1px; text-align: center;">Clinamenic LLC</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1rem; font-weight: 100; letter-spacing: 1px; text-align: center; font-style: italic; margin: 1rem 0rem;">the consultancy of</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1rem; font-weight: 200; text-align: center; font-style: normal;">S P E N C E R</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.5rem; font-weight: 400; letter-spacing: 1px; text-align: center;">Clinamenic LLC</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 100; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem;">the consultancy of</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal;">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">
-    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 1rem; font-weight: 200; text-align: center; position: relative; font-style: normal;">S&nbsp;&nbsp;&nbsp;</p>
-    <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 1rem; font-weight: 200; text-align: center; position: relative; font-style: normal;">A&nbsp;&nbsp;&nbsp;A</p>
-    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 1rem; font-weight: 200; text-align: center; position: relative; font-style: normal;">&nbsp;&nbsp;&nbsp;R</p>
+    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal;">S&nbsp;&nbsp;&nbsp;</p>
+    <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal;">A&nbsp;&nbsp;&nbsp;A</p>
+    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal;">&nbsp;&nbsp;&nbsp;R</p>
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1rem; font-weight: 200; text-align: center; font-style: normal;">C A V A N A U G H</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal;">C A V A N A U G H</p>
 </div>
 
 Welcome to the zettelgarten of Spencer Saar Cavanaugh, a curated externalization of an internal knowledge management system.

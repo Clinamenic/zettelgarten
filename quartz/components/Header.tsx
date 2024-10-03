@@ -56,8 +56,8 @@ header {
   position: fixed;
   height: 2rem;
   top: 0;
-  left: calc((100vw - 750px) / 2);
-  right: calc((100vw - 750px) / 2);
+  left: calc(((100vw - 750px) / 2) + 1.5rem);
+  right: calc(((100vw - 750px) / 2) + 1.5rem);
   z-index: 1000;
   background-color: var(--lightgray);
   display: flex;
@@ -76,12 +76,14 @@ header {
 }
 
 header svg {
-  fill: var(--gray);
-  transition: all 0.1s ease;
+  fill: var(--dark);
 }
 
-header svg:hover {
-  fill: var(--dark);
+@media only screen and (min-width: 1510px) {
+  header {
+    left: calc((100vw - 750px) / 2);
+    right: calc((100vw - 750px) / 2);
+  }
 }
 
 @media only screen and (max-width: calc(750px + 2rem)) {

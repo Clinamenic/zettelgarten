@@ -18,13 +18,10 @@
     width: 25px;
     height: 25px;
     top: 0;
-    fill: var(--gray);
+    fill: var(--dark);
     transition: opacity 0.1s ease;
   }
 
-  & svg:hover {
-    fill: var(--dark);
-  }
 }
 
 :root[saved-theme="dark"] {

@@ -79,9 +79,12 @@ body {
   max-width: 100%;
   font-weight: 200;
   box-sizing: border-box;
-  background-color: var(--light);
+  background-color: var(--lightgray);
   font-family: "GeistMono";
   color: var(--darkgray);
+  @media only screen and (max-width: calc(750px + 2rem)) { 
+    background-color: var(--light);
+  }
 }
 section {
   margin: 0;
@@ -292,21 +295,29 @@ a {
   }
 
   & .center {
+    position: relative;
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
+    padding: 0rem 1.5rem 7rem 1.5rem;
+    background-color: var(--light);
+    border-left: 1px solid var(--dark);
+    border-right: 1px solid var(--dark);
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
       margin-right: 0;
     }
+    @media only screen and (max-width: calc(750px + 2rem)) {
+      padding: 0rem 0rem 10rem 0rem;
+      border-left: 0px solid var(--dark);
+      border-right: 0px solid var(--dark);
+    }
   }
   & footer {
     margin-left: auto;
     margin-right: auto;
-    width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {
-      width: initial;
       margin-left: 0;
       margin-right: 0;
     }
@@ -609,7 +620,7 @@ ol.overflow {
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    background: linear-gradient(transparent 0px, var(--lightgray));
   }
 }
 
