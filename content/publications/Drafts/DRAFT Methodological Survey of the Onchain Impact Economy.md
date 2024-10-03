@@ -4,13 +4,14 @@ author URL: https://www.clinamenic.com
 title: DRAFT Methodological Survey of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
 draft started: 0024-06-28
-date published: 
+date published:
 license: CC BY-SA 4.0
 sponsor(s): LexDAO, SuperBenefitDAO
-arweave hash: 
+arweave hash:
 publish: true
 tags:
 ---
+
 ## Index
 
 Text here
@@ -74,9 +75,9 @@ Platforms, such as Gmail, are usually apps intended for users to engage with, wh
 
 Most of the time, users engage with these protocols through platforms, i.e. the platform creates a user-friendly environment for people to leverage the underlying capabilities of the protocols. Gmail creates a relatively simple and accessible way for people to use SMTP without requiring them to be a programmer. Broadly speaking, if not for these platforms, only highly technical individuals would be able to use the internet.
 
-A key aspect of the nascent coordination paradigm under consideration is the potential to couch the actual mechanisms of coordination within the protocol layer, rather then restricting them to the platform level, which usually involves centralized administration by companies with profit-maximizing imperatives which are not always incentivized to maintain digital public infrastructure as such. Much of this can be understood in terms of capture-resistant technology (Graham, 2022). 
+A key aspect of the nascent coordination paradigm under consideration is the potential to couch the actual mechanisms of coordination within the protocol layer, rather then restricting them to the platform level, which usually involves centralized administration by companies with profit-maximizing imperatives which are not always incentivized to maintain digital public infrastructure as such. Much of this can be understood in terms of capture-resistant technology (Graham, 2022).
 
-This engineering constraint is intended to distinguish digital public goods from digital private goods, because while they each need sustainable funding, the manners by which each can be viably funded are different. If we are to build digital public infrastructure using this technology, there is a strong argument to be made that, at the protocol level, the solutions themselves need to be distributed and resistant to capture. 
+This engineering constraint is intended to distinguish digital public goods from digital private goods, because while they each need sustainable funding, the manners by which each can be viably funded are different. If we are to build digital public infrastructure using this technology, there is a strong argument to be made that, at the protocol level, the solutions themselves need to be distributed and resistant to capture.
 
 #### 'Digital Public Infrastructure'
 
@@ -108,25 +109,25 @@ Using attestations, individuals can make claims and reference the claims of othe
 
 #### Allo Protocol & Grants Stack
 
-[Allo Protocol](https://docs.allo.gitcoin.co/) is a framework for constructing custom funding allocation processes. Specifically this framework enables the configuration of certain processes, such as how funds are collected into a pool, how recipients are approved, and how funds are disbursed. 
+[Allo Protocol](https://docs.allo.gitcoin.co/) is a framework for constructing custom funding allocation processes. Specifically this framework enables the configuration of certain processes, such as how funds are collected into a pool, how recipients are approved, and how funds are disbursed.
 
 One example of an implementation of Allo Protocol is [Grants Stack](https://www.gitcoin.co/grants-stack), which can be described as an off-the-shelf customizable grant-making program. An institution or community can operate a grant program using Grants Stack, which allows them to pool funds, field and approve grantee applications, determine the precise allocation of the funding pool to the grantees, and disburse this funding. This entire process unfolds publicly onchain, according to the underlying mechanisms of Allo Protocol<sup>2</sup>. Further implementation nuances of Grants Stack will be explored in a later section.
 
 #### Grantee Accountability Protocol
 
-[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is an onchain protocol and application built using EAS, specifically geared around accountability, impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. Upon completion of work, they share their work along with proof, all of which are recorded on chain. 
+[Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is an onchain protocol and application built using EAS, specifically geared around accountability, impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. Upon completion of work, they share their work along with proof, all of which are recorded on chain.
 
-The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits<sup>3</sup>, albeit in a more granular peer-to-peer fashion. 
+The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits<sup>3</sup>, albeit in a more granular peer-to-peer fashion.
 
 While GAP provides specialized infrastructure for onchain impact reporting and assessment, there remains work to be done in the area of standardization and ontology. This matter will be explored in a later section of this inquiry.
 
 #### Additional Examples
 
-In addition to the various platforms and protocols highlighted above, there are various other examples of onchain infrastructure. These smart contracts can be understood as components for designing onchain organizations (Cavanaugh, 2023). The following examples, as those provided above, qualify as public goods insofar as they are free and inexhaustible, but that does not necessarily extend  
+In addition to the various platforms and protocols highlighted above, there are various other examples of onchain infrastructure. These smart contracts can be understood as components for designing onchain organizations (Cavanaugh, 2023). The following examples, as those provided above, qualify as public goods insofar as they are free and inexhaustible, but that does not necessarily extend
 
 [0xSplits](https://docs.splits.org/) and [Drips](https://docs.drips.network/) are smart contracts which can facilitate targeted fund distribution, with incoming funds divided among recipients according to a specified breakdown.
 
-[Hats Protocol](https://www.hatsprotocol.xyz/) is a distributed role and permissions management protocol, which lends itself to centralized and decentralized oversight of organizational hierarchy. 
+[Hats Protocol](https://www.hatsprotocol.xyz/) is a distributed role and permissions management protocol, which lends itself to centralized and decentralized oversight of organizational hierarchy.
 
 [Ethereum Name Service](https://ens.domains/) (ENS) is an Ethereum-based domain registry and protocol, allowing users to resolve human-readable domain names to their account addresses.
 
@@ -134,17 +135,17 @@ In addition to the various platforms and protocols highlighted above, there are 
 
 ## Section 2 - Experiments & Challenges
 
-Having secured some measure of orientation, we will now advance to address the various experiments active in this ecosystem, and the challenges they encounter. 
+Having secured some measure of orientation, we will now advance to address the various experiments active in this ecosystem, and the challenges they encounter.
 
-The utilization of blockchain and related technologies for funding public goods is still a novel and radical phenomenon, constituting a movement in its own right. Over the last several years, this experimental infrastructure has enabled several novel funding mechanisms, which will be examined later in this section, and has distributed over $150 million dollars in public goods funding, to date<sup>5</sup>. 
+The utilization of blockchain and related technologies for funding public goods is still a novel and radical phenomenon, constituting a movement in its own right. Over the last several years, this experimental infrastructure has enabled several novel funding mechanisms, which will be examined later in this section, and has distributed over $150 million dollars in public goods funding, to date<sup>5</sup>.
 
 ### 2.1 - Active Experiments
 
-The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate donations and allocate funding to public goods. Arguably the primary purpose of the usage of smart contracts in this capacity is to uphold high standards of financial transparency while minimizing unnecessary administrative and bureaucratic burden. As we will see in the section on challenges, there remain significant obstacles 
+The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate donations and allocate funding to public goods. Arguably the primary purpose of the usage of smart contracts in this capacity is to uphold high standards of financial transparency while minimizing unnecessary administrative and bureaucratic burden. As we will see in the section on challenges, there remain significant obstacles which these experiments face as they attempt to scale.
 
 #### Quadratic and Direct Funding Rounds
 
-The major in the onchain philanthropy sector is the usage of 
+The major in the onchain philanthropy sector is the usage of
 
 #### Retroactive Public Goods Funding
 
@@ -209,13 +210,13 @@ Text here
 
 #### Promotional Overhead
 
-In some of the more participatory and community-driven grant programs, such as quadratic funding rounds, grantees are expected to undertake some degree of promotional work to receive donations from their community and other surrounding donor bases. 
+In some of the more participatory and community-driven grant programs, such as quadratic funding rounds, grantees are expected to undertake some degree of promotional work to receive donations from their community and other surrounding donor bases.
 
-Similar to more traditional donation campaigns, this promotional work primarily serves to increase grantee's exposure to the wider potential donor base. However, in the case of quadratic funding rounds and similarly participatory grant programs, this promotional work also serves to increase exposure to the other grantees in the round, as well as any institution involved in operating or funding the grant round. 
+Similar to more traditional donation campaigns, this promotional work primarily serves to increase grantee's exposure to the wider potential donor base. However, in the case of quadratic funding rounds and similarly participatory grant programs, this promotional work also serves to increase exposure to the other grantees in the round, as well as any institution involved in operating or funding the grant round.
 
 For example, it is common practice during quadratic funding rounds for grantees of a given round to join some number of twitter spaces, usually hosted by the institution operating the ground round. During these twitter spaces, grantees take turns describing to listeners the nature of their project, and encouraging listeners to donate. The tone of these twitter spaces is usually highly cooperative and cross-promotional, with grantees often promoting one another's projects.
 
-Depending on the size of the audience, as well as other technical factors, grantees may or may not receive additional donations as a result of these promotional efforts. That is, this promotional work does not always prove worthwhile for the grantees. 
+Depending on the size of the audience, as well as other technical factors, grantees may or may not receive additional donations as a result of these promotional efforts. That is, this promotional work does not always prove worthwhile for the grantees.
 
 #insert-more
 
@@ -286,22 +287,21 @@ Text here
 
 ‌
 
-
 ## Appendix on Grant Volume
 
 1. See the following reports:
-	1. Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
-	2. Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
-		1. Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)). 
-		2. Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)).
-			1. In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%. 
-		3. Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA))
-			1. In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
-		4. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results))
-			1. In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
+   1. Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
+   2. Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
+      1. Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
+      2. Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)).
+         1. In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
+      3. Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA))
+         1. In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+      4. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results))
+         1. In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
 
 ## Licensing
 
-The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations. 
+The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations.
 
 The contents of this report are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
