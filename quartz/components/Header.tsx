@@ -50,10 +50,10 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
     {children}
     <button id="global-graph-icon" aria-label="Global Graph" style="background: transparent; border: 0px; cursor: pointer; padding: 1px 0px 1px 0px;">
     <svg width="26px" height="26px" viewBox="0 0 24 24" fill="transparent" xmlns="http://www.w3.org/2000/svg" style="padding: 0px 2px 0px 2px">
-      <circle cx="18" cy="5" r="3" stroke="var(--dark)" stroke-width="2"/>
-      <circle cx="18" cy="19" r="3" stroke="var(--dark)" stroke-width="2"/>
-      <circle cx="6" cy="12" r="3" stroke="var(--dark)" stroke-width="2"/>
-      <path d="M15.408 6.51199L8.59436 10.4866M15.408 17.488L8.59436 13.5134" stroke="var(--dark)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="18" cy="5" r="3" stroke="var(--dark)" stroke-width="1.5" fill="none"/>
+      <circle cx="18" cy="19" r="3" stroke="var(--dark)" stroke-width="1.5" fill="none"/>
+      <circle cx="6" cy="12" r="3" stroke="var(--dark)" stroke-width="1.5" fill="none"/>
+      <path d="M15.408 6.51199L8.59436 10.4866M15.408 17.488L8.59436 13.5134" stroke="var(--dark)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </button>
 
@@ -65,8 +65,8 @@ header {
   position: fixed;
   height: 2rem;
   top: 0;
-  left: calc(((100vw - 750px) / 2) + 1.5rem);
-  right: calc(((100vw - 750px) / 2) + 1.5rem);
+  left: calc(((100vw - 748px) / 2) + 1.5rem);
+  right: calc(((100vw - 748px) / 2) + 1.5rem);
   z-index: 1000;
   background-color: var(--lightgray);
   display: flex;
