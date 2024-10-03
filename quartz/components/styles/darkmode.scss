@@ -15,8 +15,9 @@
 
   & svg {
     position: absolute;
-    width: 25px;
-    height: 25px;
+    width: 26px;
+    height: 26px;
+    padding: 0px 2px 0px 2px;
     top: 0;
     fill: var(--dark);
     transition: opacity 0.1s ease;
