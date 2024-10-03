@@ -76,7 +76,13 @@
   background-color: var(--tertiary);
 }
 .gallery-tile-exp .body-p {
-  font-size: 0.75rem !important;
+  font-size: 0.70rem !important;
+  line-height: 20px;
+  margin: 0rem;
+  padding: 0rem;
+  color: white !important;
+}
+.gallery-tile-exp:hover .body-p {
   color: black !important;
 }
 .gallery-tile-exp img {

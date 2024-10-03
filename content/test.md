@@ -7,18 +7,7 @@ hideTitle: true
 tags:
 ---
 
-<div class="text-box" style="padding: 0px">
-  <h2 class="h2">EXPERIENCE</h2>
-  <div class="experience-box">
-    <div class="client-tile" style="width: 150px;">
-      <img
-        src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmW14vYxLFSCTwfHBA3x1aNz5hxXxnXBv7rTozTnKnnJS4"
-        style="width: 50px; height: 50px; "
-        alt="JournoDAO"
-      />
-    </div>
-  </div>
-</div>
+<h2 style="text-align: center;">Experience</h2>
 
 <div class="gallery4" style="padding: 1rem 0rem 0rem 0rem">
 
