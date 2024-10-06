@@ -1,8 +1,9 @@
 ---
 title: 
+item type: Reference Note
+reference: "[[Keynes_GeneralTheory]]"
 Date: ""
 author: Spencer Saar Cavanaugh
-reference: 
 publish: true
 tags:
 ---

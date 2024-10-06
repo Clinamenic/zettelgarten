@@ -10,4 +10,4 @@ In this section, Keynes elaborates on how labor collectively resists decreases i
 
 #note/keynes/general-theory/question Is this because decreases in real wages tend to correlate with increases in employment, which can be understood in terms of an increase in the marginal utility of labor?
 
-- Potential answer: [[r-JK-GT 10]]
+- Potential answer: [[r-JK-GT-10]]

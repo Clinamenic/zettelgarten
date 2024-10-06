@@ -17,18 +17,18 @@ tags: []
 - BOOK I: INTRODUCTION
   - Chapter 1: The General Theory
   - Chapter 2: The Postulates of the Classical Economics
-    - [[#Chapter 2, Section I]] {Summary: [[r-JK-GT 4]]}
-	    - {Notes: [[r-JK-GT 1]], }
-    - [[#Chapter 2, Section II]] {Summary: [[r-JK-GT 5]]}
-	    - {Notes: [[r-JK-GT 2]], [[r-JK-GT 3]], }
-    - [[#Chapter 2, Section III]] {Summary: [[r-JK-GT 8]]}
-	    - {Notes: [[r-JK-GT 6]], [[r-JK-GT 7]], }
-    - [[#Chapter 2, Section IV]] {Summary: [[r-JK-GT 9]]}
-    - [[#Chapter 2, Section V]] {Summary: [[r-JK-GT 10]]}
-    - [[#Chapter 2, Section VI]] {Summary: [[r-JK-GT 11]]}
-    - [[#Chapter 2, Section VII]] {Summary: [[r-JK-GT 12]]}
+    - [[#Chapter 2, Section I]] {Summary: [[r-JK-GT-4]]}
+	    - {Notes: [[r-JK-GT-1]], }
+    - [[#Chapter 2, Section II]] {Summary: [[r-JK-GT-5]]}
+	    - {Notes: [[r-JK-GT-2]], [[r-JK-GT-3]], }
+    - [[#Chapter 2, Section III]] {Summary: [[r-JK-GT-8]]}
+	    - {Notes: [[r-JK-GT-6]], [[r-JK-GT-7]], }
+    - [[#Chapter 2, Section IV]] {Summary: [[r-JK-GT-9]]}
+    - [[#Chapter 2, Section V]] {Summary: [[r-JK-GT-10]]}
+    - [[#Chapter 2, Section VI]] {Summary: [[r-JK-GT-11]]}
+    - [[#Chapter 2, Section VII]] {Summary: [[r-JK-GT-12]]}
   - Chapter 3: The Principle of Effective Demand
-    - [[#Chapter 3, Section I]] {Summary: [[r-JK-GT 15]]}
+    - [[#Chapter 3, Section I]] {Summary: [[r-JK-GT-15]]}
     - [[#Chapter 3, Section II]] {Summary: }
     - [[#Chapter 3, Section III]] {Summary: }
 - BOOK II: DEFINITIONS AND IDEAS
@@ -251,5 +251,45 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 
 
 
-## Selected passages
 
+## Selected Passages
+## AI Prompts
+
+### Oct 5, 2024
+
+#### Prompt 1
+
+Given the following chapter from Keynes' general theory, can you help me understand a few points? 
+
+![[Keynes_GeneralTheory#Chapter 18, Section II]]
+
+
+1. First of all, can you explain what the term 'wage-unit' means in this context? Does it mean the unit of purchasing power afforded to a corresponding man-hour of a given category of labor? If so, what is the different between the 'wage-unit' and the 'real wage'? 
+2. Can you help me understand the distinction between the investment multiplier and the employment multiplier? Does the latter refer to the ramifications of an increment in investment upon aggregate income? 
+3. Is it accurate to say that the practical aim of the general theory is to identify the key factors of the economy which the state (qua monetary and fiscal authority) can control to jointly maximize employment and national income?
+
+#### Response 1
+
+Based on the chapter you've provided and the search results, I can help clarify these points:
+
+1. Wage-unit:  
+    The wage-unit in Keynes' theory is indeed related to labor, but it's not exactly the same as the purchasing power of a man-hour. It's a unit of measurement Keynes used to express various economic quantities in terms of labor. Specifically:
+
+- The wage-unit is the money wage of a unit of labor time (e.g., an hour of unskilled labor).
+- It's used to measure economic variables in terms of labor rather than money, helping to isolate real economic changes from monetary phenomena.
+- The difference between the wage-unit and the real wage is that the real wage represents the purchasing power of wages, while the wage-unit is a unit of account based on nominal wages.
+
+2. Investment multiplier vs. Employment multiplier:
+
+- The investment multiplier refers to the ratio between an increment in investment and the corresponding increment in aggregate income.
+- The employment multiplier, in this context, appears to be the ratio between an increment in investment and the corresponding increment in employment.
+- Keynes suggests, as a first approximation, that these multipliers might be equal, meaning that the effect of investment on income would translate proportionally to employment.
+
+3. Aim of the General Theory:  
+    Your interpretation is largely correct. Keynes was indeed focused on identifying key economic factors that could be influenced by policy to improve economic outcomes. Specifically:
+
+- The theory aims to understand how employment, interest rates, and money interact to determine economic output.
+- It suggests that government intervention through fiscal and monetary policy can help stabilize the economy and reduce unemployment.
+- The goal is not just to maximize employment and national income, but to achieve a more stable and equitable economic system.
+
+Keynes' approach was revolutionary in suggesting that economies were not self-correcting and that government intervention could be beneficial, contrasting with the prevailing classical economic theories of his time.

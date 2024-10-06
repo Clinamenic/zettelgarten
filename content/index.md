@@ -67,20 +67,20 @@ Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
 
 ## Note Index
 
-- [[Note 1#Notetaking Methodology]]
-  - [[Note 3#Logging Tasks]]
-  - [[Note 4#Parallel Drafting]]
-  - [[Note 5#Note Quotas]]
-  - [[Note 6#Archiving Unused Notes]]
-  - [[Note 7#Alphanumeric Alternative-Base Ordering System]]
-  - [[Note 9#Top-Level String]]
-  - [[Note 13#Spaced Repetition and Semantic Association]]
-- [[Note 2#Pace Layering]]
-- [[Note 8#Active Inference Applied to Organization Design]]
-- [[Note 10#Notes on Machiavelli's Discourses]]
+- [[g-1#Notetaking Methodology]]
+  - [[g-3#Logging Tasks]]
+  - [[g-4#Parallel Drafting]]
+  - [[g-5#Note Quotas]]
+  - [[g-6#Archiving Unused Notes]]
+  - [[g-7#Alphanumeric Alternative-Base Ordering System]]
+  - [[g-9#Top-Level String]]
+  - [[g-13#Spaced Repetition and Semantic Association]]
+- [[g-2#Pace Layering]]
+- [[g-8#Active Inference Applied to Organization Design]]
+- [[g-10#Notes on Machiavelli's Discourses]]
 
-  - [[Note 11]]
-  - [[Note 12]]
+  - [[g-11]]
+  - [[g-12]]
 
   <h2 style="text-align: center;">Experience</h2>
 
