@@ -10,11 +10,6 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
   ],
   afterBody: [
-    Component.TagList(),
-    Component.Graph({
-      showGraph: (frontmatter) => !frontmatter.hideGraph,
-      // ... other graph options
-    }),
     Component.LicenseInfo(),
   ],
   footer: Component.Footer({
@@ -33,6 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.AuthorName(),
     Component.PublishDate(),
+    Component.TagList(),
   ],
   left: [
     // Component.PageTitle(),
@@ -41,9 +37,27 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
-    Component.DesktopOnly(Component.Backlinks()),
+    Component.Graph({
+      showGraph: (frontmatter) => !frontmatter.hideGraph,
+      // ... other graph options
+    }),
+    Component.DesktopOnly(Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'clinamenic/zettelgarten',
+        // from data-repo-id
+        repoId: 'R_kgDOMqLVgA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMqLVgM4CjP31',
+      },
+      showComments: (frontmatter) => !frontmatter.hideComments,
+    })),
   ],
 }
 

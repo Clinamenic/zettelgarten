@@ -180,3 +180,8 @@ tags:
 </div>
 
 </div>
+
+## References
+
+::: {#refs}
+:::

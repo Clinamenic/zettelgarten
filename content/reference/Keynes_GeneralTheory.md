@@ -1,7 +1,7 @@
 ---
 title: The General Theory of Employment, Interest and Money
 author: John Maynard Keynes
-Secondary Author(s): 
+Secondary Author(s):
 Year: "1936"
 Attached Text: "[[Keynes_GeneralTheory_PDF.pdf]]"
 publish: true
@@ -9,163 +9,161 @@ tags:
   - text
 ---
 
-# The General Theory of Employment, Interest and Money
-
-## Index
+## Table of Contents
 
 - Introductory Materials
-  - [[#GENERAL INTRODUCTION]]
-  - [[#PREFACE TO THE ENGLISH EDITION]]
-  - [[#PREFACE TO THE GERMAN EDITION]]
-  - [[#PREFACE TO THE JAPANESE EDITION]]
-  - [[#PREFACE TO THE FRENCH EDITION]]
+  - GENERAL INTRODUCTION
+  - PREFACE TO THE ENGLISH EDITION
+  - PREFACE TO THE GERMAN EDITION
+  - PREFACE TO THE JAPANESE EDITION
+  - PREFACE TO THE FRENCH EDITION
 - BOOK I: INTRODUCTION
   - Chapter 1: The General Theory
   - Chapter 2: The Postulates of the Classical Economics
-    - [[#Chapter 2, Section I]]
-    - [[#Chapter 2, Section II]]
-    - [[#Chapter 2, Section III]]
-    - [[#Chapter 2, Section IV]]
-    - [[#Chapter 2, Section V]]
-    - [[#Chapter 2, Section VI]]
-    - [[#Chapter 2, Section VII]]
+    - Chapter 2, Section I
+    - Chapter 2, Section II
+    - Chapter 2, Section III
+    - Chapter 2, Section IV
+    - Chapter 2, Section V
+    - Chapter 2, Section VI
+    - Chapter 2, Section VII
   - Chapter 3: The Principle of Effective Demand
-    - [[#Chapter 3, Section I]] {Summary: }
-    - [[#Chapter 3, Section II]] {Summary: }
-    - [[#Chapter 3, Section III]] {Summary: }
+    - Chapter 3, Section I
+    - Chapter 3, Section II
+    - Chapter 3, Section III
 - BOOK II: DEFINITIONS AND IDEAS
   - Chapter 4: The Choice of Units
-    - [[#Chapter 4, Section I]] {Summary: }
-    - [[#Chapter 4, Section II]] {Summary: }
-    - [[#Chapter 4, Section III]] {Summary: }
-    - [[#Chapter 4, Section IV]] {Summary: }
+    - Chapter 4, Section I
+    - Chapter 4, Section II
+    - Chapter 4, Section III
+    - Chapter 4, Section IV
   - Chapter 5: Expectations as Determining Output and Employment
-    - [[#Chapter 5, Section I]] {Summary: }
-    - [[#Chapter 5, Section II]] {Summary: }
+    - Chapter 5, Section I
+    - Chapter 5, Section II
   - Chapter 6: The Definition of Income Saving and Investment
-    - [[#Chapter 6, Section I. Income]] {Summary: }
-    - [[#Chapter 6, Section II. Saving and Investment]] {Summary: }
+    - Chapter 6, Section I. Income
+    - Chapter 6, Section II. Saving and Investment
   - Chapter 6a: Appendix on User Cost
-    - [[#Chapter 6a, Section I]] {Summary: }
-    - [[#Chapter 6a, Section II]] {Summary: }
-    - [[#Chapter 6a, Section III]] {Summary: }
-    - [[#Chapter 6a, Section IV]] {Summary: }
+    - Chapter 6a, Section I
+    - Chapter 6a, Section II
+    - Chapter 6a, Section III
+    - Chapter 6a, Section IV
   - Chapter 7: The Meaning of Saving and Investment Further Considered
-    - [[#Chapter 7, Section I]] {Summary: }
-    - [[#Chapter 7, Section II]] {Summary: }
-    - [[#Chapter 7, Section III]] {Summary: }
-    - [[#Chapter 7, Section IV]] {Summary: }
-    - [[#Chapter 7, Section V]] {Summary: }
+    - Chapter 7, Section I
+    - Chapter 7, Section II
+    - Chapter 7, Section III
+    - Chapter 7, Section IV
+    - Chapter 7, Section V
 - BOOK III: THE PROPENSITY TO CONSUME
   - Chapter 8: The Propensity to Consume I: The Objective Factors
-    - [[#Chapter 8, Section I]] {Summary: }
-    - [[#Chapter 8, Section II]] {Summary: }
-    - [[#Chapter 8, Section III]] {Summary: }
-    - [[#Chapter 8, Section IV]] {Summary: }
+    - Chapter 8, Section I
+    - Chapter 8, Section II
+    - Chapter 8, Section III
+    - Chapter 8, Section IV
   - Chapter 9: The Propensity to Consume II: The Subjective Factors
-    - [[#Chapter 9, Section I]] {Summary: }
-    - [[#Chapter 9, Section II]] {Summary: }
+    - Chapter 9, Section I
+    - Chapter 9, Section II
   - Chapter 10: The Marginal Propensity to Consume and The Multiplyer
-    - [[#Chapter 10, Section I]] {Summary: }
-    - [[#Chapter 10, Section II]] {Summary: }
-    - [[#Chapter 10, Section III]] {Summary: }
-    - [[#Chapter 10, Section IV]] {Summary: }
-    - [[#Chapter 10, Section V]] {Summary: }
-    - [[#Chapter 10, Section VI]] {Summary: }
+    - Chapter 10, Section I
+    - Chapter 10, Section II
+    - Chapter 10, Section III
+    - Chapter 10, Section IV
+    - Chapter 10, Section V
+    - Chapter 10, Section VI
 - BOOK IV: THE INDUCEMENT TO INVEST
   - Chapter 11: The Marginal Efficiency of Capital
-    - [[#Chapter 11, Section I]] {Summary: }
-    - [[#Chapter 11, Section II]] {Summary: }
-    - [[#Chapter 11, Section III]] {Summary: }
-    - [[#Chapter 11, Section IV]] {Summary: }
-    - [[#Chapter 11, Section V]] {Summary: }
+    - Chapter 11, Section I
+    - Chapter 11, Section II
+    - Chapter 11, Section III
+    - Chapter 11, Section IV
+    - Chapter 11, Section V
   - Chapter 12: The State of Long-Term Expectation
-    - [[#Chapter 12, Section I]] {Summary: }
-    - [[#Chapter 12, Section II]] {Summary: }
-    - [[#Chapter 12, Section III]] {Summary: }
-    - [[#Chapter 12, Section IV]] {Summary: }
-    - [[#Chapter 12, Section V]] {Summary: }
-    - [[#Chapter 12, Section VI]] {Summary: }
-    - [[#Chapter 12, Section VII]] {Summary: }
-    - [[#Chapter 12, Section VIII]] {Summary: }
+    - Chapter 12, Section I
+    - Chapter 12, Section II
+    - Chapter 12, Section III
+    - Chapter 12, Section IV
+    - Chapter 12, Section V
+    - Chapter 12, Section VI
+    - Chapter 12, Section VII
+    - Chapter 12, Section VIII
   - Chapter 13: The General Theory of the Rate of Interest
-    - [[#Chapter 13, Section I]] {Summary: }
-    - [[#Chapter 13, Section II]] {Summary: }
-    - [[#Chapter 13, Section III]] {Summary: }
-    - [[#Chapter 13, Section IV]] {Summary: }
-    - [[#Chapter 13, Section V]] {Summary: }
+    - Chapter 13, Section I
+    - Chapter 13, Section II
+    - Chapter 13, Section III
+    - Chapter 13, Section IV
+    - Chapter 13, Section V
   - Chapter 14: The Classical Theory of the Rate of Interest
-    - [[#Chapter 14, Section I]] {Summary: }
+    - Chapter 14, Section I
   - Chapter 14a: Appendix on the Rate of Interest in Marshall's Principles of Economics, Ricardo's Principles of Political Economy and Elsewhere
-    - [[#Chapter 14a, Section I]] {Summary: }
-    - [[#Chapter 14a, Section II]] {Summary: }
-    - [[#Chapter 14a, Section III]] {Summary: }
+    - Chapter 14a, Section I
+    - Chapter 14a, Section II
+    - Chapter 14a, Section III
   - Chapter 15: The Psychological and Business Incentives to Liquidity
-    - [[#Chapter 15, Section I]] {Summary: }
-    - [[#Chapter 15, Section II]] {Summary: }
-    - [[#Chapter 15, Section III]] {Summary: }
-    - [[#Chapter 15, Section IV]] {Summary: }
+    - Chapter 15, Section I
+    - Chapter 15, Section II
+    - Chapter 15, Section III
+    - Chapter 15, Section IV
   - Chapter 16: Sundry Observations on the Nature of Capital
-    - [[#Chapter 16, Section I]] {Summary: }
-    - [[#Chapter 16, Section II]] {Summary: }
-    - [[#Chapter 16, Section III]] {Summary: }
-    - [[#Chapter 16, Section IV]] {Summary: }
+    - Chapter 16, Section I
+    - Chapter 16, Section II
+    - Chapter 16, Section III
+    - Chapter 16, Section IV
   - Chapter 17: The Essential Properties of Interest and Money
-    - [[#Chapter 17, Section I]] {Summary: }
-    - [[#Chapter 17, Section II]] {Summary: }
-    - [[#Chapter 17, Section III]] {Summary: }
-    - [[#Chapter 17, Section IV]] {Summary: }
-    - [[#Chapter 17, Section V]] {Summary: }
-    - [[#Chapter 17, Section VI]] {Summary: }
+    - Chapter 17, Section I
+    - Chapter 17, Section II
+    - Chapter 17, Section III
+    - Chapter 17, Section IV
+    - Chapter 17, Section V
+    - Chapter 17, Section VI
   - Chapter 18: The General Theory of Employment Re-Stated
-    - [[#Chapter 18, Section I]] {Summary: }
-    - [[#Chapter 18, Section II]] {Summary: }
-    - [[#Chapter 18, Section III]] {Summary: }
+    - Chapter 18, Section I
+    - Chapter 18, Section II
+    - Chapter 18, Section III
 - BOOK V: MONEY WAGES AND PRICES
   - Chapter 19: Changes in Money-Wages
-    - [[#Chapter 19, Section I]] {Summary: }
-    - [[#Chapter 19, Section II]] {Summary: }
-    - [[#Chapter 19, Section III]] {Summary: }
+    - Chapter 19, Section I
+    - Chapter 19, Section II
+    - Chapter 19, Section III
   - Chapter 19a: Appendix on Prof. Pigou's Theory of Unemployment
   - Chapter 20: The Employment Function
-    - [[#Chapter 20, Section I]] {Summary: }
-    - [[#Chapter 20, Section II]] {Summary: }
-    - [[#Chapter 20, Section III]] {Summary: }
-    - [[#Chapter 20, Section IV]] {Summary: }
+    - Chapter 20, Section I
+    - Chapter 20, Section II
+    - Chapter 20, Section III
+    - Chapter 20, Section IV
   - Chapter 21: The Theory of Prices
-    - [[#Chapter 21, Section I]] {Summary: }
-    - [[#Chapter 21, Section II]] {Summary: }
-    - [[#Chapter 21, Section III]] {Summary: }
-    - [[#Chapter 21, Section IV]] {Summary: }
-    - [[#Chapter 21, Section V]] {Summary: }
-    - [[#Chapter 21, Section VI]] {Summary: }
-    - [[#Chapter 21, Section VII]] {Summary: }
+    - Chapter 21, Section I
+    - Chapter 21, Section II
+    - Chapter 21, Section III
+    - Chapter 21, Section IV
+    - Chapter 21, Section V
+    - Chapter 21, Section VI
+    - Chapter 21, Section VII
 - BOOK VI: SHORT NOTES SUGGESTED BY THE GENERAL THEORY
   - Chapter 22: Notes on the Trade Cycle
-    - [[#Chapter 22, Section I]] {Summary: }
-    - [[#Chapter 22, Section II]] {Summary: }
-    - [[#Chapter 22, Section III]] {Summary: }
-    - [[#Chapter 22, Section IV]] {Summary: }
-    - [[#Chapter 22, Section V]] {Summary: }
-    - [[#Chapter 22, Section VI]] {Summary: }
-    - [[#Chapter 22, Section VII]] {Summary: }
+    - Chapter 22, Section I
+    - Chapter 22, Section II
+    - Chapter 22, Section III
+    - Chapter 22, Section IV
+    - Chapter 22, Section V
+    - Chapter 22, Section VI
+    - Chapter 22, Section VII
   - Chapter 23: Notes on Mercantilism, the Usury Laws, Stamped Money and Theories of Under-Consumption
-    - [[#Chapter 23, Section I]] {Summary: }
-    - [[#Chapter 23, Section II]] {Summary: }
-    - [[#Chapter 23, Section III]] {Summary: }
-    - [[#Chapter 23, Section IV]] {Summary: }
-    - [[#Chapter 23, Section V]] {Summary: }
-    - [[#Chapter 23, Section VI]] {Summary: }
-    - [[#Chapter 23, Section VII]] {Summary: }
+    - Chapter 23, Section I
+    - Chapter 23, Section II
+    - Chapter 23, Section III
+    - Chapter 23, Section IV
+    - Chapter 23, Section V
+    - Chapter 23, Section VI
+    - Chapter 23, Section VII
   - Chapter 24: Concluding Notes on the Social Philosophy Towards Which The General Theory Might Lead
-    - [[#Chapter 24, Section I]] {Summary: }
-    - [[#Chapter 24, Section II]] {Summary: }
-    - [[#Chapter 24, Section III]] {Summary: }
-    - [[#Chapter 24, Section IV]] {Summary: }
-    - [[#Chapter 24, Section V]] {Summary: }
-  - [[#Appendix I]]: Printing Errors in the First Edition
-  - [[#Appendix 2]]: Fluctuations in Net Investment in the United States (1936)
-  - [[#Appendix 3]]: Relative Movements of Real Wages and Output
+    - Chapter 24, Section I
+    - Chapter 24, Section II
+    - Chapter 24, Section III
+    - Chapter 24, Section IV
+    - Chapter 24, Section V
+  - Appendix I: Printing Errors in the First Edition
+  - Appendix 2: Fluctuations in Net Investment in the United States (1936)
+  - Appendix 3: Relative Movements of Real Wages and Output
 
 ## Introductory Materials
 

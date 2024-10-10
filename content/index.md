@@ -4,6 +4,7 @@ publish: true
 keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
 hideGraph: false
 hideTitle: true
+hideComments: true
 tags:
 ---
 

@@ -28,10 +28,6 @@ I would like to thank the following individuals for their feedback and support: 
 
 The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which may bring innovation to the traditional philanthropic sector. It has also encountered various challenges familiar to, and runs the risk of repeating some systematic inefficiencies of, traditional philanthropy. Various open-source protocols exist, or are actively being developed, to: administer onchain grant programs; configure and issue onchain certificates of impact; publish claims and attestations to build onchain trust networks; and retroactively fund public goods via protocol-based fiscal systems. These functions are developed as distinct softwares, but with the intention of being combined into multi-functional open-source assemblages for evaluating and funding impact, based largely on the premise that impact is not adequately valued at present, thus resulting in inadequate funding for publicly impactful work. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and ought to learn from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue, in order to avoid reinventing wheels and recreating systematic inefficiencies. This report is a holistic survey of existing practices and challenges, and a prospectus of methodological considerations to inform the collective stewardship of this promising ecosystem.
 
-## Disclaimers
-
-At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
-
 ## Section 1 - Introduction
 
 The ecosystem under consideration, referred to as the onchain impact economy, is multi-faceted, interdisciplinary, and rapidly evolving in lockstep with breakthroughs in its underlying technological infrastructure. Due to the promising potential of this technology to improve human coordination at scale, there is an unusual degree of solidarity across this industry, which spans from the simple alignment of values to the more ideological forms of utopianism.
@@ -60,10 +56,10 @@ The term '[public good](<https://en.wikipedia.org/wiki/Public_good_(economics)>)
 
 One can understand public goods within the fourfold model of goods, composed of the axes of rivalrousness and excludability, as shown below:
 
-|                   | Excludable                                          | Non-Excludable                                                    |
-| ----------------- | --------------------------------------------------- | ----------------------------------------------------------------- |
-| **Rivalrous**     | _Private Goods_<br>(food, clothing, parking spaces) | _Common Goods_<br>(fish stocks, timber)                           |
-| **Non-Rivalrous** | _Club Goods_<br>(cinemas, software, private parks)  | _Public Goods_<br>(free-to-air television, air, national defense) |
+|                   | Excludable                                          | Non-Excludable                                           |
+| ----------------- | --------------------------------------------------- | -------------------------------------------------------- |
+| **Rivalrous**     | _Private Goods_<br>(food, clothing, parking spaces) | _Common Goods_<br>(fish, timber)                         |
+| **Non-Rivalrous** | _Club Goods_<br>(cinemas, private parks)            | _Public Goods_<br>(clean air, national defense, privacy) |
 
 The term 'network good' refers to any good which experiences an increase in value as its adoption or usage levels increase, such as how the value of the telephone grew as the number of people using telephones grew.
 
@@ -97,6 +93,10 @@ The term 'onchain' refers to any activity on a blockchain, similar to how the te
 
 In this section we will highlight how certain blockchain-based protocols and platforms factor into the complex of digital public infrastructure. Because this technology is still nascent, and its field of application is still being explored, we will consider it all in light of both its current actual implementation, as well as how it may be implemented in the future, in a more integrated ecosystem of impact.
 
+Worth bearing in mind throughout this section is the distinction between open-source software qua tooling, and any platforms designed to help users engage with said software. Whereas the tooling can be developed to be operable on peer-to-peer infrastructure, the platforms themselves generally require maintenance overhead and other forcing functions for institutional administration.
+
+Much of the potential of this technology, as digital public infrastructure, rests on the premise that the software itself is functionally autonomous and not reliant on the revenue models of the institutions that developed it. Institutions have an important role to play in this context, but much of the digital public infrastructure in question, onchain or otherwise, cannot operate as privately productized goods. After all, the institutional tooling will not de-enshittify the institutional paradigm<sup>2</sup>. 
+
 #### Hypercerts
 
 [Hypercerts](https://hypercerts.org/docs/) are onchain certificates designed to facilitate the assessment and funding of public goods. Someone working on a public good can mint a hypercert, specify the work they are doing, and sell a number of these hypercerts to funders who want to support public goods. This last step can also be understood as issuing a donation receipt to funders of public goods.
@@ -113,13 +113,13 @@ Using attestations, individuals can make claims and reference the claims of othe
 
 [Allo Protocol](https://docs.allo.gitcoin.co/) is a framework for constructing custom funding allocation processes. Specifically this framework enables the configuration of certain processes, such as how funds are collected into a pool, how recipients are approved, and how funds are disbursed.
 
-One example of an implementation of Allo Protocol is [Grants Stack](https://www.gitcoin.co/grants-stack), which can be described as an off-the-shelf customizable grant-making program. An institution or community can operate a grant program using Grants Stack, which allows them to pool funds, field and approve grantee applications, determine the precise allocation of the funding pool to the grantees, and disburse this funding. This entire process unfolds publicly onchain, according to the underlying mechanisms of Allo Protocol<sup>2</sup>. Further implementation nuances of Grants Stack will be explored in a later section.
+One example of an implementation of Allo Protocol is [Grants Stack](https://www.gitcoin.co/grants-stack), which can be described as an off-the-shelf customizable grant-making program. An institution or community can operate a grant program using Grants Stack, which allows them to pool funds, field and approve grantee applications, determine the precise allocation of the funding pool to the grantees, and disburse this funding. This entire process unfolds publicly onchain, according to the underlying mechanisms of Allo Protocol<sup>3</sup>. Further implementation nuances of Grants Stack will be explored in a later section.
 
 #### Grantee Accountability Protocol
 
 [Grantee Accountability Protocol](https://docs.gap.karmahq.xyz/) (GAP) is an onchain protocol and application built using EAS, specifically geared around accountability, impact reporting and philanthropic transparency. Grantees or other beneficiaries of public goods funding use GAP to publish statements around the outcomes they intend to have through their work. Upon completion of work, they share their work along with proof, all of which are recorded on chain.
 
-The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits<sup>3</sup>, albeit in a more granular peer-to-peer fashion.
+The goal behind this arrangement of attestations is to facilitate insight into and expectations around the work being done by beneficiaries of philanthropic funding. In this respect, GAP can be understood along the lines of existing reporting requirements for nonprofits<sup>4</sup>, albeit in a more granular peer-to-peer fashion.
 
 While GAP provides specialized infrastructure for onchain impact reporting and assessment, there remains work to be done in the area of standardization and ontology. This matter will be explored in a later section of this inquiry.
 
@@ -135,38 +135,41 @@ In addition to the various platforms and protocols highlighted above, there are 
 
 [Safe](https://docs.safe.global/home/what-is-safe) multi-signature or "multisig" accounts are shared accounts which allow users to exercise joint custody of assets. These shared accounts presently constitute the industry standard for organizational treasury management.
 
-## Section 2 - Experiments & Challenges
+### 1.3 - Selected Funding Processes
 
-Having secured some measure of orientation, we will now advance to address the various experiments active in this ecosystem, and the challenges they encounter.
+The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate the financial and computational elements of philanthropy. Arguably the primary purpose of the usage of this technology in these capacities is to uphold high standards of financial transparency while automating unnecessary administrative burden. 
 
-The utilization of blockchain and related technologies for funding public goods is still a novel and radical phenomenon, constituting a movement in its own right. Over the last several years, this experimental infrastructure has enabled several novel funding mechanisms, which will be examined later in this section, and has distributed over $150 million dollars in public goods funding, to date<sup>5</sup>.
+Ideals aside, the utilization of blockchain and related technologies for philanthropic purposes, such as funding public goods, is still a radically novel economic phenomenon, constituting a movement in its own right. Over the last several years, this experimental infrastructure has enabled several novel funding mechanisms, which will be examined throughout this section. This infrastructure has facilitated the distribution of over $150 million dollars in public goods funding over the last few years. For more information on the financial scale and nuance of this technology, see the Appendix on Grant Volume.
 
-### 2.1 - Active Experiments
+However, as we will see in the section on challenges, there remain significant obstacles which these experiments face as they attempt to scale.
 
-The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate donations and allocate funding to public goods. Arguably the primary purpose of the usage of smart contracts in this capacity is to uphold high standards of financial transparency while minimizing unnecessary administrative and bureaucratic burden. As we will see in the section on challenges, there remain significant obstacles which these experiments face as they attempt to scale.
+#### Direct and Quadratic Funding
 
-#### Quadratic and Direct Funding Rounds
+The most popular examples of philanthropic applications of smart contracts are grant programs. Many of these grant programs implement participatory grant allocation mechanisms, based on quadratic formulae, which aim to proportionately reward grantees according to the amount of donations they receive (Buterin, Hitzig, & Weyl, 2018). 
 
-The major in the onchain philanthropy sector is the usage of
+For the purpose of this section, we will focus on Grants Stack, as digital public infrastructure to facilitate grantmaking, and Gitcoin's [grant manager platform](https://manager.gitcoin.co/#/) as an interface to enable  communities and institutions to configure their instance of Grants Stack. Those who operationally administer these grant programs (henceforth "round operators") can choose either direct or quadratic funding mechanisms<sup>5</sup>, depending on how participatory they want the grant program to be.
+
+Both direct and quadratic grant rounds involve a matching pool funding process, whereby administrators deposit funds into the smart contract to eventually be disbursed to grantees, and a grantee application process, whereby applicants submit forms to be approved by the round operators. Once approved, the accepted grantees have their project profiles published, and the funding can be facilitated. 
+
+In the case of quadratic funding, there is a customizable period of time, conventionally two to three week, whereby anyone can visit the grantees' profiles, and donate to them in crypto or in fiat currencies<sup>6</sup>. During this donation period, various data are collected automatically, such as the amount of donations, the value of each donation, and various other analytics performed upon donor activity. One significant aspect of this analysis pertains to the identification and prevention of fraudulent donor behavior, which will be examined more closely in the section on technical challenges.
+
+Once these results are calculated, the funds from the matching pool are disbursed to grantees according to a quadratic formula such as the following. 
+
+$$V_i^p ((∑_j \sqrt{c_j^p})^2) - c_j^p$$
+
+Direct funding, on the other hand, merely has round operators directly determine the amount each grantee receives from the matching pool.
+
+Much of this actual grantmaking process occurs onchain, meaning that the public data involved is stored on a global peer-to-peer network which is not managed by a single institution. Instead, institutions such as Gitcoin maintain dedicated web interfaces, like their round manager interface, for users to interact with the underlying smart contracts. In this case, the users in question are grant round operators, grant applicants, and donors. 
 
 #### Retroactive Public Goods Funding
 
 "[Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) aims to reward past impact based on the idea that it is easier to agree on what was useful than what will be useful. One of the most important experiment parameters in RetroPGF is determining how and what information about projects is presented to voters." (https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)
 
-#### Progressive Public Goods Funding
+## Section 2 - Challenges
 
-text here
+Having provided some measure of orientation, we will now advance to address the various challenges faced by the communities and institutions implementing this technology in philanthropic and prosocial capacities.
 
-#### Hyperactive Public Goods Funding
-
-text here
-
-#### Continuous Funding Streams
-
-Text here
-Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
-
-### 2.2 - Technical Challenges
+### 2.1 - Technical Challenges
 
 Text here
 
@@ -234,7 +237,25 @@ Text here
 
 Text here
 
-### 3.1 - Ontological Considerations
+### 3.1 - Hypothetical Funding Processes
+
+Text here
+
+#### Progressive Public Goods Funding
+
+text here
+
+#### Hyperactive Public Goods Funding
+
+text here
+
+#### Continuous Funding Streams
+
+Text here
+Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
+
+
+### 3.2 - Ontological Considerations
 
 Text here
 
@@ -242,7 +263,7 @@ Text here
 
 Text here
 
-### 3.2 - Stakeholder Roles and Interests
+### 3.3 - Stakeholder Roles and Interests
 
 Text here
 
@@ -258,11 +279,11 @@ Text here
 
 Text here
 
-### 3.3 - Unified Ontology for Impact Reporting
+### 3.4 - Unified Ontology for Impact Reporting
 
 Text here, Common Impact Data Standards
 
-### 3.4 - A Peer-to-Peer Parafiscal Paradigm
+### 3.5 - A Peer-to-Peer Parafiscal Paradigm
 
 Text here
 
@@ -275,17 +296,21 @@ Text here
 ## Endnotes
 
 1. For example, grantees included in Gitcoin's quadratic funding rounds tend to participate in public panels, such as Twitter spaces, intended to cross-promote the grantees' projects and to more generally promote the development of the Gitcoin ecosystem.
-2. While the process at large is public and transparent, there are certain configurable exceptions to this, such as the solicitation of private personal data from grant applicants, such as email addresses and KYC/AML screening information.
-3. For example, information collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing paradigm that any novel unified onchain impact assessment ontology should be adopted.
+2. See ["The Master's Tools Will Never Dismantle the Master's House"](https://collectiveliberation.org/wp-content/uploads/2013/01/Lorde_The_Masters_Tools.pdf) by Audre Lord, Cory Doctorow's concept of [enshittification](https://en.wikipedia.org/wiki/Enshittification), and ["An Introduction to Extitutional Theory"](https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53) by Jessy Kate Schingler and Primavera de Filippi.
+3. While the process at large is public and transparent, there are certain configurable exceptions to this, such as the solicitation of private personal data from grant applicants, such as email addresses and KYC/AML screening information.
+4. For example, information collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing reporting paradigm that any novel unified onchain impact assessment ontologies should be devised.
+5. For more resources regarding the quadratic funding mechanism, see this [calculator](https://www.wtfisqf.com/?match=10000&grant=34-56&grant=3-100-4&grant=2-2-2-2-2&grant=700) provided by Gitcoin.
+6. Recently there have been successful attempts to integrate payment processing for fiat currencies in these grant rounds, thanks to projects like [ViaPrize](https://www.viaprize.org/). For example, the [OpenCivics Collaborative Research Round](https://gov.gitcoin.co/t/gg21-retrospective-opencivics-collaborative-research-round/19313) utilized ViaPrize to facilitate dollar donations to grantees, thus eliminating the need for donors to donate in cryptoassets.
 
 ## Bibliography
 
+- Buterin, V., Hitzig, Z., & Weyl, E. G. (2018). [A Flexible Design for Funding Public Goods](https://arxiv.org/abs/1809.06421v2). (Self-published).
 - Cavanaugh, S. S. (2023). [[What Are Onchain Organizations?]] (Self-published). [Arweave](https://viewblock.io/arweave/tx/GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs).
-- Graham, S (2022). [Anticapture: Towards a Framework of Capture-Resistant Governance](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) (Self-published). [Arweave](https://viewblock.io/arweave/tx/yAxnXi_oZlIa5eB3CkKujBwzrprX177jEPemu2LeLl8).
-- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa) (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
-- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf) (Self-published). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
-- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E) (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
-- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict) (Self-published) [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
+- Graham, S. (2022). [Anticapture: Towards a Framework of Capture-Resistant Governance](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) (Self-published). [Arweave](https://viewblock.io/arweave/tx/yAxnXi_oZlIa5eB3CkKujBwzrprX177jEPemu2LeLl8).
+- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa). (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
+- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). (Self-published). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
+- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
+- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). (Self-published) [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
 
 ‌
 
@@ -302,8 +327,12 @@ Text here
       4. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results))
          1. In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
 
-## Licensing
+## Disclaimers
+
+At the time of writing this, I hold a material amount of ETH and other Ethereum-based assets, and am actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities. 
 
 The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations.
+
+## Licensing
 
 The contents of this report are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
