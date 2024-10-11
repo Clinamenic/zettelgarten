@@ -25,6 +25,7 @@ const TableOfContents: QuartzComponent = ({
   }
 
   return (
+    <div class={classNames(displayClass, "toc-container")}>
     <div class={classNames(displayClass, "toc")}>
       <button
         type="button"
@@ -60,6 +61,7 @@ const TableOfContents: QuartzComponent = ({
           ))}
         </ul>
       </div>
+    </div>
     </div>
   )
 }

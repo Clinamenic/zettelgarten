@@ -85,6 +85,7 @@ export default ((userOpts?: Partial<Options>) => {
     }
 
     return (
+      <div class={classNames(displayClass, "explorer-container")}>
       <div class={classNames(displayClass, "explorer")}>
         <button
           type="button"
@@ -118,6 +119,7 @@ export default ((userOpts?: Partial<Options>) => {
             <li id="explorer-end" />
           </ul>
         </div>
+      </div>
       </div>
     )
   }

@@ -1,3 +1,10 @@
+.toc-container {
+  border: 1px solid var(--dark);
+  background-color: var(--light);
+  border-radius: 10px;
+  padding: 1rem 1rem 1rem 1rem;
+}
+
 button#toc {
   background-color: transparent;
   border: none;
