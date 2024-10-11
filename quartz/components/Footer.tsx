@@ -8,10 +8,7 @@ interface Options {
 }
 
 const phrases = [
-  "Codeslaw", "on Fleek", "Lucretius say", "Swerve", "Not legal advice", "Solo contendere", 
-  "What me, hurry?", "Cheers!", "Imopolex G", "SaaSy", "Nice marmot", "Goo goo g'joob", 
-  "Clinsigliere", "Binary & Tweed", "Ranch it up", "Sociocrat", "such colophon", 
-  "Live and drink", "wu gwei",
+  "Codeslaw", "Not legal advice", "Solo contendere", "What me, hurry?", "Imopolex G", "Goo goo g'joob", "Binary & Tweed", "Ranch it up", "Live and drink", "wu gwei", "Whigmergy", "Bentocore"
 ];
 
 function getRandomPhrase(): string {
@@ -28,15 +25,11 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
 
         <div className="footer-section">
-        <div style="overflow: hidden; height: 80px; height: 120px;">
-              <div id="dynamicTextAlt">
-              {randomPhrase}
-              </div>
-            </div>
+
             <a href="#" class="Clinamenic-Slide">
               <img
-                src="https://raw.githubusercontent.com/Clinamenic/clinamenic.github.io/main/img/SSC%20slide.gif"
-                width="85"
+                src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC%20Slide.gif?raw=true"
+                width="90"
                 style="margin: 0rem"
               />
             </a> 
@@ -51,6 +44,7 @@ export default ((opts?: Options) => {
                 scrolling="no"
               ></iframe>
             </div>
+
         </div>
 
         <div className="footer-section">
@@ -65,10 +59,14 @@ export default ((opts?: Options) => {
           </div>
         </div>
 
-          <p>
+        <div className="footer-section" style="border: 0px;">
+          <p style="padding: 0rem 0rem 0rem 0rem">
             {i18n(cfg.locale).components.footer.createdWith}{" "}
             <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
           </p>
+          <div id="dynamicTextAlt">
+              {randomPhrase}
+              </div>
           <script dangerouslySetInnerHTML={{__html: `
           document.addEventListener("DOMContentLoaded", function() {
             const dynamicTextElement = document.getElementById("dynamicTextAlt");
@@ -77,6 +75,8 @@ export default ((opts?: Options) => {
             }
           });
         `}} />
+        </div>
+
       </footer>
     )
   }

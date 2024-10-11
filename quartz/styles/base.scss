@@ -312,7 +312,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
-    padding: 0rem 1.5rem 18rem 1.5rem;
+    padding: 0rem 1.5rem 15rem 1.5rem;
     background-color: var(--light);
     border-left: 1px solid var(--dark);
     border-right: 1px solid var(--dark);
@@ -322,7 +322,7 @@ a {
       margin-right: 0;
     }
     @media only screen and (max-width: calc(750px + 2rem)) {
-      padding: 0rem 0rem 10rem 0rem;
+      padding: 0rem 0rem 15rem 0rem;
       border-left: 0px solid var(--dark);
       border-right: 0px solid var(--dark);
     }
