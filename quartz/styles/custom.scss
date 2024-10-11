@@ -103,6 +103,44 @@
   padding-bottom: 2rem;
 }
 
+.Clinamenic-Slide{
+  padding: 0rem 1rem;
+  cursor: default;
+}
+
+.newsletter{
+  bottom: 0;
+  display: grid;
+  padding-left: 10px;
+  padding-bottom: 0px;
+}
+@media only screen and (max-width: 830px) {
+  .newsletter {
+      display: none;
+  }
+}
+
+#dynamicTextAlt{
+  position: absolute;
+  text-align: center;
+  height: 20px;
+  width: 300px;
+  margin-top: 10px;
+  right: -20px;
+  color: var(--secondary);
+  font-size: 1rem;
+  font-family: 'Minecraft', sans-serif;
+  letter-spacing: 3px;
+  animation: text-pulse 1.5s linear infinite;
+  transform: rotate(8deg);
+  z-index: 1;
+}
+@media only screen and (max-width: 830px) {
+  #dynamicTextAlt{
+      display: none;
+  }
+}
+
 .spacer10{
   height: 10px;
   width: 10px;
@@ -119,4 +157,11 @@
 @keyframes fade-down {
   0%{ opacity: 0%; transform:translateY(-25px)}
   100%{ opacity: 100%; transform:translateY(0px)} 
+}
+
+
+@keyframes text-pulse {
+  0%{ font-size: 17px; }
+  50%{ font-size: 22px; } 
+  100%{ font-size: 17px; }
 }

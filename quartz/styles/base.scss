@@ -67,6 +67,17 @@
 }
 
 
+
+/* Minecraft */
+@font-face {
+  font-family: "Minecraft";
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmU7unjNWTCPP31NPy58rQeAhyMTRyNCw5ZHLNZgqak2LU);
+  src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmU7unjNWTCPP31NPy58rQeAhyMTRyNCw5ZHLNZgqak2LU) format("opentype");
+  font-weight: 100;
+}
+
+
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -297,10 +308,11 @@ a {
   & .center {
     position: relative;
     min-height: 100vh;
+    bottom: 0;
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
-    padding: 0rem 1.5rem 7rem 1.5rem;
+    padding: 0rem 1.5rem 18rem 1.5rem;
     background-color: var(--light);
     border-left: 1px solid var(--dark);
     border-right: 1px solid var(--dark);
