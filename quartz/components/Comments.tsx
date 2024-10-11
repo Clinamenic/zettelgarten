@@ -12,6 +12,7 @@ type Options = {
     categoryId: string
     mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
     strict?: boolean
+    theme?: string
     reactionsEnabled?: boolean
     inputPosition?: "top" | "bottom"
   }
@@ -32,6 +33,7 @@ const defaultOptions: Options = {
     categoryId: "",
     mapping: "url",
     strict: true,
+    theme: "https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/components/styles/giscusCustom.css",
     reactionsEnabled: false,
     inputPosition: "bottom",
   },
@@ -63,6 +65,7 @@ export default ((opts: Options) => {
         data-strict={boolToStringBool(opts.options.strict ?? defaultOptions.options.strict)}
         data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? defaultOptions.options.reactionsEnabled)}
         data-input-position={opts.options.inputPosition ?? defaultOptions.options.inputPosition}
+        data-theme={opts.options.theme ?? defaultOptions.options.theme}
       ></div>
     )
   }
