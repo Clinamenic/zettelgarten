@@ -12,6 +12,20 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.TagList(),
     Component.LicenseInfo(),
+    Component.MobileOnly(Component.Graph({
+      showGraph: (frontmatter) => !frontmatter.hideGraph,
+      // ... other graph options
+    })),
+    // Component.DesktopOnly(Component.Comments({
+    //  provider: 'giscus',
+    //  options: {
+    //    repo: 'clinamenic/zettelgarten',
+    //    repoId: 'R_kgDOMqLVgA',
+    //    category: 'Announcements',
+    //    categoryId: 'DIC_kwDOMqLVgM4CjP31',
+    //  },
+    //  showComments: (frontmatter) => !frontmatter.hideComments,
+    // })),
   ],
   footer: Component.Footer({
     links: {
@@ -39,25 +53,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    Component.Graph({
+    Component.DesktopOnly(Component.Graph({
       showGraph: (frontmatter) => !frontmatter.hideGraph,
       // ... other graph options
-    }),
-    Component.DesktopOnly(Component.Backlinks()),
-    Component.DesktopOnly(Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'clinamenic/zettelgarten',
-        // from data-repo-id
-        repoId: 'R_kgDOMqLVgA',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDOMqLVgM4CjP31',
-      },
-      showComments: (frontmatter) => !frontmatter.hideComments,
     })),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
