@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
   ],
   afterBody: [
+    Component.TagList(),
     Component.LicenseInfo(),
   ],
   footer: Component.Footer({
@@ -28,7 +29,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.AuthorName(),
     Component.PublishDate(),
-    Component.TagList(),
   ],
   left: [
     // Component.PageTitle(),
@@ -37,13 +37,13 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
     Component.Graph({
       showGraph: (frontmatter) => !frontmatter.hideGraph,
       // ... other graph options
     }),
+    Component.DesktopOnly(Component.Backlinks()),
     Component.DesktopOnly(Component.Comments({
       provider: 'giscus',
       options: {
