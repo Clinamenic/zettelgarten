@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
-title: Notes on the distinction between theoretical and applied governance
+title: Notes on the Distinction between Theoretical and Applied Governance
 subtitle: Considerations around how governance theorists and practitioners may require different skillsets.
 item type: log
 draft started: 2024-09-08

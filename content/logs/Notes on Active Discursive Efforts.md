@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
-title: Notes on active discursive efforts
+title: Notes on Active Discursive Efforts
 subtitle: Regarding nascent theories of bureaumancy, zettelkasten methodology, and other existing topic clusters.
 item type: log
 draft started: 2024-08-25

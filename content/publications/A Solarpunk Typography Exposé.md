@@ -3,7 +3,7 @@ author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
 title: A Solarpunk Typography Exposé
 subtitle: This exposé highlights a number of fonts which encapsulate the solarpunk ethos.
-date oublished: 2023-11-13
+date published: 2023-11-13
 license: CC BY-SA 4.0
 arweave hash: Jb3VeB5IHdCy9l7jn_Wy3fZFM0fyH5OTGKRKS9eQdNE
 publish: true

@@ -181,6 +181,14 @@ tags:
 
 </div>
 
+<p style="color: red;">Test text</p>
+
+![[r-JK-GT-9]]
+
+<p style="color: red;">![[r-JK-GT-9]]</p>
+
+![[test-embed]]
+
 ## References
 
 ::: {#refs}

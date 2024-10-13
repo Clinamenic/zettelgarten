@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
-title: Notes on extitutional theory and progressive protocolization
+title: Notes on Extitutional Theory and Progressive Protocolization
 subtitle: 
 item type: log
 draft started: 2024-09-18
@@ -53,4 +53,4 @@ The discourse I am drafting about progressive protocolization I intended to fram
 6. Internal link: [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
 7. https://opencivics.co/
 
-![[General Disclaimer]]
+![[Boilerplate#General Disclaimer]]

@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 author URL: https://www.clinamenic.com
-title: Notes on Keynes, Hayek, and fiscal protocols
+title: Notes on Keynes, Hayek, and Fiscal Protocols
 subtitle: Peer-to-peer economic infrastructure to address foundational disagreements in the discourse.
 item type: log
 draft started: 2024-10-06

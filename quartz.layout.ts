@@ -12,10 +12,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.TagList(),
     Component.LicenseInfo(),
-    Component.MobileOnly(Component.Graph({
+    Component.Graph({
       showGraph: (frontmatter) => !frontmatter.hideGraph,
       // ... other graph options
-    })),
+    }),
     // Component.DesktopOnly(Component.Comments({
     //  provider: 'giscus',
     //  options: {
@@ -53,10 +53,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    Component.DesktopOnly(Component.Graph({
-      showGraph: (frontmatter) => !frontmatter.hideGraph,
-      // ... other graph options
-    })),
     Component.DesktopOnly(Component.Backlinks()),
   ],
 }

@@ -131,7 +131,7 @@
   font-size: 0.7rem;
   font-family: 'Minecraft', sans-serif;
   letter-spacing: 3px;
-  animation: text-pulse 1.5s ease-in-out infinite;
+  animation: text-pulse 1.8s ease-in-out infinite;
   transform: rotate(6deg);
   z-index: 1;
 }
@@ -161,7 +161,7 @@
 
 
 @keyframes text-pulse {
-  0%{ font-size: 0.8rem; }
+  0%{ font-size: 0.9rem; }
   50%{ font-size: 1.2rem; } 
-  100%{ font-size: 0.8rem; }
+  100%{ font-size: 0.9rem; }
 }
