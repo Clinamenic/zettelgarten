@@ -6,7 +6,7 @@ subtitle: Some coverage of the various challenges faced in the construction of a
 draft started: 2024-10-12
 date published: 2024-10-12
 license: CC BY-SA 4.0
-arweave hash: 
+arweave hash: sSobq_FUVYtPWt6LONmPvf_ta7LJ6yQKwpUn5TSKXZo
 publish: true
 tags:
   - personal-discourse/log

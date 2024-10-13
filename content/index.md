@@ -50,11 +50,14 @@ Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
 
 ### Notes
 
-- [[]]
+- [[Notes on Active Discursive Efforts]]
+- [[Notes on the Distinction between Theoretical and Applied Governance]]
+- [[Notes on Extitutional Theory and Progressive Protocolization]]
+- [[Notes on Keynes, Hayek, and Fiscal Protocols]]
+- [[Notes on Experimental Zettelkasten Methodology]]
 
 ### Drafts
 
-- [[ARCHIVE Impact-Weighted Funding for Public Goods]]
 - [[DRAFT Methodological Survey of the Onchain Impact Economy]]
 - [[DRAFT An Organizational Theory of Active Inference]]
 - [[DRAFT A Mirror for Nomads]]
@@ -64,23 +67,6 @@ Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
 - [[DRAFT Intimations around Bureaumancy]]
 - [[DRAFT Theoretical and Applied Governance]]
 - [[DRAFT Micropolitics and Organizational Design]]
-
-## Note Index
-
-- [[g-1#Notetaking Methodology]]
-  - [[g-3#Logging Tasks]]
-  - [[g-4#Parallel Drafting]]
-  - [[g-5#Note Quotas]]
-  - [[g-6#Archiving Unused Notes]]
-  - [[g-7#Alphanumeric Alternative-Base Ordering System]]
-  - [[g-9#Top-Level String]]
-  - [[g-13#Spaced Repetition and Semantic Association]]
-- [[g-2#Pace Layering]]
-- [[g-8#Active Inference Applied to Organization Design]]
-- [[g-10#Notes on Machiavelli's Discourses]]
-
-  - [[g-11]]
-  - [[g-12]]
 
   <h2 style="text-align: center;">Experience</h2>
 
