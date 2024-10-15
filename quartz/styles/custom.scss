@@ -146,6 +146,18 @@
   width: 10px;
 }
 
+@keyframes slide-from-left {
+  0% { transform: translateX(-150px); }
+  100% { transform: translateX(0px); }
+}
+
+@keyframes slide-from-right {
+  0% { transform: translateX(150px); }
+  100% { transform: translateX(0px); }
+}
+
+
+
 @keyframes fade-in {
   0%{ opacity: 0%; }
   100%{ opacity: 100%; } 
@@ -165,3 +177,4 @@
   50%{ font-size: 1.2rem; } 
   100%{ font-size: 0.9rem; }
 }
+

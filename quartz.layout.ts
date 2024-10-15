@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.TagList(),
     Component.LicenseInfo(),
+    Component.DownloadMarkdown(),
     Component.Graph({
       showGraph: (frontmatter) => !frontmatter.hideGraph,
       // ... other graph options

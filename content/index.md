@@ -32,11 +32,11 @@ tags:
 <div style="height: 1.5rem;"></div>
 
 <div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none;">
-    <p style="text-align: justify; line-height: 1.8; justify-content: center; hyphens: none;">
+    <p style="text-align: justify; font-size: 0.9rem; line-height: 1.6; justify-content: center; hyphens: none;">
       The atoms, as their own weight bears them down plumb through the void, at scarce determined times, in scarce determined places, from their course decline a little -- call it, so to speak, mere changed trend. For were it not their wont thuswise to swerve, down would they fall, each one, like drops of rain, through the unbottomed void; and then collisions ne'er could be nor blows among the primal elements; and thus nature would never have created aught.
     </p>
     <p></p>
-    <p style="text-align: center; line-height: 1.8; hyphens: none;">
+    <p style="text-align: center; font-size: 0.9rem; line-height: 1.6; hyphens: none;">
       -Lucretius, <em>On the Nature of Things</em>,
       describing the phenomenon of clinamen.
     </p>
