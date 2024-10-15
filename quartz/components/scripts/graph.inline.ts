@@ -497,15 +497,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           [0, 0],
           [width, height],
         ])
-        .scaleExtent([0.5, 8])
+        .scaleExtent([0.25, 8])
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
   
           // Adjust these values to control when labels appear
-          const minZoom = 3 // Minimum zoom level for labels to start appearing
-          const maxZoom = 4 // Zoom level at which labels are fully visible
+          const minZoom = 8 // Minimum zoom level for labels to start appearing
+          const maxZoom = 9 // Zoom level at which labels are fully visible
   
           // Calculate opacity based on zoom level
           const scale = transform.k * opacityScale

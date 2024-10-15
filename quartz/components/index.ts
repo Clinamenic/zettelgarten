@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import AuthorName from "./AuthorName"
 import PublishDate from "./PublishDate"
 import LicenseInfo from "./LicenseInfo"
+import ArticleSubtitle from "./ArticleSubtitle"
 
 export {
   ArticleTitle,
@@ -52,4 +53,5 @@ export {
   AuthorName,
   PublishDate,
   LicenseInfo,
+  ArticleSubtitle,
 }

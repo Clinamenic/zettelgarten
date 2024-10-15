@@ -41,6 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle({
       showTitle: (frontmatter) => !frontmatter.hideTitle,
     }),
+    Component.ArticleSubtitle(),
     Component.AuthorName(),
     Component.PublishDate(),
   ],
@@ -50,10 +51,10 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Search(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
-    Component.DesktopOnly(Component.Backlinks()),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 

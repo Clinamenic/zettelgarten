@@ -48,8 +48,8 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   </svg>
 </a>
     {children}
-    <button id="global-graph-icon" aria-label="Global Graph" style="background: transparent; border: 0px; cursor: pointer; padding: 1px 0px 1px 0px;">
-    <svg width="26px" height="26px" viewBox="0 0 24 24" fill="transparent" xmlns="http://www.w3.org/2000/svg" style="padding: 0px 2px 0px 2px">
+    <button id="global-graph-icon" aria-label="Global Graph" style="background: transparent; border: 0px; cursor: pointer; padding: 2px 0px 0px 0px;">
+    <svg width="27px" height="27px" viewBox="0 0 24 24" fill="transparent" xmlns="http://www.w3.org/2000/svg" style="padding: 0px 0px 0px 0px">
       <circle cx="18" cy="5" r="3" stroke="var(--dark)" stroke-width="1.5" fill="none"/>
       <circle cx="18" cy="19" r="3" stroke="var(--dark)" stroke-width="1.5" fill="none"/>
       <circle cx="6" cy="12" r="3" stroke="var(--dark)" stroke-width="1.5" fill="none"/>
@@ -81,7 +81,7 @@ header {
   border-bottom: 1px solid var(--dark);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  transition: all 0.5s ease;
+  transition: all 0.3s ease;
 
 }
 

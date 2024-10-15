@@ -29,9 +29,18 @@ tags:
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">C A V A N A U G H</p>
 </div>
 
-Welcome to the zettelgarten of Spencer Saar Cavanaugh, a curated externalization of an internal knowledge management system.
+<div style="height: 1.5rem;"></div>
 
-Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ("note box") methodology and by the concept of a digital garden, this zettelgarten is an experiment in self-publishing, independent research, and knowledge architecture.
+<div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none;">
+    <p style="text-align: justify; line-height: 1.8; justify-content: center; hyphens: none;">
+      The atoms, as their own weight bears them down plumb through the void, at scarce determined times, in scarce determined places, from their course decline a little -- call it, so to speak, mere changed trend. For were it not their wont thuswise to swerve, down would they fall, each one, like drops of rain, through the unbottomed void; and then collisions ne'er could be nor blows among the primal elements; and thus nature would never have created aught.
+    </p>
+    <p></p>
+    <p style="text-align: center; line-height: 1.8; hyphens: none;">
+      -Lucretius, <em>On the Nature of Things</em>,
+      describing the phenomenon of clinamen.
+    </p>
+</div>
 
 ### Published Work
 
@@ -68,7 +77,7 @@ Inspired by Luhmann's [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
 - [[DRAFT Theoretical and Applied Governance]]
 - [[DRAFT Micropolitics and Organizational Design]]
 
-  <h2 style="text-align: center;">Experience</h2>
+<h2 style="text-align: center;">Experience</h2>
 
 <div class="gallery4" style="padding: 1rem 0rem 0rem 0rem">
 

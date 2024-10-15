@@ -1,9 +1,6 @@
 @use "../../styles/variables.scss" as *;
 
 .search {
-  min-width: fit-content;
-  max-width: 23px;
-  flex-grow: 0.3;
 
   & > .search-button {
     background-color: transparent; // Remove background
@@ -19,8 +16,8 @@
 
     & svg {
       cursor: pointer;
-      width: 23px;
-      min-width: 23px;
+      width: 25px;
+      min-width: 25px;
       padding: 3px 2px 0px 2px;
       margin: 0; // Remove margin
 

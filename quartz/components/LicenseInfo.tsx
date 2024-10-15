@@ -40,16 +40,11 @@ const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
   }
 
   const styles = {
-    fontSize: "0.8rem",
-    color: "var(--gray)",
-    marginTop: "0rem",
-    borderTop: "0px solid var(--lightgray)",
-    paddingTop: "0rem",
-    wordBreak: "keep-all" as const,
-    overflowWrap: "break-word" as const,
+
   }
 
   return (
+    <div>
     <p className="license-info quartz-license-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" style={styles}>
       <a property="dct:title" rel="cc:attributionURL" href={currentPageUrl}>
         {title}
@@ -67,6 +62,7 @@ const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
         {getLicenseImages(license)}
       </a>
     </p>
+    </div>
   )
 }
 
