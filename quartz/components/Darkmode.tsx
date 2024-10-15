@@ -22,7 +22,7 @@ const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) 
         <title>{i18n(cfg.locale).components.themeToggle.darkMode}</title>
         <g
           fill="none"
-          stroke="currentColor"
+          stroke="var(--dark)"
           stroke-width="1.75"
           stroke-linecap="round"
         >
