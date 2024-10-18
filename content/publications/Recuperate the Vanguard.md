@@ -4,9 +4,10 @@ author URL: https://www.clinamenic.com
 title: Recuperate the Vanguard
 subtitle: Free Market Collectivism via Self-Regulation in Emerging Technology Sectors
 date published: 2023-09-13
-license:
+license: CC BY-SA 4.0
 arweave hash: X503ypfmKt998on0F6Ua9FaQggN0JNkjPRztXgCyfWM
 publish: true
+hideGraph: false
 tags:
   - personal-discourse
   - misc/postcapitalism

@@ -290,3 +290,10 @@ Based on the chapter you've provided and the search results, I can help clarify 
 - The goal is not just to maximize employment and national income, but to achieve a more stable and equitable economic system.
 
 Keynes' approach was revolutionary in suggesting that economies were not self-correcting and that government intervention could be beneficial, contrasting with the prevailing classical economic theories of his time.
+
+
+## Secondary Materials
+
+
+10/16/24
+https://www.youtube.com/watch?v=bABObsWIEy8

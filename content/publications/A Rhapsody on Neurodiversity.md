@@ -8,6 +8,7 @@ publish link: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0
 license: CC BY-SA 4.0
 arweave hash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 publish: true
+downloadable: true
 tags:
   - personal-discourse
   - text

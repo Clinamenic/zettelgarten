@@ -11,31 +11,80 @@ const DownloadMarkdown: QuartzComponent = ({
     return null
   }
 
-  // Define the download function
+  const reconstructMarkdown = () => {
+    let content = '---\n'
+    for (const [key, value] of Object.entries(fileData.frontmatter)) {
+      content += `${key}: ${JSON.stringify(value)}\n`
+    }
+    content += '---\n\n'
+    
+    // Add the main content
+    if (fileData.content) {
+      content += fileData.content
+    } else if (fileData.htmlAst) {
+      content += convertHtmlAstToMarkdown(fileData.htmlAst)
+    }
+    
+    return content
+  }
+
+  const convertHtmlAstToMarkdown = (htmlAst) => {
+    // This is a simplified conversion. You might need to expand this based on your specific needs.
+    let markdown = ''
+    const traverse = (node) => {
+      if (node.type === 'text') {
+        markdown += node.value
+      } else if (node.type === 'element') {
+        if (node.tagName === 'div') {
+          markdown += '\n<div'
+          for (const [attr, value] of Object.entries(node.properties || {})) {
+            markdown += ` ${attr}="${value}"`
+          }
+          markdown += '>\n'
+        } else if (node.tagName === 'p') {
+          markdown += '\n'
+        }
+        node.children?.forEach(traverse)
+        if (node.tagName === 'div') {
+          markdown += '</div>\n'
+        } else if (node.tagName === 'p') {
+          markdown += '\n'
+        }
+      }
+    }
+    htmlAst.children.forEach(traverse)
+    return markdown
+  }
+
   const downloadMarkdownScript = `
-    console.log("Script loaded");
     function downloadMarkdown() {
       console.log("Download function called");
-      alert("Download button clicked");
-      const content = "Test content";
-      const filename = "test.txt";
-      const blob = new Blob([content], { type: 'text/plain' });
-      const link = document.createElement('a');
-      link.href = URL.createObjectURL(blob);
-      link.download = filename;
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      URL.revokeObjectURL(link.href);
+      const content = ${JSON.stringify(reconstructMarkdown())};
+      console.log("Content to be downloaded:", content);
+      const filename = "${fileData.slug!.split('/').pop()}.md";
+      const blob = new Blob([content], { type: 'text/markdown' });
+      const url = URL.createObjectURL(blob);
+      
+      const tempLink = document.createElement('a');
+      tempLink.href = url;
+      tempLink.setAttribute('download', filename);
+      tempLink.setAttribute('target', '_blank');
+      document.body.appendChild(tempLink);
+      tempLink.click();
+      document.body.removeChild(tempLink);
+      
+      setTimeout(() => {
+        URL.revokeObjectURL(url);
+        console.log("Download initiated");
+      }, 100);
     }
-    console.log("Download function defined");
   `
 
   return (
     <div class={classNames(displayClass, "download-markdown-container")}>
       <button 
         class="download-markdown-button" 
-        onclick="console.log('Button clicked'); downloadMarkdown();"
+        onclick="downloadMarkdown(); return false;"
       >
         Download Markdown
       </button>

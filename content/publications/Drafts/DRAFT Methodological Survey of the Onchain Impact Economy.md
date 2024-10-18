@@ -4,10 +4,10 @@ author URL: https://www.clinamenic.com
 title: DRAFT Methodological Survey of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
 draft started: 0024-06-28
-date published:
+date published: 
 license: CC BY-SA 4.0
-sponsor(s): LexDAO, SuperBenefitDAO
-arweave hash:
+sponsor: LexDAO, SuperBenefitDAO
+arweave hash: 
 publish: true
 tags:
 ---
@@ -263,27 +263,11 @@ Text here
 
 Text here
 
-### 3.3 - Stakeholder Roles and Interests
-
-Text here
-
-#### Funders
-
-Text here
-
-#### Operators
-
-Text here
-
-#### Beneficiaries
-
-Text here
-
-### 3.4 - Unified Ontology for Impact Reporting
+### 3.3 - Unified Ontology for Impact Reporting
 
 Text here, Common Impact Data Standards
 
-### 3.5 - A Peer-to-Peer Parafiscal Paradigm
+### 3.4 - A Peer-to-Peer Parafiscal Paradigm
 
 Text here
 
