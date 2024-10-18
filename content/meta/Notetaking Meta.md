@@ -1,5 +1,5 @@
 ---
-public: true
+publish: true
 ---
 
 
