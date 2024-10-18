@@ -1,3 +1,7 @@
+---
+public: true
+---
+
 
 ## Things to Investigate
 
