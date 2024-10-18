@@ -1,19 +1,11 @@
 ---
 title: The Prince
 author: Niccolo Machiavelli
-Year:
-Link to Text:
+altDate: 1532
+source:
 publish: true
 tags:
   - text
----
-
-# The Prince
-
-## Author: Niccolò Machiavelli
-
-## Year: 1532
-
 ---
 
 ## CHAPTER I -- HOW MANY KINDS OF PRINCIPALITIES THERE ARE, AND BY WHAT MEANS THEY ARE ACQUIRED

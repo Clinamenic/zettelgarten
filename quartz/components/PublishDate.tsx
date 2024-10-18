@@ -2,35 +2,34 @@ import { QuartzComponentConstructor, QuartzComponent } from "./types"
 import "./styles/publishdate.scss"
 
 const PublishDate: QuartzComponent = ({ cfg, fileData }) => {
-  const publishDateStr = fileData.frontmatter?.["date published"]
-  if (!publishDateStr) return null
+  const publishDateStr = fileData.frontmatter?.["date"]
+  const altDateStr = fileData.frontmatter?.["altDate"]
 
-  const date = new Date(publishDateStr)
-  
-  // Check if the date is valid
-  if (isNaN(date.getTime())) {
-    console.error(`Invalid date: ${publishDateStr}`)
-    return null
+  if (!publishDateStr && !altDateStr) return null
+
+  const formatDate = (dateStr: string): string => {
+    const date = new Date(dateStr)
+    
+    // Check if the date is valid
+    if (!isNaN(date.getTime())) {
+      return date.toLocaleDateString(cfg.locale, {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      }).replace(/(\w+)\s(\d+),\s(\d+)/, (_, month, day, year) => 
+        `${month.toUpperCase()} ${day} ${year}`
+      )
+    }
+    
+    // If the date is invalid, return the original string
+    return dateStr
   }
 
-  const formatDate = (date: Date): string => {
-    const formattedDate = date.toLocaleDateString(cfg.locale, {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
-    })
-    
-    // Split the formatted date string
-    const [month, day, year] = formattedDate.split(' ')
-    
-    // Capitalize the month and reconstruct the date string
-    return `${month.toUpperCase()} ${day} ${year}`
-  }
+  const dateToDisplay = publishDateStr ? formatDate(publishDateStr) : altDateStr
 
   return (
     <div className="publish-date quartz-publish-date">
-      PUBLISHED ON{" "}
-      <time dateTime={date.toISOString()}>{formatDate(date)}</time>
+      <time dateTime={publishDateStr || altDateStr}>{dateToDisplay}</time>
     </div>
   )
 }

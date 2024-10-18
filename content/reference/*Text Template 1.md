@@ -1,7 +1,7 @@
 ---
 title: 
 author: 
-date published: 
+date: 
 Text URL: 
 license: 
 Started Reading: 

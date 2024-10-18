@@ -1,8 +1,8 @@
 ---
 title: Democracy in America
 author: Alexis de Tocqueville
-Year: 
-Link to Text: 
+altDate: 1835
+source:
 publish: true
 tags:
   - text
@@ -13,7 +13,7 @@ Associated works:
 
 ## Author: Alexis de Tocqueville
 
-## Year: 1835
+## Year:
 
 ---
 

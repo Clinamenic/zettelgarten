@@ -7,5 +7,7 @@ hideTitle: true
 downloadable: true
 tags:
 ---
+![PDF Title](quartz/static/scans/Common_Sense.pdf)
 
-![[Common Sense 1.png]]
+/quartz/static/scans/Common Sense.pdf
+![[NoteScan_CommonSense_1_.png]]

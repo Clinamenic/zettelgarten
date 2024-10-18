@@ -1,19 +1,11 @@
 ---
 title: A Treatise of Human Nature
 author: David Hume
-Year: "1738"
-Link to Text:
+altDate: 1738
+source:
 publish: true
 tags:
   - text
----
-
-# A Treatise of Human Nature
-
-## Author: David Hume
-
-## Year: 1738
-
 ---
 
 ## ADVERTISEMENT

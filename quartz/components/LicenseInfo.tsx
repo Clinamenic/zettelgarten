@@ -4,7 +4,7 @@ console.log("LicenseInfo styles imported")
 
 const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
   const author = fileData.frontmatter?.author
-  const authorUrl = fileData.frontmatter?.["author URL"]
+  const authorUrl = fileData.frontmatter?.["authorURL"]
   const license = fileData.frontmatter?.license
   const title = fileData.frontmatter?.title
   const publishDate = fileData.frontmatter?.["date published"]

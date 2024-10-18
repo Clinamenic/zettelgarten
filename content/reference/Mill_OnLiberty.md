@@ -1,19 +1,11 @@
 ---
 title: On Liberty
 author: John Stuart Mill
-Year:
-Link to Text:
+altDate: 1859
+source:
 publish: true
 tags:
   - text
----
-
-# On Liberty
-
-## Author: John Stuart Mill
-
-## Year: 1859
-
 ---
 
 ## I - Introductory

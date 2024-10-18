@@ -1,20 +1,12 @@
 ---
 title: An Inquiry into the Nature and Causes of the Wealth of Nations
 author: Adam Smith
-Year: 
-Link to Text: 
+altDate: 1776
+source: 
 publish: true
 tags:
   - text
 ---
-
-# The Wealth of Nations
-
-## Author: Adam Smith
-
-## Year: 1776
-
--------
 
 ##  INTRODUCTION AND PLAN OF THE WORK. 
 

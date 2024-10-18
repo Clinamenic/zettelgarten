@@ -1,19 +1,11 @@
 ---
 title: Meditations
 author: Marcus Aurelius
-date published: 
-Link to Text: 
+altDate: 170 AD
+source:
 publish: true
 tags:
   - text
----
-
-# Title: Meditations
-
-## Author: Marcus Aurelius
-
-## Year: 170 AD
-
 ---
 
 _Translated by George Long_

@@ -1,12 +1,12 @@
 ---
 author: Spencer Saar Cavanaugh
-author URL: https://www.clinamenic.com
+authorURL: https://www.clinamenic.com
 title:
 subtitle:
 draft started:
-date published:
+date:
 license:
-arweave hash:
+arweaveHash:
 publish: false
 tags:
   - personal-discourse/log

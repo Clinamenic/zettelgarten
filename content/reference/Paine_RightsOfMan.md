@@ -1,19 +1,11 @@
 ---
 title: Rights of Man
 author: Thomas Paine
-Year:
-Link to Text:
+altDate: 1791
+source:
 publish: true
 tags:
   - text
----
-
-# Rights of Man
-
-## Author: Thomas Paine
-
-## Year: 1791
-
 ---
 
 ## RIGHTS OF MAN. PART THE FIRST BEING AN ANSWER TO MR. BURKE'S ATTACK ON THE FRENCH REVOLUTION

@@ -1,8 +1,8 @@
 ---
 title: The Histories
 author: Herodotus
-Year:
-Link to Text:
+altDate: 440 BC
+source:
 publish: true
 tags:
   - text
@@ -12,7 +12,7 @@ tags:
 
 ## Author: Herodotus
 
-## Year: 440 BC
+## date: 440 BC
 
 ---
 

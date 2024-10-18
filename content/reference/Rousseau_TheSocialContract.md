@@ -1,19 +1,11 @@
 ---
 title: The Social Contract
 author: Jean-Jacques Rousseau
-Year:
-Link to Text:
+altDate: 1762
+source:
 publish: true
 tags:
   - text
----
-
-# The Social Contract
-
-## Author: Jean-Jacques Rousseau
-
-## Year: 1762
-
 ---
 
 _Translated by George Douglas Howard Cole_

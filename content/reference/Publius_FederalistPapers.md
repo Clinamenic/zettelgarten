@@ -1,18 +1,12 @@
 ---
 title: The Federalist Papers
 author: Alexander Hamilton, Thomas Jefferson, John Jay
-Year:
-Link to Text:
+altDate: 1787-1788
+source:
 publish: true
 tags:
   - text
 ---
-
-# Title: The Federalist Papers
-
-author: Publius
-
-Year: 1788
 
 ## Federalist No. 1. General Introduction
 

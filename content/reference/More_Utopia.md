@@ -1,19 +1,11 @@
 ---
 title: Utopia
 author: Thomas More
-Year:
-Link to Text:
+altDate: 1516
+source:
 publish: true
 tags:
   - text
----
-
-# Utopia
-
-## Author: Thomas More
-
-## Year: 1516
-
 ---
 
 ## DISCOURSES OF RAPHAEL HYTHLODAY, OF THE BEST STATE OF A COMMONWEALTH

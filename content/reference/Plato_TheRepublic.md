@@ -1,19 +1,11 @@
 ---
 title: The Republic
 author: Plato
-Year:
-Link to Text:
+altDate: 380 BC
+source:
 publish: true
 tags:
   - text
----
-
-# Title: The Republic
-
-## Author: Plato
-
-## Year: 380 BC
-
 ---
 
 _Translated by Benjamin Jowett_

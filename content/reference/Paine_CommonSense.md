@@ -1,19 +1,11 @@
 ---
 title: Common Sense
 author: Thomas Paine
-Year:
-Link to Text:
+altDate: 1776
+source:
 publish: true
 tags:
   - text
----
-
-# Common Sense
-
-## Author: Thomas Paine
-
-## Year: 1776
-
 ---
 
 ## INTRODUCTION.

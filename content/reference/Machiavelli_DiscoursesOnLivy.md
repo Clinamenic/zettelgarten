@@ -1,8 +1,8 @@
 ---
 title: Discourses on Livy
 author: Niccolo Machiavelli
-Year:
-Link to Text: https://library.memoryoftheworld.org/#/book/d2158f42-f4c0-4cce-99a9-996e6ae5d8c2
+altDate: c. 1517
+source: https://library.memoryoftheworld.org/#/book/d2158f42-f4c0-4cce-99a9-996e6ae5d8c2
 Description: 2013 Penguin Edition; Leslie Walker (Translator), Brian Richardson (Translation Revisor)
 publish: true
 tags:

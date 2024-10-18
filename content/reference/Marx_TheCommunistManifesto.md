@@ -1,19 +1,11 @@
 ---
 title: The Communist Manifesto
 author: Karl Marx, Friedrich Engels
-Year:
-Link to Text:
+altDate: 1848
+source:
 publish: true
 tags:
   - text
----
-
-# The Communist Manifesto
-
-## Author: Karl Marx & Friedrich Engels
-
-## Year: 1848
-
 ---
 
 A spectre is haunting Europe—the spectre of Communism. All the Powers of old Europe have entered into a holy alliance to exorcise this spectre: Pope and Czar, Metternich and Guizot, French Radicals and German police-spies.

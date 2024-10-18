@@ -1,19 +1,11 @@
 ---
 title: Philosophical Dictionary
 author: Voltaire
-Year:
-Link to Text:
+altDate: 1764
+source:
 publish: true
 tags:
   - text
----
-
-# Philosophical Dictionary
-
-## Author: Voltaire
-
-## Year: 1764
-
 ---
 
 ## _PREFACE_

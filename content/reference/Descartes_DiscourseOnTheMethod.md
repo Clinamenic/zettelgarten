@@ -1,19 +1,11 @@
 ---
 title: Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences
 author: Rene Descartes
-date published:
-Link to Text:
+altDate: 1637
+source:
 publish: true
 tags:
   - text
----
-
-# Discourse on the Method
-
-## Author: Rene Descartes
-
-## Year: 1637
-
 ---
 
 ### PREFATORY NOTE BY THE AUTHOR

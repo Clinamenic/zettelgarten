@@ -1,9 +1,8 @@
 ---
 title: The General Theory of Employment, Interest and Money
 author: John Maynard Keynes
-Secondary Author(s): 
-Year: "1936"
-Attached Text: "[[Keynes_GeneralTheory_PDF.pdf]]"
+altDate: 1936
+attachmentPDF: "[[Keynes_GeneralTheory_PDF.pdf]]"
 publish: true
 tags:
   - text

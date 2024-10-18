@@ -1,26 +1,18 @@
 ---
 title: On War
 author: Carl von Clausewitz
-Year:
-Link to Text:
+altDate: 1832
+source:
 publish: true
 tags:
   - text
 ---
 
-# On War
-
-## Author: Carl von Clausewitz
-
-## Year: 1832
-
----
-
 _Translated by Colonel J.J. Graham_
 
-### BOOK I. ON THE NATURE OF WAR
+## BOOK I. ON THE NATURE OF WAR
 
-#### CHAPTER I. What is War?
+### CHAPTER I. What is War?
 
 #### 1 - INTRODUCTION.
 

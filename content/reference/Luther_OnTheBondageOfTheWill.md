@@ -1,19 +1,11 @@
 ---
 title: On the Bondage of the Will
 author: Martin Luther
-Year: 
-Link to Text: 
+altDate: 1525
+source:
 publish: true
 tags:
   - text
----
-
-# Title: On the Bondage of the Will
-
-## Author: Martin Luther
-
-## Year: 1525
-
 ---
 
 _Translated by Henry Cole_

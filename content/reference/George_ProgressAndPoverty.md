@@ -1,45 +1,11 @@
 ---
 title: Progress and Poverty
 author: Henry George
-Year: 
-Link to Text: 
+altDate: 1879
+source:
 publish: true
 tags:
 ---
-# Content
-
-
-
-PROGRESS AND POVERTY
-
-BOOKS BY HENRY GEORGE
-
-On sale by the Robert Schalkenbach Foundation, 11 Park Place, New York.
-
-PROGRESS AND POVERTY .
-
-PROTECTION OR FREE TRADE .
-
-SOCIAL PROBLEMS
-
-THE LAND QUESTION, ETC.. (Contains also H Condition of Labor"
-
-and "Property in Land'')  
-THE LIFE OF HENRY GEORGE .
-
-By Henry George, Jr.
-
-THE SCIENCE OF POLITICAL ECONOMY
-
-THE PHILOSOPHY OF HENRY  
-GEORGE (With Introduction by Dr.  
-John Dewey) . . $2.50
-
-By Professor George R. Geiger
-
-A list of other publications, with prices, will be supplied on application.
-
-© R.S.F. From the Oil Portrait HENRY GEORGE by Harry Thurston See.
 
 PROGRESS AND POVERTY
 
@@ -300,9 +266,7 @@ I.-The inquiry narrowed to the laws.of distribution-
 necessary relation of these laws . IL-Rentandthelawofrent . . . .
 
 - .  ..
-    
 - .  . .
-    
 
 ... 153 . . . 165 ... 173
 
@@ -455,9 +419,9 @@ develop into the conditions toward which material prog- ress tends-proves that t
 
 And, unpleasant as it may be to admit it, it is at last becoming evident that the enormous increase in produc- tive power which has marked the present century and is still going on with accelerating ratio, has no tendency to extirpate poverty or to lighten the burdens of those compelled to toil. It simply widens the gulf between Dives and Lazarus, and makes the struggle for exist- ence more intense. The march of invention has clothed mankind with powers of which a century ago the bold- est imagination could not have dreamed. But in fac- tories where labor-saving ma.chinery has reached its most wonderful development, little children are at work; wherever the new forces are anything like fully utilized, large classes are maintained by charity or live on the verge of recourse to it; amid the greatest" accumulations of wea.lth, men die of starvation, and puny infants suckle dry breasts; while everywhere the greed of gain, the worship of wealth, shows the force of the fear of want. The promised land flies before us like the mirage. The fruits of the tree of knowledge turn as we grasp them to apples of Sodom that crumble at the touch.
 
-It is true that wealth has been greatly increased, and that the average of comfort, leisure, and refinement has been raised; but these gains are not general. In them the lowest class do not share.*' I do not mean that the
+It is true that wealth has been greatly increased, and that the average of comfort, leisure, and refinement has been raised; but these gains are not general. In them the lowest class do not share.\*' I do not mean that the
 
-*It is true that the poorest may now in certain ways enjoy what the richest a century ago could not have commanded, but this does not show improvement of condition so long as the ability to obtain the necessarieB of life is not increased. The beggar in a great city may enjoy many things from which the backwoods farmer is debarred, but that does not prove the con-
+\*It is true that the poorest may now in certain ways enjoy what the richest a century ago could not have commanded, but this does not show improvement of condition so long as the ability to obtain the necessarieB of life is not increased. The beggar in a great city may enjoy many things from which the backwoods farmer is debarred, but that does not prove the con-
 
 THE PROBLEM 9
 
@@ -537,11 +501,11 @@ check only by the possibilities of the quotient, the divi- dend may be increased
 
 18 WAGES AND CAPITAL Book 1.
 
-generally more formal than real.* It is assumed by Buckle as the basis of his generalizations of universal history. It is taught in all, or nearly all, the great Eng- lish and American universities, and is laid down in textbooks which aim at leading the masses to reason cor- rectly upon practical affairs, while it seems to harmonize with the new philosophy, which, having in a few years all but conquered the scientific world, is now rapidly per- meating the general mind.
+generally more formal than real.\* It is assumed by Buckle as the basis of his generalizations of universal history. It is taught in all, or nearly all, the great Eng- lish and American universities, and is laid down in textbooks which aim at leading the masses to reason cor- rectly upon practical affairs, while it seems to harmonize with the new philosophy, which, having in a few years all but conquered the scientific world, is now rapidly per- meating the general mind.
 
 Thus entrenched in the upper·regions of thought, it is in cruder form even more firmly rooted in what may be styled the lower. What gives to the fallacies of protec- tion such a tenacious hold, in spite of their evident in- consistencies and absurdities, is the idea that the sum to be distributed in wages is in each community a fixed one, which the competition of "foreign labor" must still further subdivide. The same idea underlies most of the theories which aim at the abolition of interest and the restriction of competition, as the means whereby the share of the laborer in the general wealth can be in- crea.sed; and it crops out in every direction among those who are not thoughtful enough to have any theories, as may be seen in the columns of newspapers and the debates of legislative bodies.
 
-*This seems to me true of Mr. Thornton's objections, for while he denies the existence of a predetermined wage fund, consisting of a portion of capital set apart for the purchase of labor, he yet holds (which is the essential thing) that wages are drawn from capital, and that increase or decrease of capital is increase or de- crease of the fund available for the payment of wages. The most vital attack upon the wage fund doctrine of which I know is that of Professor Francis A. Walker (The Wages Question: New York, 1876), yet he admits that wages are in large part advanced from capital-which, so far as it goes, is all that the stanchest supporter of the wage fund theory could claim-while he fully accepts the Malthusian theory. Thus his practical conclusions in nowise differ from those reached by expounders of the current theory.
+\*This seems to me true of Mr. Thornton's objections, for while he denies the existence of a predetermined wage fund, consisting of a portion of capital set apart for the purchase of labor, he yet holds (which is the essential thing) that wages are drawn from capital, and that increase or decrease of capital is increase or de- crease of the fund available for the payment of wages. The most vital attack upon the wage fund doctrine of which I know is that of Professor Francis A. Walker (The Wages Question: New York, 1876), yet he admits that wages are in large part advanced from capital-which, so far as it goes, is all that the stanchest supporter of the wage fund theory could claim-while he fully accepts the Malthusian theory. Thus his practical conclusions in nowise differ from those reached by expounders of the current theory.
 
 Chap. I. THE CURRENT DOCTRINE 19
 
@@ -557,17 +521,17 @@ the ordinary bank rate of interest was twenty-four per cent. per annum. Now that
 
 Now, this broad, general fact, that wages are higher in new countries, where capital is relatively scarce, than in old countries, where capital is relatively abun- dant, is too glaring to be ignored. And although very lightly touched upon, it is noticed by the expounders of the current political economy. The manner in which it is noticed proves what I say, that it is utterly incon- sistent with the accepted theory of wages. For in ex- plaining it such. writers as Mill, Fawcett, and Price virtually give up the theory of wages upon which, in the same treatises, they formally insist. Though they declare that wages are fixed by the ratio between capital and 13Jborers, they explain the higher wages and interest of new countries by the greater relative production of wealth. I shall hereafter show that this is not the fact, but that, on the contrary, the production of wealth is relatively larger in old and dens'ely populated countries than in new and sparsely populated countries. But at . present I merely wish to point out the inconsistency. For to say that the higher wages of new countries are due to greater proportionate production, is clearly to make the ratio with production, and not the ratio with capital, the determinator of wages.
 
-Though this inconsistency does not seem to have been perceived by the class of writers to whom I refer, it has been noticed by one of the most logical of the expound- ers of the current political economy. Professor Cairnes* endeavors in a very ingenious way to reconcile the fact with the theory, by assuming that in new countries,
+Though this inconsistency does not seem to have been perceived by the class of writers to whom I refer, it has been noticed by one of the most logical of the expound- ers of the current political economy. Professor Cairnes\* endeavors in a very ingenious way to reconcile the fact with the theory, by assuming that in new countries,
 
-*Some Leading Principles of Political Economy Newly Ex- pounded, Chapter 1, Part 2.
+\*Some Leading Principles of Political Economy Newly Ex- pounded, Chapter 1, Part 2.
 
 Chap. I. THE CURRENT DOCTRINE 21
 
 where industry is generally directed to the production of food and what in manufactures is called raw material,'a much larger proportion of the capital used in produc- tion is devoted to the payment of wages than in older countries where a greater part must be expended in machinery and material, and thus, in the new country, though capital is scarcer, and interest is higher, the amount determined to the payment of wages is really larger, and wages are also higher. For instance, of $100,000 devoted in an old country to manufactures, $80,000 would probably be expended for buildings, ma- chinery and the purchase of materials, leaving but $20,000 to be paid out in wages; whereas in a new country, of $30,000 devoted to agriculture, etc., not more than $5,000 would be required for tools,'etc., leav- ing $25,000 to be distributed in wages. In this way it is explained that the wage fund may be comparatively large where capital is comparatively scarce, and high wages and high interest accompany each other.
 
-In what follows I think I shall be able to show that this explanation is bas.ed upon a total misapprehension of the relations of labor to capital-a fundamental error as to the fund from which wages are drawn; but at pres- ent it is necessary only to point out that the connection in the fluctuation of wages and interest in the same countries and in the same branches of industry cannot thus be -explained. In those alternations known as "good times" and "hard times" a brisk demand for labor and good wages is always a.ccompanied by a brisk demand for capital and stiff rates of interest. While, when laborers cannot find employment and wages droop, there is always an accumulation of capital seeking investment at low rates.* The present depression has been no less
+In what follows I think I shall be able to show that this explanation is bas.ed upon a total misapprehension of the relations of labor to capital-a fundamental error as to the fund from which wages are drawn; but at pres- ent it is necessary only to point out that the connection in the fluctuation of wages and interest in the same countries and in the same branches of industry cannot thus be -explained. In those alternations known as "good times" and "hard times" a brisk demand for labor and good wages is always a.ccompanied by a brisk demand for capital and stiff rates of interest. While, when laborers cannot find employment and wages droop, there is always an accumulation of capital seeking investment at low rates.\* The present depression has been no less
 
-*Times of commercial panic are marked by high rates of dis- count, but this is evidently not a high rate of interest, properly so called, but a high rate of insurance against risk.
+\*Times of commercial panic are marked by high rates of dis- count, but this is evidently not a high rate of interest, properly so called, but a high rate of insurance against risk.
 
 22 WAGES AND CAPITAL Book I.
 
@@ -579,9 +543,9 @@ How, then, it will be asked, could such a theory arise? How is it that it has be
 
 If we examine the reasoning by which in current treatises this theory of wages is supported, we see at once that it is not andnduction from observed facts, but a deduction from a previously assumed theory- viz., that wages are drawn from capital. It being assumed that capital is the source of wages, it neces- sarily follows that the gross amount of wages must be limited by the amount of capital devoted to the em- ployment of labor, and hence that the amount individual laborers can rec-eive must be determined by the ratio
 
-between their number and the amount of capital exist- ing for their recompense.* This reasoning is valid, but
+between their number and the amount of capital exist- ing for their recompense.\* This reasoning is valid, but
 
-*For instance McCulloch (Note VI to Wealth of Nations) says: "That portion of the capital.or wealth of a country which the employers of labor intend to or are willing to payout in the purchase of labor, may be much larger at one time than another, But whatever may be its absolute magnitude, it obviously formf5
+\*For instance McCulloch (Note VI to Wealth of Nations) says: "That portion of the capital.or wealth of a country which the employers of labor intend to or are willing to payout in the purchase of labor, may be much larger at one time than another, But whatever may be its absolute magnitude, it obviously formf5
 
 Chap I. THE CURRENT DOCTRINE 23
 
@@ -591,13 +555,13 @@ I am aware tha,t the theorem that wages are drawn from capital is one of the mos
 
 The proposition I shall endeavor to prove, is:
 
-That w1ages, instead of being drawn from capital, .are in reality drawn from the product of the labor for which they are paid.*
+That w1ages, instead of being drawn from capital, .are in reality drawn from the product of the labor for which they are paid.\*
 
 Now; inasmuch as the current theory that wages are
 
 the only source from which any portion of the wages of labor can be derived. No other fund is in existence from which the laborer, as such, can draw a single shilling. And hence it follows that the average rate of wages, or the share of the national capi- tal appropriated to the employment of labor falling., at an aver- age, to each laborer, must entirely depend on its amount as compared with the number of those amongst whom it has to be divided." Similar citations might be made from all the stand- ard economists.
 
-*Weare speaking of labor expended in production, to which it is best for the sake of simplicity to confine the inquiry. Any question which may arise in the reader's mind as to wages for unproductive services had best therefore be deferred.
+\*Weare speaking of labor expended in production, to which it is best for the sake of simplicity to confine the inquiry. Any question which may arise in the reader's mind as to wages for unproductive services had best therefore be deferred.
 
 24 WAGES AND CAPITAL Book 1.
 
@@ -680,7 +644,7 @@ Thus the term labor includes all human exertion in the production of wealth, and
 
 Chap. II. THE MEANING OF THE TERMS 33
 
-guished from the return received for the use of .capital, and the return received by the landholder for the use of land. The man who cultivates the soil for himself receives his wages in its produce, just as, if he uses his own capital and owns his own land, he may also receive interest and rent; the hunter's wages are the game he kills; the fisherman's wages are the fish he takes. The gold washed out by the self-employing gold-digger is as much his wages as the money paid to the hired coal miner by the purchaser of his labor,* and, as Adam Smith shows, the high profits of retail storekeepers are in large part wages, being the recompense of their labor and not of their capital. In short, whatever is received as the result or reward of exertion is "wages."
+guished from the return received for the use of .capital, and the return received by the landholder for the use of land. The man who cultivates the soil for himself receives his wages in its produce, just as, if he uses his own capital and owns his own land, he may also receive interest and rent; the hunter's wages are the game he kills; the fisherman's wages are the fish he takes. The gold washed out by the self-employing gold-digger is as much his wages as the money paid to the hired coal miner by the purchaser of his labor,\* and, as Adam Smith shows, the high profits of retail storekeepers are in large part wages, being the recompense of their labor and not of their capital. In short, whatever is received as the result or reward of exertion is "wages."
 
 This is all it is now necessary to note as to "wages," but it is important to keep this in mind. For in the standard economic works this sense of the term wages is recognized with greater or less clearness only to be subsequently ignored.
 
@@ -688,7 +652,7 @@ But it is more difficult to clear away from the idea of capital the ambiguities 
 
 "That part of a man's stock," says Adam Smith (Book II, Chap. I), "which he expects to afford him a revenue, is called his capital," and the capital of a country or society, he goes on to say, consists of (1) machines and instruments of trade which facilitate and
 
-*This was recognized in common speech in California, where the placer miners styled their earnings their Uwages," and spoke of making high wages or low wages according to the amount of gold taken out.
+\*This was recognized in common speech in California, where the placer miners styled their earnings their Uwages," and spoke of making high wages or low wages according to the amount of gold taken out.
 
 34 WAGES AND CAPITAL Book I.
 
@@ -825,9 +789,9 @@ Chap. II. THE MEANING OF THE TERMS 47
 
 possession of a hotel-keeper or a restaurateur would be accounted capital, but not the food in the pantry of a housewife,. or in the lunch basket of a workman. Pig iron in the hands of the smelter, or founder, or dealer, would be accounted capital, but not the pig iron used as ballast in the hold of a yacht. The bellows of a blacksmith, the looms of a factory, would be capital, but not the sewing machine of a woman who doeB only her own work; a building let for hire, or used for busi- ness or productive purposes, but not a homestead. In short, I think we should find that now, as when Dr. Adam Smith wrote, "that part of a man's stock which he expects to yield him a revenue is called his capital." And, omitting his unfortunate slip as to personal quali- ties, and qualifying somewhat his enumeration of money, it is doubtful if we could better list the different articles of capital than did Adam Smith in the passage which in the previous part of this chapter I have con- densed.
 
-Now, if, after having thus separated the wealth that is capital from the wealth that is not capital, we look for the distinction between the two classes, we shall not find it to be as to the character, capabilities, or final destination of the things themselves, as has been vainly attempted to draw it; but it seems to me that we shall find it to be as to whether they are or are not in the possession of the consumer.* Such articles of wealth as in themselves, in their uses, or in their products, are
+Now, if, after having thus separated the wealth that is capital from the wealth that is not capital, we look for the distinction between the two classes, we shall not find it to be as to the character, capabilities, or final destination of the things themselves, as has been vainly attempted to draw it; but it seems to me that we shall find it to be as to whether they are or are not in the possession of the consumer.\* Such articles of wealth as in themselves, in their uses, or in their products, are
 
-*Money may be said to be in the hands of the consumer when devoted to the procurement of gratification, as, though not in itself devoted to consumption, it represents wealth which is; and thus what in the previous paragraph I have given as the common classification would be covered by this distinction, and would be substantially correct. In speaking of money in this connection, I am of course speaking of coin, for although paper money may perform all the functions of coin, it is not wealth, and cannot therefore be capital.
+\*Money may be said to be in the hands of the consumer when devoted to the procurement of gratification, as, though not in itself devoted to consumption, it represents wealth which is; and thus what in the previous paragraph I have given as the common classification would be covered by this distinction, and would be substantially correct. In speaking of money in this connection, I am of course speaking of coin, for although paper money may perform all the functions of coin, it is not wealth, and cannot therefore be capital.
 
 48 WAGES AND CAPITAL Book 1.
 
@@ -920,9 +884,9 @@ Wherever we analyze the facts this will be found to be true. For labor always pr
 
 vance payments are made for personal services are evi- dently referable either to charity or to guarantee and purchase. The name "retainer," given to advance pay- ments to lawyers, shows the true character of the trans- action, as does the name "blood money" given in 'longshore vernacular to a payment which is nominally wages advanced to sailors, but which in reality is pur- chase money-both English and American law consider- ing a- sailor as much a chattel as a pig.
 
-I dwell on this obvious fact that labor always pre- cedes wages, because it is all-important to an under- standing of the mOJ.:e complicated phenomena of wages that it should be kept in mind. And obvious as it is, as I have put it, the plausibility of the proposition that wages are drawn from capital-a proposition that is made the basis for such important and far-reaching de- ductions-comes in the first instance from a statement that ignores and leads the attention away from this truth. That statement is, that labor cannot exert its produc- tive power unless supplied by capital with mainte- nance.* The unwary reader at once recognizes the fact that the laborer must have food, clothing, etc., in order
+I dwell on this obvious fact that labor always pre- cedes wages, because it is all-important to an under- standing of the mOJ.:e complicated phenomena of wages that it should be kept in mind. And obvious as it is, as I have put it, the plausibility of the proposition that wages are drawn from capital-a proposition that is made the basis for such important and far-reaching de- ductions-comes in the first instance from a statement that ignores and leads the attention away from this truth. That statement is, that labor cannot exert its produc- tive power unless supplied by capital with mainte- nance.\* The unwary reader at once recognizes the fact that the laborer must have food, clothing, etc., in order
 
-*Industry is limited by capital. . .. There can be no more industry than is supplied with materials to work up and food to
+\*Industry is limited by capital. . .. There can be no more industry than is supplied with materials to work up and food to
 
 58 WAGES AND CAPITAL Book 1.
 
@@ -940,11 +904,11 @@ The payment of wages, therefore, always implies the previous rendering of labor.
 
 60 WAGES AND CAPITAL Book I.
 
-by the lahor, how can it be said that wages are drawn from capital or advanced by capital? As in the ex- change of labor for wages· the employer always gets the capital created by the labor before he pays out capi- tal in the wages, at what point is his capital lessened even temporarily? *
+by the lahor, how can it be said that wages are drawn from capital or advanced by capital? As in the ex- change of labor for wages· the employer always gets the capital created by the labor before he pays out capi- tal in the wages, at what point is his capital lessened even temporarily? \*
 
 Bring the question to the test of facts. Take, for in- stance, an employing manufacturer who is engaged in turning raw material into finished products-cotton into cloth, iron into hardware, leather into boots, or so OD, as may be, and who pays his hands, as is generally the case, once a, week. Make an exact inventory of his capital on Monday morning before the beginning of work, and it will consist of his buildings, machineryf raw materials, money on hand, and finished products in stock. Suppose, for the sake of simplicity, that he neither buys nor sells during the week, and after work has stopped and he has paid his hands on Saturday night, take a new inventory of his capital. The item of money will be less, for it has been paid out in wages; there will be less raw material, less coal, etc., and a proper deduction must be made from the value of the buildings and machinery for the week's wear and tear. But if he is doing a remunerative business, which must
 
-*I speak of labor producing capital for the sake of greater clearness. What labor always procures is either wealth, which mayor may not be capital, or services, the cases in which noth- ing is obtained being merely exceptional cases of misadventure. Where the object of the labor is simply the gratification of the employer, as where I hire a man to black my boots, I do not pay the wages from capital, but from wealth which I have devoted, not to reproductive uses, but to consumption for my own satis- faction. Even if wages thus paid be considered as drawn from capital, then by that act they pass from the category of capital to that of wealth devoted to the gratification of the possessor, as when a cigar dealer takes a dozen cigars from the stock he has for sale and puts them in his pocket for his own use.
+\*I speak of labor producing capital for the sake of greater clearness. What labor always procures is either wealth, which mayor may not be capital, or services, the cases in which noth- ing is obtained being merely exceptional cases of misadventure. Where the object of the labor is simply the gratification of the employer, as where I hire a man to black my boots, I do not pay the wages from capital, but from wealth which I have devoted, not to reproductive uses, but to consumption for my own satis- faction. Even if wages thus paid be considered as drawn from capital, then by that act they pass from the category of capital to that of wealth devoted to the gratification of the possessor, as when a cigar dealer takes a dozen cigars from the stock he has for sale and puts them in his pocket for his own use.
 
 Chap. Ill. WAGES NOT DBAWN FROM CAPITAL 61
 
@@ -1040,17 +1004,17 @@ But a stumbling block may yet remain, or may recur, in the mind of the reader.
 
 As the plowman cannot eat the furrow, nor a partially completed steam engine aid in any way in producing the clothes the machinist wears, have I not, in the words of John Stuart Mill, "for.gotten that the people of a coun- try are maintained and have their wants supplied, not by the produce of present labor, but of past?" Or, to
 
-use the language of a popular elementary work-that of Mrs. Fawcett-have I not "forgotten that many months must elapse between the sowing of the seed and the time when the produce of that seed is converted into a loaf of bread," and that "it is, therefore, evident that laborers cannot live upon that which their labor is assist- ing to produce, but are maintained by that wealth which their labor, or the labor of others, has previously pro- duced, which wealth is capital?" *
+use the language of a popular elementary work-that of Mrs. Fawcett-have I not "forgotten that many months must elapse between the sowing of the seed and the time when the produce of that seed is converted into a loaf of bread," and that "it is, therefore, evident that laborers cannot live upon that which their labor is assist- ing to produce, but are maintained by that wealth which their labor, or the labor of others, has previously pro- duced, which wealth is capital?" \*
 
 The assumption made in these passages-the assump- tion that it is so self-evident that labor must be subsisted from capital that the proposition has but to be stated to compel recognition-runs through the whole fabric of current political economy. And so confidently is it held that the maintenance of labor is drawn from capi-
 
-*Political Economy for Beginners, by Millicent GaITett Faw- cett, Chap. III, p. 25.
+\*Political Economy for Beginners, by Millicent GaITett Faw- cett, Chap. III, p. 25.
 
 71
 
 72 WAGES AND CAPITAL Book 1.
 
-tal that the proposition that "population regulates itself by the funds which are to employ it, and, therefore, al- ways increases or diminishes with the increase or diminu- tion of capital," * is regarded as equally axiomatic, and in its turn made the basis of important reasoning.
+tal that the proposition that "population regulates itself by the funds which are to employ it, and, therefore, al- ways increases or diminishes with the increase or diminu- tion of capital," \* is regarded as equally axiomatic, and in its turn made the basis of important reasoning.
 
 Yet being resolved, these propositions are seen to be, not self-evident, but absurd; for they involve the idea that labor cannot be exerted until the products of labor are saved-thus putting the product before the producer.
 
@@ -1060,7 +1024,7 @@ I have already pointed out the fallacy, concealed by an erroneous definition, wh
 
 in the production of wealth or not. Unless this distinc-
 
-*The words quoted are Ricardo's (Chap. II); but the idea is common in standard works.
+\*The words quoted are Ricardo's (Chap. II); but the idea is common in standard works.
 
 Chap. IV. LABORERS NOT MAINTAINED BY CAPITAL 73
 
@@ -1182,11 +1146,11 @@ want they manage to acquire, and in some forms in spite of the greatest difficul
 
 In the reign of George IV, some returning mission- aries took with them to England a New Zealand chief called Hongi. His noble appearance and beautiful tatooing attracted much attention, and when about to return to his people he was presented by the monarch and some ·of the religious societies with a considerable stock of tools, agricultural instruments, and seeds. The grateful New Zealander did use this capital in the pro- duction of food, but it was in a manner of which his English entertainers little dreamed. In Sydney, on his way back, he exchanged it all for arms and ammunition, with which, on getting home, he began war against an- other tribe with such success that on the first battle field three hundred of his prisoners were cooked and eaten, Hongi having preluded the main repast by scooping out and swallowing the eyes and sucking the warm blood of
 
-his mortally wounded adversary, the opposing chief.* But now that their once constant wars have ceased, and the remnant of the Maoris have largely adopted Euro- pean habits, there are among them many who have and use considerable amounts of capital.
+his mortally wounded adversary, the opposing chief.\* But now that their once constant wars have ceased, and the remnant of the Maoris have largely adopted Euro- pean habits, there are among them many who have and use considerable amounts of capital.
 
 Likewise it would be a mistake to attribute the simple modes of production and exchange which are resorted to in new communities soI.elyto a want of capital. These modes, which require little capital, are in them- selves rude and inefficient, but when the conditions of
 
-*New Zealand and its Inhabitants. Rev. Richard Taylor. London, 1855. Chap. XXI.
+\*New Zealand and its Inhabitants. Rev. Richard Taylor. London, 1855. Chap. XXI.
 
 86 WAGES AND CAPITAL Book 1.
 
@@ -1289,7 +1253,7 @@ ated by some of those who fully accept that doctrine; as, for instance, John Stu
 
 Chap. I. THE MALTHUSIAN THEORY 95
 
-do not admit of it, which every person capable of rea- soning must see is wholly superfluous to the argument." * The essence of the Malthusian doctrine is, that popula- tion tends to increase faster than the power of providing food, and whether this difference be stated as a geometri- cal ratio for population and an arithmetical ratio for subsistence, as by Malthus; or as a constant ratio for population and a diminishing ratio for subsistence, as by Mill, is only a matter of statement. The vital point, on which both agree, is, to use the words of Malthus, "that there is a natural tendency and constant effort in population to increase beyond the means of subsist- ence."
+do not admit of it, which every person capable of rea- soning must see is wholly superfluous to the argument." \* The essence of the Malthusian doctrine is, that popula- tion tends to increase faster than the power of providing food, and whether this difference be stated as a geometri- cal ratio for population and an arithmetical ratio for subsistence, as by Malthus; or as a constant ratio for population and a diminishing ratio for subsistence, as by Mill, is only a matter of statement. The vital point, on which both agree, is, to use the words of Malthus, "that there is a natural tendency and constant effort in population to increase beyond the means of subsist- ence."
 
 The Malthusian doctrine, as at present held, may be thus stated in its strongest and least objectionable form: That population, constantly tending to increase, must,
 
@@ -1297,7 +1261,7 @@ when unrestrained, ultimately press against the limits of subsistence, not as ag
 
 Although in reality not more repugnant to the sense of harmonious adaptation by creative beneficence and wisdom than the complacent no-theory which throws the responsibility for poverty and its concomitants upon the inscrutable decrees of Providence, without attempt-
 
-*Principles of Political Economy, Book II, Chap. IX, Sec. VI. -Yet notwithstanding what Mill says, it is clear that Malthus himself lays great stress upon his geometrical and arithmetical ratios, and it is also probable that it is to these ratios that Mal- thus is largely indebted for his fame, as they supplied one of those high-sounding formulas that with many people carry far more weight than the clearest reasoning.
+\*Principles of Political Economy, Book II, Chap. IX, Sec. VI. -Yet notwithstanding what Mill says, it is clear that Malthus himself lays great stress upon his geometrical and arithmetical ratios, and it is also probable that it is to these ratios that Mal- thus is largely indebted for his fame, as they supplied one of those high-sounding formulas that with many people carry far more weight than the clearest reasoning.
 
 96 POPULATION AND SUBSISTENCE Book II.
 
@@ -1309,11 +1273,11 @@ The Malthusian theory furnishes a general principle which accounts for these and
 
 Chap. I. THE MALTHUSIAN THEORY 97
 
-ciples that are deduced from it. According to the cur- rent doctrine of wages, wages fall as increase in the number of laborers necessitates a more minute division of capital; according to the Malthusian theory, poverty appears as increase in population necessitates the more minute division of subsistence. It requires but the identification of capital with subsistence, and number of laborers with population, an identification made in the current treatises on political economy, where the terms are often converted, to make the two propositions as identical formally as they are substantially.* And thus it is, as stated by Buckle in the passage previously quoted, that the theory of population advanced by Mal- thus has appeared to prove decisively the theory of wages advanced by Smith.
+ciples that are deduced from it. According to the cur- rent doctrine of wages, wages fall as increase in the number of laborers necessitates a more minute division of capital; according to the Malthusian theory, poverty appears as increase in population necessitates the more minute division of subsistence. It requires but the identification of capital with subsistence, and number of laborers with population, an identification made in the current treatises on political economy, where the terms are often converted, to make the two propositions as identical formally as they are substantially.\* And thus it is, as stated by Buckle in the passage previously quoted, that the theory of population advanced by Mal- thus has appeared to prove decisively the theory of wages advanced by Smith.
 
 Ricardo, who a few years subsequent to the publica- tion of the "Essay on Population" corrected the mistake into which Smith had fallen as to the nature and cause of rent, furnished the Malthusian theory an additional support by calling attention to the fact that rent would increase as the necessities of increasing population forced cultivation to less and less productive lands, or to less and less productive points on the same lands, thus ex- plaining the rise of rent. In this way was formed a triple combination, by which the Malthusian theory has been buttressed on both sides-the previously received doctrine of wages and the subsequently received doc- trine of rent exhibiting in this view but special examples of the operation of the general principle to which the name of Malthus has been attached-the fall in wages and the rise in rents which come with increasing popula-
 
-*The effect of the Malthusian doctrine upon the definitions of capital may, I think, be seen by comparing (see pp. 33, 34, 35) the definition of Smith, who wrote prior to Malthus, with the definitions of Ricardo, McCulloch and Mill, who wrote subse- quently.
+\*The effect of the Malthusian doctrine upon the definitions of capital may, I think, be seen by comparing (see pp. 33, 34, 35) the definition of Smith, who wrote prior to Malthus, with the definitions of Ricardo, McCulloch and Mill, who wrote subse- quently.
 
 98 POPULATION AND SUBSISTENCE Book 11.
 
@@ -1337,13 +1301,13 @@ a tendency to increase potent enough to pack the sur- face of the globe with hum
 
 A theory that, falling in with the habits of thought of the poorer classes, thus justifies the greed of the rich and the selfishness of the powerful, will spread quickly and strike its roots deep. This has been the case with the theory advanced by Malthus.
 
-And of late years the Malthusian theory has received new support in the rapid change of ideas as to the origin of man and the genesis of species. That Buckle was right in saying that the promulgation of the Malthusian theory marked an epoch in the history of speculative thought could, it seems to me, be easily shown; yet to trace its influence in the higher domains of philosophy, of which Buckle's own work is an example, would, though extremely interesting, carry us beyond the scope of this investigation. But how much be reflex and how much original, the support which is given to the Malthu- sian theory by the new philosophy of development, now rapidly spreading in every direction, must be noted in any estimate of the sources from which this theory de- rives its present strength. As in political economy, the support received from the doctrine of wages and the doctrine of rent combined to raise the Malthusian theory to the rank of a central truth, so the extension of similar ideas to the development of Ii,fe in all its forms has the effect of giving it a still higher and more impregnable position. Agassiz, who, to the day of his death, was a strenuous opponent of the new philosophy, spoke of Darwinism as "Malthus all over," * and Darwin himself
+And of late years the Malthusian theory has received new support in the rapid change of ideas as to the origin of man and the genesis of species. That Buckle was right in saying that the promulgation of the Malthusian theory marked an epoch in the history of speculative thought could, it seems to me, be easily shown; yet to trace its influence in the higher domains of philosophy, of which Buckle's own work is an example, would, though extremely interesting, carry us beyond the scope of this investigation. But how much be reflex and how much original, the support which is given to the Malthu- sian theory by the new philosophy of development, now rapidly spreading in every direction, must be noted in any estimate of the sources from which this theory de- rives its present strength. As in political economy, the support received from the doctrine of wages and the doctrine of rent combined to raise the Malthusian theory to the rank of a central truth, so the extension of similar ideas to the development of Ii,fe in all its forms has the effect of giving it a still higher and more impregnable position. Agassiz, who, to the day of his death, was a strenuous opponent of the new philosophy, spoke of Darwinism as "Malthus all over," \* and Darwin himself
 
-*Address before Massachusetts State Board of Agriculture, 18'72. Report U. S. Department of Agriculture, 1873.
+\*Address before Massachusetts State Board of Agriculture, 18'72. Report U. S. Department of Agriculture, 1873.
 
 Chap. I. THE MALTHUSIAN THEORY 101
 
-says the struggle for existence "is the doctrine of Mal- thus applied with manifold force to the whole animal and vegetable kingdoms." *
+says the struggle for existence "is the doctrine of Mal- thus applied with manifold force to the whole animal and vegetable kingdoms." \*
 
 It does not, however, seem to me exactly correct to say that the theory of development by natural selection or survival of the fittest is extended Malthusianism, for the doctrine of Malthus did not originally and does not necessarily involve the idea of progression. But this was soon added to it. McCullocht attributes to the "prin- ciple of increase" social improvement and the progress of the arts, and declares that the poverty that it engen- ders acts as a powerful stimulus to the development of industry, the extension of science and the accumulation of wealth by the upper and middle classes, without which stimulus society would quickly sink into apathy and de- cay. What is this but the recognition in regard to
 
@@ -1351,8 +1315,8 @@ human society of the developing effects of the "struggle for existence" and "sur
 
 Thus commended and seemingly proved, thus linked and buttressed, the Malthusian theory-the doctrine that poverty is due to the pressure of population against subsistence, or, to put it in its other form, the doctrine that the tendency to increase in the number of laborers must always tend to reduce wages to the minimum on
 
-* Origin of Species, Chap. III.  
-t Note IV to· Wealth of Nations.
+- Origin of Species, Chap. III.  
+  t Note IV to· Wealth of Nations.
 
 102 POPULATION AND SUBSISTENCE Book II.
 
@@ -1386,9 +1350,9 @@ metric progression.of tail and an arithmetical progres- sion of weight. And, the
 
 Chap. II. INFERENCES FROM FACTS 105
 
-these two ratios together, might deduce the very "strik- ing consequence" that by the time the dog grew to a weight of fifty pounds his tail would be over a mile long, and extremely difficult to wag, and hence recommend the prudential check of a bandage as the only alterna- tive to the positive check of constant amputations. Commencing with such an absurdity7 the essay includes a long argument for the imposition of a duty on the im- portation, and the payment of a bounty for the exporta- tion of corn, an idea that has long since been sent to the limbo of exploded fallacies. And it is marked through- out the argumentative portions by passages which show on the part of the reverend gentleman the most ridicu- lous incapacity for logical thought-as, for instance, that if wages were to be increased from eighteen pence or two shillings per day to five shillings, meat would necessarily increase in price from eight or nine pence to two or three shillings per pound, and the condition of the laboring classes would therefore not be improved, a statement to which I can think of no parallel so close as a proposition I once heard a certain printer gravely ad- vance-that because an author, whom he had known, was forty years old when he was twenty, the author must now be eighty years old because he (the printer) was forty. This confusion of thought does not merely crop out here and there; it characterizes the whole work.* The main body of the book is taken up with what is in reality a refutation of the theory which the
+these two ratios together, might deduce the very "strik- ing consequence" that by the time the dog grew to a weight of fifty pounds his tail would be over a mile long, and extremely difficult to wag, and hence recommend the prudential check of a bandage as the only alterna- tive to the positive check of constant amputations. Commencing with such an absurdity7 the essay includes a long argument for the imposition of a duty on the im- portation, and the payment of a bounty for the exporta- tion of corn, an idea that has long since been sent to the limbo of exploded fallacies. And it is marked through- out the argumentative portions by passages which show on the part of the reverend gentleman the most ridicu- lous incapacity for logical thought-as, for instance, that if wages were to be increased from eighteen pence or two shillings per day to five shillings, meat would necessarily increase in price from eight or nine pence to two or three shillings per pound, and the condition of the laboring classes would therefore not be improved, a statement to which I can think of no parallel so close as a proposition I once heard a certain printer gravely ad- vance-that because an author, whom he had known, was forty years old when he was twenty, the author must now be eighty years old because he (the printer) was forty. This confusion of thought does not merely crop out here and there; it characterizes the whole work.\* The main body of the book is taken up with what is in reality a refutation of the theory which the
 
-*Malthus' other works, though written after he became fam- ous, made no mark, and are treated with contempt even by those who find in the Essay a, great discovery. The Encyclo- predia Britannica, for instance, though fully accepting the Mal- thusian theory, says of Malthus' Political Economy: "It is very ill arranged, and is in no respect either a practical or a scientific exposition of the subject. It is in great part occupied with an examination of parts of Mr. Ricardo's peculiar doctrines, and with an inquiry into the nature and causes of value. Nothing,
+\*Malthus' other works, though written after he became fam- ous, made no mark, and are treated with contempt even by those who find in the Essay a, great discovery. The Encyclo- predia Britannica, for instance, though fully accepting the Mal- thusian theory, says of Malthus' Political Economy: "It is very ill arranged, and is in no respect either a practical or a scientific exposition of the subject. It is in great part occupied with an examination of parts of Mr. Ricardo's peculiar doctrines, and with an inquiry into the nature and causes of value. Nothing,
 
 106 POPULATION AND SUBSISTENCE Book 11.
 
@@ -1397,11 +1361,11 @@ hook advances, for Malthus' review of what he calls the positive checks to popul
 structive warfare.  
 Nor what Malthus failed to show has anyone since
 
-him shown. The globe may be surveyed and history may be reviewed in vain for any instance of a consider- able country* in which poverty and want can be fairly attributed to the pressure of an increasing population. Whatever be the possible dangers involved in the power of human increase, they have never yet appeared. Whatever may some time be, this never yet has been the evil that has afflicted mankind. Population always tending to overpass the limit of subsistence1 How is it, then, that this globe of ours, after all the thousands, and it is now thought millions, of years that man has been
+him shown. The globe may be surveyed and history may be reviewed in vain for any instance of a consider- able country\* in which poverty and want can be fairly attributed to the pressure of an increasing population. Whatever be the possible dangers involved in the power of human increase, they have never yet appeared. Whatever may some time be, this never yet has been the evil that has afflicted mankind. Population always tending to overpass the limit of subsistence1 How is it, then, that this globe of ours, after all the thousands, and it is now thought millions, of years that man has been
 
 however, can be more unsatisfactory than these discussions. In truth Mr. Malthus never had any clear or accurate perception of Mr. Ricardo's theories, or of the principles which determine the value in exchange of different articles."
 
-*I say considerable country, because there may be small islands, such as Pitcairn's Island, cut off from communication with the rest of the world and consequently from the exchanges which are necessary to the improved modes of production resorted to as population becomes dense, which may seem to offer examples in point. A moment's reflection, however, will show that these exceptional cases are not in point.
+\*I say considerable country, because there may be small islands, such as Pitcairn's Island, cut off from communication with the rest of the world and consequently from the exchanges which are necessary to the improved modes of production resorted to as population becomes dense, which may seem to offer examples in point. A moment's reflection, however, will show that these exceptional cases are not in point.
 
 Chap. II. INFERENCES FROM FACTS 107
 
@@ -1411,9 +1375,9 @@ It is a fact, that, as we count our increasing millions, we are apt to lose sigh
 
 counts of ancient historians and travelers, and to reveal indications of denser populations and more advanced civilizations than had before been suspected, as well as of a higher antiquity in the human race. And in basing our estimates of population upon the development of trade, the advance of the arts, and the size of cities, we are apt to underrate the density of population which the intensive cultivations, characteristic of the earlier civili- zations, are capable of maintaining-especially where irrigation is resorted to. As we may see from the closely
 
-cultivated districts of China and Europe a very great population of simple habits can readily exist with very little commerce and a much lower stage of those arts in which modern progress has been most marked, and without that tendency to concentrate in cities which modern populations show.*
+cultivated districts of China and Europe a very great population of simple habits can readily exist with very little commerce and a much lower stage of those arts in which modern progress has been most marked, and without that tendency to concentrate in cities which modern populations show.\*
 
-*As may be seen from the map in H. H. Bancroft's "Native Races," the State of Vera Cruz is not one of those parts of
+\*As may be seen from the map in H. H. Bancroft's "Native Races," the State of Vera Cruz is not one of those parts of
 
 108 POPULATION AND SUBSISTENCE Book 11.
 
@@ -1468,11 +1432,11 @@ But from such considerations as these let us advance
 
 to a Illore deRnae inquiry. I a,ss~ri thg,t th~ iHlQQQ (!OID- monly cited as instances of over-population will not bear investigation. India, China, and Ireland furnish the strongest of these cases. In each of these countries, large numbers have perished by starvation and large classes are reduced to abject misery or compelled to emigrate. But is this really due to over-population?
 
-Comparing total population with total area, India and China are far from being the most densely populated countries of the world. According to the estimates of MM. Behm and Wagner, the population of India is but 132 to the square mile and that of China 119, whereas Saxony has a population of 442 to the square mile; Bel- gium 441; England 422; the Netherlands 291; Italy 234 and Japan 233.* There are thus in both countries large areas unused or not fully used, but even in their more densely populated districts there can be no doubt that either could maintain a much greater population in a
+Comparing total population with total area, India and China are far from being the most densely populated countries of the world. According to the estimates of MM. Behm and Wagner, the population of India is but 132 to the square mile and that of China 119, whereas Saxony has a population of 442 to the square mile; Bel- gium 441; England 422; the Netherlands 291; Italy 234 and Japan 233.\* There are thus in both countries large areas unused or not fully used, but even in their more densely populated districts there can be no doubt that either could maintain a much greater population in a
 
 much higher degree of· comfort, for in both countries is labor applied to production in the rudest and most in- efficient ways, and in both countries great natural re- sources are wholly neglected. This arises from no
 
-*I take these figures'from the Smithsonian Report for 1873, leaving out decimals. MM. Behm and Wagner put the popula- tion of China at 446,500,000, though there are some who contend that it does not exceed 150,000,000. They put the population of Hither India at 206,225,580, giving 132.29 to the square mile; of Ceylon at 2,405,287 or 97.36 to the square mile; of Further India at 21,018,062, or 27.94 to the square mile. They estimate the population of the world at 1,377,000,000, an average of 26.64 to the square mile.
+\*I take these figures'from the Smithsonian Report for 1873, leaving out decimals. MM. Behm and Wagner put the popula- tion of China at 446,500,000, though there are some who contend that it does not exceed 150,000,000. They put the population of Hither India at 206,225,580, giving 132.29 to the square mile; of Ceylon at 2,405,287 or 97.36 to the square mile; of Further India at 21,018,062, or 27.94 to the square mile. They estimate the population of the world at 1,377,000,000, an average of 26.64 to the square mile.
 
 114 POPULATION AND SUBSISTENCE Book II.
 
@@ -1484,25 +1448,25 @@ Is it not clear that this tyranny and insecurity have produced the want and star
 
 Chap. II. INFERENCES FROM FACTS 115
 
-according to Buckle, the pressure of population upon subsistence that has produced the want, and the want the tyranny.* Says the Rev. William Tennant, a chap- lain in the service of the East India Company, writing in 1796, two years before the publication of the "Essay on Population:"
+according to Buckle, the pressure of population upon subsistence that has produced the want, and the want the tyranny.\* Says the Rev. William Tennant, a chap- lain in the service of the East India Company, writing in 1796, two years before the publication of the "Essay on Population:"
 
 "When we reflect upon th~ gr~l1t f~rtility of Hindostn.n. it ig amazing to consider the frequency of famine. It is evidently not owing to any sterIlity of soil or climate; the evil must be traced to some political cause, and it requires but little penetration to discover it in the avarice and extortion of the various govern- ments. The great spur to industry, that of security, is taken away. Hence no man raises more grain than is barely sufficient for himself, and the first unfavorable season produces a famine.
 
 "The Mogul government at no period offered full security to the prince, still less to his vassals; and to peasants the most scanty protection of all. It was a' continued tissue of violence and insurrection, treachery and punishment, under which neither commerce nor the arts could prosper, nor agriculture assume the appearance of a system. Its downfall gave rise to a state still more afflictive, since anarchy is worse than misrule. The Mo- hammedan government, wretched as it was, the European Jla- tions have not the merit of overturning. It fell beneath the weight of its own corruption, and had already been succeeded by the multifarious tyranny of petty chiefs, whose right to govern consisted in their treason to the state, and whose exac- tions on the peasants were as boundless as their avarice. The rents to government were, and, where natives rule, still are, levied twice a year by a merciless banditti, under the semblance of an army, who wantonly destroy or carry off whatever part of the produce may satisfy their caprice or satiate their avidity, after having hunted the ill-fated peasants from the villages to the woods. Any attempt of the peasants to defend their per- sons or property within the mud walls of their villages only
 
-*History of Civilization. Vol. I, Chap. 2. In this chapter Buckle has collected a great deal of evidence of the oppression and degradation of the people of India from the most remote times, a condition which, blinded by the Malthusian doctrIne he has accepted and made the cornerstone of his theory of the development of civilization, he attrIbutes to the ease with which food can there be produced.
+\*History of Civilization. Vol. I, Chap. 2. In this chapter Buckle has collected a great deal of evidence of the oppression and degradation of the people of India from the most remote times, a condition which, blinded by the Malthusian doctrIne he has accepted and made the cornerstone of his theory of the development of civilization, he attrIbutes to the ease with which food can there be produced.
 
 116 POPULATION AND SUBSISTENCE Book 11.
 
-calls for the more signal vengeance on those useful, but ill- fated mortals. They are then surrounded and attacked with musketry and field pieces till resistance ceases, when the sur- vivors are sold, and their habitations burned and leveled with the ground. Hence you will frequently, meet with the ryots gathering up the scattered remnants of what had yesterday been their habitation, if fear has permitted them to return; but oftener the ruins are seen smoking, after a second visitation of this kind, without the appearance of a human being to inter- rupt the awful silence of destruction. This description does not apply to the Mohammedan chieftains alone; it is equally appli- cable to the Rajahs in the districts governed by Hindoos."*
+calls for the more signal vengeance on those useful, but ill- fated mortals. They are then surrounded and attacked with musketry and field pieces till resistance ceases, when the sur- vivors are sold, and their habitations burned and leveled with the ground. Hence you will frequently, meet with the ryots gathering up the scattered remnants of what had yesterday been their habitation, if fear has permitted them to return; but oftener the ruins are seen smoking, after a second visitation of this kind, without the appearance of a human being to inter- rupt the awful silence of destruction. This description does not apply to the Mohammedan chieftains alone; it is equally appli- cable to the Rajahs in the districts governed by Hindoos."\*
 
 To this merciless rapacity, which would have pro- duced want and famine were the population but one to a square mile and the land a Garden of Eden, suc- ceeded,"in the first era of British rule in India, as merci- less a rapacity, backed by a far more irresistible power. Says Macaulay, in his essay on Lord Clive:
 
-"Enormous fortunes were rapidly accumulated at Calcutta, while millions of human beings were reduced to the extremity of wretchedness. They had been accustomed to live under tyranny, but never under tyranny like this. They found the little finger of the Company thicker than the loins of Surajah Dowlah. * * * It resembled the government of evil genii, rather than the government of human tyrants. Sometimes they submitted in patient misery. Sometimes they fled from the white man as their fathers had been used to fly from the Maharatta, and the palanquin of the English traveler was often carried through silent villages and towns that the report of his approach had made desolate."
+"Enormous fortunes were rapidly accumulated at Calcutta, while millions of human beings were reduced to the extremity of wretchedness. They had been accustomed to live under tyranny, but never under tyranny like this. They found the little finger of the Company thicker than the loins of Surajah Dowlah. \* \* \* It resembled the government of evil genii, rather than the government of human tyrants. Sometimes they submitted in patient misery. Sometimes they fled from the white man as their fathers had been used to fly from the Maharatta, and the palanquin of the English traveler was often carried through silent villages and towns that the report of his approach had made desolate."
 
 Upon horrors that Macaulay thus but touches, the vivid eloquence of Burke throws a stronger light-whole districts surrendered to the unrestrained cupidity of the worst of human kind, poverty-stricken peasants fiend- ishly tortured to compel them to give up their little hoards, and once populous tracts turned ,into deserts.
 
-*Indian Recreations. By Rev. Wm. Tennant. London, 1804, Vol. I, Sec. XXXIX.
+\*Indian Recreations. By Rev. Wm. Tennant. London, 1804, Vol. I, Sec. XXXIX.
 
 Chap. II. INFERENCES FROM FACTS 117
 
@@ -1518,17 +1482,17 @@ derstood by the people; but India now is like a great estate owned by an absente
 
 Chap. II. INFERENCES FROM FACTS 119
 
-to meet their taxes, and to whom they are easily induced to give obligations of which they know not the meaning. "We do not care for the people of India," writes Flor- ence Nightingale, with what seems like a sob. "The saddest sight to be seen in the East-nay, probably in the world-is the peasant of our Eastern Empire." And she goes on to show the causes of the terrible famines, in taxation which takes from the cultivatoTB the very means of cultivation, and the actual slavery to which the ryots are reduced as "the consequences of our own laws;" produc~ng in "the most fertile country in the world, a grinding, chronic semi-starvation in many places where what is called famine does not exist."* "The famines which have been devastating India," says H. M. Hyndman,t "are in the main financial famines. Men and women cannot get food, because they cannot save the money to buy it. Yet we are driven, so we say, to tax these people more." And he shows how, even from famine stricken districts, food is exported in payment of taxes, and how the whole of India is subjected to a steady and exhausting drain, which, combined with the enormous expenses of government, is making the popu- lation year by year poorer. The exports of India con-
+to meet their taxes, and to whom they are easily induced to give obligations of which they know not the meaning. "We do not care for the people of India," writes Flor- ence Nightingale, with what seems like a sob. "The saddest sight to be seen in the East-nay, probably in the world-is the peasant of our Eastern Empire." And she goes on to show the causes of the terrible famines, in taxation which takes from the cultivatoTB the very means of cultivation, and the actual slavery to which the ryots are reduced as "the consequences of our own laws;" produc~ng in "the most fertile country in the world, a grinding, chronic semi-starvation in many places where what is called famine does not exist."\* "The famines which have been devastating India," says H. M. Hyndman,t "are in the main financial famines. Men and women cannot get food, because they cannot save the money to buy it. Yet we are driven, so we say, to tax these people more." And he shows how, even from famine stricken districts, food is exported in payment of taxes, and how the whole of India is subjected to a steady and exhausting drain, which, combined with the enormous expenses of government, is making the popu- lation year by year poorer. The exports of India con-
 
-*Miss Nightingale (The People of India, in "Nineteenth Century" for August, 1878) gives instances, which she says represent millions of cases, of the state of peonage to which the cultivators of Southern India have been reduced through the facilities afforded by the Civil Courts to the frauds and oppres- sions of money lenders and minor native officials. "Our Civil Courts are regarded as institutions for enabling the rich to grind the faces of the poor, and many are fain to seek a refuge from their jurisdiction within native territory," says Sir David Wed- derburn, in an article on Protected Princes in India, in a pre- vious (July) number of the same magazine, in which he also gives a native State, where taxation is comparatively light, as an instance of the most prosperous population of India.
+\*Miss Nightingale (The People of India, in "Nineteenth Century" for August, 1878) gives instances, which she says represent millions of cases, of the state of peonage to which the cultivators of Southern India have been reduced through the facilities afforded by the Civil Courts to the frauds and oppres- sions of money lenders and minor native officials. "Our Civil Courts are regarded as institutions for enabling the rich to grind the faces of the poor, and many are fain to seek a refuge from their jurisdiction within native territory," says Sir David Wed- derburn, in an article on Protected Princes in India, in a pre- vious (July) number of the same magazine, in which he also gives a native State, where taxation is comparatively light, as an instance of the most prosperous population of India.
 
 t See articles in "Nineteenth Century" for October, 1878, and March, 1879.
 
 120 POPULATION AND SUBSISTENCE Book 11.
 
-sist almost exclusively of agricultural products. For at least one-third of these, as Mr. Hyndman shows, no re- turn whatever is received; they represent tribute-re- mittances made by Englishmen in India, or expenses of the English branch of the Indian government.* And for the rest, the·return is for the most part government stores, or articles of comfort and luxury used by the English masters of India. He shows that the expenses of government have been enormously increased under Imperial rule; that the relentless taxation of a popula- tion so miserably poor that the masses are not more than half fed, is robbing them of their scanty means for cultivating the soil; that the number of bullocks (the Indian draft animal) is decreasing, and the scanty im- plements of culture being given up to money lenders, from whom "we, a business people, are forcing the culti- vators to borrow at 12, 24, 60 per cent.t to build and pay the interest on the cost of vast public works, which have never paid nearly five per cent." Says Mr. Hynd- man: "The truth is that Indian society as a whole has been frightfully impoverished under our rule, and that the process is now going on at an exceedingly rapid rate"-a statement which cannot be doubted, in view of the facts presented not only by such writers as I have referred to, but by Indian officials themselves. The very efforts made by the government to alleviate famines do, by the increased taxation imposed, but intensify and extend their real cause. Although in the recent famine
+sist almost exclusively of agricultural products. For at least one-third of these, as Mr. Hyndman shows, no re- turn whatever is received; they represent tribute-re- mittances made by Englishmen in India, or expenses of the English branch of the Indian government.\* And for the rest, the·return is for the most part government stores, or articles of comfort and luxury used by the English masters of India. He shows that the expenses of government have been enormously increased under Imperial rule; that the relentless taxation of a popula- tion so miserably poor that the masses are not more than half fed, is robbing them of their scanty means for cultivating the soil; that the number of bullocks (the Indian draft animal) is decreasing, and the scanty im- plements of culture being given up to money lenders, from whom "we, a business people, are forcing the culti- vators to borrow at 12, 24, 60 per cent.t to build and pay the interest on the cost of vast public works, which have never paid nearly five per cent." Says Mr. Hynd- man: "The truth is that Indian society as a whole has been frightfully impoverished under our rule, and that the process is now going on at an exceedingly rapid rate"-a statement which cannot be doubted, in view of the facts presented not only by such writers as I have referred to, but by Indian officials themselves. The very efforts made by the government to alleviate famines do, by the increased taxation imposed, but intensify and extend their real cause. Although in the recent famine
 
-*Prof. Fawcett, in a recent article on the Proposed Loans to India, calls attentions to such items as £1,200 for outfit and passage of a member of the Governor General's Council; £2,450 for outfit and passage of Bishops of Calcutta and Bombay.
+\*Prof. Fawcett, in a recent article on the Proposed Loans to India, calls attentions to such items as £1,200 for outfit and passage of a member of the Governor General's Council; £2,450 for outfit and passage of Bishops of Calcutta and Bombay.
 
 t Florence Nightingale says 100 per cent. is common, and even then the cultivator is robbed in ways which she illustrates. It is hardly necessary to say that these rates, like those of the pawnbroker, are not interest in the economic sense of the term.
 
@@ -1544,13 +1508,13 @@ the government is a succession of squeezings, and seen-
 
 122 POPULATION AND SUBSISTENCE Book 11.
 
-rity for capital of any sort must be purchased of a man- darin; where men's shoulders are the great reliance for inland transportation; where the junk is obliged to be constructed so as to unfit it for a sea-boat; where piracy is a regular trade, and robbers often march in· regi- ments, poverty would prevail and the failure of a crop result in famine, no matter how sparse the population.* That China is capable of supporting a much greater population is shown not only by the great extent of un- cultivated land to which all travelers testify, but by the immense unworked mineral deposits which are there known to exist. China, for instance, is said to contain the largest and finest deposit of coal yet anywhere dis-
+rity for capital of any sort must be purchased of a man- darin; where men's shoulders are the great reliance for inland transportation; where the junk is obliged to be constructed so as to unfit it for a sea-boat; where piracy is a regular trade, and robbers often march in· regi- ments, poverty would prevail and the failure of a crop result in famine, no matter how sparse the population.\* That China is capable of supporting a much greater population is shown not only by the great extent of un- cultivated land to which all travelers testify, but by the immense unworked mineral deposits which are there known to exist. China, for instance, is said to contain the largest and finest deposit of coal yet anywhere dis-
 
 covered. How much the working of these coal beds would add to the ability to support a greater popula- tion, may readily be imagined. Coal is not food, it is true; but its production is equivalent to the production of food. For, not only may coal be exchanged for food, as is done in all mining districts, but the force evolved by its consumption may be used in the production of food, or may set labor free for the production of food.
 
 Neither in India nor China, therefore, can poverty and starvation be charged to the pressure of population against subsistence. It is not dense population, but the causes which prevent social organization from taking its natural development and labor from securing its full return, that keep millions just on the verge of starva- tion, and every now and again force millions beyond it. That the Hindoo laborer thinks himself fortunate to get a handful of rice, that the Chinese eat rats and puppies, is no more due to the pressure of population than it is due to the pressure of population that the Digger In- dians live on grasshoppers, or the aboriginal inhabitants of Australia eat the worms found in rotten wood.
 
-*The seat of recent famine in China was not the most thickly settled districts.
+\*The seat of recent famine in China was not the most thickly settled districts.
 
 Chap. II. INFERENCES FROM FACTS 123
 
@@ -1702,11 +1666,11 @@ This is what the current doctrine holds. The ac- cepted theory is, that the more
 
 Chap. IV. DISPROOF OF THE MALTHUSIAN THEORY 141
 
-The niggardliness of nature, not the injustice of society, is the cause of the penalty attached to over-population. An unjust distribution of wealth does not aggravate the evil, but, at most, causes it to be somewhat earlier felt. It is in vain to say that all mouths which the increase of mankind calls into existence bring with them hands. The new mouths require as much food as the old ones, and the hands do not produce as much~ If all in- struments of production were held in joint property by the whole people, and the produa~ divid~d with p~rf~ct ~qu9.1ity among them, and if in a society thus constituted, industry were as energetic and the produce as ample as at the present time, there would be enough to make all the existing population extremely comfortable; but when that population had doubled itself, as, with existing habits of the people, under such an encouragement, it undoubtedly would in little more than twenty years, what would then be their condition? Unless the arts of production were in the same time improved in an almost un- exampled degree, the inferior soils which must be resorted to, and the more laborious and scantily remunerative cultivation which must be employed on the superior soils, to procure food for so much larger a population, would, by an insuperable necessity, render every "individual in the community poorer than before. If the population continued to increase at the same rate, a time would soon arrive when no one would have more than mere necessaries, and, soon after, a time when no one would have a sufficiency of those, and the further increase of population would be arrested by death." *
+The niggardliness of nature, not the injustice of society, is the cause of the penalty attached to over-population. An unjust distribution of wealth does not aggravate the evil, but, at most, causes it to be somewhat earlier felt. It is in vain to say that all mouths which the increase of mankind calls into existence bring with them hands. The new mouths require as much food as the old ones, and the hands do not produce as much~ If all in- struments of production were held in joint property by the whole people, and the produa~ divid~d with p~rf~ct ~qu9.1ity among them, and if in a society thus constituted, industry were as energetic and the produce as ample as at the present time, there would be enough to make all the existing population extremely comfortable; but when that population had doubled itself, as, with existing habits of the people, under such an encouragement, it undoubtedly would in little more than twenty years, what would then be their condition? Unless the arts of production were in the same time improved in an almost un- exampled degree, the inferior soils which must be resorted to, and the more laborious and scantily remunerative cultivation which must be employed on the superior soils, to procure food for so much larger a population, would, by an insuperable necessity, render every "individual in the community poorer than before. If the population continued to increase at the same rate, a time would soon arrive when no one would have more than mere necessaries, and, soon after, a time when no one would have a sufficiency of those, and the further increase of population would be arrested by death." \*
 
 All this I deny. I assert that the very reverse of these propositions is true. I assert that in any given state of civilization a greater number of people can col- lectively be better provided for than a smaller. I assert that the injustice of society, not the .niggardliness of nature, is the cause of the want and misery which the current theory attributes to over-population. I assert that the new mouths which an increasing population calls into existence require no more food than the old ones, while the hands they bring with them can in the natural order of things produce more. I assert that, other things being equal, the greater the population, the
 
-*Principles of Political Economy, Book I, Chap. XIII, Sec. 2.
+\*Principles of Political Economy, Book I, Chap. XIII, Sec. 2.
 
 142 POPULATION AND SUBSISTENCE Book 11.
 
@@ -1724,11 +1688,11 @@ ship and her crew, is the diversion to unproductive uses of labor that could pro
 
 There is no necessity for abstract reasoning. The question is one of simple fact. Does the relative power of producing wealth decrease with the increase of popu- lation?
 
-The facts are so patent that it is only necessary to call attention to them. We have, in modern times, seen many communities advance in population. Have they not at the same time advanced even more rapidly in wealth? W'e see many communities still increasing in population. Are they not also increasing their wealth still faster? Is there any doubt that while England has been increasing her population at the rate of two per cent. per annum, her wealth has been growing in still greater proportion? Is it not true that while the popu- lation of the United States has been doubling every twenty-nine * years her wealth has been doubling at much shorter intervals? Is it not true that under sim-
+The facts are so patent that it is only necessary to call attention to them. We have, in modern times, seen many communities advance in population. Have they not at the same time advanced even more rapidly in wealth? W'e see many communities still increasing in population. Are they not also increasing their wealth still faster? Is there any doubt that while England has been increasing her population at the rate of two per cent. per annum, her wealth has been growing in still greater proportion? Is it not true that while the popu- lation of the United States has been doubling every twenty-nine \* years her wealth has been doubling at much shorter intervals? Is it not true that under sim-
 
 , ilar conditions-that is to say, among communities of similar people in a similar stage of civilization-the most densely populated community is also the richest? Are not the more densely populated Eastern States richer in proportion to population than the more sparsely populated Western or Southern States? Is not England, where population is even denser than in the Eastern States'of the Union, also richer in proportion? Where will you find wealth devoted with the most lavishness to non-productive use-costly buildings, fine furniture, luxurious equipages, statues, pictures, pleasure
 
-*The rate up to 1860 was 35 per cent. each decade.
+\*The rate up to 1860 was 35 per cent. each decade.
 
 144 POPULATION AND SUBSISTENCE Book II.
 
@@ -2001,11 +1965,11 @@ income he might obtain by letting the land to another 165
 
 166 THE LAWS OF DISTRIBUTION Book Ill.
 
-is rent, while the return for his labor and capital are that part of his income which they would yield him did he hire instead of owning the land. Rent is also expressed in a selling price. When land is purchased, the payment which is made for the ownership, or right to perpetual use, is rent commuted or capitalized. If I buy land for a small price and hold it until I can sell it for a large price, I have become rich, not by wages for my labor or by interest upon my capital, but by the increase of rent. Rent, in short, is the share in the wealth produced which the exclusive right to the use of natural capabilities gives to the owner. Wherever land has an exchange value there is rent in the economic meaning of the term. Wherever land having a value is used, either by owner or hirer, there is rent actual; wherever it is not used, but still has a value, tbere is rent potential. It is this capacity of yielding rent which gives value to land. Unti! its ownership will confer some advantage, land has no value.*
+is rent, while the return for his labor and capital are that part of his income which they would yield him did he hire instead of owning the land. Rent is also expressed in a selling price. When land is purchased, the payment which is made for the ownership, or right to perpetual use, is rent commuted or capitalized. If I buy land for a small price and hold it until I can sell it for a large price, I have become rich, not by wages for my labor or by interest upon my capital, but by the increase of rent. Rent, in short, is the share in the wealth produced which the exclusive right to the use of natural capabilities gives to the owner. Wherever land has an exchange value there is rent in the economic meaning of the term. Wherever land having a value is used, either by owner or hirer, there is rent actual; wherever it is not used, but still has a value, tbere is rent potential. It is this capacity of yielding rent which gives value to land. Unti! its ownership will confer some advantage, land has no value.\*
 
 Thus rent or land value does not arise from the pro- ductiveness or utility of land. It in no wise represents any help or advantage given to production, but simply the power of securing a part of the results of production. No matter what are its capabilities, land can yield no rent and have no value until some one is willing to give labor or the results of labor for the privilege of using it; and what anyone will thus give depends not upon the capacity of the land, but upon its capacity as compared with that of land that can be had for nothing. I may have very rich land, but it will yield no rent and have no value so long as there is other land as good to be had without cost. But when this other land is appro-
 
-*In speaking of the value of land I use and shall use the words as referring to the value of the bare land. When I wish to speak of the value of land and improvements I shall use those words.
+\*In speaking of the value of land I use and shall use the words as referring to the value of the bare land. When I wish to speak of the value of land and improvements I shall use those words.
 
 Chap. II. RENT AND THE LAW OF RENT 167
 
@@ -2019,13 +1983,13 @@ rent, we also ascertain what fixes the share which is left
 
 fer wages, where there is no co-operation of capital; and what fixes the joint share left for wages and interest, where capital does co-operate in production.
 
-Fortunately, as to the law of rent there is no necessity for discussion. Authority here coincides with common sense,* and the accepted dictum of the current political economy has the self-evident character of a geometric axiom. This accepted law of rent, which John Stuart Mill denominates the. pons asinorum of political econ- omy, is sometimes styled "Ricardo's law of rent," from the fact that, although not the first to announce it, he first brought it prominently into notice.t It is:
+Fortunately, as to the law of rent there is no necessity for discussion. Authority here coincides with common sense,\* and the accepted dictum of the current political economy has the self-evident character of a geometric axiom. This accepted law of rent, which John Stuart Mill denominates the. pons asinorum of political econ- omy, is sometimes styled "Ricardo's law of rent," from the fact that, although not the first to announce it, he first brought it prominently into notice.t It is:
 
 The rent of land is determined by the excess of its produce over that which the same application can secure from the least productive land in use.
 
 This law, which of course applies to land used for other purposes than agriculture, and to all natural agencies, such as mines, fisheries, etc., has been exhaust- ively explained and illustrated by all the leading econo- mists since Ricardo. But its mere statement has all the force of a self-evident proposition, for it is clear that the effect of competition is to make the lowest reward for
 
-*I do not mean to say that the accepted law of rent has never been disputed. In all the nonsense that in the present dis- jointed condition of the science has been printed as political economy, it would be hard to find anything that has not been disputed. But I mean to say that it has the sanction of all economic writers who are really to be regarded as authority. As John Stuart Mill says (Book II, Chap. XVI), "there are few persons who have refused their assent to it, except from not having thoroughly understood it. The loose and inaccurate way in which it is often apprehended by those who affect to refute it is very remarkable." An observation which has received many later exemplifications.
+\*I do not mean to say that the accepted law of rent has never been disputed. In all the nonsense that in the present dis- jointed condition of the science has been printed as political economy, it would be hard to find anything that has not been disputed. But I mean to say that it has the sanction of all economic writers who are really to be regarded as authority. As John Stuart Mill says (Book II, Chap. XVI), "there are few persons who have refused their assent to it, except from not having thoroughly understood it. The loose and inaccurate way in which it is often apprehended by those who affect to refute it is very remarkable." An observation which has received many later exemplifications.
 
 tAccording to McCulloch the law of rent was first stated in a pamphlet by Dr. James Anderson of Edinburgh in 1777, and simultaneously in the beginning of this century by Sir Edward West, Mr. Malthus, and Mr. Ricardo.
 
@@ -2049,7 +2013,7 @@ thus hiding the full importance of the law, yet, ever since the time of Ricardo,
 
 Chap. II. RENT AND THE LAW OF RENT 171
 
-we are tending is reached) has hitherto prevented their recognition.* Yet, is it not as plain as the simplest geometrical demonstration, that the corollary of the law of rent is the law of wages, where the division of the produce is simply between rent and wages; or the law of wages and interest taken together, where the division is into rent, wages, and interest? Stated re- versely, the law of rent is necessarily the law of wages and interest taken together, for it is the assertion, that no matter what the production which results from the application of labor and capital, these two factors will receive in wages and interest only such part of the prod- uce as they could have produced on land free to them without the payment of rent-that is, the least produc- tive land or point in use. For, if, of the produce, all over the amount which labor and capital could secure from land for which no rent is paid must go to land owners as rent, then all that can be claimed by labor and capital as wages and interest is the amount which they could have secured from land yielding no rent.
+we are tending is reached) has hitherto prevented their recognition.\* Yet, is it not as plain as the simplest geometrical demonstration, that the corollary of the law of rent is the law of wages, where the division of the produce is simply between rent and wages; or the law of wages and interest taken together, where the division is into rent, wages, and interest? Stated re- versely, the law of rent is necessarily the law of wages and interest taken together, for it is the assertion, that no matter what the production which results from the application of labor and capital, these two factors will receive in wages and interest only such part of the prod- uce as they could have produced on land free to them without the payment of rent-that is, the least produc- tive land or point in use. For, if, of the produce, all over the amount which labor and capital could secure from land for which no rent is paid must go to land owners as rent, then all that can be claimed by labor and capital as wages and interest is the amount which they could have secured from land yielding no rent.
 
 Or to put it in algebraic. form:  
 As Produce=Rent+Wages+Interest,  
@@ -2060,7 +2024,7 @@ produce of labor and capital, but upon what is left after rent is taken out; or,
 
 The moment this simple relation is recognized, a
 
-*Buckle (Chap. II, History of Civilization) recognizes the necessary relation between rent, interest, and wages, but evi- dently never worked it out.
+\*Buckle (Chap. II, History of Civilization) recognizes the necessary relation between rent, interest, and wages, but evi- dently never worked it out.
 
 172 THE LAWS OF DISTRIBUTION Book 111.
 
@@ -2104,9 +2068,9 @@ Let us begin at the beginning. The nature and func- tions of capital have alread
 
 considering its law. For in addition to aiding our inquiry by giving us a firmer and clearer grasp of the subject now in hand, it may lead to conclusions whose practical importance will be hereafter apparent.
 
-What is the reason and justification of interest? Why should the borrower pay back to the lender more than he received? These questions are worth answering, not merely from their speculative, but from their practical importance. The feeling that interest is the robbery of industry is widespread and growing, and on both sides of the Atlantic shows itself more and more in popular literature and in popular movements. The expounders of the current political economy say that there is no conflict between labor and capital, and oppose as injuri- ous to labor, as well as to capital, all schemes for re- stricting the reward which capital obtains; yet in the same works the doctrine is laid down that wages and interest bear to each other an inverse relation, and that interest will be low or high as wages are high or low.* Clearly, then, if this doctrine is correct, the only objec- tion that from the standpoint of the laborer can be logically made to any scheme for the reduction of in- terest is that it will not work, which is manifestly very weak ground while ideas of the omnipotence of legisla- tures are yet so widespread; and though such an objec- tion may lead to the abancfonm'ent of anyone particular scheme, it will not prevent the search for another.
+What is the reason and justification of interest? Why should the borrower pay back to the lender more than he received? These questions are worth answering, not merely from their speculative, but from their practical importance. The feeling that interest is the robbery of industry is widespread and growing, and on both sides of the Atlantic shows itself more and more in popular literature and in popular movements. The expounders of the current political economy say that there is no conflict between labor and capital, and oppose as injuri- ous to labor, as well as to capital, all schemes for re- stricting the reward which capital obtains; yet in the same works the doctrine is laid down that wages and interest bear to each other an inverse relation, and that interest will be low or high as wages are high or low.\* Clearly, then, if this doctrine is correct, the only objec- tion that from the standpoint of the laborer can be logically made to any scheme for the reduction of in- terest is that it will not work, which is manifestly very weak ground while ideas of the omnipotence of legisla- tures are yet so widespread; and though such an objec- tion may lead to the abancfonm'ent of anyone particular scheme, it will not prevent the search for another.
 
-*This is really said of profits, but with the evident meaning of returns to capital.
+\*This is really said of profits, but with the evident meaning of returns to capital.
 
 176 'THE LAWS OF DISTRIBUTION Book Ill.
 
@@ -2390,11 +2354,11 @@ To illustrate: In a simple state of society, each man, as is the primitive mode,
 
 agreeableness, risk, etc., in the three pursuits, they will be on the average equal in each-that is to say, equal exertions will yield equal results. Now, if one of their number wishes to employ some of his fellows to work for him instead of for themselves, he must pay wages fixed by this full, average produce of labor.
 
-Let a period of time elapse. Cultivation has ex- tended, and, instead of land of the same quality, em- braces lands of different qualities. Wages, now, will not be as before, the average produce of labor. They will be the average produce of labor at the margin of cultivation, or the point of lowest return. For, as men seek to satisfy their desires with the least possible exer- tion, the point of lowest return in cultivation must yield to labor a return equivalent to the average return in hunting and fishing.* Labor will no longer yield equal returns to equal exertions, but those who expend their labor on the superior land will obtain a greater produce
+Let a period of time elapse. Cultivation has ex- tended, and, instead of land of the same quality, em- braces lands of different qualities. Wages, now, will not be as before, the average produce of labor. They will be the average produce of labor at the margin of cultivation, or the point of lowest return. For, as men seek to satisfy their desires with the least possible exer- tion, the point of lowest return in cultivation must yield to labor a return equivalent to the average return in hunting and fishing.\* Labor will no longer yield equal returns to equal exertions, but those who expend their labor on the superior land will obtain a greater produce
 
 for the same exertion than those who cultivate the in- ferior land. Wages, however, will still be equal, for this
 
-*This equalization will be effected by the equation of prices.
+\*This equalization will be effected by the equation of prices.
 
 Chap. VI. WAGES AND THE LAW OF WAGES 207
 
@@ -2410,14 +2374,14 @@ enumerates the principal circumstances "which make up for a small pecuniary gain
 
 208 THE LAWS OF DISTRIBUTION Book 111.
 
-and counter-balance a great one in others: First, the agreeableness or disagreeableness of the employments themselves. Secondly, the easiness and cheapness, or the difficulty and expense of learning them. Thirdly, the constancy or inconstancy of employment in them. Fourthly, the small or great trust which must be re- posed in them. Fifthly, the probability or improbability of success in them." * It is not necessary to dwell in detail on these causes of variation in wages between different employments. They have been admirably ex- plained and illustrated by Adam Smith and the econo- mists who have followed him, who have well worked out the details, even if they have failed to apprehend
+and counter-balance a great one in others: First, the agreeableness or disagreeableness of the employments themselves. Secondly, the easiness and cheapness, or the difficulty and expense of learning them. Thirdly, the constancy or inconstancy of employment in them. Fourthly, the small or great trust which must be re- posed in them. Fifthly, the probability or improbability of success in them." \* It is not necessary to dwell in detail on these causes of variation in wages between different employments. They have been admirably ex- plained and illustrated by Adam Smith and the econo- mists who have followed him, who have well worked out the details, even if they have failed to apprehend
 
 the main law.  
 The effect of all the circumstances which give rise to
 
 the differences between wages in different occupations may be included as supply and demand, and it is per- fectly correct to say that the wages in different occupa- tions will vary relatively according to differences in the supply and demand of labor-meaning by demand the call which the community as a whole makes for services of the particular kind, and by supply the relative amount of labor which, under the existing conditions, can be determined to the performance of those particular serv- ices. But though this is true as to the relative differ- ences of wages, when it is said, as is commonly said, that the general rate of wages is determined·by supply and demand, the words are meaningless. For supply and demand are but relative terms. The supply of labor can only mean labor offered in exchange for labor or the produce of labor, and the demand for labor can only mean labor or the produce of labor offered in exchange for labor. Supply is thus demand, and demand supply,
 
-*This last, which is analogous to the element of risk in profits, accounts for the high wages of successful lawyers, physicians, contractors, actors, etc.
+\*This last, which is analogous to the element of risk in profits, accounts for the high wages of successful lawyers, physicians, contractors, actors, etc.
 
 Chap. VI. WAGES AND THE LAW OF WAGES 209
 
@@ -2491,7 +2455,7 @@ laborers are obliged to compete with each other for employment, and it becomes p
 
 Adam Smith himself saw the cause of high wages where land was yet open to settlement, though he failed to appreciate the importance and connection of the fact. In treating of the Causes of the Prosperity of New Colonies (Chapter VII, Book IV, "Wealth of Na- tions") he says:
 
-"Every colonist gets more land than he can possibly cultivate. He has no rent and scarce any taxes to pay. * * He is eager, therefore, to collect laborers from every quarter and to pay them the most liberal wages. But these liberal wages, joined to the plenty and cheapness of land, soon make these laborers leave him in order to become landlords themselves, and to reward with equal liberality other laborers who soon leave them for the same reason they left their first masters."
+"Every colonist gets more land than he can possibly cultivate. He has no rent and scarce any taxes to pay. \* \* He is eager, therefore, to collect laborers from every quarter and to pay them the most liberal wages. But these liberal wages, joined to the plenty and cheapness of land, soon make these laborers leave him in order to become landlords themselves, and to reward with equal liberality other laborers who soon leave them for the same reason they left their first masters."
 
 This chapter contains numerous expressions which, like the opening sentence in the chapter on The Wages of Labor, show that Adam Smith failed to appreciate the true laws of the distribution of wealth only because he turned away from the more primitive forms of so- ciety to look for first principles amid complex social manifestations, where he was blinded by a pre-accepted
 
@@ -2628,13 +2592,13 @@ rrhe only cause pointed out by Ricardo as advancing rent is the increase of popu
 
 228 EFFECTS OF MATERIAL PROGRESS Book IV.
 
-by denying that the progress of agriculture is from bet- ter to worse lands.*
+by denying that the progress of agriculture is from bet- ter to worse lands.\*
 
 Now, while it is unquestionably true that the increas- ing pressure of population which compels a resort to inferior points of production will raise rents, and does raise rents, I do not think that all the deductions com- monly made from this principle are valid, nor yet that it fully accounts lor the increase of rent as material progress goes OD. There are evidently other causes which conspire to raise rent, but which seem to have been wholly or partially hidden by the erroneous views as to the functions of capital and genesis of wages which have been current. To see what' these are, and how they operate, let us trace the effect of material progress upon the distribution of wealth.
 
 The changes which constitute or contribute to ma- terial progress are three: (1) increase in population; (2) improvements in the arts of production and ex- change; and (3) improvements in knowledge, education, ,government, police, manners, and morals, so far as they increase the power of producing wealth. Material
 
-*As to this, it may be worth while to say: (1) That the general fact, as shown by the progress of agriculture in the newer States of the Union and by the character of the land left out of cultivation in the older, is that the course of cultivation is from the better to the worse qualities of land. (2) That, whether the course of production be from the absolutely better to the absolutely worse lands or the reverse (and there is much to indicate that better or worse in this connection merely relates to our knowledge, and that future advances may discover compensating qualities in portions of the earth now esteemed most sterile), it is always, and from the nature of the human mind, must always tend to be, from land under existing condi- tions deemed better, to land under existing conditions deemed worse. (3) That Ricardo's law of rent does not depend upon the direction of the extension of cultivation, but upon the propo- sition that if land of a certain quality will yield something, land of a better quality will yield more.
+\*As to this, it may be worth while to say: (1) That the general fact, as shown by the progress of agriculture in the newer States of the Union and by the character of the land left out of cultivation in the older, is that the course of cultivation is from the better to the worse qualities of land. (2) That, whether the course of production be from the absolutely better to the absolutely worse lands or the reverse (and there is much to indicate that better or worse in this connection merely relates to our knowledge, and that future advances may discover compensating qualities in portions of the earth now esteemed most sterile), it is always, and from the nature of the human mind, must always tend to be, from land under existing condi- tions deemed better, to land under existing conditions deemed worse. (3) That Ricardo's law of rent does not depend upon the direction of the extension of cultivation, but upon the propo- sition that if land of a certain quality will yield something, land of a better quality will yield more.
 
 Chap. 1. DYNAMICS OF THE PROBLEM YET TO SEEK 229
 
@@ -3070,11 +3034,11 @@ What may thus be seen in San Francisco by whoever is willing to see, may, I doub
 
 The present commercial and industrial depression, which first clearly manifested itself in the United States in 1872, and has spread with greater or less intensity over the civilized world, is largely attributed to the un- due extension of the railroad system, with which there are many things that seem to show its relation. I am fully conscious that the construction of railroads be- fore they are actually needed may divert capital and labor from more to less productive employments, and make a community poorer instead of richer; and when the railroad mania 'was at its highest, I pointed this out
 
-in a political tract addressed to the people of Califor- nia; * but to assign to this wasting of capital such a widespread industrial dead-lock seems to me like at- tributing an unusually low tide to the drawing of a few extra bucketfuls of water. The waste of capital and la- bor during the civil war was enormously greater than it could possibly be by the construction of unnecessary railroads, but without producing any such result. And, certainly, there seems to .be little sense in talking of the
+in a political tract addressed to the people of Califor- nia; \* but to assign to this wasting of capital such a widespread industrial dead-lock seems to me like at- tributing an unusually low tide to the drawing of a few extra bucketfuls of water. The waste of capital and la- bor during the civil war was enormously greater than it could possibly be by the construction of unnecessary railroads, but without producing any such result. And, certainly, there seems to .be little sense in talking of the
 
 waste of capital and labor in railroads as causing this
 
-*The Subsidy Question and the Democratic Party, 1871.
+\*The Subsidy Question and the Democratic Party, 1871.
 
 Chap. I. CAUSE OF INDUSTRIAL DEPRESSION 275
 
@@ -3100,7 +3064,7 @@ creased activity symptoms of depression began to manifest themselves; and, when 
 
 Chap. I. CAUSE OF INDUSTRIAL DEPRESSION 277
 
-tion, is thus (as well as by the steady march of im- provement and increase of population, which, though slower than it otherwise would have been, still goes on) approaching the speculative rent line, but the tenacity with which a speculative advance in the price of land is maintained in a developing community is well known.*
+tion, is thus (as well as by the steady march of im- provement and increase of population, which, though slower than it otherwise would have been, still goes on) approaching the speculative rent line, but the tenacity with which a speculative advance in the price of land is maintained in a developing community is well known.\*
 
 Now? what thus went on in California went on in every progressive section of the Union. Everywhere that a railroad was built or projected, land was mo- nopolized in anticipation, and the benefit of the im- provement was discounted in increased land values. The speculative advance in rent thus outrunning the normal advance, production was checked, demand was decreased, and labor and capital were turned back from occupations more directly concerned with land, to glut those in which the value of land is a less perceptible element. It is thus that the rapid extension of railroads is related to the succeeding depression.
 
@@ -3108,7 +3072,7 @@ And what went on in the United States went on in a greater or less obvious degre
 
 cause was acting. And, hence, a world-wide depression of industry and commerce, begotten of a world-wide material progress.
 
-*It is astonishing how in a new country of great expectations speculative prices of land will be kept up. It is common to hear the expression, "There is no market for real estate'; you cannot sell it at any price," and yet, at the same time, if you go to buy ,it, unless you find somebody who is absolutely com- pelled to sell, you must pay the prices that prevailed when speculation ran high. For owners, believing that land values must ultimately advance, hold on as long as they can.
+\*It is astonishing how in a new country of great expectations speculative prices of land will be kept up. It is common to hear the expression, "There is no market for real estate'; you cannot sell it at any price," and yet, at the same time, if you go to buy ,it, unless you find somebody who is absolutely com- pelled to sell, you must pay the prices that prevailed when speculation ran high. For owners, believing that land values must ultimately advance, hold on as long as they can.
 
 278 THE PROBLEM SOLVED Book V.
 
@@ -3144,9 +3108,9 @@ vance in rent "or land values invariably precedes each of these seasons of indus
 
 And that the present depression is running its course, find thRt, in the manner previously indicated, a new equilibrium is being established, which will result in an- other season of comparative activity, may already be seen in the United States. The normal rent line and the speculative rent line are being brought together: (1) By the faU in speculative land values, which is very evident in the reduction of rents and shrinkage of real estate values in the principal cities. (2) By the in- creased efficiency of labor, arising from the growth of population and the utilization of new inventions and discoveries, some of which almost as important as that of the use of steam we seem to be on the verge of grasp" ing. (3) By the lowering of the habitual standard of
 
-interest and wages, which, as to interest, is shown by the negotiation of a government loan at four per cent., and as to wages is too generally evident for any special cita- tion. When the equilibrium is thus re-established, a season of renewed activity, culminating in a speculative advance of land values, will set in.* But wages and in- terest will not recover their lost ground. The net result of all these perturbations or wave-like movements is the gradual forcing of wages and interest toward their mini- mum. These temporary and recurring depressions ex- hibit, in fact, as was noticed in the opening chapter, but intensifications of the general movement which accompanies material progress.
+interest and wages, which, as to interest, is shown by the negotiation of a government loan at four per cent., and as to wages is too generally evident for any special cita- tion. When the equilibrium is thus re-established, a season of renewed activity, culminating in a speculative advance of land values, will set in.\* But wages and in- terest will not recover their lost ground. The net result of all these perturbations or wave-like movements is the gradual forcing of wages and interest toward their mini- mum. These temporary and recurring depressions ex- hibit, in fact, as was noticed in the opening chapter, but intensifications of the general movement which accompanies material progress.
 
-*This was written a year ago. It is now (July, 18'79) evident that a new period of activity has commenced, as above pre- dicted, and in New York and Chicago real estate prices have already begun to recover.
+\*This was written a year ago. It is now (July, 18'79) evident that a new period of activity has commenced, as above pre- dicted, and in New York and Chicago real estate prices have already begun to recover.
 
 CHAPTER II
 
@@ -3218,9 +3182,9 @@ CompnrA thA sg,mQ Gountry in different time9, g,nd the same relation is obvious.
 
 now amounts to £4,500,000,000, or $21,870,000,000-that is to say, a few thousand of the people of England hold a lien upon the labor of the rest, the capitalized value of·which is more than twice as great as, at the average price of Southern negroes in 1860, would be the value of her whole population were they slaves.
 
-In Belgium and Flanders, in France and Germany, the rent and selling price of agricultural land have doubled within the last thirty years.* In short, in- creased power of production has. everywhere added to the value of land; nowhere has it added to the value of
+In Belgium and Flanders, in France and Germany, the rent and selling price of agricultural land have doubled within the last thirty years.\* In short, in- creased power of production has. everywhere added to the value of land; nowhere has it added to the value of
 
-*Systems of Land Tenure, published by the Cobden Club.
+\*Systems of Land Tenure, published by the Cobden Club.
 
 290 THE PROBLEM SOLVED Book V.
 
@@ -3372,21 +3336,21 @@ There is, and always has been, a widespread belief among the more comfortable cl
 
 304 THE REMEDY Book VI.
 
-frugality, and intelligence. This belief, which at once soothes the sense of responsibility and flatters by its suggestion of superiority, is probably even more prev- alent in countries like the United States, where all men are politically equal, and where, owing to the newness of society, the differentiation into classes has been of indi- viduals rather than of families, than it is in older coun- tries, where the lines of separation have been longer, and are more sharply, drawn. It is but natural for those who can trace their own better circumstances to the superior industry and frugality that gave them a start, and the superior intelligence that enabled them to take advantage of every opportunity,* to imagine that those who remain poor do so simply from lack of these quali- ties.
+frugality, and intelligence. This belief, which at once soothes the sense of responsibility and flatters by its suggestion of superiority, is probably even more prev- alent in countries like the United States, where all men are politically equal, and where, owing to the newness of society, the differentiation into classes has been of indi- viduals rather than of families, than it is in older coun- tries, where the lines of separation have been longer, and are more sharply, drawn. It is but natural for those who can trace their own better circumstances to the superior industry and frugality that gave them a start, and the superior intelligence that enabled them to take advantage of every opportunity,\* to imagine that those who remain poor do so simply from lack of these quali- ties.
 
 But whoever has grasped the laws of the distribution of wealth, as in previous chapters they have been traced out, will see the mistake in this notion. The fallacy is s~milar to that which would be involved in the assertion that every one of a number of competitors might win a race. That anyone might is true; that everyone might is impossible.
 
 For, as soon as land acquires a value, wages, as we . have seen, do not depend upon the real earnings or prod- uct of labor, but upon what is left to labor after rent is taken out; and when land is all monopolized, as it is everywhere except in the newest communities, rent must drive wages down to the point at which the poorest paid class will be just able to live and reproduce, and thus wages are forced to a minimum fixed by what is called the standard of comfort-that is, the amount of neces- saries and comforts which habit leads the working classes
 
-*To say nothing of superior want of conscience, which is often the determining quality which makes a millionaire out of one who otherwise might have been a poor man.
+\*To say nothing of superior want of conscience, which is often the determining quality which makes a millionaire out of one who otherwise might have been a poor man.
 
 Chap. I. INSUFFICIENCY OF PROPOSED REMEDIES 305
 
 to dem'and as the· lowest on which they will consent to maintain their numbers. This being the case, industry, skill, frugality, and intelligence can avail the individual only in so far as they are superior to the general level- just as in a race speed can avail the runner only in so far as it exceeds that of his competitors. If one man work harder, or with st1p~l"ior skill or int~llig~nc~ thg,n ordinary, he will get ahead; but if the average of in- dustry, skill, or intelligence be brought up to the higher point, the increased intensity of application will secure but the old rate of wages, and he who would get ahead must work harder still.
 
-One individual may save money from his wages by liv- ing as Dr. Franklin did when, during his apprenticeship and early journeyman days, he concluded to practice vegetarianism; and many poor families might be made more comfortable by being taught to prepare the cheap dishes to which Franklin tried to limit the appetite of his employer Keimer, as a condition to his acceptance of the position of confuter of opponents to the new re- ligion of which Keimer wished to become the prophet,* but if the working classes generally came to live in that way, wages would ultimately fall in proportion, and who- ever wished to get ahead by the practice of economy, or to mitigate poverty by teaching it, would be compelled to devise some still cheaper mode of keeping soul and body together. If, under existing conditions, American mechanics would come down to the Chinese standard of living, they would ultimately have to come down to the Chinese standard of wages; or if English laborers would content themselves with the rice diet and scanty clothing
+One individual may save money from his wages by liv- ing as Dr. Franklin did when, during his apprenticeship and early journeyman days, he concluded to practice vegetarianism; and many poor families might be made more comfortable by being taught to prepare the cheap dishes to which Franklin tried to limit the appetite of his employer Keimer, as a condition to his acceptance of the position of confuter of opponents to the new re- ligion of which Keimer wished to become the prophet,\* but if the working classes generally came to live in that way, wages would ultimately fall in proportion, and who- ever wished to get ahead by the practice of economy, or to mitigate poverty by teaching it, would be compelled to devise some still cheaper mode of keeping soul and body together. If, under existing conditions, American mechanics would come down to the Chinese standard of living, they would ultimately have to come down to the Chinese standard of wages; or if English laborers would content themselves with the rice diet and scanty clothing
 
-*Franklin, in his inimitable way, relates how Keimer finally broke his resolution and ordering a roast pig invited two lady friends to dine with him, but the pig being brought in before the company arrived, Keimer could not resist the temptation and ate it all himself.
+\*Franklin, in his inimitable way, relates how Keimer finally broke his resolution and ordering a roast pig invited two lady friends to dine with him, but the pig being brought in before the company arrived, Keimer could not resist the temptation and ate it all himself.
 
 306 THE REMEDY Book VI.
 
@@ -3494,7 +3458,7 @@ to save labor and eliminate risk, and its effect upon dis- tribution can be only
 
 and it can produce only the same result-viz., the in- crease of rent.
 
-It is a striking proof of how first principles are ignored in dealing with social problems, that in current economic and semi-economic literature so much importance is at- tached to co-operation as a means for increasing wages and relieving poverty_ That it can have no such general tendency is apparent.
+It is a striking proof of how first principles are ignored in dealing with social problems, that in current economic and semi-economic literature so much importance is at- tached to co-operation as a means for increasing wages and relieving poverty\_ That it can have no such general tendency is apparent.
 
 Waiving all the difficulties that under present condi- tions beset co-operation either of supply or of produc- tion, and supposing it so extended as to supplant present methods-that co-operative stores made the connection between producer and consumer with the minimum of expense, and co-operative workshops, factories, farms,
 
@@ -3717,9 +3681,9 @@ Whatever may be said for the institution of private property in land, it is ther
 
 The .equal· right of all men to the use of land is as clear as their equal right to breathe the air-it is a right proclaimed by the fact of their existence. For we cannot suppose that some men have a right to be in this world and others no right.
 
-If we are all here by the equal permission of the Crea- tor, we are all here with an equal title to the enjoyment of his bounty-with an equal right to the use of all that nature so impartially offers.* This is a right which is
+If we are all here by the equal permission of the Crea- tor, we are all here with an equal title to the enjoyment of his bounty-with an equal right to the use of all that nature so impartially offers.\* This is a right which is
 
-*In saying that private property in land can, in the ultimate analysis, be justified only on the theory that some men have a better right to existence than others, I am stating only what the advocates of the existing system have themselves perceived. What gave to Malthus his popularity among the ruling classes -what caused his illogical book to be received as a new revela- tion, induced sovereigns to send him decorations, and the mean- est rich man in England to propose to give him a living, was the fact that he furnished a plausible reason for the assumption that some have a better right to existence than others-an
+\*In saying that private property in land can, in the ultimate analysis, be justified only on the theory that some men have a better right to existence than others, I am stating only what the advocates of the existing system have themselves perceived. What gave to Malthus his popularity among the ruling classes -what caused his illogical book to be received as a new revela- tion, induced sovereigns to send him decorations, and the mean- est rich man in England to propose to give him a living, was the fact that he furnished a plausible reason for the assumption that some have a better right to existence than others-an
 
 Chap. 1. INJUSTICE OF PRIVATE PROPERTY IN LAND 339
 
@@ -3729,7 +3693,7 @@ assumption which is necessary for the justification of private prop- erty in lan
 
 340 JUSTICE OF THE REMEDY Book VII.
 
-to-day has as much right as has his eldest son.* Though the sovereign people of the State of New York consent to the landed possessions of the Astors, the puniest in- fant that comes wailing into the world in the squalidest room of the most miserable tenement house, becomes at that moment seized of an equal right with the million- aires. And it is robbed if the right is denied.
+to-day has as much right as has his eldest son.\* Though the sovereign people of the State of New York consent to the landed possessions of the Astors, the puniest in- fant that comes wailing into the world in the squalidest room of the most miserable tenement house, becomes at that moment seized of an equal right with the million- aires. And it is robbed if the right is denied.
 
 Our previous conclusions, irresistible in themselves, thus stand approved by the highest and final test. Translated from terms of political economy into terms of ethics they show a wrong as the source of the evils which increase as material progress goes on.
 
@@ -3737,7 +3701,7 @@ The masses of men, who in the midst of abundance suffer want; who, clothed with 
 
 The wide-spreading social evils which everywhere op- press men amid an advancing civilization spring from a great primary wrong-the appropriation, as the exclusive property of some men, of the land on which and from which all must live. From this fundamental injustice flow all the injustices ,vhich distort and endanger modern
 
-*This natural and inalienable right to the equal use and enjoyment of land is so apparent that it has been recognized by men wherever force .or habit has not blunted first percep- tions. To give but one instance: The white settlers of New Zealand found themselves unable to get from the Maoris what the latter considered a complete title to land, because, although' a whole tribe might have consented to a sale, they would still claim with every new child born among them an additional payment on the ground that they had parted with only their own rights, and could not sell those of the unborn. The govern-
+\*This natural and inalienable right to the equal use and enjoyment of land is so apparent that it has been recognized by men wherever force .or habit has not blunted first percep- tions. To give but one instance: The white settlers of New Zealand found themselves unable to get from the Maoris what the latter considered a complete title to land, because, although' a whole tribe might have consented to a sale, they would still claim with every new child born among them an additional payment on the ground that they had parted with only their own rights, and could not sell those of the unborn. The govern-
 
 ment was obliged to step in and settle the matter by buying land for a tribal annuity, in which every child that is born acquires a share.
 
@@ -3882,13 +3846,13 @@ of the South find they have sustained no loss. Their ownership of the land upon 
 
 Chap. II. ENSLAVEMENT OF LABORERS 355
 
-that kind seems now about commencing, but as popula- tion increases and land becomes dear, the planters will get a greater proportionate share of the earnings of their laborers than they did under the system of chattel slav- ery, and the laborers a less share-for under the system of chattel slavery the slaves always got at least enough to keep them in good physical health, but in such coun- tries as England there ·are large classes of laborers who do not get that.*
+that kind seems now about commencing, but as popula- tion increases and land becomes dear, the planters will get a greater proportionate share of the earnings of their laborers than they did under the system of chattel slav- ery, and the laborers a less share-for under the system of chattel slavery the slaves always got at least enough to keep them in good physical health, but in such coun- tries as England there ·are large classes of laborers who do not get that.\*
 
 The influences which, wherever there is personal re- lation between master and slave, slip in to modify chat- tel slavery, and to prevent the master from exerting to its fullest extent his power over the slave, also showed themselves in the ruder forms of serfdom that charac- terized the earlier periods of European development, and aided by religion, and, perhaps, as in chattel slavery, by the more enlightened but still selfish interests of the lord, and hardening into custom, universally fixed a limit to what the owner of the land could extort from the serf or peasant, so that the competition of men without means of existence bidding against each other
 
 for access to the means of existence, was nowhere suf- fered to go to its full length and exert its full power of deprivation and degradation. The helots of Greece, the metayers of Italy, the serfs of Russia and Poland, the peasants of feudal Europe, rendered to their land- lords a fixed proportion either of their produce or their labor, and were not generally squeezed past that point. But the influences which thus stepped in to modify the
 
-*One of the anti-slavery agitators (Col. J. A. Collins) on a visit to England addressed a large audience in a Scotch manu- facturing town, and wound up as he had been used to in the United States, by giving the ration which in the slave codes of some of the States fixed the minimum of maintenance for a slave. He quickly discovered that to many of his hearers it was an anti-climax.
+\*One of the anti-slavery agitators (Col. J. A. Collins) on a visit to England addressed a large audience in a Scotch manu- facturing town, and wound up as he had been used to in the United States, by giving the ration which in the slave codes of some of the States fixed the minimum of maintenance for a slave. He quickly discovered that to many of his hearers it was an anti-climax.
 
 356 JUSTICE OF THE REMEDY Book VII.
 
@@ -3965,19 +3929,19 @@ Chap. 111. CLAIM OF LAND OWNERS TO COMPENSATION 363
 
 way than by purchase. They will· not trouble them- selves about compensating the proprietors of land.
 
-Nor is it right·that there should be any concern about the proprietors of land. That such a man as John Stuart Mill should have attached so much importance to the compensation of land owners as to have urged the con- fiscation merely of the future increase in rent, is explain- able only by his acquiescence in the current doctrines that wages are drawn from capital and that population constantly tends to press upon subsistence. These blinded him as to the full effects of the private appro- priation of land. He saw that "the claim of the land holder is altogether subordinate to the general policy of the state," and that "when private property in land is not expedient, it is unjust," * but, entangled in the toils of the Malthusian doctri~e, he attributed, as he expressly states in a paragraph I have previously quoted, the want and sufferin~ that he saw around him to "the niggardliness of nature, not to the injustice of man," and thus to him the nationalization of land seemed comparatively a little thing, that could accom- plish nothing toward the eradication of pauperism and the abolition of want-ends that could be reached only as men learned to repress a natural instinct. Great as he was and pure as he was-warm heart and nohle mind -he yet never saw the true harmony of economic laws, nor realized how from this one great fundamental wrong flow want and misery, and vice and shame. Else he could never have written this sentence: "The land of Ire- land, the land of every country, belongs to the people of that country. The individuals called land owners have no right in morality and justice to anything but the rent, or compensation for its salable value."
+Nor is it right·that there should be any concern about the proprietors of land. That such a man as John Stuart Mill should have attached so much importance to the compensation of land owners as to have urged the con- fiscation merely of the future increase in rent, is explain- able only by his acquiescence in the current doctrines that wages are drawn from capital and that population constantly tends to press upon subsistence. These blinded him as to the full effects of the private appro- priation of land. He saw that "the claim of the land holder is altogether subordinate to the general policy of the state," and that "when private property in land is not expedient, it is unjust," \* but, entangled in the toils of the Malthusian doctri~e, he attributed, as he expressly states in a paragraph I have previously quoted, the want and sufferin~ that he saw around him to "the niggardliness of nature, not to the injustice of man," and thus to him the nationalization of land seemed comparatively a little thing, that could accom- plish nothing toward the eradication of pauperism and the abolition of want-ends that could be reached only as men learned to repress a natural instinct. Great as he was and pure as he was-warm heart and nohle mind -he yet never saw the true harmony of economic laws, nor realized how from this one great fundamental wrong flow want and misery, and vice and shame. Else he could never have written this sentence: "The land of Ire- land, the land of every country, belongs to the people of that country. The individuals called land owners have no right in morality and justice to anything but the rent, or compensation for its salable value."
 
 In the name of the Prophet-figs! If the land of any country belong to the people of that country, what
 
-*Principles of Political Economy, Book I, Chap. 2, Sec. 6.
+\*Principles of Political Economy, Book I, Chap. 2, Sec. 6.
 
 364 JUSTICE OF THE REMEDY Book VII.
 
 right, in morality and justice, have the individuals called land owners to the rent? If the land belong to the people, why in the name of morality and justice should the people pay its salable value for their· own?
 
-Herbert Spencer says: * "Had we to deal with the parties who originally robbed the human race of its heritage, we might make short work of the matter." Why not make short work of the matter anyhow? For this robbery is not like the robbery of a horse or a sum of money, that ceases with the act. It is a fresh and continuous robbery, that goes on every day and every hour. It is not from the produce of the past that rent is drawn; it is from the produce of the present. It is a toll levied upon labor constantly and continuously. Every blow of the hammer, every stroke of the pick, every thrust of the shuttle, every throb of the steam engine, pay it tribute. It levies upon the earnings of the· men who, deep under ground, risk their lives, and of those who over white surges hang to reeling masts; it claims the just reward of the capitalist and the fruits
+Herbert Spencer says: \* "Had we to deal with the parties who originally robbed the human race of its heritage, we might make short work of the matter." Why not make short work of the matter anyhow? For this robbery is not like the robbery of a horse or a sum of money, that ceases with the act. It is a fresh and continuous robbery, that goes on every day and every hour. It is not from the produce of the past that rent is drawn; it is from the produce of the present. It is a toll levied upon labor constantly and continuously. Every blow of the hammer, every stroke of the pick, every thrust of the shuttle, every throb of the steam engine, pay it tribute. It levies upon the earnings of the· men who, deep under ground, risk their lives, and of those who over white surges hang to reeling masts; it claims the just reward of the capitalist and the fruits
 
-*Social Statics, page 142. [It may be well to say in the new reprint of this book (897) that this and all other references to Herbert Spencer's "Social Statics" are from the edition of that book published by D. Appleton & Co., New York, with his consent, from 1864 to 1892. At that time "Social Statics" was repudiated, and a new edition under the name of "Social Statics, abridged and revised," has taken its place. From this, all that the first Social Statics had said in denial of property in land has been eliminated, and it of course contains nothing here referred to. Mr. Spencer has also been driven by the persistent heckling of the English single tax men, who insisted on asking him the questions suggested in the first Social Statics, to bring out a small volume, entitled "Mr. Herbert Spencer on the Land Question," in whICh are reprinted in parallel columns Chapter IX of Social Statics, with what he considers valid answers to himself ·as given in "Justice," 1891. This has also been reprinted by D. Appleton & Co., and constitutes, I think, the very funniest answer to himself ever made by a man who claimed to be a philosopher.]
+\*Social Statics, page 142. [It may be well to say in the new reprint of this book (897) that this and all other references to Herbert Spencer's "Social Statics" are from the edition of that book published by D. Appleton & Co., New York, with his consent, from 1864 to 1892. At that time "Social Statics" was repudiated, and a new edition under the name of "Social Statics, abridged and revised," has taken its place. From this, all that the first Social Statics had said in denial of property in land has been eliminated, and it of course contains nothing here referred to. Mr. Spencer has also been driven by the persistent heckling of the English single tax men, who insisted on asking him the questions suggested in the first Social Statics, to bring out a small volume, entitled "Mr. Herbert Spencer on the Land Question," in whICh are reprinted in parallel columns Chapter IX of Social Statics, with what he considers valid answers to himself ·as given in "Justice," 1891. This has also been reprinted by D. Appleton & Co., and constitutes, I think, the very funniest answer to himself ever made by a man who claimed to be a philosopher.]
 
 Chap. Ill. CLAIM OF LAND OWNERS TO COMPENSATION 365
 
@@ -4057,21 +4021,21 @@ that he is right there can be no doubt, how, it will be asked, has the reduction
 
 The causes which have operated to supplant this original idea of the equal right to the use of land by the idea of exclusive and unequal rights may, I think, be everywhere vaguely but certainly traced. They are everywhere the same which have led to the denial of equal personal rights and to the establishment of privi- leged classes.
 
-These causes may be summarized as the concentra- tion of power in the hands of chieftains and the mili- tary class, consequent on a state of warfare, which enabled them to monopolize common lands; the effect of conquest, in reducing the conquered to a state of predial slavery, and dividing their lands among the conquerors, and in disproportionate share to the chiefs; the dif- ferentiation and influence of a sacerdotal class, and the differentiation and influence of a class of professional lawyers, whose interests were served by the substitution of exclusive, in place of common, property in land*' -inequality once produced always tending to greater inequality, by the law of· attraction.
+These causes may be summarized as the concentra- tion of power in the hands of chieftains and the mili- tary class, consequent on a state of warfare, which enabled them to monopolize common lands; the effect of conquest, in reducing the conquered to a state of predial slavery, and dividing their lands among the conquerors, and in disproportionate share to the chiefs; the dif- ferentiation and influence of a sacerdotal class, and the differentiation and influence of a class of professional lawyers, whose interests were served by the substitution of exclusive, in place of common, property in land\*' -inequality once produced always tending to greater inequality, by the law of· attraction.
 
 It was the struggle between this idea of equal rights to the soil and the tendency to monopolize it in indi- vidual possession, that caused the internal conflicts of Greece and Rome; it was the check given to this ten- dency-in Greece by such institutions as those of Lycurgus and Solon, and in Rome by the Licinian Law and subsequent divisions of land-that gave to each their days of strength and glory; and it was the final triumph of this tendency that destroyed both. Great
 
-*The influence of the lawyers has been very marked in Europe, both on the continent and in Great Britain, in de- stroying all vestiges of the ancient tenure, and substituting the idea of the Roman law, exclusive ownership.
+\*The influence of the lawyers has been very marked in Europe, both on the continent and in Great Britain, in de- stroying all vestiges of the ancient tenure, and substituting the idea of the Roman law, exclusive ownership.
 
 Chap. IV. PROPERTY IN LAND CONSIDERED 373
 
-estates ruined Greece, as afterward "great estates ruined Italy," * and as the soil, in spite of the warnings of great legislators and statesmen, passed finally into the possession of a few, population declined, art sank, the intellect became emasculate, and the race in which humanity had attained its most splendid development became a by-word and reproach among men.
+estates ruined Greece, as afterward "great estates ruined Italy," \* and as the soil, in spite of the warnings of great legislators and statesmen, passed finally into the possession of a few, population declined, art sank, the intellect became emasculate, and the race in which humanity had attained its most splendid development became a by-word and reproach among men.
 
 The idea of absolute individual property in land, which modern civilization derived from Rome, reached its full development there in historic times. When the future mistress of the world first looms up, each citi- zen had his little homestead plot, which was inalienable, and the general domain-"the corn-land which was of public right"-was subject to common use, doubtless under regulations or customs which secured equality, as in the Teutonic mark and Swiss allmend. It was from this public domain, constantly extended by con- quest, that the patrician families succeeded in carving their great estates. These great estates by the power with which the great.attracts the less, in spite of tem- porary checks by legal limitation and recurring divi- sions, finally crushed out all the small proprietors, adding their little patrimonies to the latifundia of the enormously rich, while they themselves were forced into the slave gangs, became rent-paying colonii, or else were driven into the freshly conquered foreign prov- inces, where land was given to the veterans of the legions; or to the metropolis, to swell the ranks of the proletariat who had nothing to sell but their votes.
 
 Cresarism, soon passing into an unbridled despotism of the Eastern type, was the inevitable political result, and the empire, even while it embraced the world, be- came in reality a shell, kept from collapse only by the healthier life of the frontiers, where the land had been divided among military settlers or the primitive usage~
 
-*Latifundia perdidere Italiam.-Pliny.
+\*Latifundia perdidere Italiam.-Pliny.
 
 374 JUSTICE OF THE REMEDY Book VII.
 
@@ -4169,7 +4133,7 @@ And so the abolition of the military tenures in Eng- land by the Long Parliament
 
 384 JUSTICE OF THE REMEDY Book VII.
 
-The land holders of England got their land on terms which required them even in the sparse population of Norman days to put in the field, upon call, sixty thou- sand perfectly equipped horsemen,*' and on the further condition of various fines and incidents which amounted to a considerable part of the rent. It would probably be a low estimate to put the pecuniary value of these various services and dues at one-half the rental value of the land. Had the land holders been kept to this con- tract and no land been permitted to be inclosed except upon similar terms, the income accruing to the nation from English land would to-day be greater by many millions than the entire public revenues of the United Kingdom. England to-day might have enjoyed absolute free trade. There need not have been a customs duty, an excise, license, or income tax, yet all the present ex- penditures could be met, and a large surplus remain to be devoted to .any purpose which would conduce to the comfort or well-being of the whole people.
+The land holders of England got their land on terms which required them even in the sparse population of Norman days to put in the field, upon call, sixty thou- sand perfectly equipped horsemen,\*' and on the further condition of various fines and incidents which amounted to a considerable part of the rent. It would probably be a low estimate to put the pecuniary value of these various services and dues at one-half the rental value of the land. Had the land holders been kept to this con- tract and no land been permitted to be inclosed except upon similar terms, the income accruing to the nation from English land would to-day be greater by many millions than the entire public revenues of the United Kingdom. England to-day might have enjoyed absolute free trade. There need not have been a customs duty, an excise, license, or income tax, yet all the present ex- penditures could be met, and a large surplus remain to be devoted to .any purpose which would conduce to the comfort or well-being of the whole people.
 
 Turning back, wherever there is light to guide us, we may everywhere see that in their first perceptions, all peoples have recognized the common ownership in land, and that private property is an usurpation, a creation of force and fraud.
 
@@ -4177,7 +4141,7 @@ H
 
 As Madame de Stael said, "Liberty is ancient. Justice, if we turn to the most ancient records, will always be found to have the title of prescription.
 
-*Andrew Bisset, in "The Strength of Nations," London, 1859, a suggestive work in which he calls the attention of the English people. to this measure by which the land owners avoided the payment of their rent to the nation, disputes the statement of Blackstone that a knight's service was but for 40.days, and says it was during necessity.
+\*Andrew Bisset, in "The Strength of Nations," London, 1859, a suggestive work in which he calls the attention of the English people. to this measure by which the land owners avoided the payment of their rent to the nation, disputes the statement of Blackstone that a knight's service was but for 40.days, and says it was during necessity.
 
 CHAPTER V
 
@@ -4348,11 +4312,11 @@ diminution of future increase are carefully separated and gently driven inland, 
 
 Chap. I. OWNERSHIP AND THE USE OF LAND 401
 
-the herds, where they are dispatched with clubs. To throw such a fishery as this open to whoever chose to go and kill-which would make it to the interest of each party to kill as many as they could at the time without reference to the future-would be utterly to destroy it in a few seasons, as similar fisheries in other oceans have been destroyed. But it is not necessary, therefore, to make these islands private property. Though for rea- sons greatly less cogent, the great public domain of the American people has been made over to private owner- ship as fast as anybody could be got to take it, these islands have been leased at a rent of $317,500 per year,* probably not very much less than they could have been sold for at the time of the Alaska purchase. They have already yielded two millions and a half to the national treasury, and they are still, in unimpaired value (for under the careful management of the Alaska Fur Com- pany the seals increase rather than diminish), the common property of the people of the United States.
+the herds, where they are dispatched with clubs. To throw such a fishery as this open to whoever chose to go and kill-which would make it to the interest of each party to kill as many as they could at the time without reference to the future-would be utterly to destroy it in a few seasons, as similar fisheries in other oceans have been destroyed. But it is not necessary, therefore, to make these islands private property. Though for rea- sons greatly less cogent, the great public domain of the American people has been made over to private owner- ship as fast as anybody could be got to take it, these islands have been leased at a rent of $317,500 per year,\* probably not very much less than they could have been sold for at the time of the Alaska purchase. They have already yielded two millions and a half to the national treasury, and they are still, in unimpaired value (for under the careful management of the Alaska Fur Com- pany the seals increase rather than diminish), the common property of the people of the United States.
 
 So far from the recognition of private property in land being necessary to the proper use of land, the con- trary is the case. Treating land as private property stands in the way of its proper use. Were land treated as public property it would be used and improved as soon as there was need for its use or improvement, but being treated as private property, the individual owner is permitted to prevent others from using or improving what he cannot or will not use or improve himself. When the title is in dispute, the most valuable land lies unimproved for years; in many parts of England im- provement is stopped because, the estates being entailed, no security to improvers can be given; and large tracts
 
-*The fixed rent under the lease to the Alaska Fur Company is $55,000 a year, with a payment of $2.62% on each skin, which on 100,000 skins, to which the take is limited, amounts to $262,- 500-a total rent of $317,500.
+\*The fixed rent under the lease to the Alaska Fur Company is $55,000 a year, with a payment of $2.62% on each skin, which on 100,000 skins, to which the take is limited, amounts to $262,- 500-a total rent of $317,500.
 
 402 APPLICATION OF THE REMEDY Book VIII.
 
@@ -4382,7 +4346,7 @@ Such a. plan, instead of being a wild, impracticable vagary, has (with the excep
 
 careless concession which he upon reflection would recon- sider) been indorsed by no less eminent a thinker than Herbert Spencer, who ("Social Statics," Chap. IX, Sec. 8) says of it:
 
-"Such a doctrine is consistent with the highest state of civiliza- tion; may be carried out without involving a community of goods, and need cause no very serious revolution in existing arrangements. The change required would simply be a change of landlords. Separate ownership would merge into the joint- stock ownership of the public. Instead of being in the posses- sion of individuals, the country would be held by the great corporate body-society. Instead of leasing his acres from an isolated proprietor, the farmer would lease them from the nation. Instead· of paying his rent to the agent of Sir John or his Grace, he would pay it to an agent or deputy agent of the community. Stewards would be public officials instead of private ones, and tenancy the only land tenure. A state of things so ordered would be in perfect harmony with the moral law. Under it all men would be equally landlords, all men would be alike free to become tenants. * * * Clearly, therefore, on such a sys- tem, the earth might be enclosed, occupied and cultivated, in entire subordination to the law of equal freedom."
+"Such a doctrine is consistent with the highest state of civiliza- tion; may be carried out without involving a community of goods, and need cause no very serious revolution in existing arrangements. The change required would simply be a change of landlords. Separate ownership would merge into the joint- stock ownership of the public. Instead of being in the posses- sion of individuals, the country would be held by the great corporate body-society. Instead of leasing his acres from an isolated proprietor, the farmer would lease them from the nation. Instead· of paying his rent to the agent of Sir John or his Grace, he would pay it to an agent or deputy agent of the community. Stewards would be public officials instead of private ones, and tenancy the only land tenure. A state of things so ordered would be in perfect harmony with the moral law. Under it all men would be equally landlords, all men would be alike free to become tenants. \* \* \* Clearly, therefore, on such a sys- tem, the earth might be enclosed, occupied and cultivated, in entire subordination to the law of equal freedom."
 
 But such a plan, though perfectly feasible, does not seem to me the best. C.r rather I propose to accomplish the same thing in a simpler, easier, and quieter way, than that of formally confiscating all the land and formally letting it out to the highest bidders.
 
@@ -4468,7 +4432,7 @@ There are among us various sorts of monopolies. For instance, there are the temp
 
 Chap. Ill. THE CANONS OF TAXATION 411
 
-productions, and constitute a reward held out to inven- tion and authorship.* There are also the onerous monopolies alluded to in Chapter IV of Book III, which result from the aggregation of capital in businesses which are of the nature of monopolies. But while it would be extremely difficult, if not altogether impossible,
+productions, and constitute a reward held out to inven- tion and authorship.\* There are also the onerous monopolies alluded to in Chapter IV of Book III, which result from the aggregation of capital in businesses which are of the nature of monopolies. But while it would be extremely difficult, if not altogether impossible,
 
 • Following the habit of confounding the exclusive right granted by a patent and·that granted by a copyright as recog- nitions of the right of labor to its intangible productions, I in this fell into error which I subsequently acknowledged and cor- rected in the Standard of June 23, 1888. The two things are not alike, but essentially different. The copyright is not a right to the exclusive use of a fact, an idea, or a combination, which by the natural law of property all are free to use; but only to the labor expended in the thing itself. It does not prevent anyone from using for himself the facts, the knowledge, the laws or combinations for a similar production, but only from using the identical form of the particular book or other pro.. duction-the actual labor which has in short been expended in producing it. It rests therefore upon the natural, moral right of each one to enjoy the products of his own exertion, and involves no interference with the similar right of anyone else to do likewise.
 
@@ -4568,7 +4532,7 @@ INDORSEMENTS AND OBJECTIONS
 
 The grounds from which we have drawn the conclu- sion that the tax on land values or rent is the best method of raising public revenues have been admitted expressly or tacitly by all economists of standing, since the determination of the nature and law of rent.
 
-Ricardo says (Chap. X), "a tax on rent would fall wholly on landlords, and could not be shifted to ·any class of consumers," for it "would leave unaltered the difference between the produce obtained from the least productive land in cultivation and that obtained from land of every other quality. * * * A tax on rent would not discourage the cultivation of fresh land, for such land pays no rent and would be untaxed."
+Ricardo says (Chap. X), "a tax on rent would fall wholly on landlords, and could not be shifted to ·any class of consumers," for it "would leave unaltered the difference between the produce obtained from the least productive land in cultivation and that obtained from land of every other quality. \* \* \* A tax on rent would not discourage the cultivation of fresh land, for such land pays no rent and would be untaxed."
 
 McCulloch (Note XXIV to "Wealth of Nations") declares that "in a practical point of view taxes on the rent of land are among the most unjust and impolitic that can be imagined," but he makes this assertion solely on the ground of his assumption that it is prac- tically impossible to distinguish in taxation between the sum paid for the use of the soil and that paid on account of the capital expended upon it. But, sup':' posing that this separation could be effected, he admits that the sum paid to landlords for the use of the natural powers of the soil might be entirely swept away by a tax without their having it in their power to throw any portion of the burden upon anyone else, and without
 
@@ -4613,7 +4577,7 @@ But, as a matter of fact, the value of land can always be readily distinguished 
 
 -value of the land, should they be destroyed. This, manifestly, is all that justice or policy requires. Abso- lute accuracy is impossible in any system, and to at- tempt to separate all that the human race has done from what nature originally provided would be as ab- surd as impracticable. A swamp drained or a hill ter- raced by the Romans constitutes now as much a part of the natural advantages of the British Isles as though the work had been done by earthquake or glacier. The fact that after a certain lapse of time the value of such permanent improvements would be considered as hav-- ing lapsed into that of the land, and would be taxed accordingly, could have no deterrent effect on such improvements, for such works are frequently under- taken upon leases for years. The fact is, that each generation builds and improves for itself, and not for the remote future. And the further fact is, that each generation is heir, not only to the natural powers of the earth, but to all that remains of the work of past gen- erations.
 
-An objection of a different kind may however be made. It may be said that where political power is dif- fused, it is highly desirable that taxation should fall not on one class, such as land _owners, but on all; in order that all who exercise political power may feel a proper interest in economical government. Taxation and representation, it will be said, cannot safely be di- vorced.
+An objection of a different kind may however be made. It may be said that where political power is dif- fused, it is highly desirable that taxation should fall not on one class, such as land \_owners, but on all; in order that all who exercise political power may feel a proper interest in economical government. Taxation and representation, it will be said, cannot safely be di- vorced.
 
 But however desirable it may be to combine with political power the·consciousness of public burdens, the present system certainly does not secure it. Indirect taxes are largely raised from those who pay little or nothing consciously. In the United States the class is rapidly growing who not only feel no interest in taxa- tion, but who have no concern in good government. In our large cities elections are in great measure deter...
 
@@ -4820,11 +4784,11 @@ on the farmer without mitigation. For in a country like the United States, which
 
 Chap. Ill. UPON INDIVIDUALS AND CLASSES 451
 
-But the great gain of the working farmer can be seen only when the effect upon the distribution of popu- lation is considered. The destruction of speculative land values would tend to diffuse population where it is too dense and to concentrate it where it is too sparse; to substitute for the tenement house, homes surrounded by gardens, and fully to settle agricultural districts before people were driven far from neighbons to look for land. The people of the cities would thus get more of the pure air and sunshine of the country, the people of the country more of the economies and social life of the city. If, as is doubtless the case, the application of machinery tends to large fields, agricultural popula- tion will assume the primitive fonn and cluster in villages. The life of the average farmer is now unneces- sarily dreary. He is not only compelled to work early and late, but he is cut off by the sparseness of population from the conveniences, and amusements, the educational facilities, and the social and intellectual opportunities that come with the closer contact of man with man. He would be far better off in all these respects, and his labor would be far more productive, if he and those around him held no more land than they wanted to use.* While his children, as they grew up, would neither be so impelled to seek the excitement of a city nor would they be driven so far away to seek farms of their own. Their means of living would be in their own hands, and at home.
+But the great gain of the working farmer can be seen only when the effect upon the distribution of popu- lation is considered. The destruction of speculative land values would tend to diffuse population where it is too dense and to concentrate it where it is too sparse; to substitute for the tenement house, homes surrounded by gardens, and fully to settle agricultural districts before people were driven far from neighbons to look for land. The people of the cities would thus get more of the pure air and sunshine of the country, the people of the country more of the economies and social life of the city. If, as is doubtless the case, the application of machinery tends to large fields, agricultural popula- tion will assume the primitive fonn and cluster in villages. The life of the average farmer is now unneces- sarily dreary. He is not only compelled to work early and late, but he is cut off by the sparseness of population from the conveniences, and amusements, the educational facilities, and the social and intellectual opportunities that come with the closer contact of man with man. He would be far better off in all these respects, and his labor would be far more productive, if he and those around him held no more land than they wanted to use.\* While his children, as they grew up, would neither be so impelled to seek the excitement of a city nor would they be driven so far away to seek farms of their own. Their means of living would be in their own hands, and at home.
 
 In short, the working farmer is both a laborer and a capitalist, as well as a land owner, and it is by his
 
-*Besides the enormous increase in the productive power of labor which would result from the better distribution of popu- lation there would be also a similar economy in the productive power of land. The concentration of population in cities fed by the exhaustive cultivation of large, sparsely populated areas, results in a literal draining into the sea of the elements of fer- tility. How enormous this waste is may be seen from the
+\*Besides the enormous increase in the productive power of labor which would result from the better distribution of popu- lation there would be also a similar economy in the productive power of land. The concentration of population in cities fed by the exhaustive cultivation of large, sparsely populated areas, results in a literal draining into the sea of the elements of fer- tility. How enormous this waste is may be seen from the
 
 452 EFFECTS OF THE REMEDY Book IX.
 
@@ -5129,21 +5093,21 @@ dently, and all but as generally, as a little while ago they were explained upon
 
 480 THE LAW OF HUMAN PROGRESS BookX.
 
-The practical outcome of this theory is in a sort of hopeful fatalism, of which current literature is full.* In this view, progress is the result of forces which work slowly, steadily, and remorselessly, for the elevation of man. War, slavery, tyranny, superstition, famine, and pestilence, the want and misery which fester in modern civilization, are the impelling causes which drive man on, by eliminating poorer types and extending the higher; and hereditary transmission is the power by which advances are fixed, and past advances made the footing for new advances. The individual is the result of changes thus impressed upon and perpetuated through a long series of past individuals, and the social organiza- tion takes its form from the individuals of which it is composed. Thus, while this theory is, as Herbert Spencer sayst-"radical to a degree beyond anything which current radicalism conceives," inasmuch as it
+The practical outcome of this theory is in a sort of hopeful fatalism, of which current literature is full.\* In this view, progress is the result of forces which work slowly, steadily, and remorselessly, for the elevation of man. War, slavery, tyranny, superstition, famine, and pestilence, the want and misery which fester in modern civilization, are the impelling causes which drive man on, by eliminating poorer types and extending the higher; and hereditary transmission is the power by which advances are fixed, and past advances made the footing for new advances. The individual is the result of changes thus impressed upon and perpetuated through a long series of past individuals, and the social organiza- tion takes its form from the individuals of which it is composed. Thus, while this theory is, as Herbert Spencer sayst-"radical to a degree beyond anything which current radicalism conceives," inasmuch as it
 
 looks for changes in the very nature of man; it is at the same time "conservative to a degree beyond anything conceived by current conservatism," inasmuch as it holds that no change can avail save these slow changes in men's natures. Philosophers may teach that this does not lessen the duty of endeavoring to reform abuses,
 
-*In semi-scientific or popularized form this may .perhaps be seen in best, because frankest, expression in "The Martyrdom of Man," by Winwood Reade, a writer of singular vividness and power. This book is in reality a history of progress, or, rather, a monograph upon its causes and methods, and will well repay perusal for its vivid pictures, whatever may be thought of the capacity of the author for philosophic generalization. The con- nection between subject and title may be seen by the conclu- sion: "I give to universal history a strange but true title- The Martyrdom of Man. In each generation the human race has been tortured that their children might profit by their woes. Our own prosperity is founded on the agonies of the past. Is it therefore unjust that we also should suffer for the benefit of those who are to come?"
+\*In semi-scientific or popularized form this may .perhaps be seen in best, because frankest, expression in "The Martyrdom of Man," by Winwood Reade, a writer of singular vividness and power. This book is in reality a history of progress, or, rather, a monograph upon its causes and methods, and will well repay perusal for its vivid pictures, whatever may be thought of the capacity of the author for philosophic generalization. The con- nection between subject and title may be seen by the conclu- sion: "I give to universal history a strange but true title- The Martyrdom of Man. In each generation the human race has been tortured that their children might profit by their woes. Our own prosperity is founded on the agonies of the past. Is it therefore unjust that we also should suffer for the benefit of those who are to come?"
 
 t "The Study of Sociology"-Conc1usion.
 
 Chap. 1. INSUFFICIENCY OF THE CURRENT THEORY 481
 
-just as the theologians who taught predestinarianism in- sisted on the duty of all to struggle for salvation; but, as generally apprehended, the result is fatalism-"do what we may, the mills of the gods grind on regardless either of our aid or our pindrance." I allude to this only to illustrate what I take to be the opinion now rapidly gpr~a.ding a.nd p~rm~lltin~ common thou~ht: not tha.t in the search for truth any regard for its effects should be permitted to bias the mind. But this I take to be the current view of civilization: That it is the result of forces, operating in the way indicated, which slowly change the character, and improve and elevate the pow- ers of man; that the difference between civilized man and savage is of a long race education, which has be- come permanently fixed in mental organization; and that this improvement tends to go on increasingly, to a higher and higher civilization. We have reached such a point that progress seems to be natural with us, and we look forward confidently to the greater achievements of the coming race-some even holding that the progress of 'Science will finally give men immortality and enable them to make bodily the tour not only of the planets, but of the fixed stars, and at length to manufacture suns and systems for themselves.*
+just as the theologians who taught predestinarianism in- sisted on the duty of all to struggle for salvation; but, as generally apprehended, the result is fatalism-"do what we may, the mills of the gods grind on regardless either of our aid or our pindrance." I allude to this only to illustrate what I take to be the opinion now rapidly gpr~a.ding a.nd p~rm~lltin~ common thou~ht: not tha.t in the search for truth any regard for its effects should be permitted to bias the mind. But this I take to be the current view of civilization: That it is the result of forces, operating in the way indicated, which slowly change the character, and improve and elevate the pow- ers of man; that the difference between civilized man and savage is of a long race education, which has be- come permanently fixed in mental organization; and that this improvement tends to go on increasingly, to a higher and higher civilization. We have reached such a point that progress seems to be natural with us, and we look forward confidently to the greater achievements of the coming race-some even holding that the progress of 'Science will finally give men immortality and enable them to make bodily the tour not only of the planets, but of the fixed stars, and at length to manufacture suns and systems for themselves.\*
 
 But without soaring to the stars, the moment that this theory of progression, which seems so natural to us amid an advancing civilization, looks around the world, it comes against an enormous fact-the fixed, petrified civilizations. The majority of the human race to-day have no idea of progress; the majority of the human race to-day look (as until a few generations ago our own an- cestors looked) upon the past as the time of human per- fection. The difference between the savage and the civilized man may be explained on the theory that the
 
-*WinwoodReade, "The Martyrdom of Man."
+\*WinwoodReade, "The Martyrdom of Man."
 
 482 THE·LAW OF HUMAN PROGRESS Book x.
 
@@ -5213,9 +5177,9 @@ day is vastly the superior of the uncivilized; but so in the time of its vigor w
 
 This universal fact, the moment that it is recogni~ed, disposes of the theory that progress is by hereditary transmission. Looking over the history of the world, the line of greatest advance does not coincide for any length of time with any line of heredity. On any par- ticular line of heredity, retrogression seems always to follow advance.
 
-Shall we therefore say that there is a national or race life, as there is an individual life-that every social aggregate has, as it were, a certain amount of energy, the expenditure of which necessitates decay? This is au old and widespread idea, that is yet largely held, and that may be constantly seen cropping out incongruously in the writings of the expounders of the development philosophy. Indeed, I do not see why it may not be stated in terms of matter and of motion so as to bring it clearJy within the generalizations of evolution. For con- sidering its individuals as atoms, the growth of society is "an integration of matter and concomitant dissipation of motion; during which the matter passes from an in- definite, incoherent homogeneity to a definite, coherent heterogeneity, and during which the retained motion undergoes a parallel transformation." * And thus an analogy may be drawn between the life of a society and the life of a solar system upon the nebular hypothesis. As the heat and light of the sun are·produced by the
+Shall we therefore say that there is a national or race life, as there is an individual life-that every social aggregate has, as it were, a certain amount of energy, the expenditure of which necessitates decay? This is au old and widespread idea, that is yet largely held, and that may be constantly seen cropping out incongruously in the writings of the expounders of the development philosophy. Indeed, I do not see why it may not be stated in terms of matter and of motion so as to bring it clearJy within the generalizations of evolution. For con- sidering its individuals as atoms, the growth of society is "an integration of matter and concomitant dissipation of motion; during which the matter passes from an in- definite, incoherent homogeneity to a definite, coherent heterogeneity, and during which the retained motion undergoes a parallel transformation." \* And thus an analogy may be drawn between the life of a society and the life of a solar system upon the nebular hypothesis. As the heat and light of the sun are·produced by the
 
-*Herbert Spencer's definition of Evolution, "First Principles," p.396.
+\*Herbert Spencer's definition of Evolution, "First Principles," p.396.
 
 488 THE LAW OF HUMAN PROGRESS Book X.
 
@@ -5277,13 +5241,13 @@ And there is, I think, a subtler influence which often accounts for what are loo
 
 Chap. II. DIFFERENCES IN CIVILIZATION 493
 
-man in whose veins ran the blood of Indian chiefs. He used to tell me traditions learned from his grandfather, which illustrated what is difficult for a white man to comprehend-the Indian habit of thought, the intense but patient blood thirst of the trail, and the fortitude of the stake. From the way in which he dwelt on these, I have no doubt that under certain circumstances~ highly educated, civilized man that he was, he would have shown traits which would have been looked on as due to his Indian blood; but which in reality would have been sufficiently explained by the broodings of his imagi- nation upon the deeds of his ancestors. *
+man in whose veins ran the blood of Indian chiefs. He used to tell me traditions learned from his grandfather, which illustrated what is difficult for a white man to comprehend-the Indian habit of thought, the intense but patient blood thirst of the trail, and the fortitude of the stake. From the way in which he dwelt on these, I have no doubt that under certain circumstances~ highly educated, civilized man that he was, he would have shown traits which would have been looked on as due to his Indian blood; but which in reality would have been sufficiently explained by the broodings of his imagi- nation upon the deeds of his ancestors. \*
 
 In any large community we may see, as between differ- . ent classes and groups, differences of the same kind as those which exist between communities which we speak of as differing in civilization-differences of knowledge, beUef, customs, tastes, and speech, which in their ex- tremes show among people of the same race, living in the same country, differences almost as great as those between civilized and savage communities. As all stages of social development, from the stone age up, are yet to be found in contemporaneously existing communities, so in the same country and in the same city are to be
 
 found, side by side, groups which show similar div~rsi­ ties. In such countries as England and Germany, chil- dren of the same race, born and reared in the same place, will grow up, speaking the language differently, holding different beliefs, following different customs, and show- ing different tastes; and even in such a country as the
 
-*Wordsworth, in his "Song at the Feast of Brougham Castle," has in highly poetical form alluded to this influence:
+\*Wordsworth, in his "Song at the Feast of Brougham Castle," has in highly poetical form alluded to this influence:
 
 Armor rusting in his halls  
 On the blood of Clifford calls:
@@ -5467,9 +5431,9 @@ Given beings of this kind, placed on a globe of such diversified surface and cli
 
 first go but a little way. But on the rich plains of warm climates, where human existence can be maintained with a smaller expenditure of force, and from a much smaller area, men can keep closer together, and the mental power which can at first be devoted to improvement is much greater. Hence civilization naturally first arises in the great valleys and table lands where we find its earliest monuments.
 
-But these diversities in natural conditions, not merely thus directly produce diversities in social development, but, by producing diversities in social development, bring out in man himself an obstacle, or rather an active coun- terforce, to improvement. As families and tribes are separated from each other, the social feeling ceases to operate between them, and differences arise in language, custom, tradition, religion-in short, in the whole social web which each community, however small or large, con- stantly spins. With these differences, prejudices grow, animosities spring up, contact easily produces quarrels, aggression begets aggression, and wrong kindles re- venge.* And so between these separate social aggregates arises the feeling of Ishmael and the spirit of Cain, war-
+But these diversities in natural conditions, not merely thus directly produce diversities in social development, but, by producing diversities in social development, bring out in man himself an obstacle, or rather an active coun- terforce, to improvement. As families and tribes are separated from each other, the social feeling ceases to operate between them, and differences arise in language, custom, tradition, religion-in short, in the whole social web which each community, however small or large, con- stantly spins. With these differences, prejudices grow, animosities spring up, contact easily produces quarrels, aggression begets aggression, and wrong kindles re- venge.\* And so between these separate social aggregates arises the feeling of Ishmael and the spirit of Cain, war-
 
-*How easy it is for ignorance to pass into contempt and dis- like; how natural it is for us to consider any difference in manners, customs, religion, etc., as proof of the inferiority of those who differ from us, anyone who has emancipated him- self in any degree from prejudice, and who mixes 'with different classes, m·ay see in civilized society. In religion, for instance, the spirit of the hymn-
+\*How easy it is for ignorance to pass into contempt and dis- like; how natural it is for us to consider any difference in manners, customs, religion, etc., as proof of the inferiority of those who differ from us, anyone who has emancipated him- self in any degree from prejudice, and who mixes 'with different classes, m·ay see in civilized society. In religion, for instance, the spirit of the hymn-
 
 "I'd rather be a Baptist, and wear a shining face,  
 Than for to be a Methodist and always fall from grace,"
@@ -5602,11 +5566,11 @@ in a drop of water; which has opened to us the ante- chamber of nature's mysteri
 
 In that spirit of fatalism to which I have alluded as pervading current literature, it is -the tashion to speak even of war and slavery as means of human progress. But war, which is the opposite of association, can aid progress only when it prevents further war or breaks down anti-social barriers which are themselves passive war.
 
-As for slavery, I cannot see how it could ever have aided in establishing freedom, and freedom, the synonym of equality, is, from the very rudest state in which man can be imagined, the stimulus and condition of progress. Auguste Comte's idea that the institution of slavery de- stroyed cannibalism is as fanciful as Elia's humorous notion of the way mankind acquired a taste for roast pig. It assumes that a propensity that has never been found developed in man save as the result of the most unnatural conditions-the direst want or the most bru- talizing superstitions*-is an original impulse, and that he, even in his lowest state the highest of all animals, has natural appetites which the nobler brutes do not show. And so of the idea that slavery began civilization by giving slave owners leisure for improvement.
+As for slavery, I cannot see how it could ever have aided in establishing freedom, and freedom, the synonym of equality, is, from the very rudest state in which man can be imagined, the stimulus and condition of progress. Auguste Comte's idea that the institution of slavery de- stroyed cannibalism is as fanciful as Elia's humorous notion of the way mankind acquired a taste for roast pig. It assumes that a propensity that has never been found developed in man save as the result of the most unnatural conditions-the direst want or the most bru- talizing superstitions\*-is an original impulse, and that he, even in his lowest state the highest of all animals, has natural appetites which the nobler brutes do not show. And so of the idea that slavery began civilization by giving slave owners leisure for improvement.
 
 Slavery never did and never could aid improvement. Whether the community consist of a single master and a single slave, or of thousands of masters and millions of slaves, slavery necessarily involves a waste of human
 
-*The Sandwich Islanders did honor to their good chiefs by eating their bodies. Their bad and tyrannical chiefs they would not touch. The New Zealanders had a notion that by eating their enemies they acquired their strength and valor. And thi~ seems to be the general origin of eating prisoners of war.
+\*The Sandwich Islanders did honor to their good chiefs by eating their bodies. Their bad and tyrannical chiefs they would not touch. The New Zealanders had a notion that by eating their enemies they acquired their strength and valor. And thi~ seems to be the general origin of eating prisoners of war.
 
 526 THE LAW OF HUMAN PROGRESS Book X
 
@@ -5732,11 +5696,11 @@ Chap. IV. HOW MODERN CIVILIZATION MAY DECLINE 537
 
 Committees and take justice into their own hands. Is this indicative of advance or retrogression?
 
-All this is matter of common observation. Though we may not speak it openly, the general faith in repub- lican institutions is, where they have reached their full- est development, narrowing and weakening. It is no longer that confident belief in republicanism as the source of national blessings that it once was. Thought- ful men are beginning to see its dangers, without seeing how to escape them; are beginning to accept the view of Macaulay and distrust that of Jefferson.* And the people at large are becoming used to the growing cor- ruption. The most ominous political sign in the United States to-day is the growth of a sentiment which either doubts the existence of an honest man in public office or looks on him as·a fool for not seizing his opportuni- ties. That is to say, the people themselves are becoming corrupted. Thus in the United States to-day is republi- can government running the course it must inevitably follow under conditions which cause the unequal dis- tribution· of wealth.
+All this is matter of common observation. Though we may not speak it openly, the general faith in repub- lican institutions is, where they have reached their full- est development, narrowing and weakening. It is no longer that confident belief in republicanism as the source of national blessings that it once was. Thought- ful men are beginning to see its dangers, without seeing how to escape them; are beginning to accept the view of Macaulay and distrust that of Jefferson.\* And the people at large are becoming used to the growing cor- ruption. The most ominous political sign in the United States to-day is the growth of a sentiment which either doubts the existence of an honest man in public office or looks on him as·a fool for not seizing his opportuni- ties. That is to say, the people themselves are becoming corrupted. Thus in the United States to-day is republi- can government running the course it must inevitably follow under conditions which cause the unequal dis- tribution· of wealth.
 
 Where that course leads is clear to whoever will think. As corruption becomes chronic; as public spirit is lost; as traditions of honor, virtue, and patriotism are weak- ened; as law is brought into contempt and reforms become hopeless; then in the festering mass will be gen- erated volcanic forces, which shatter and rend when seeming accident gives them vent. Strong, unscrupulous men, rising up upon occasion, will become the exponents of blind popular desires or fierce popular passions, and dash aside forms that have lost their vitality. The sword will again be mightier than the pen, and in carni- vals of destruction brute force and wild frenzy will
 
-*See Macaulay's letter to Randall, the biographer of Jef- ferson.
+\*See Macaulay's letter to Randall, the biographer of Jef- ferson.
 
 538 THE LAW OF HUMAN PROGRESS Book X.
 
@@ -5747,11 +5711,11 @@ Whence shall come the new barbarians? Go through
 
 the squalid quarters of great cities, and you may see, even now, their gathering hordes! How shall learning perish? Men will cease to read, and books will kindle fires and be turned into cartridges!
 
-It is startling to think how slight the traces that would be left of our civilization did it pass through the throes which have accompanied the decline of every previous civilization. Paper will not last like parchment, nor are our most massive buildings and monuments to be com- pared in solidity with the rock-hewn temples and titanic edifices of the old civilizations.* And invention has given us, not merely the steam engine and the printing press, but petroleum, nitro-glycerine, and dynamite.
+It is startling to think how slight the traces that would be left of our civilization did it pass through the throes which have accompanied the decline of every previous civilization. Paper will not last like parchment, nor are our most massive buildings and monuments to be com- pared in solidity with the rock-hewn temples and titanic edifices of the old civilizations.\* And invention has given us, not merely the steam engine and the printing press, but petroleum, nitro-glycerine, and dynamite.
 
 Yet to hint, to-day, that our civilization may possibly be tending to decline, seems like the wildness of pessi- mism. The special tendencies to which I have alluded are obvious to thinking men, but with the majority of thinking men, as with the great masses, the belief in substantial progress is yet deep and strong-a funda- mental belief which admits not the shadow of a doubt.
 
-*It is also, it seems to me, instructive to note how inade- quate and utterly misleading would be the idea of our civiliza- tion which could be gained from the religious and funereal monu- ments of our time, which are all we have from which to gain our ideas of the buried civilizations.
+\*It is also, it seems to me, instructive to note how inade- quate and utterly misleading would be the idea of our civiliza- tion which could be gained from the religious and funereal monu- ments of our time, which are all we have from which to gain our ideas of the buried civilizations.
 
 Chap. IV. HOW MODERN CIVILIZATION MAY DECLINE 539
 
@@ -5773,21 +5737,21 @@ Whether in the present drifts of opinion and taste there are as yet any indicati
 
 Chap. IV. HOW MODERN CIVILIZATION MAY DECLINE 541
 
-equality, the nineteenth century may to the future mark its climax. These industrial depressions, which cause as much waste and suffering as famines or wars, are like the twinges and shocks which precede paralysis. Every- where is it evident that the ten~encyto inequality, which is the necessary result of material progress where land is monopolized, cannot go much further without carry- ing our civilization into that downward path which is so easy to enter and so hard to abandon. Everywhere the increasing intensity of the struggle to live, the in- creasing necessity for straining every nerve to prevent being thrown down and trodden under foot in the scram- ble for wealth, is draining the forces which gain and maintain improvements. In every civilized country pauperism, crime, insanity, and suicides are increasing. In every civilized country the diseases are increasing which come from overstrained nerves, from insufficient nourishment, from squalid lodgings, from unwholesome and monotonous occupations, from premature labor of children, from the tasks and crimes which poverty im- poses upon women. In every highly civilized country the expectation of life, which gradually rose for several centuries, and which seems to have culminated about the first quarter of this century, appears to be now dimin- ishing.*
+equality, the nineteenth century may to the future mark its climax. These industrial depressions, which cause as much waste and suffering as famines or wars, are like the twinges and shocks which precede paralysis. Every- where is it evident that the ten~encyto inequality, which is the necessary result of material progress where land is monopolized, cannot go much further without carry- ing our civilization into that downward path which is so easy to enter and so hard to abandon. Everywhere the increasing intensity of the struggle to live, the in- creasing necessity for straining every nerve to prevent being thrown down and trodden under foot in the scram- ble for wealth, is draining the forces which gain and maintain improvements. In every civilized country pauperism, crime, insanity, and suicides are increasing. In every civilized country the diseases are increasing which come from overstrained nerves, from insufficient nourishment, from squalid lodgings, from unwholesome and monotonous occupations, from premature labor of children, from the tasks and crimes which poverty im- poses upon women. In every highly civilized country the expectation of life, which gradually rose for several centuries, and which seems to have culminated about the first quarter of this century, appears to be now dimin- ishing.\*
 
 It is not an advancing civilization that such figures show. It is a civilization which in its undercurrents has already begun to recede. When the tide turns in bay or river from flood to ebb, it is not all at once; but here it still runs on, though there it has begun to recede.
 
-*Statistics which show these things are collected in con- venient form in a volume entitled "Deterioration and Race Education," by Samuel Royce, which has been largely dis- tributed by the venerable Peter Cooper of New York. Strangely enough, the only remedy proposed by Mr. Royce is the estab- lishment of Kindergarten schools.
+\*Statistics which show these things are collected in con- venient form in a volume entitled "Deterioration and Race Education," by Samuel Royce, which has been largely dis- tributed by the venerable Peter Cooper of New York. Strangely enough, the only remedy proposed by Mr. Royce is the estab- lishment of Kindergarten schools.
 
 542 THE LAW OF HUMAN PROGRESS Book x.
 
 When the sun passes the meridian, it can be told only by the way the short shadows fall; for the heat of the day yet increases. But as sure as the turning tide must soon run full ebb; as sure as the declining sun must bring darkness, so sure is it, that though knowledge yet increases and invention marches on, and new states are being settled, and cities still expand, yet civilization has begun to wane when, in proportion to population, we must build more and more prisons, more and more almshouses, more and more insane asylums. It is not from top to bottom that societies die; it is from bottom to top.
 
-But there are evidences far more palpable than any that can be given by statistics, of tendencies to the ebb of civilization. There is a vague but general feeling of disappointment; an increased bitterness among the work- ing classes; a widespread feeling of unrest and brooding revolution. If this were accompanied by a definite idea of how relief is to be obtained, it would be a hopeful sign; but it is not. Though the schoolmaster has been abroad some time, the general power of tracing effect to cause does not seem a whit improved. The reaction toward protectionism, as the reaction toward other ex- ploded fallacies of government, shows this.* And even the philosophic free-thinker cannot look upon that vast change in religious ideas that is now sweeping over the
+But there are evidences far more palpable than any that can be given by statistics, of tendencies to the ebb of civilization. There is a vague but general feeling of disappointment; an increased bitterness among the work- ing classes; a widespread feeling of unrest and brooding revolution. If this were accompanied by a definite idea of how relief is to be obtained, it would be a hopeful sign; but it is not. Though the schoolmaster has been abroad some time, the general power of tracing effect to cause does not seem a whit improved. The reaction toward protectionism, as the reaction toward other ex- ploded fallacies of government, shows this.\* And even the philosophic free-thinker cannot look upon that vast change in religious ideas that is now sweeping over the
 
 civilized world without feeling that this tremendous fact may have most momentous relations, which only the future can develop. For what is going on is not a change in the form of religion, but the negation and
 
-*In point of constructive statesmanship-the recognition of fundamental principles and the adaptation of means to ends, the Constitution of the United States, adopted a century ago, is greatly superior to the latest State Constitutions, the most recent of which is that of California-a piece of utter botch- work.
+\*In point of constructive statesmanship-the recognition of fundamental principles and the adaptation of means to ends, the Constitution of the United States, adopted a century ago, is greatly superior to the latest State Constitutions, the most recent of which is that of California-a piece of utter botch- work.
 
 Chap. IV. HOW MODERN CIVILIZATION MAY DECLINE 543
 
@@ -5986,11 +5950,11 @@ Now, if we trace out the laws which govern human life in society, we find that i
 
 THE PROBLEM OF INDIVIDUAL LIFE 561
 
-est community, they are the same. We find that what seem at first sight like divergences and exceptions are but manifestations of the same principles. And we find that everywhere we can trace it, the social law runs into and conforms with the moral law; that in the life of a community, justice infallibly brings its reward and in- justice its punishment. But this we cannot see in in- dividual life. If we look merely at individual life we cannot see that the laws of the universe have the slight- est relation to good or bad, to right or wrong, to just or unjust.* Shall we then say that the law which is mani- fest in social life is not true of individual life? It is not scientific to say so. We would not say so in refer- ence to anything else. Shall we not rather say this sim- ply proves that we do not see the whole of individual life?
+est community, they are the same. We find that what seem at first sight like divergences and exceptions are but manifestations of the same principles. And we find that everywhere we can trace it, the social law runs into and conforms with the moral law; that in the life of a community, justice infallibly brings its reward and in- justice its punishment. But this we cannot see in in- dividual life. If we look merely at individual life we cannot see that the laws of the universe have the slight- est relation to good or bad, to right or wrong, to just or unjust.\* Shall we then say that the law which is mani- fest in social life is not true of individual life? It is not scientific to say so. We would not say so in refer- ence to anything else. Shall we not rather say this sim- ply proves that we do not see the whole of individual life?
 
 The laws which Political Economy discovers, like the facts and relations of physical nature, harmonize with what seems to be the law of mental development-not a necessary and involuntary progress, but a progress in which the human will is an initiatory force. But in life, as we are cognizant of it, mental development can go but a little way. The mind hardly begins to awake ere the bodily powers decline-it but becomes dimly conscious of the vast fields before it, but begins to learn and use its strength, to recognize relations and extend
 
-*Let us not delude our children. If for no other reason than for that which Plato gives, that when they come to discard that which we told them as pious fable they will also discard that which we told them as truth. The virtues which relate to self do generally bring their reward. Either a merchant or a thief will be more successful if he be sober, prudent, and faithful to his promises; but as to the virtues which do not relate \0 self-
+\*Let us not delude our children. If for no other reason than for that which Plato gives, that when they come to discard that which we told them as pious fable they will also discard that which we told them as truth. The virtues which relate to self do generally bring their reward. Either a merchant or a thief will be more successful if he be sober, prudent, and faithful to his promises; but as to the virtues which do not relate \0 self-
 
 HIt seems a story from the world of spirits, When anyone obtains that which he merits, Or any merits that which he obtains."
 
