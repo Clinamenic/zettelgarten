@@ -8,4 +8,4 @@ downloadable: true
 tags:
 ---
 
-![[Common Sense 2.pdf]]
+![[Common Sense 1.png]]
