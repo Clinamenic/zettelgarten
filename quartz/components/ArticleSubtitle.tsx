@@ -30,7 +30,7 @@ export default ((opts?: ArticleSubtitleOptions) => {
   ArticleSubtitle.css = `
   .article-subtitle {
     color: var(--dark);
-    margin: -1.25rem 0rem 1.5rem 0rem;
+    margin: -1.25rem 0rem 1.75rem 0rem;
     font-size: 1rem;
     text-align: center;
     transition: color 0.5s ease
