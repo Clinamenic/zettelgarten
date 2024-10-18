@@ -9,13 +9,12 @@ tags:
 ---
 
 <div class="text-box" style="padding-bottom: 2rem;">
-  <div class="clinamenic-cube">
+  <div class="clinamenic-cube" style="text-align: center; justify-content: center; animation: fade-in 3s ease-in;">
     <img
       src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC_Cube_Ivory.gif?raw=true"
       width="300px"
       height="300px"
       alt="Clinamenic Cube"
-      style="animation: fade-in 3s ease-in;"
     />
   </div>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 400; letter-spacing: 1px; text-align: center;">Clinamenic LLC</p>
@@ -42,13 +41,17 @@ tags:
     </p>
 </div>
 
-### Published Work
+### Published Writings
 
+- [[What is to Be Done Differently?]]
 - [[A Rhapsody on Neurodiversity]]
+- [[Toward an Open-Access Service DAO]]
+- [[Content as a Decentralized Service]]
+- [[A Sufficiently Decentralized Work Arrangement]]
+- [[Trust and Trustlessness]]
+- [[Slayer Cake, A Layered Membership Structure for DAOs]]
 - [[Recuperate the Vanguard]]
 - [[Toward a Content Commons]]
-- [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
-- [[Wu Gwei, or Going with the Flow of Governance]]
 - [[Containers for Consultants]]
 - [[Role-Bound Multisigs]]
 - [[The Failsafe Committee]]
@@ -56,8 +59,14 @@ tags:
 - [[A Solarpunk Typography Exposé]]
 - [[What Are Onchain Organizations?]]
 - [[A Crypto-Native Invoice Template]]
+- [[A Primer on Auto-Discourse]]
+- [[Progressive Public Goods Funding]]
+- [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
+- [[Wu Gwei, or Going with the Flow of Governance]]
 
-### Notes
+### Canvassing
+
+![[Boilerplate#Canvas Foreword]]
 
 - [[Notes on Active Discursive Efforts]]
 - [[Notes on the Distinction between Theoretical and Applied Governance]]
@@ -65,7 +74,7 @@ tags:
 - [[Notes on Keynes, Hayek, and Fiscal Protocols]]
 - [[Notes on Experimental Zettelkasten Methodology]]
 
-### Drafts
+### Current Drafts
 
 - [[DRAFT Methodological Survey of the Onchain Impact Economy]]
 - [[DRAFT An Organizational Theory of Active Inference]]

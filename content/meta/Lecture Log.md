@@ -2,7 +2,7 @@
 publish: true
 ---
 
-| Date | Duration | Topic | Institution | Title | Reflection |
+| Date | Duration (min) | Topic | Institution | Title | Reflection |
 |---|---|---|---|---|---|
 |1/1/2021||NEUR|McGovern Institute @ MIT|Disruptive Innovations in Neuroscience: Jeff Lichtman [McGovern Institute @ MIT]||
 |1/3/2021||GPOL.INT||Ben Macintyre \| The Spy and the Traitor: The Greatest Espionage Story of the Cold War [Meelya Gordon Memorial Lecture regarding Oleg Gordievsky]||
@@ -112,7 +112,6 @@ publish: true
 |4/7/2021|60|RELI.HST||Ancient Iran: Heaven, Hell, and the Good Life - 2020 History Lecture Series [Joel Thomas Walker]|MC - Wasn’t familiar enough with the history to robustly contextualize the presented information.|
 |4/7/2021|65|PHYS.THE|Perimeter Institute for Theoretical Physics|Convergence Public Lecture: The Genesis and Renaissance of General Relativity [Perimeter Institute for Theoretical Physics, Jurgen Renn]|LC - No substantial progress made in conceptual understanding, seeing as my math foundations are flimsy; now have a somewhat more robust understanding of the timeline of physics, and what relativity broadly entailed; still cannot meaningfully distinguish between special and general relativity.|
 |4/7/2021|76|COMP.DLT|MIT|MIT 15.S12 Blockchain and Money, Fall 2018, Lecture 8. Public Policy [Gary Gensler]|MC - Lost him for a while when he started talking about investor protection, but I do seem to intuit his high-order government concepts.|
-|4/8/2021||||||
 |4/9/2021|81|COMP.DLT|MIT|MIT 15.S12 Blockchain and Money, Fall 2018, Lecture 9. Permissioned Systems [Gary Gensler]||
 |4/9/2021|76|PHYS.PAR|FermiLab|Scientific Seminar: First results from the Muon g-2 experiment at Fermilab [Fermilab, Chris Polly, Aida El-Khadra|LC - Much of it was over my head, but I did manage to get a better footing in understanding how these particles interact, according to the models.|
 |4/10/2021|74|GOVT|Yale|Lecture 8: Privatizing Government I: Utilities, Eminent Domain, and Local Government [Yale, Ian Shapiro]||
@@ -124,7 +123,6 @@ publish: true
 |4/15/2021|75|COMP.DLT|MIT|MIT 15.S12 Blockchain and Money, Fall 2018, Lecture 12. Assessing Use Cases [Gary Gensler]|MC - Starting to understand how to realistically gauge and audit blockchain applications; as a panel speaker in a different video pointed out, the good projects have use cases that actually need to operate in a blockchain infrastructure.|
 |4/16/2021|63|GOVT.CCP|CSIS|China’s New Legislative Agenda: Unpacking China’s “Two Meetings” [CSIS, Scott Kennedy, Jude Blanchette, Bonnie Glaser, Mikko Huotari]||
 |4/17/2021|45|BIOL.GEN||Sequencing DNA with Linux Cores and Nanopores [Linux Conference Australia, David Eccles]||
-|4/18/2021||||||
 |4/19/2021|77|PHYS.PAR||Electron-Ion Collider Project Launch [Brookhaven Lab, Sen. Chuck Schumer, Lt. Gov. Kathy Hochul, Howard Zemsky, Rep. Lee Zeldin, Khianne Jackson, DoE Undersecretary for Science Paul Dabbar, Stuart Henderson, Maurie McInnis, Sen. Kirsten Gillibrand, Sen. Mark Warner, NY State Sen. Todd Kaminsky, Steve Bellone, CERN Director General Fabiola Gianotti, Asc. Director at Jefferson Rolf Ent, Cathy Cutler, EIC Project Manager Diane Hatton.]||
 |4/19/2021|51|PHYS.EMG|MIT|8.02x - Lect 16 - Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO [MIT Walter Lewin]||
 |4/20/2021|54|COMP.ART|Stanford University|Stanford CS224N: NLP with Deep Learning \| Winter 2020 \| BERT and Other Pre- trained Language Models [Jacob Devlin from Google AI Language]|LC - Still do not understand most of the architectural elements of neural networks (“Feed Forward” etc), but I am starting to understand the difference across approaches to contextual association of words, whether its long-term memory, short-term memory, or even a sort of forward memory wherein later words can be associated in a manner that is predicate to the association of earlier words.|
@@ -134,7 +132,6 @@ publish: true
 |4/23/2021|80|PHYS.PAR|UC Berkeley|The Higgs Boson Explained [Berkeley, Mark Richards, Beate Heinemann, Lawrence Hall, Marjorie Shapiro, Josh Ruderman, Louise Skinnari]||
 |4/24/2021|62|NEUR.VIS|Allen Institute|Coding and Vision 101, Lecture 3: The Structure of the Neocortex [Allen Brain Institute, Clay Reid]|LC - Did not understand the what functionally distinguishes layers of the cortex, but I am slowly managing to assemble a conceptual map of the brain; also struggling to understand the variety of distance scales involved in neuroscience.|
 |4/24/2021|52|GPOL.CYB||The Cyber Shell Game – War, Information Warfare, and the Darkening Web [black hat USA 2019 convention, Alexander Klimburg]|LC - Did not follow the rich historical timeline laid out, nor do I understand the basic architecture of the internet, but I do appreciate how game theoretical strategy can transform within the framework of the internet and how this strategy can scale up from individual actors to state-level actors.|
-|4/25/2021||||||
 |4/26/2021|88|BIOL.CEL||HCA Development Seminar Series: Stem Cell, Organoid Models, and Regenerative Biology [Human Cell Atlas, Barbara Treutlein, Karl Koehler, Aviv Regev, plus five others]|LC - Didn’t grasp the detailed individuation pathways for in vitro stem cells, or the particular enzymes required to steer the particular individuation to hair follicle cells;|
 |4/26/2021|75|PHYS.AST|FermiLab|At the edge of time: Exploring the mysteries of our universe’s first seconds [Fermilab, Dan Hooper]|MC - Lecture was for the general public, and was thus, in and of itself, not too difficult; still having issues grasping the concept of wavelength and frequency.|
 |3/5/2022|62|GPOL|Princeton Bendheim Center for Finance|Sergei Guriev on The Implications of Sanctions on the Russian Economy [Princeton Bendheim Center for Finance]||
@@ -184,7 +181,6 @@ publish: true
 |9/9/2022|64||University of Pennsylvania|Stephen Kotkin- Paradoxes of Power Lecture- University of Pennsylvania Bookstore||
 |9/9/2022|53||National WWI Museum|America and the World War, 1914-1917 - Michael Neiberg||
 |9/12/2022|48||UC Davis Mind Institute|Development of human amygdala-prefrontal cortex circuitry and the role of the caregiver (Nim Tottenham, Ph.D)||
-|9/13/2022||||||
 |9/14/2022|47||Gresham College|Thomas More's Magnificent Utopia - Dr Richard Serjeantson||
 |9/18/2022|44||Yale|6. Rise of the Joint Stock Corporation||
 |9/18/2022|84|||Calculus 1 Lecture 3.5: Limits of Functions at Infinity||

@@ -5,7 +5,7 @@ title: A Crypto-Native Invoice Template
 subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
 date: 2024-03-05
 license: CC BY-SA 4.0
-arweave aash: p9gGX1WhTPClo3xP84rUHhNFd6f9CC_atIm6WIW2b9U
+arweaveHash: p9gGX1WhTPClo3xP84rUHhNFd6f9CC_atIm6WIW2b9U
 publish: true
 tags:
   - personal-discourse
