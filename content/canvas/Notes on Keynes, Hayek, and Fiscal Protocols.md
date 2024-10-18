@@ -3,7 +3,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: Notes on Keynes, Hayek, and Fiscal Protocols
 subtitle: Peer-to-peer economic infrastructure to address foundational disagreements in the discourse.
-item type: canvas
+itemType: canvas
 draft started: 2024-10-06
 date: 2024-10-06
 license: CC BY-SA 4.0
@@ -14,7 +14,7 @@ tags:
   - parafiscal
   - protocolization
 ---
-![[Boilerplate#Log Foreword]]
+![[Boilerplate#Canvas Foreword]]
 
 ## Keynes as Prosocial Statist, Hayek as Stigmergic Whig
 

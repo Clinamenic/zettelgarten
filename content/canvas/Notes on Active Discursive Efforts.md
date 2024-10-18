@@ -3,16 +3,16 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: Notes on Active Discursive Efforts
 subtitle: Regarding nascent theories of bureaumancy, zettelkasten methodology, and other existing topic clusters.
-item type: canvas
+itemType: canvas
 draft started: 2024-08-25
 date: 2024-08-25
 license: CC BY-SA 4.0
-arweaveHash: 
+arweaveHash: 5V_C2jsrTfSy7g05v7R7WIapntH4EagEvMkwGkCUzYE
 publish: true
 tags:
   - personal-discourse/log
 ---
-![[Boilerplate#Log Foreword]]
+![[Boilerplate#Canvas Foreword]]
 
 ## Clusters
 

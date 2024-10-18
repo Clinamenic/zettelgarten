@@ -3,7 +3,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: Notes on Extitutional Theory and Progressive Protocolization
 subtitle: 
-item type: canvas
+itemType: canvas
 draft started: 2024-09-18
 date: 2024-09-18
 license: CC BY-SA 4.0
@@ -12,7 +12,7 @@ publish: true
 tags:
   - personal-discourse/log
 ---
-![[Boilerplate#Log Foreword]]
+![[Boilerplate#Canvas Foreword]]
 
 ## Protocolization
 

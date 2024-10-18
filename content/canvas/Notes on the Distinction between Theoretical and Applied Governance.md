@@ -3,7 +3,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: Notes on the Distinction between Theoretical and Applied Governance
 subtitle: Considerations around how governance theorists and practitioners may require different skillsets.
-item type: canvas
+itemType: canvas
 draft started: 2024-09-08
 date: 2024-09-08
 license: CC BY-SA 4.0
@@ -12,7 +12,7 @@ publish: true
 tags:
   - personal-discourse/log
 ---
-![[Boilerplate#Log Foreword]]
+![[Boilerplate#Canvas Foreword]]
 
 Having already set up a draft in the zettelkasten for [[DRAFT Theoretical and Applied Governance]], it might help the drafting effort to explore some of the underlying ideas using the "log" as a pre-publication (for ideonomic provenance) and as a sensemaking exercise.
 

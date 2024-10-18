@@ -3,7 +3,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: Notes on Experimental Zettelkasten Methodology
 subtitle: Some coverage of the various challenges faced in the construction of a bespoke multi-purpose zettelkasten.
-item type: canvas
+itemType: canvas
 draft started: 2024-10-12
 date: 2024-10-12
 license: CC BY-SA 4.0
@@ -13,7 +13,7 @@ tags:
   - personal-discourse/log
   - misc/zettelkasten
 ---
-![[Boilerplate#Log Foreword]]
+![[Boilerplate#Canvas Foreword]]
 
 Finding myself in a period of pronounced methodological disequilibrium, at once confounding and exciting, I think it may be useful to take brief account of the challenges faced, in hopes of dispelling artificial problems and surfacing potential solutions. It is also in the spirit of auto-discourse that this exercise, like those few preceding it, will be made public, so as to provide additional epistemic context for more polished future publications.
 
