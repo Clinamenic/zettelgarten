@@ -56,7 +56,7 @@ tags:
 - [[Role-Bound Multisigs]]
 - [[The Failsafe Committee]]
 - [[Pre-Constitutional Governance]]
-- [[A Solarpunk Typography Exposé]]
+- [[A Solarpunk Typography Expose]]
 - [[What Are Onchain Organizations?]]
 - [[A Crypto-Native Invoice Template]]
 - [[A Primer on Auto-Discourse]]
