@@ -8,7 +8,7 @@ source: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-
 license: CC BY-SA 4.0
 arweaveHash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 publish: true
-downloadable: true
+downloadable: false
 tags:
   - personal-discourse
   - text
