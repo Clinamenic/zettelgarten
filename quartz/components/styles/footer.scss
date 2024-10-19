@@ -49,12 +49,12 @@ footer {
   font-weight: 300;
 }
 .nav-link:hover {
-  color: var(--dark) !important;
+  color: black !important;
 }
 .nav-button {
   text-align: center;
   justify-content: center;
-  padding: 0.1rem 0.75rem;
+  padding: 0.1rem 0.75rem 0.2rem 0.75rem;
   margin: 0rem 0.6rem;
   border: 1px solid var(--dark);
   border-radius: 15px;
@@ -63,6 +63,10 @@ footer {
 .nav-button:hover {
   background-color: var(--tertiary);
   transition: all 0.1s;
+}
+
+.nav-button:hover .nav-link {
+  color: black !important;
 }
 .nav-button:active {
   background-color: var(--secondary);

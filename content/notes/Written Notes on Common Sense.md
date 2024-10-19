@@ -1,1 +1,0 @@
-![[NoteScan_CommonSense_1_.png]]

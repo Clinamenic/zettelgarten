@@ -1,13 +1,12 @@
 ---
 title: Note Index on Keynes' General Theory
-Date: 2024-09-11
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory]]"
 publish: true
 tags:
 ---
 
-## Index
+## Annotated ToC
 
 - Introductory Materials
   - [[Keynes_GeneralTheory#GENERAL INTRODUCTION]]
@@ -291,9 +290,13 @@ Based on the chapter you've provided and the search results, I can help clarify 
 
 Keynes' approach was revolutionary in suggesting that economies were not self-correcting and that government intervention could be beneficial, contrasting with the prevailing classical economic theories of his time.
 
-
 ## Secondary Materials
-
 
 10/16/24
 https://www.youtube.com/watch?v=bABObsWIEy8
+
+## Handwritten Notes
+
+A scanned copy of handwritten notes on The General Theory of Employment, Interest and Money by John Maynard Keynes.
+
+<iframe src="https://d7vqlqhppakgueunl64roxo5s3zhhaazshpl5lsuf5c3bncrln6q.arweave.net/H-sFwO94FGoSjV-5F13dlvJzgBmR3r6uVC9FsLRRW30" class="pdf-embed" ></iframe>
