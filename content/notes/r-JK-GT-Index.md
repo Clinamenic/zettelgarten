@@ -29,8 +29,9 @@ tags:
     - [[Keynes_GeneralTheory#Chapter 2, Section VII]] {Summary: [[r-JK-GT-12]]}
   - Chapter 3: The Principle of Effective Demand
     - [[Keynes_GeneralTheory#Chapter 3, Section I]] {Summary: [[r-JK-GT-15]]}
-    - [[Keynes_GeneralTheory#Chapter 3, Section II]] {Summary: }
-    - [[Keynes_GeneralTheory#Chapter 3, Section III]] {Summary: }
+    - [[Keynes_GeneralTheory#Chapter 3, Section II]] {Summary: [[r-JK-GT-16]]}
+	    - Notes: [[r-JK-GT-17]]
+    - [[Keynes_GeneralTheory#Chapter 3, Section III]] {Summary: [[r-JK-GT-18]]}
 - BOOK II: DEFINITIONS AND IDEAS
   - Chapter 4: The Choice of Units
     - [[Keynes_GeneralTheory#Chapter 4, Section I]] {Summary: }
@@ -167,71 +168,115 @@ tags:
 
 ## Variables
 
-- $A$ (_Proceeds_)
+### $A$ (_Proceeds_)
+
   - Proceeds received by entrepreneur for finished output, for given period.
-- $A_1$ (_Cost of acquired output_)
+
+#### $A_1$ (_Cost of acquired output_)
+
   - Sum paid by entrepreneur, during given period, for finished output of other entrepreneur(s).
-- $G$ (_Value of capital equipment_)
+
+### $G$ (_Value of capital equipment_)
+
   - Value of accrued capital equipment of entrepreneur, at the end of a given period, over all previous periods.
   - References
-    - ![[Keynes_GeneralTheory#^eedb96]]
-- $G'$ (_Maximum potential value of capital equipment_)
+    - [[Keynes_GeneralTheory#^eedb96]]
+
+#### $G'$ (_Maximum potential value of capital equipment_)
+
   - Optimum value of capital equipment, given proper maintenance, at the end of a given period, over all previous periods
-- $B'$ (_Optimally efficient maintenance cost_)
+
+### $B'$ (_Optimally efficient maintenance cost_)
+
   - Optimum cost of maintaining capital equipment, for a given period.
   - $G' - B'$ (_Maximum potential net value of capital equipment_)
     - Maximum potential value of capital equipment, if maintained and unused in given period of production
     - **References**
-- $E$ (_Wages Bill_)
+
+### $E$ (_Wages Bill_)
+
   - $E = N × W$
   - References
-    - ![[Keynes_GeneralTheory#^8827b4]]
-- $I$ (_Current Investment_)
+    - [[Keynes_GeneralTheory#^8827b4]]
+
+### $I$ (_Current Investment_)
+
   - $I = G - (G' - B')$
   - Entrepreneur's current investment in capital equipment
   - References
-- $U$ (_User Cost_)
+
+### $U$ (_User Cost_)
+
   - $U = (G' - B') - (G - A_1)$
     - $U = A_1 + (G' - B') - G$
     - $U = A_1 - I$
-- $F$ (\*Factor Cost)
-- $V$ (_Supplementary Cost_)
+
+### $F$ (Factor Cost)
+
+### $V$ (_Supplementary Cost_)
+
   - Excess of expected depreciation of capital equipment beyond User Cost.
   - _Basic Supplementary Cost_: Initial calculation of Supplementary Cost at the start of a given period of production.
   - _Current Supplementary Cost_: Revised calculation of Supplementary Cost, up to date.
-- $D$ (_Expected Proceeds from Demand_)
+
+### $D$ (_Expected Proceeds from Demand_)
+
   - Entrepreneur's expected proceeds purchasers (consumers and investors).
   - $D = D_1 + D_2$
   - $D_1$ (_Propensity to Consume_)
   - The amount which the community is expected to spend on consumption.
   - $D_2$ (Propensity to Save?)
   - The amount which the community is expected to devote to new investment.
-- $Z$ (_Aggregate Supply Price_)
+
+### $Z$ (_Aggregate Supply Price_)
+
   - $Z = φ(N)$
-- $N$ (_Quantity of Employment_)
+### $N$ (_Quantity of Employment_)
+
   - Number of people employed during a given period of production.
   - **References**
-    - ![[Keynes_GeneralTheory#^8827b4]]
-- $𝑓$ (Aggregate Demand Function)
+    - [[Keynes_GeneralTheory#^8827b4]]
+
+### $𝑓$ (Aggregate Demand Function)
+
   - Function relating employment volume ($N$) to entrepreneur's expected proceeds ($D$).
   - $D = 𝑓(N)$ (_Aggregate Demand Function_)
-- $φ$ (Aggregate Supply Function)
+  - References:
+	  - Ch 3.1 [[Keynes_GeneralTheory#^fbe1e8]]
+	  - Ch 6.1 [[Keynes_GeneralTheory#^4e6236]]
+
+### $φ$ (Aggregate Supply Function)
+
   - Function relating employment volume ($N$) to aggregate supply price ($Z$).
   - $Z = φ(N)$ (_Aggregate Supply Function_)
-- $Y$ (Income)
-- $r$ (Interest Rate)
-- $M$ (Amount of cash held)
+  - References:
+	  - Ch 3.1 [[Keynes_GeneralTheory#^fbe1e8]]
+
+### $Y$ (Income)
+
+### $r$ (Interest Rate)
+
+### $M$ (Amount of cash held)
+
   - $M = M_1 + M_2 = L_1(Y) + L_2(r)$
-  - $M_1$ (Amount of cash held to satisfy transactions-motive and precautionary-motive)
-  - $M_2$ (Amount of cash held to satisfy speculative-motive)
-- $L_1$ (Liquidity function of income)
+
+#### $M_1$ (Cash for transactions-motive and precautionary-motive)
+
+#### $M_2$ (Cash for speculative-motive)
+
+### $L_1$ (Liquidity function of income)
+
   - The function that relates income ($Y$), as an input, to $M_1$ as an output
-- $L_2$ (Liquidity function of interest rate )
+
+### $L_2$ (Liquidity function of interest rate)
+
   - The function that relates interest rate ($r$), as an input, to $M_1$ as an output
-- $V$ (_Income-Velocity of Money_)
+
+### $V$ (_Income-Velocity of Money_)
+
   - $$L_1(Y) = \frac{Y}{V} = M_1$$
 
-### {Equations}
+## Equations
 
 $$'User Cost' = U = (G' - B') - (G - A_1)$$
 
@@ -243,7 +288,8 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 - Net Income of Entrepreneur: $$A - U - V$$
   - Proceeds minus User Cost, minus Supplementary Cost
   - References
-    - ![[Keynes_GeneralTheory#^96c69b]]
+    - [[Keynes_GeneralTheory#^96c69b]]
+
 - Aggregate amount of money saved?: $$M = M_1 + M_2 = L_1(Y) + L_2(r)$$
 - Maximum potential net value of capital equipment: $$G' - B'$$
 - Transactions- and Precautionary-Motive Liquidity Function of Income: $$L_1(Y) = \frac{Y}{V} = M_1$$

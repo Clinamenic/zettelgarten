@@ -76,7 +76,7 @@ tags:
 
 ### Current Drafts
 
-- [[DRAFT Methodological Survey of the Onchain Impact Economy]]
+- [[DRAFT Methodological Prospectus of the Onchain Impact Economy]]
 - [[DRAFT An Organizational Theory of Active Inference]]
 - [[DRAFT A Mirror for Nomads]]
 - [[DRAFT Zettelkasten and Ideonomy]]

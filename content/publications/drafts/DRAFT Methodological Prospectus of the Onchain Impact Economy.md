@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: DRAFT Methodological Survey of the Onchain Impact Economy
+title: DRAFT Methodological Prospectus of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
 draft started: 0024-06-28
 date: 
@@ -91,11 +91,11 @@ The term 'onchain' refers to any activity on a blockchain, similar to how the te
 
 ### 1.2 - Selected Onchain Infrastructure
 
-In this section we will highlight how certain blockchain-based protocols and platforms factor into the complex of digital public infrastructure. Because this technology is still nascent, and its field of application is still being explored, we will consider it all in light of both its current actual implementation, as well as how it may be implemented in the future, in a more integrated ecosystem of impact.
+In this section we will highlight how certain blockchain-based protocols and platforms can factor into the complex of digital public infrastructure.
 
-Worth bearing in mind throughout this section is the distinction between open-source software qua tooling, and any platforms designed to help users engage with said software. Whereas the tooling can be developed to be operable on peer-to-peer infrastructure, the platforms themselves generally require maintenance overhead and other forcing functions for institutional administration.
+Worth bearing in mind throughout this section is the distinction between solutions based on peer-to-peer protocols, and solutions based on institutionally maintained platforms. While both classes of technical tooling have their place in the larger stack, they each come with their own risk profile.
 
-Much of the potential of this technology, as digital public infrastructure, rests on the premise that the software itself is functionally autonomous and not reliant on the revenue models of the institutions that developed it. Institutions have an important role to play in this context, but much of the digital public infrastructure in question, onchain or otherwise, cannot operate as privately productized goods. After all, the institutional tooling will not de-enshittify the institutional paradigm<sup>2</sup>. 
+Much of the potential of this technology, as digital public infrastructure, rests on the premise that the software itself is functionally autonomous and not reliant on the revenue models of the institutions that developed it. While institutions, public and private, have crucial roles to play in these socio-economic systems, they also have their own economic and legal imperatives which may preclude them from effectively stewarding public goods. After all, the institutional tooling will not de-enshittify the institutional paradigm<sup>2</sup>. 
 
 #### Hypercerts
 
@@ -153,17 +153,41 @@ Both direct and quadratic grant rounds involve a matching pool funding process, 
 
 In the case of quadratic funding, there is a customizable period of time, conventionally two to three week, whereby anyone can visit the grantees' profiles, and donate to them in crypto or in fiat currencies<sup>6</sup>. During this donation period, various data are collected automatically, such as the amount of donations, the value of each donation, and various other analytics performed upon donor activity. One significant aspect of this analysis pertains to the identification and prevention of fraudulent donor behavior, which will be examined more closely in the section on technical challenges.
 
-Once these results are calculated, the funds from the matching pool are disbursed to grantees according to a quadratic formula such as the following. 
+Once these results are calculated, the funds from the matching pool are disbursed to grantees according to a quadratic formula such as the following: 
 
-$$V_i^p ((∑_j \sqrt{c_j^p})^2) - c_j^p$$
+$$F^p = (∑_j \sqrt{c_j^p})^2$$
 
-Direct funding, on the other hand, merely has round operators directly determine the amount each grantee receives from the matching pool.
+Direct funding, on the other hand, merely has round operators directly determine the amount each grantee receives from the matching pool. 
 
-Much of this actual grantmaking process occurs onchain, meaning that the public data involved is stored on a global peer-to-peer network which is not managed by a single institution. Instead, institutions such as Gitcoin maintain dedicated web interfaces, like their round manager interface, for users to interact with the underlying smart contracts. In this case, the users in question are grant round operators, grant applicants, and donors. 
+Allo Protocol uses smart contracts to programmatically facilitate both direct and quadratic funding rounds, meaning that the essential mechanisms of this grantmaking process occur onchain, and that the public data involved is stored on a global peer-to-peer network which is not managed by a single institution. Instead, institutions such as Gitcoin maintain dedicated user interfaces, like the Gitcoin round manager interface, for people to interact with the underlying smart contracts. In this case, the users in question are grant round operators, grant applicants, and donors. 
 
-#### Retroactive Public Goods Funding
+#### Retroactive Funding
 
-"[Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) aims to reward past impact based on the idea that it is easier to agree on what was useful than what will be useful. One of the most important experiment parameters in RetroPGF is determining how and what information about projects is presented to voters." (https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)
+Whereas the above quadratic and direct grants, as facilitated by the likes of Allo Protocol, are prospective in nature in that they generally fund work which is yet to be done, there also exists a class of funding processes concerned with retroactively funding work which has been completed. 
+
+This idea that "it is easier to agree on what was useful than what will be useful" has guided the prominent examples of retroactive funding programs in this ecosystem so far, such as Optimism's Retroactive Public Goods Funding program, or RetroPGF (Optimism Collective, 2023b). In the case of RetroPGF, applications are reviewed by members of the Optimism Collective, and funding is provided by institutional donors (wheebill, 2024). For more information about the economic volume of the RetroPGF rounds, see the appendix on grant volume.
+
+#### Ecosystem Development Funding
+
+One of the primary difficulties encountered in the allocation of funding to public goods is that of sustainable value exchange. With respect to the source of funding, this funding process ought to be sustainable if it is to support the long term development and maintenance of public goods. That said, by virtue of public goods being non-rivalrous and non-excludable, it is often difficult to configure a financial model which permits a return on investment. Indeed, depending on how strictly we define public goods, it may even be impossible to conceive of a public good which can entail exclusive rights to profit.
+
+But is exclusive rights to profit needed in order to enable sustainable funding for public goods at scale, and would it necessarily compromise the entire value of public goods? This question of value exchange and profitability has been discussed extensively in the ecosystem. 
+
+Ecosystem development funding arguably constitutes an example of this sort of compromise. In these arrangements, grants are awarded to projects which incorporate the software of the grantor institution, thus expanding the ecosystem or user base of that software. In cases like this, the projects receiving funding can still qualify as public goods, even if the constraints of ecosystem development limit the effective beneficiary base of the value created. 
+
+For example, if a software company receives a grant from a protocol foundation to incorporate a certain protocol into the company's software, that grant constraint itself does not necessarily preclude the software from being non-rivalrous and non-excludable. While the devil is ultimately in the details, some voices in the ecosystem rightfully point out how, in stressing the pedantic criteria of public goods, we risk losing the forest for the trees<sup>7</sup>.
+
+### 1.4 - Ontological Considerations
+
+Text here
+
+#### LinkedClaims & Verifiable Credentials
+
+Text here
+
+#### Common Impact Data Standard
+
+Text here
 
 ## Section 2 - Challenges
 
@@ -233,7 +257,7 @@ Text here
 
 Text here
 
-## Section 3 - Methodology
+## Section 3 - Prospective Methodology
 
 Text here
 
@@ -254,20 +278,11 @@ text here
 Text here
 Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
 
-
-### 3.2 - Ontological Considerations
-
-Text here
-
-#### Common Impact Data Standard
-
-Text here
-
-### 3.3 - Unified Ontology for Impact Reporting
+### 3.2 - Unified Ontology for Impact Reporting
 
 Text here, Common Impact Data Standards
 
-### 3.4 - A Peer-to-Peer Parafiscal Paradigm
+### 3.3 - A Peer-to-Peer Parafiscal Paradigm
 
 Text here
 
@@ -285,6 +300,7 @@ Text here
 4. For example, information collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing reporting paradigm that any novel unified onchain impact assessment ontologies should be devised.
 5. For more resources regarding the quadratic funding mechanism, see this [calculator](https://www.wtfisqf.com/?match=10000&grant=34-56&grant=3-100-4&grant=2-2-2-2-2&grant=700) provided by Gitcoin.
 6. Recently there have been successful attempts to integrate payment processing for fiat currencies in these grant rounds, thanks to projects like [ViaPrize](https://www.viaprize.org/). For example, the [OpenCivics Collaborative Research Round](https://gov.gitcoin.co/t/gg21-retrospective-opencivics-collaborative-research-round/19313) utilized ViaPrize to facilitate dollar donations to grantees, thus eliminating the need for donors to donate in cryptoassets.
+7. This sentiment can be discerned in the shift of certain currents of discourse in the industry, such as Gitcoin's pivot from language around funding public goods to simply "Fund what Matters".
 
 ## Bibliography
 
@@ -295,6 +311,7 @@ Text here
 - Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). (Self-published). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
 - Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
 - Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). (Self-published) [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
+- wheebill (2024, September 18) [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
 
 ‌
 
