@@ -2,7 +2,7 @@
 title: 
 item type: Reference Note
 reference: "[[Keynes_GeneralTheory#Chapter 5, Section I]]"
-Date: 2024-08-20
+date: 2024-08-20
 author: Spencer Saar Cavanaugh
 publish: true
 tags:

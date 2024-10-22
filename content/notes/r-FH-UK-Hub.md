@@ -1,6 +1,6 @@
 ---
-title: Note Index on Machiavelli's The Prince
-reference: "[[Machiavelli_ThePrince]]"
+title: Note Hub on Hayek's The Use of Knowledge in Society
+reference: TBD
 author: Spencer Saar Cavanaugh
 publish: true
 tags:

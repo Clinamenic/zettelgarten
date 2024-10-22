@@ -1,5 +1,5 @@
 ---
-title: Note Index on Paine's Common Sense
+title: Note Hub on Paine's Common Sense
 reference: "[[Paine_CommonSense]]"
 author: Spencer Saar Cavanaugh
 publish: true

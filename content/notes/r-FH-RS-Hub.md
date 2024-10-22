@@ -1,5 +1,5 @@
 ---
-title: Note Index on Rousseau's Discourse on the Origin and Basis of Inequality Among Men
+title: Note Hub on Hayek's The Road to Serfdom
 reference: TBD
 author: Spencer Saar Cavanaugh
 publish: true

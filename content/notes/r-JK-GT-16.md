@@ -1,6 +1,6 @@
 ---
 title: Summary of General Theory Book 1 Chapter 3 Section II
-Date: 2024-08-18
+date: 2024-08-18
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory#Chapter 3, Section II]]"
 publish: true
@@ -13,4 +13,4 @@ Keynes also challenges the classical notion that employment is ultimately determ
 
 He also says that, because volume of employment is inversely correlated with real wages, because the marginal utility of labor tends to decrease past some certain volume of employment, depending on the circumstances of production? Does this mean that the marginal efficiency of capital has a local maximum, given aggregate supply as a function of employment?
 
-#note/keynes/general-theory/question 
+#r/JK-GT/Q/unresolved 

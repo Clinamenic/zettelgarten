@@ -1,6 +1,6 @@
 ---
 title: 
-Date: 2024-08-17
+date: 2024-08-17
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory#Chapter 2, Section III]]"
 publish: true

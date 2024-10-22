@@ -1,6 +1,6 @@
 ---
-title: Note Index on Lucretius' On the Nature of Things
-reference: TBD
+title: Note Hub on The Federalist Papers
+reference: "[[Publius_FederalistPapers]]"
 author: Spencer Saar Cavanaugh
 publish: true
 tags:

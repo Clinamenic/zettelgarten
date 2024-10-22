@@ -1,6 +1,6 @@
 ---
 title: Summary of General Theory Book 1 Chapter 3 Section III
-Date: 2024-08-19
+date: 2024-08-19
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory#Chapter 3, Section III]]"
 publish: true

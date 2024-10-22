@@ -1,9 +1,9 @@
 ---
-title: Note Index on Keynes' General Theory
+title: Note Hub on Keynes' General Theory
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory]]"
 publish: true
-tags:
+tags: 
 ---
 
 ## Annotated ToC
@@ -166,7 +166,7 @@ tags:
   - [[Keynes_GeneralTheory#Appendix 2]]: Fluctuations in Net Investment in the United States (1936)
   - [[Keynes_GeneralTheory#Appendix 3]]: Relative Movements of Real Wages and Output
 
-## Variables
+## Factors
 
 ### $A$ (_Proceeds_)
 
@@ -191,33 +191,42 @@ tags:
   - Optimum cost of maintaining capital equipment, for a given period.
   - $G' - B'$ (_Maximum potential net value of capital equipment_)
     - Maximum potential value of capital equipment, if maintained and unused in given period of production
-    - **References**
+  - Key references
 
 ### $E$ (_Wages Bill_)
 
-  - $E = N × W$
-  - References
-    - [[Keynes_GeneralTheory#^8827b4]]
+- $E = N × W$ 
+- Key references
+  - [[Keynes_GeneralTheory#^8827b4]]
 
 ### $I$ (_Current Investment_)
 
-  - $I = G - (G' - B')$
-  - Entrepreneur's current investment in capital equipment
-  - References
+- $I = G - (G' - B')$
+- Entrepreneur's current investment in capital equipment
+- Key references
 
 ### $U$ (_User Cost_)
 
-  - $U = (G' - B') - (G - A_1)$
+- Definition: [[Keynes_GeneralTheory#^006a1b]]
+- $U = (G' - B') - (G - A_1)$
     - $U = A_1 + (G' - B') - G$
     - $U = A_1 - I$
+- Key references
+	- [[Keynes_GeneralTheory#^4bf5ae]]
+	- [[Keynes_GeneralTheory#^13022f]]
+	- [[Keynes_GeneralTheory#^dc8d48]]
+	- [[Keynes_GeneralTheory#^139d4e]]
 
 ### $F$ (Factor Cost)
 
 ### $V$ (_Supplementary Cost_)
 
-  - Excess of expected depreciation of capital equipment beyond User Cost.
-  - _Basic Supplementary Cost_: Initial calculation of Supplementary Cost at the start of a given period of production.
-  - _Current Supplementary Cost_: Revised calculation of Supplementary Cost, up to date.
+- Definition: excess of expected depreciation of capital equipment beyond User Cost.
+- _Basic Supplementary Cost_: Initial calculation of Supplementary Cost at the start of a given period of production.
+- _Current Supplementary Cost_: Revised calculation of Supplementary Cost, up to date.
+- References
+	  - [[Keynes_GeneralTheory#^13022f]]
+	  - [[Keynes_GeneralTheory#^139d4e]]
 
 ### $D$ (_Expected Proceeds from Demand_)
 
@@ -231,25 +240,27 @@ tags:
 ### $Z$ (_Aggregate Supply Price_)
 
   - $Z = φ(N)$
-### $N$ (_Quantity of Employment_)
+### $N$ (Volume of Employment)
 
-  - Number of people employed during a given period of production.
-  - **References**
-    - [[Keynes_GeneralTheory#^8827b4]]
+- Number of people employed during a given period of production.
+- Key references:
+	- Ch 4.3 [[Keynes_GeneralTheory#^8827b4]]
+	- Ch 7.3 [[Keynes_GeneralTheory#^d53ed3]]
 
 ### $𝑓$ (Aggregate Demand Function)
 
-  - Function relating employment volume ($N$) to entrepreneur's expected proceeds ($D$).
-  - $D = 𝑓(N)$ (_Aggregate Demand Function_)
-  - References:
-	  - Ch 3.1 [[Keynes_GeneralTheory#^fbe1e8]]
-	  - Ch 6.1 [[Keynes_GeneralTheory#^4e6236]]
+- Function relating employment volume ($N$) to entrepreneur's expected proceeds ($D$).
+- $D = 𝑓(N)$ (_Aggregate Demand Function_)
+- Key references:
+	- Ch 3.1 [[Keynes_GeneralTheory#^fbe1e8]]
+	- Ch 6.1 [[Keynes_GeneralTheory#^4e6236]]
+	- Ch 8.1 [[Keynes_GeneralTheory#^f5e4ae]]
 
 ### $φ$ (Aggregate Supply Function)
 
   - Function relating employment volume ($N$) to aggregate supply price ($Z$).
   - $Z = φ(N)$ (_Aggregate Supply Function_)
-  - References:
+  - Key references:
 	  - Ch 3.1 [[Keynes_GeneralTheory#^fbe1e8]]
 
 ### $Y$ (Income)
@@ -276,6 +287,23 @@ tags:
 
   - $$L_1(Y) = \frac{Y}{V} = M_1$$
 
+### Saving
+
+- Key References:
+	- Forced saving: 
+		- [[Keynes_GeneralTheory#^039b3e]]
+	- Savings/Investment:  
+		- [[Keynes_GeneralTheory#^5e54ac]]
+		- [[Keynes_GeneralTheory#^42d287]]
+
+
+### χ (Propensity to Consume)
+
+- Definition: "the functional relationship $χ$ between $Y_w$ a given level of income in terms of wage-units, and $C_w$ the expenditure on consumption out of that level of income, so that $C_w = χ(Y_w)$ or $C = W \cdot χ(Y_w)$" ([[Keynes_GeneralTheory#^6c01ff]])
+- Key References:
+	- Ch 8.4 [[Keynes_GeneralTheory#^fc9957]]
+
+
 ## Equations
 
 $$'User Cost' = U = (G' - B') - (G - A_1)$$
@@ -295,6 +323,14 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 - Transactions- and Precautionary-Motive Liquidity Function of Income: $$L_1(Y) = \frac{Y}{V} = M_1$$
 
 ## Selected Passages
+
+### Purpose of General Theory
+
+- [[Keynes_GeneralTheory#^a59a42]]
+
+### Classical Theory vs General Theory
+
+- [[Keynes_GeneralTheory#^5e54ac]]
 
 ## AI Prompts
 

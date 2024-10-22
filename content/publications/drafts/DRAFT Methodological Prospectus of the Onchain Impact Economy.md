@@ -2,7 +2,7 @@
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: DRAFT Methodological Prospectus of the Onchain Impact Economy
-subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated distributed impact paradigm.
+subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
 draft started: 0024-06-28
 date: 
 license: CC BY-SA 4.0
