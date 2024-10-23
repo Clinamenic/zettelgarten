@@ -6,10 +6,10 @@ date: 2024-08-21
 author: Spencer Saar Cavanaugh
 publish: true
 tags:
-  - "#r/JK-GT/Q/unresolved"
+  - r/JK/GT
 ---
 
 Regarding [[Keynes_GeneralTheory#Chapter 7, Section III]]
 
-How can I understand the difference between when savings exceeds investment, and when investment exceeds savings?
+#r/JK/GT/Q/unresolved  How can I understand the difference between when savings exceeds investment, and when investment exceeds savings?
 

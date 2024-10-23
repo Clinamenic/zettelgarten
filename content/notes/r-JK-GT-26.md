@@ -6,9 +6,9 @@ date: 2024-08-21
 author: Spencer Saar Cavanaugh
 publish: true
 tags:
-  - "#r/JK-GT/Q/unresolved"
+  - r/JK/GT
 ---
-What does 'disinvestment' mean here? (see [[r-JK-GT-26.1]])
+#r/JK/GT/Q/unresolved  What does 'disinvestment' mean here? (see [[r-JK-GT-26.1]])
 
 
 ![[Keynes_GeneralTheory#^6bde0e]]

@@ -6,6 +6,7 @@ date: 2024-08-21
 author: Spencer Saar Cavanaugh
 publish: true
 tags:
+  - r/JK/GT
 ---
 Savings: excess of income over what is spent on consumption.
 

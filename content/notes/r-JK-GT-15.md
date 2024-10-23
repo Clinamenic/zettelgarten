@@ -1,10 +1,11 @@
 ---
-title: Summary of General Theory Book 1 Chapter 3 Section I
+title: Summary of General Theory Book I Chapter 3 Section I
 date: 2024-08-18
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory#Chapter 3, Section I]]"
 publish: true
-tags: 
+tags:
+  - r/JK/GT
 ---
 In Chapter 3, Section 1, Keynes explains the concept of effective demand as the point where, as functions of volume of employment, the aggregate demand price matches the aggregate supply price. So long as the aggregate demand price (the price consumers/purchasers are willing to pay for the output of production) exceeds the aggregate supply price (the price the entrepreneur expects to receive), the entrepreneur will be motivated to scale up operations in terms of volume of employment. 
 

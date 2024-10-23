@@ -3,7 +3,8 @@ title: Note Hub on Keynes' General Theory
 author: Spencer Saar Cavanaugh
 reference: "[[Keynes_GeneralTheory]]"
 publish: true
-tags: 
+tags:
+  - r/JK/GT
 ---
 
 ## Annotated ToC
@@ -267,6 +268,9 @@ tags:
 
 ### $r$ (Interest Rate)
 
+- Key references
+	- Ch 13.4 [[Keynes_GeneralTheory#^7dd165]] (interest rate as "price of debts")
+
 ### $M$ (Amount of cash held)
 
   - $M = M_1 + M_2 = L_1(Y) + L_2(r)$
@@ -302,6 +306,28 @@ tags:
 - Definition: "the functional relationship $χ$ between $Y_w$ a given level of income in terms of wage-units, and $C_w$ the expenditure on consumption out of that level of income, so that $C_w = χ(Y_w)$ or $C = W \cdot χ(Y_w)$" ([[Keynes_GeneralTheory#^6c01ff]])
 - Key References:
 	- Ch 8.4 [[Keynes_GeneralTheory#^fc9957]]
+	- Ch 9.2 [[Keynes_GeneralTheory#^fd9212]]
+
+#### Marginal Propensity to Consume
+
+- Definition: The rate of change of consumption with respect to income (see: [[Keynes_GeneralTheory#^e7b719]]).
+- Key references:
+	- 
+
+### k (Investment Multiplier)
+
+- Definition: The multiplier by which an increment of aggregate investment will increase income (see [[Keynes_GeneralTheory#^a37f72]])
+- Key references:
+	- Ch 10.4 [[Keynes_GeneralTheory#^e35525]]
+	- Ch 10.5 [[Keynes_GeneralTheory#^621ab5]]
+
+
+### Marginal Efficiency of Capital
+
+- Definition: The relation between the prospective yield of a capital asset and its supply price. In other words, its rate of return above its cost (see: [[Keynes_GeneralTheory#^6e5f59]])
+- Key references:
+
+#### Schedule of the Marginal Efficiency of Capital
 
 
 ## Equations
@@ -324,6 +350,12 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 
 ## Selected Passages
 
+### Social Consequences of Speculative Investment 
+
+- Ch 12.5 [[Keynes_GeneralTheory#^40b2e0]]
+- Ch 12.5 [[Keynes_GeneralTheory#^031aa2]]
+- Ch 12.5 [[Keynes_GeneralTheory#^6d7e83]]
+
 ### Purpose of General Theory
 
 - [[Keynes_GeneralTheory#^a59a42]]
@@ -331,6 +363,10 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 ### Classical Theory vs General Theory
 
 - [[Keynes_GeneralTheory#^5e54ac]]
+
+### Spontaneous Human Behavior
+
+- Ch 12.7 [[Keynes_GeneralTheory#^de4627]]
 
 ## AI Prompts
 

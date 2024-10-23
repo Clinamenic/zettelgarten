@@ -1,11 +1,12 @@
 ---
-title: 
+title: Summary of General Theory Book III Chapter 8 Section III
 item type: Reference Note
 reference: "[[Keynes_GeneralTheory]]"
 date: 2024-08-26
 author: Spencer Saar Cavanaugh
 publish: true
-tags: 
+tags:
+  - r/JK/GT
 ---
 Re: [[Keynes_GeneralTheory#Chapter 8, Section III]]
 

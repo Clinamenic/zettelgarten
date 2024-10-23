@@ -6,6 +6,7 @@ date: 2024-08-21
 author: Spencer Saar Cavanaugh
 publish: true
 tags:
+  - r/JK/GT
 ---
 
 Disinvestment: selling (or otherwise disposing of?) an investment, with an "investment" referring to the purchase of some capital good.

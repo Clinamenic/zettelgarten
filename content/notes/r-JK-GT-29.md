@@ -1,11 +1,12 @@
 ---
-title: Summary of General Theory Book 3 Chapter 8 Section 1
+title: Summary of General Theory Book II Chapter 8 Section I
 item type: Reference Note
 reference: "[[Keynes_GeneralTheory]]"
 date: 2024-08-26
 author: Spencer Saar Cavanaugh
 publish: true
-tags: 
+tags:
+  - r/JK/GT
 ---
 
 In section 8.1, Keynes introduces the 'propensity to consume' as a functional relationship between a given level of income in terms of the wage-unit ($Y_w$) and the amount of that income spent on consumption, also measured in terms of the wage-unit ($C_w$), such that:
