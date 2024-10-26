@@ -2,7 +2,7 @@
 title: 
 item type: Reference Note
 reference: "[[Keynes_GeneralTheory]]"
-date: ""
+date: 2024-10-06
 author: Spencer Saar Cavanaugh
 publish: true
 tags:

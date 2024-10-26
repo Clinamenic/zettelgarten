@@ -206,6 +206,11 @@ tags:
 - Entrepreneur's current investment in capital equipment
 - Key references
 
+### Supply Price
+
+- Key references:
+	- Ch 21.4 [[Keynes_GeneralTheory#^e7a3d7]]
+
 ### $U$ (_User Cost_)
 
 - Definition: [[Keynes_GeneralTheory#^006a1b]]
@@ -219,6 +224,17 @@ tags:
 	- [[Keynes_GeneralTheory#^139d4e]]
 
 ### $F$ (Factor Cost)
+
+### Prime Cost
+
+- Key references:
+	- Ch 21.4 [[Keynes_GeneralTheory#^332d49]]
+
+### Cost-Unit
+
+- Key references:
+	- Ch 21.4 [[Keynes_GeneralTheory#^332d49]]
+	- Ch 21.5 [[Keynes_GeneralTheory#^391492]]
 
 ### $V$ (_Supplementary Cost_)
 
@@ -241,6 +257,35 @@ tags:
 ### $Z$ (_Aggregate Supply Price_)
 
   - $Z = φ(N)$
+
+### Effective Demand
+
+- Key references:
+	- * Ch 19.2 [[Keynes_GeneralTheory#^dbfc5f]]
+	- Ch 19.2 [[Keynes_GeneralTheory#^548f9e]]
+	- * Ch 20.3 [[Keynes_GeneralTheory#^e48b87]]
+	- Ch 21.3 [[Keynes_GeneralTheory#^aa7932]]
+	- Ch 23.7 [[Keynes_GeneralTheory#^f9d4cc]]
+
+#### χ (Propensity to Consume)
+
+- Definition: "the functional relationship $χ$ between $Y_w$ a given level of income in terms of wage-units, and $C_w$ the expenditure on consumption out of that level of income, so that $C_w = χ(Y_w)$ or $C = W \cdot χ(Y_w)$" ([[Keynes_GeneralTheory#^6c01ff]])
+- Key References:
+	- Ch 8.4 [[Keynes_GeneralTheory#^fc9957]]
+	- Ch 9.2 [[Keynes_GeneralTheory#^fd9212]]
+
+##### Marginal Propensity to Consume
+
+- Definition: The rate of change of consumption with respect to income (see: [[Keynes_GeneralTheory#^e7b719]]).
+- Key references:
+	- Ch 23.7 [[Keynes_GeneralTheory#^f3e6b0]]
+
+#### Inducement to Invest
+
+- Key references:
+	- * Ch 23.3 [[Keynes_GeneralTheory#^47b6ee]]
+	- Ch 24.2 [[Keynes_GeneralTheory#^9128f5]]
+
 ### $N$ (Volume of Employment)
 
 - Number of people employed during a given period of production.
@@ -248,6 +293,16 @@ tags:
 	- Ch 4.3 [[Keynes_GeneralTheory#^8827b4]]
 	- Ch 7.3 [[Keynes_GeneralTheory#^d53ed3]]
 	- * Ch 18.1 [[Keynes_GeneralTheory#^5e45fb]]
+	- Ch 19.2 [[Keynes_GeneralTheory#^dbfc5f]]
+	- Ch 19.2 [[Keynes_GeneralTheory#^54cf1c]]
+	- Ch 20.3 [[Keynes_GeneralTheory#^e48b87]]
+	- Ch 21.4 [[Keynes_GeneralTheory#^332d49]]
+	- Ch 23.3 [[Keynes_GeneralTheory#^8795dc]]
+	- Ch 24.3 [[Keynes_GeneralTheory#^926fc5]]
+
+### Employment Function
+
+- Definition: [[Keynes_GeneralTheory#^71a77f]]
 
 ### $𝑓$ (Aggregate Demand Function)
 
@@ -279,6 +334,10 @@ tags:
 	- * Ch 15.1 [[Keynes_GeneralTheory#^2e9dad]]
 	- Ch 15.2 [[Keynes_GeneralTheory#^c2dc07]]
 	- Ch 17.4 [[Keynes_GeneralTheory#^c9425b]]
+	- Ch 23.3 [[Keynes_GeneralTheory#^361202]]
+	- * Ch 23.4 [[Keynes_GeneralTheory#^96fb44]]
+	- Ch 23.5 [[Keynes_GeneralTheory#^cc709b]]
+	- Ch 24.2 [[Keynes_GeneralTheory#^9128f5]]
 
 ### $V$ (_Income-Velocity of Money_)
 
@@ -297,19 +356,6 @@ tags:
 		- [[Keynes_GeneralTheory#^42d287]]
 
 
-### χ (Propensity to Consume)
-
-- Definition: "the functional relationship $χ$ between $Y_w$ a given level of income in terms of wage-units, and $C_w$ the expenditure on consumption out of that level of income, so that $C_w = χ(Y_w)$ or $C = W \cdot χ(Y_w)$" ([[Keynes_GeneralTheory#^6c01ff]])
-- Key References:
-	- Ch 8.4 [[Keynes_GeneralTheory#^fc9957]]
-	- Ch 9.2 [[Keynes_GeneralTheory#^fd9212]]
-
-#### Marginal Propensity to Consume
-
-- Definition: The rate of change of consumption with respect to income (see: [[Keynes_GeneralTheory#^e7b719]]).
-- Key references:
-	- 
-
 ### k (Investment Multiplier)
 
 - Definition: The multiplier by which an increment of aggregate investment will increase income (see [[Keynes_GeneralTheory#^a37f72]])
@@ -325,6 +371,9 @@ tags:
 - Key references:
 	- Ch 16.2 [[Keynes_GeneralTheory#^45faaf]]
 	- Ch 16.2 [[Keynes_GeneralTheory#^bd5b97]]
+	- Ch 19.2 [[Keynes_GeneralTheory#^399437]]
+	- Ch 22.2 [[Keynes_GeneralTheory#^046808]]
+	- Ch 23.5 [[Keynes_GeneralTheory#^cc709b]]
 
 #### Schedule of the Marginal Efficiency of Capital (or rate of investment?)
 
@@ -338,6 +387,7 @@ tags:
 	- * Ch 15.1 [[Keynes_GeneralTheory#^2e9dad]]
 	- * Ch 17.4 [[Keynes_GeneralTheory#^ed6e29]]
 	- Ch 17.5 [[Keynes_GeneralTheory#^99253b]]
+	- Ch 22.6 [[Keynes_GeneralTheory#^d6a2b5]]
 
 #### Schedule of Liquidity Preference
 
@@ -389,6 +439,8 @@ tags:
 
 - Key references:
 	- Ch 17.5 [[Keynes_GeneralTheory#^6f43ca]]
+	- Ch 21.1 [[Keynes_GeneralTheory#^aa5458]]
+	- Ch 21.3 [[Keynes_GeneralTheory#^aa7932]]
 
 
 ### $O$ (Quantity of Output)
@@ -446,6 +498,12 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 
 - Ch 16.2 [[Keynes_GeneralTheory#^66ecb1]]
 - Ch 16.3 [[Keynes_GeneralTheory#^7088c6]]
+- Ch 20.2 [[Keynes_GeneralTheory#^e3a85e]]
+- Ch 21.7 [[Keynes_GeneralTheory#^20d488]]
+
+### Good Quotes
+
+- Ch 23.4 [[Keynes_GeneralTheory#^041026]]
 
 ### Antisocial Consequences of Status Quo 
 
@@ -454,17 +512,25 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 - Ch 12.5 [[Keynes_GeneralTheory#^6d7e83]]
 - * Ch 16.3 [[Keynes_GeneralTheory#^7a481b]]
 - Ch 17.5 [[Keynes_GeneralTheory#^f68c74]]
+- Ch 24.3 [[Keynes_GeneralTheory#^926fc5]]
 
 ### Against Idle Wealth
 
 - Ch 12.5 [[Keynes_GeneralTheory#^6d7e83]]
 - Ch 16.4 [[Keynes_GeneralTheory#^1806ce]] thru [[Keynes_GeneralTheory#^1b6fee]]
-- 
+- Ch 24.2 [[Keynes_GeneralTheory#^1223d0]]
+- Ch 24.2 [[Keynes_GeneralTheory#^8c090e]]
 
 ### Purpose of General Theory
 
 - Ch 8.1 [[Keynes_GeneralTheory#^a59a42]]
 - * Ch 18.1 [[Keynes_GeneralTheory#^5e45fb]]
+- * Ch 21.3 [[Keynes_GeneralTheory#^e12f50]]
+- * Ch 23.2 [[Keynes_GeneralTheory#^7062a0]]
+- Ch 23.3 [[Keynes_GeneralTheory#^8795dc]]
+- Ch 23.6 [[Keynes_GeneralTheory#^caec81]]
+- * Ch 24.3 [[Keynes_GeneralTheory#^b9e8dd]]
+- * Ch 24.3 [[Keynes_GeneralTheory#^f16fa7]]
 
 ### Classical Theory vs General Theory
 
@@ -473,58 +539,68 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 - Ch 14.1 [[Keynes_GeneralTheory#^c927b3]]
 - * Ch 14.1 [[Keynes_GeneralTheory#^c65fc2]]
 - Ch 14.1 [[Keynes_GeneralTheory#^d689bf]]
+- Ch 19.2 [[Keynes_GeneralTheory#^54cf1c]]
+- Ch 20.1 [[Keynes_GeneralTheory#^423a9f]]
+- Ch 21.5 [[Keynes_GeneralTheory#^7a4104]]
+- * Ch 23.2 [[Keynes_GeneralTheory#^7062a0]]
+- Ch 23.3 [[Keynes_GeneralTheory#^8795dc]]
+- * Ch 23.4 [[Keynes_GeneralTheory#^96fb44]]
+- Ch 23.5 [[Keynes_GeneralTheory#^cc709b]]
+- * Ch 24.3 [[Keynes_GeneralTheory#^b9e8dd]]
+- * Ch 24.3 [[Keynes_GeneralTheory#^f16fa7]]
+- Ch 24.4 [[Keynes_GeneralTheory#^6a279c]]
 
-### Pre-Classical Theory vs Classical Theory
+### Mercantilism vs Classical Theory
 
 - Ch 16.2 [[Keynes_GeneralTheory#^bd5b97]]
+- * Ch 23.2 [[Keynes_GeneralTheory#^7062a0]]
+- Ch 23.3 [[Keynes_GeneralTheory#^47b6ee]]
+- Ch 23.3 [[Keynes_GeneralTheory#^361202]]
+- Ch 23.5 [[Keynes_GeneralTheory#^cc709b]]
+- Ch 24.4 [[Keynes_GeneralTheory#^6a279c]]
+
+### General Theory vs Marxism
+
+- Ch 23.6 [[Keynes_GeneralTheory#^caec81]]
+- Ch 24.3 [[Keynes_GeneralTheory#^2d7c20]]
 
 ### Spontaneous Human Behavior
 
 - Ch 12.7 [[Keynes_GeneralTheory#^de4627]]
 
+### Stationary vs Shifting Equilibrium
+
+- Ch 21.1 [[Keynes_GeneralTheory#^aa5458]]
+- * Ch 22.2 [[Keynes_GeneralTheory#^046808]]*
+
+### Redistribution of Income
+
+- Ch 22.3 [[Keynes_GeneralTheory#^75be71]]
+
+### Postcapitalism
+
+- Ch 24.2 [[Keynes_GeneralTheory#^8c090e]]
+
+### Regulating Trade Cycles
+
+- Ch 22.3 [[Keynes_GeneralTheory#^325940]]
+- Ch 22.3 [[Keynes_GeneralTheory#^2bfabf]]
+
 ### Role of Progressive/Activist State
 
 - Ch 17.5 [[Keynes_GeneralTheory#^f68c74]]
+- Ch 19.2 [[Keynes_GeneralTheory#^92e9ce]]
+- Ch 23.3 [[Keynes_GeneralTheory#^8795dc]]
 
-## AI Prompts
+### Optimizing Employment Volume
 
-### Oct 5, 2024
+- Ch 19.2 [[Keynes_GeneralTheory#^54cf1c]]
+- Ch 21.4 [[Keynes_GeneralTheory#^332d49]]
+- Ch 23.3 [[Keynes_GeneralTheory#^8795dc]]
 
-#### Prompt 1
+### Limitations of Laissez-Faire
 
-Given the following chapter from Keynes' general theory, can you help me understand a few points?
-
-![[Keynes_GeneralTheory#Chapter 18, Section II]]
-
-1. First of all, can you explain what the term 'wage-unit' means in this context? Does it mean the unit of purchasing power afforded to a corresponding man-hour of a given category of labor? If so, what is the different between the 'wage-unit' and the 'real wage'?
-2. Can you help me understand the distinction between the investment multiplier and the employment multiplier? Does the latter refer to the ramifications of an increment in investment upon aggregate income?
-3. Is it accurate to say that the practical aim of the general theory is to identify the key factors of the economy which the state (qua monetary and fiscal authority) can control to jointly maximize employment and national income?
-
-#### Response 1
-
-Based on the chapter you've provided and the search results, I can help clarify these points:
-
-1. Wage-unit:  
-   The wage-unit in Keynes' theory is indeed related to labor, but it's not exactly the same as the purchasing power of a man-hour. It's a unit of measurement Keynes used to express various economic quantities in terms of labor. Specifically:
-
-- The wage-unit is the money wage of a unit of labor time (e.g., an hour of unskilled labor).
-- It's used to measure economic variables in terms of labor rather than money, helping to isolate real economic changes from monetary phenomena.
-- The difference between the wage-unit and the real wage is that the real wage represents the purchasing power of wages, while the wage-unit is a unit of account based on nominal wages.
-
-2. Investment multiplier vs. Employment multiplier:
-
-- The investment multiplier refers to the ratio between an increment in investment and the corresponding increment in aggregate income.
-- The employment multiplier, in this context, appears to be the ratio between an increment in investment and the corresponding increment in employment.
-- Keynes suggests, as a first approximation, that these multipliers might be equal, meaning that the effect of investment on income would translate proportionally to employment.
-
-3. Aim of the General Theory:  
-   Your interpretation is largely correct. Keynes was indeed focused on identifying key economic factors that could be influenced by policy to improve economic outcomes. Specifically:
-
-- The theory aims to understand how employment, interest rates, and money interact to determine economic output.
-- It suggests that government intervention through fiscal and monetary policy can help stabilize the economy and reduce unemployment.
-- The goal is not just to maximize employment and national income, but to achieve a more stable and equitable economic system.
-
-Keynes' approach was revolutionary in suggesting that economies were not self-correcting and that government intervention could be beneficial, contrasting with the prevailing classical economic theories of his time.
+- Ch 19.2 [[Keynes_GeneralTheory#^54cf1c]]
 
 ## Secondary Materials
 
