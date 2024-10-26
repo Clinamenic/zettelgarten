@@ -65,9 +65,6 @@
   src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmZFtLSb3WzJUy8oy3t49iU6MCnsVynKFJmwJcKPGZBbP7) format("opentype");
   font-weight: 900;
 }
-
-
-
 /* Minecraft */
 @font-face {
   font-family: "Minecraft";
@@ -75,6 +72,58 @@
   src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmU7unjNWTCPP31NPy58rQeAhyMTRyNCw5ZHLNZgqak2LU) format("opentype");
   font-weight: 100;
 }
+
+/* Monaspace Neon Extra Light */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/dnRLELOsis3t3xyztaIkBbS2BDWMNAmRkjNXf_dCLA8);
+  src: url(https://arweave.net/dnRLELOsis3t3xyztaIkBbS2BDWMNAmRkjNXf_dCLA8) format("opentype");
+  font-weight: 100;
+}
+/* Monaspace Neon Light */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/bNfo-kjCVEQukqOxeTwItYz1mQuBDD_TcWw9jnlmUzY);
+  src: url(https://arweave.net/bNfo-kjCVEQukqOxeTwItYz1mQuBDD_TcWw9jnlmUzY) format("opentype");
+  font-weight: 200;
+}
+/* Monaspace Neon Regulsr */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/3cqltRfMoFtjAIzJjQTFXB2c9U3tf-3WhoN_58ULnds);
+  src: url(https://arweave.net/3cqltRfMoFtjAIzJjQTFXB2c9U3tf-3WhoN_58ULnds) format("opentype");
+  font-weight: 300;
+}
+/* Monaspace Neon Medium */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/f-nEIVdCx2x7Cp2BzoGJj6t4TuTGGBrzXZmsdmQa7UQ);
+  src: url(https://arweave.net/f-nEIVdCx2x7Cp2BzoGJj6t4TuTGGBrzXZmsdmQa7UQ) format("opentype");
+  font-weight: 400;
+}
+/* Monaspace Neon Semi Bold */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/cEGAvVD86SSE9U4P2L7aH8G0FElkJYqrJCfnzo_Cm18);
+  src: url(https://arweave.net/cEGAvVD86SSE9U4P2L7aH8G0FElkJYqrJCfnzo_Cm18) format("opentype");
+  font-weight: 500;
+}
+/* Monaspace Neon Bold */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/FZczpwCcEie-pKbN_O0raAQ7hLfWt_voCXtL_kOZ9Bo);
+  src: url(https://arweave.net/FZczpwCcEie-pKbN_O0raAQ7hLfWt_voCXtL_kOZ9Bo) format("opentype");
+  font-weight: 600;
+}
+/* Monaspace Neon Extra Bold */
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url(https://arweave.net/u78XK1FuJpTadUo-aL5y2tZG2Ja2wubqsCZEmag66GE);
+  src: url(https://arweave.net/u78XK1FuJpTadUo-aL5y2tZG2Ja2wubqsCZEmag66GE) format("opentype");
+  font-weight: 700;
+}
+
+
 
 
 
@@ -91,7 +140,7 @@ body {
   font-weight: 200;
   box-sizing: border-box;
   background-color: var(--lightgray);
-  font-family: "GeistMono";
+  font-family: "MonaspaceNeon";
   color: var(--darkgray);
   @media only screen and (max-width: calc(750px + 2rem)) { 
     background-color: var(--light);
@@ -100,10 +149,10 @@ body {
 section {
   margin: 0;
   max-width: 100%;
-  font-weight: 200;
+  font-weight: 400;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: "GeistMono";
+  font-family: "MonaspaceNeon";
   color: var(--darkgray);
 }
 
@@ -388,9 +437,9 @@ h4,
 h5,
 h6,
 thead {
-  font-family: "GeistMono";
+  font-family: "MonaspaceNeon";
   color: var(--dark);
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
@@ -421,18 +470,21 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-weight: 500;
+  font-size: 1.65rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
+  font-weight: 500;
   font-size: 1.4rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
+  font-weight: 500;
   font-size: 1.12rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
@@ -441,6 +493,7 @@ h3 {
 h4,
 h5,
 h6 {
+  font-weight: 400;
   font-size: 1rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;

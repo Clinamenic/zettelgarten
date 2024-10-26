@@ -247,6 +247,7 @@ tags:
 - Key references:
 	- Ch 4.3 [[Keynes_GeneralTheory#^8827b4]]
 	- Ch 7.3 [[Keynes_GeneralTheory#^d53ed3]]
+	- * Ch 18.1 [[Keynes_GeneralTheory#^5e45fb]]
 
 ### $𝑓$ (Aggregate Demand Function)
 
@@ -266,30 +267,25 @@ tags:
 
 ### $Y$ (Income)
 
+- Key references:
+	- * Ch 15.1 [[Keynes_GeneralTheory#^2e9dad]]
+	- Ch 16.2 [[Keynes_GeneralTheory#^a0afb6]]
+
 ### $r$ (Interest Rate)
 
 - Key references
 	- Ch 13.4 [[Keynes_GeneralTheory#^7dd165]] (interest rate as "price of debts")
-
-### $M$ (Amount of cash held)
-
-  - $M = M_1 + M_2 = L_1(Y) + L_2(r)$
-
-#### $M_1$ (Cash for transactions-motive and precautionary-motive)
-
-#### $M_2$ (Cash for speculative-motive)
-
-### $L_1$ (Liquidity function of income)
-
-  - The function that relates income ($Y$), as an input, to $M_1$ as an output
-
-### $L_2$ (Liquidity function of interest rate)
-
-  - The function that relates interest rate ($r$), as an input, to $M_1$ as an output
+	- Ch 14.1 [[Keynes_GeneralTheory#^d689bf]]
+	- * Ch 15.1 [[Keynes_GeneralTheory#^2e9dad]]
+	- Ch 15.2 [[Keynes_GeneralTheory#^c2dc07]]
+	- Ch 17.4 [[Keynes_GeneralTheory#^c9425b]]
 
 ### $V$ (_Income-Velocity of Money_)
 
-  - $$L_1(Y) = \frac{Y}{V} = M_1$$
+  - $L_1(Y) = \frac{Y}{V} = M_1$
+  - Key references:
+	  - Ch 15.2 [[Keynes_GeneralTheory#^36cea6]]
+	  - Ch 15.4 [[Keynes_GeneralTheory#^f5daed]]
 
 ### Saving
 
@@ -320,14 +316,110 @@ tags:
 - Key references:
 	- Ch 10.4 [[Keynes_GeneralTheory#^e35525]]
 	- Ch 10.5 [[Keynes_GeneralTheory#^621ab5]]
+	- ? Ch 17.1 [[Keynes_GeneralTheory#^7d30be]]
 
 
 ### Marginal Efficiency of Capital
 
 - Definition: The relation between the prospective yield of a capital asset and its supply price. In other words, its rate of return above its cost (see: [[Keynes_GeneralTheory#^6e5f59]])
 - Key references:
+	- Ch 16.2 [[Keynes_GeneralTheory#^45faaf]]
+	- Ch 16.2 [[Keynes_GeneralTheory#^bd5b97]]
 
-#### Schedule of the Marginal Efficiency of Capital
+#### Schedule of the Marginal Efficiency of Capital (or rate of investment?)
+
+- Key references:
+	- ? Ch 17.3 [[Keynes_GeneralTheory#^c78b93]]
+
+
+### Liquidity Preference
+
+- Key references:
+	- * Ch 15.1 [[Keynes_GeneralTheory#^2e9dad]]
+	- * Ch 17.4 [[Keynes_GeneralTheory#^ed6e29]]
+	- Ch 17.5 [[Keynes_GeneralTheory#^99253b]]
+
+#### Schedule of Liquidity Preference
+
+- Key references:
+	- Ch 13.2 [[Keynes_GeneralTheory#^250b84]]
+
+#### Transaction-motive
+
+##### Income-motive
+
+- Definition: Ch 15.1 [[Keynes_GeneralTheory#^c24e5c]]
+
+##### Business-motive
+
+- Definition: Ch 15.1 [[Keynes_GeneralTheory#^c2c572]]
+
+#### Precautionary-motive
+
+- Definition: Ch 15.1 [[Keynes_GeneralTheory#^f8e74d]]
+
+#### Speculative-motive
+
+- Key references: 
+	- Ch 15.1 [[Keynes_GeneralTheory#^eee61f]]
+	- * Ch 15.1 [[Keynes_GeneralTheory#^2e9dad]]
+
+### $L_1$ (Liquidity function of income)
+
+  - The function that relates income ($Y$), as an input, to $M_1$ as an output
+
+### $L_2$ (Liquidity function of interest rate)
+
+  - The function that relates interest rate ($r$), as an input, to $M_1$ as an output
+  - Key references:
+	  - Ch 15.3 [[Keynes_GeneralTheory#^1e9346]]
+
+### $M$ (Amount of cash held)
+
+  - $M = M_1 + M_2 = L_1(Y) + L_2(r)$
+  - Key references:
+	  - Ch 15.2 [[Keynes_GeneralTheory#^f85a3f]]
+	  - * Ch 15.4 [[Keynes_GeneralTheory#^f5daed]]*
+
+#### $M_1$ (Cash for transactions-motive and precautionary-motive)
+
+#### $M_2$ (Cash for speculative-motive)
+
+#### Money
+
+- Key references:
+	- Ch 17.5 [[Keynes_GeneralTheory#^6f43ca]]
+
+
+### $O$ (Quantity of Output)
+
+- Definition: Ch 15.4 [[Keynes_GeneralTheory#^f5daed]]
+
+### $P$ (Quantity of Output)
+
+- Definition: Ch 15.4 [[Keynes_GeneralTheory#^f5daed]]
+
+### Elasticity of Production
+
+- Key references:
+	- Ch 17.3 [[Keynes_GeneralTheory#^144312]]
+	- Ch 17.4 [[Keynes_GeneralTheory#^c9425b]]
+
+### Elasticity of Substitution
+
+- Key references:
+	- Ch 17.3 [[Keynes_GeneralTheory#^edb096]]
+	- Ch 17.4 [[Keynes_GeneralTheory#^c9425b]]
+
+### Wage-unit
+
+- Key references:
+	- Ch 17.3 [[Keynes_GeneralTheory#^782063]]
+
+### The Multiplier
+
+- Key references:
+	- Ch 18.3 [[Keynes_GeneralTheory#^46a960]]
 
 
 ## Equations
@@ -350,23 +442,49 @@ $$'User Cost' = U = (G' - B') - (G - A_1)$$
 
 ## Selected Passages
 
-### Social Consequences of Speculative Investment 
+### Unsorted
 
-- Ch 12.5 [[Keynes_GeneralTheory#^40b2e0]]
+- Ch 16.2 [[Keynes_GeneralTheory#^66ecb1]]
+- Ch 16.3 [[Keynes_GeneralTheory#^7088c6]]
+
+### Antisocial Consequences of Status Quo 
+
+- Ch  12.5 [[Keynes_GeneralTheory#^40b2e0]]
 - Ch 12.5 [[Keynes_GeneralTheory#^031aa2]]
 - Ch 12.5 [[Keynes_GeneralTheory#^6d7e83]]
+- * Ch 16.3 [[Keynes_GeneralTheory#^7a481b]]
+- Ch 17.5 [[Keynes_GeneralTheory#^f68c74]]
+
+### Against Idle Wealth
+
+- Ch 12.5 [[Keynes_GeneralTheory#^6d7e83]]
+- Ch 16.4 [[Keynes_GeneralTheory#^1806ce]] thru [[Keynes_GeneralTheory#^1b6fee]]
+- 
 
 ### Purpose of General Theory
 
-- [[Keynes_GeneralTheory#^a59a42]]
+- Ch 8.1 [[Keynes_GeneralTheory#^a59a42]]
+- * Ch 18.1 [[Keynes_GeneralTheory#^5e45fb]]
 
 ### Classical Theory vs General Theory
 
-- [[Keynes_GeneralTheory#^5e54ac]]
+- Ch 7.5 [[Keynes_GeneralTheory#^5e54ac]]
+- Ch 14.1 [[Keynes_GeneralTheory#^27a5ce]]
+- Ch 14.1 [[Keynes_GeneralTheory#^c927b3]]
+- * Ch 14.1 [[Keynes_GeneralTheory#^c65fc2]]
+- Ch 14.1 [[Keynes_GeneralTheory#^d689bf]]
+
+### Pre-Classical Theory vs Classical Theory
+
+- Ch 16.2 [[Keynes_GeneralTheory#^bd5b97]]
 
 ### Spontaneous Human Behavior
 
 - Ch 12.7 [[Keynes_GeneralTheory#^de4627]]
+
+### Role of Progressive/Activist State
+
+- Ch 17.5 [[Keynes_GeneralTheory#^f68c74]]
 
 ## AI Prompts
 

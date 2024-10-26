@@ -16,7 +16,7 @@ How the zettelkasten/slip-box note-taking system may be methodologically suited 
 
 See:
 
-[[Notetaking Index]]
+[[Notetaking Hub]]
 
 https://en.wikipedia.org/wiki/Discourse_analysis
 

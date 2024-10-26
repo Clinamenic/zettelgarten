@@ -40,7 +40,20 @@ This method permits the interstitial inclusion of recursive reference notes, alo
 	- [[r-Pu-FP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/7d04009d-ba6e-40e6-a5dd-3ee9e2afc2fe/view))
 
 
+## Customizations
 
+### Completed Customizations
+
+- Added 'AuthorName.ts' component.
+- Added 'PublishDate.ts' component.
+- Added 'LicenseInfo.ts' component.
+- Added 'ArticleSubtitle.ts' component
+- Configured Arweave sync functionality via Github workflows using protocol.land ([docs](https://docs.protocol.land/working-with-repositories/import-a-repository-from-github)).
+
+### Future Customizations
+
+- Configure [canonical URLs](https://www.semrush.com/blog/canonical-url-guide/) tags in end HTML files, perhaps from a 'canonical: true/false' frontmatter property in the markdown file.
+- Initialize global grid such that nodes aggregate into a cluster shaped like my monogram.
 
 ## Miscellaneous
 
