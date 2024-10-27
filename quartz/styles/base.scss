@@ -309,6 +309,7 @@ a {
       box-sizing: border-box;
       padding: 0 3rem;
       position: fixed;
+      z-index: 2;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
@@ -365,6 +366,7 @@ a {
     background-color: var(--light);
     border-left: 1px solid var(--dark);
     border-right: 1px solid var(--dark);
+    overflow-x: hidden;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;

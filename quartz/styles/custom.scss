@@ -98,7 +98,7 @@
   display: flex;
   justify-content: center;
   height: 300px;
-  
+  animation: fade-in 3s ease-in;
   padding-top: 0rem;
   padding-bottom: 2rem;
 }
@@ -109,6 +109,57 @@
   width: 80px;
   margin: 0rem;
   cursor: default;
+}
+
+.tri-column{
+  display: grid;
+  grid-template-columns: calc((100% - 3rem) * 0.2) calc((100% - 3rem) * 0.6) calc((100% - 3rem) * 0.2);
+  gap: 1.5rem;
+}
+@media only screen and (max-width: 830px) {
+  .tri-column {
+    grid-template-columns: 100%;
+  }
+}
+
+.side-column{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+@media only screen and (max-width: 830px) {
+  .side-column {
+    display: none;
+  }
+}
+
+.side-column #l1 {
+  animation: slide-from-left 3s ease-in-out forwards;
+}
+.side-column #l2 {
+  border: 0px;
+  background-color: var(--light);
+  animation: slide-from-left 3.5s ease-in-out forwards;
+}
+.side-column #l3 {
+  animation: slide-from-left 4s ease-in-out forwards;
+}
+.side-column #l4 {
+  animation: slide-from-left 4.5s ease-in-out forwards;
+}
+.side-column #r1 {
+  animation: slide-from-right 3s ease-in-out forwards;
+}
+.side-column #r2 {
+  animation: slide-from-right 3.5s ease-in-out forwards;
+}
+.side-column #r3 {
+  border: 0px;
+  background-color: var(--light);
+  animation: slide-from-right 4s ease-in-out forwards;
+}
+.side-column #r4 {
+  animation: slide-from-right 4.5s ease-in-out forwards;
 }
 
 .pdf-embed {
@@ -163,12 +214,12 @@
 }
 
 @keyframes slide-from-left {
-  0% { transform: translateX(-150px); }
+  0% { transform: translateX(-250px); }
   100% { transform: translateX(0px); }
 }
 
 @keyframes slide-from-right {
-  0% { transform: translateX(150px); }
+  0% { transform: translateX(250px); }
   100% { transform: translateX(0px); }
 }
 

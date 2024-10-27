@@ -9,7 +9,7 @@ tags:
 ---
 
 <div class="text-box" style="padding-bottom: 2rem;">
-  <div class="clinamenic-cube" style="text-align: center; justify-content: center; animation: fade-in 3s ease-in;">
+  <div class="clinamenic-cube" style="text-align: center; justify-content: center;">
     <img
       src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC_Cube_Ivory.gif?raw=true"
       width="300px"

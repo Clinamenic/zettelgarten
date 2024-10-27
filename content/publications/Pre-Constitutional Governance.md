@@ -50,89 +50,93 @@ Below is attached a boilerplate document which may be used by an association of 
 
 Please feel free to copy the [**google document**](https://docs.google.com/document/d/1sGzej13n6SO2R6T8MWX-yDI1LRrckvuFTlwwwo0k_a4/edit) and fill out the designations as appropriate for your organization. Clinamenic LLC is available for [**billable hourly consultations**](https://www.clinamenic.com/services.html), if you would like to have your particular framework reviewed.
 
-> ### Pre-Constitutional Governance Framework
->
-> 1. **DEFINITIONS & DESIGNATIONS**
->
->    1. **Proposal-Authorized Person**
->
->       1. **DEFINITION: Persons recognized as able to make proposals**
->       2. **DESIGNATION: (e.g. core team)**
->
->    2. **Vote-Authorized Person**
->
->       1. **DEFINITION: Persons recognized as able to vote on proposals.**
->       2. **DESIGNATION: (e.g. community members)**
->
->    3. **Designated Drafting Platform**
->
->       1. **DEFINITION: The platform or channel where proposals are drafted and edited.**
->       2. **DESIGNATION: (e.g. Google Docs)**
->
->    4. **Minimum Drafting Duration**
->
->       1. **DEFINITION: The minimum duration for which a proposal must be available for feedback in the drafting stage.**
->       2. **DESIGNATION: (e.g. 5 days)**
->
->    5. **Designated Voting Platform**
->
->       1. **DEFINITION: The platform or channel where proposals are voted on.**
->       2. **DESIGNATION: (e.g. Snapshot)**
->
->    6. **Designated Voting Duration**
->
->       1. **DEFINITION: The duration for which an active proposal may be voted on.**
->       2. **DESIGNATION: (e.g. 5 days)**
->
->    7. **Designated Voting Method**
->
->       1. **DEFINITION: The method for calculating or weighting votes.**
->       2. **DESIGNATION: (e.g. 1 person = 1 vote)**
->
->    8. **Designated Voting Quorum**
->
->       1. **DEFINITION: The minimum number of voting persons needed for the outcome to be considered legitimate.**
->       2. **DESIGNATION: (e.g. 5 votes)**
->
->    9. **Designated Voting Majority**
->
->       1. **DEFINITION: The percentage of votes required for a proposal to pass.**
->       2. **DESIGNATION: (e.g. 51%)**
->
->    10. **Default Voting Options**
->
->        1. **DEFINITION: The voting options which are to be used by default, unless the proposal necessitates other options.**
->        2. **DESIGNATION: “For” and “Against”**
->
-> 2. **PROPOSAL PROCESS**
->
->    1. **Preamble: With this agreed-upon proposal process, any _proposal-authorized person_ may draft and post a proposal for all _vote-authorized persons_ to vote on, in order to formally facilitate group decisions. This process may evolve over time, and may eventually be further formalized through the establishment of bylaws or other operating agreements.**
->    2. **Process: The proposal process will follow the stages below:**
->
->       1. **Drafting Stage: As it is being drafted, the proposal will be formatted according to the _Proposal Template_, made available to feedback from [proposal-authorized persons and/or vote-authorized persons], and will be made accessible on the _designated drafting platform(s)_ for the _minimum drafting duration_ before it can advance to the _Active Stage_. All _vote-authorized persons_ will be notified when the draft is made accessible.**
->       2. **Active Stage: The drafted proposal will be posted on the _designated voting platform_ for _vote-authorized persons_ to vote on. The _default voting options_ will be used, unless the proposal requires other options. For a proposal to pass, it must:**
->
->          1. **be active for the _designated voting duration_,**
->          2. **use the _designated voting method_,**
->          3. **meet the _designated voting quorum_, and**
->          4. **the _designated voting majority_ must be in favor.**
->
->       3. **Execution Stage: Once a proposal has passed, the action items specified in that proposal may commence under the auspices of approval by the organization.**
->
-> 3. **PROPOSAL TEMPLATE**
->
->    1. **Proposal Name: The name of the proposal, which may or may not follow a codified naming scheme.**
->    2. **Proposal Author(s): The person(s) authoring the proposal.**
->    3. **Proposal Team: Conducting the affairs detailed in the proposal**
->    4. **Draft Start Date: The date the proposal draft is started.**
->    5. **Proposal Description: The main body of descriptive text explaining what the proposal is about.**
->    6. **Mission Alignment: Explanation why this proposal is in alignment with the mission or goals of the organization.**
->    7. **Brand Usage: Description of if/how this proposal involves the usage of the organization’s brand.**
->    8. **Financial Implications: Description of any disbursements or costs associated with this proposal. This section would specifically reference the organization’s treasury or other relevant budgetary accounts, if there are costs involved in the proposal**
->    9. **Success Metrics: Description of how the success of this proposal can be gauged, during and after the Execution Stage.**
->    10. **Next Steps: Outline of the action items entailing the passing of this proposal, and who will be responsible for them.**
->
-> 4. **MISCELLANEOUS**
->
->    1. **Amendments**: Amendments can be made to this framework by including an edited version of this framework in a proposal, to be ratified by vote-authorized persons.
->    2. **Revised Proposals**: If rejected, proposals may be redrafted and resubmitted for another vote.
+Use the clipboard button in the top right corner of the following code block to copy the template.
+
+```
+ PRE-CONSTITUTIONAL GOVERNANCE FRAMEWORK
+
+ 1. DEFINITIONS & DESIGNATIONS
+
+    A. Proposal-Authorized Person
+
+       I. DEFINITION: Persons recognized as able to make proposals
+       II. DESIGNATION: (e.g. core team)
+
+    B. Vote-Authorized Person
+
+       I. DEFINITION: Persons recognized as able to vote on proposals.
+       II. DESIGNATION: (e.g. community members)
+
+    C. Designated Drafting Platform
+
+       I. DEFINITION: The platform or channel where proposals are drafted and edited.
+       II. DESIGNATION: (e.g. Google Docs)
+
+    D. Minimum Drafting Duration
+
+       I. DEFINITION: The minimum duration for which a proposal must be available for feedback in the drafting stage.
+       II. DESIGNATION: (e.g. 5 days)
+
+    E. Designated Voting Platform
+
+       I. DEFINITION: The platform or channel where proposals are voted on.
+       II. DESIGNATION: (e.g. Snapshot)
+
+    F. Designated Voting Duration
+
+       I. DEFINITION: The duration for which an active proposal may be voted on.
+       II. DESIGNATION: (e.g. 5 days)
+
+    G. Designated Voting Method
+
+       I. DEFINITION: The method for calculating or weighting votes.
+       II. DESIGNATION: (e.g. 1 person = 1 vote)
+
+    H. Designated Voting Quorum
+
+       I. DEFINITION: The minimum number of voting persons needed for the outcome to be considered legitimate.
+       II. DESIGNATION: (e.g. 5 votes)
+
+    I. Designated Voting Majority
+
+       I. DEFINITION: The percentage of votes required for a proposal to pass.
+       II. DESIGNATION: (e.g. 51%)
+
+    J. Default Voting Options
+
+       I. DEFINITION: The voting options which are to be used by default, unless the proposal necessitates other options.
+       II. DESIGNATION: “For” and “Against”
+
+ 2. PROPOSAL PROCESS
+
+    A. Preamble: With this agreed-upon proposal process, any 'proposal-authorized person' may draft and post a proposal for all 'vote-authorized persons' to vote on, in order to formally facilitate group decisions. This process may evolve over time, and may eventually be further formalized through the establishment of bylaws or other operating agreements.
+    B. Process: The proposal process will follow the stages below:
+
+       I. Drafting Stage: As it is being drafted, the proposal will be formatted according to the 'Proposal Template', made available to feedback from [proposal-authorized persons and/or vote-authorized persons], and will be made accessible on the 'designated drafting platform(s)' for the 'minimum drafting duration' before it can advance to the 'Active Stage'. All 'vote-authorized persons' will be notified when the draft is made accessible.
+       II. Active Stage: The drafted proposal will be posted on the 'designated voting platform' for 'vote-authorized persons' to vote on. The 'default voting options' will be used, unless the proposal requires other options. For a proposal to pass, it must:
+
+          a. be active for the 'designated voting duration',
+          b. use the 'designated voting method',
+          c. meet the 'designated voting quorum', and
+          d. the 'designated voting majority' must be in favor.
+
+       III. Execution Stage: Once a proposal has passed, the action items specified in that proposal may commence under the auspices of approval by the organization.
+
+ 3. PROPOSAL TEMPLATE
+
+    A. Proposal Name: The name of the proposal, which may or may not follow a codified naming scheme.
+    B. Proposal Author(s): The person(s) authoring the proposal.
+    C. Proposal Team: Conducting the affairs detailed in the proposal
+    D. Draft Start Date: The date the proposal draft is started.
+    E. Proposal Description: The main body of descriptive text explaining what the proposal is about.
+    F. Mission Alignment: Explanation why this proposal is in alignment with the mission or goals of the organization.
+    G. Brand Usage: Description of if/how this proposal involves the usage of the organization’s brand.
+    H. Financial Implications: Description of any disbursements or costs associated with this proposal. This section would specifically reference the organization’s treasury or other relevant budgetary accounts, if there are costs involved in the proposal
+    I. Success Metrics: Description of how the success of this proposal can be gauged, during and after the Execution Stage.
+    J. Next Steps: Outline of the action items entailing the passing of this proposal, and who will be responsible for them.
+
+ 4. MISCELLANEOUS
+
+    A. Amendments: Amendments can be made to this framework by including an edited version of this framework in a proposal, to be ratified by vote-authorized persons.
+    B. Revised Proposals: If rejected, proposals may be redrafted and resubmitted for another vote.
+```
