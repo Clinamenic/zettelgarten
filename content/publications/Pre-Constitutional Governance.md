@@ -48,9 +48,7 @@ This approach should not be considered a substitute for a set of legally-binding
 
 Below is attached a boilerplate document which may be used by an association of individuals to ratify a minimum viable framework for internal governance. This document includes a template for proposals to follow, and a lightweight framework of guidelines around how to make these proposals, and how to amend the proposal template and framework itself.
 
-Please feel free to copy the [**google document**](https://docs.google.com/document/d/1sGzej13n6SO2R6T8MWX-yDI1LRrckvuFTlwwwo0k_a4/edit) and fill out the designations as appropriate for your organization. Clinamenic LLC is available for [**billable hourly consultations**](https://www.clinamenic.com/services.html), if you would like to have your particular framework reviewed.
-
-Use the clipboard button in the top right corner of the following code block to copy the template.
+Please feel free to copy the following template and fill out the designations as appropriate for your organization. Clinamenic LLC is available for [**billable hourly consultations**](https://www.clinamenic.com/services.html), if you would like to have your particular framework reviewed.
 
 ```
  PRE-CONSTITUTIONAL GOVERNANCE FRAMEWORK

@@ -2,6 +2,9 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+
+
+
 /* Geist Mono Thin */
 @font-face {
   font-family: "GeistMono";
@@ -65,6 +68,7 @@
   src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmZFtLSb3WzJUy8oy3t49iU6MCnsVynKFJmwJcKPGZBbP7) format("opentype");
   font-weight: 900;
 }
+
 /* Minecraft */
 @font-face {
   font-family: "Minecraft";
@@ -72,6 +76,17 @@
   src: url(https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmU7unjNWTCPP31NPy58rQeAhyMTRyNCw5ZHLNZgqak2LU) format("opentype");
   font-weight: 100;
 }
+
+
+/* Monaspace Krypton Extra Light */
+@font-face {
+  font-family: "MonaspaceKrypton";
+  src: url(https://arweave.net/nXNcMuaJYcrEdLDF1fNEu3gJT0FB3rBkUivA4luzphA);
+  src: url(https://arweave.net/nXNcMuaJYcrEdLDF1fNEu3gJT0FB3rBkUivA4luzphA) format("opentype");
+  font-weight: 300;
+}
+
+
 
 /* Monaspace Neon Extra Light */
 @font-face {
@@ -140,12 +155,14 @@ body {
   font-weight: 200;
   box-sizing: border-box;
   background-color: var(--lightgray);
+  background-image: url(https://arweave.net/wx7JlDU8eCGQTIfR9Hevwb1LyKeUeI6Ke8ARCLIPXdo);
   font-family: "MonaspaceNeon";
   color: var(--darkgray);
   @media only screen and (max-width: calc(750px + 2rem)) { 
     background-color: var(--light);
   }
 }
+
 section {
   margin: 0;
   max-width: 100%;
@@ -524,11 +541,19 @@ figure[data-rehype-pretty-code-figure] {
 }
 
 pre {
-  font-family: var(--codeFont);
-  padding: 0 0.5rem;
+  font-family: "MonaspaceKrypton" !important;
+  color: orange !important;
+  background-image: repeating-linear-gradient(
+    135deg,
+    var(--light),
+    var(--light) 23px,
+    var(--lightgray) 23px,
+    var(--lightgray) 24px
+  );
+  padding: 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--gray);
   position: relative;
 
   &:has(> code.mermaid) {
@@ -584,7 +609,7 @@ pre {
 code {
   font-size: 0.9em;
   color: var(--dark);
-  font-family: var(--codeFont);
+  font-family: "MonaspaceKrypton";
   border-radius: 5px;
   padding: 0.1rem 0.2rem;
   background: var(--lightgray);
@@ -709,4 +734,8 @@ iframe.pdf {
   height: 100%;
   width: 100%;
   border-radius: 5px;
+}
+
+.light .sidebar {
+  background-image: url(https://mgogss5tjplk6loo44xiyhilk6euzgbx7mu52av7tzon5mmghvhq.arweave.net/YZxpS7NL1q8tzucujB0LV4lMmDf7Kd0Cv55c3rGGPU8);
 }

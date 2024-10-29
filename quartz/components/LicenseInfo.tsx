@@ -28,9 +28,9 @@ const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
       case "CC BY-SA 4.0":
         return (
           <>
-            <img style={{height: "20px", margin: "0px", marginLeft: "5px", verticalAlign: "text-bottom"}} src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
-            <img style={{height: "20px", margin: "0px", marginLeft: "5px", verticalAlign: "text-bottom"}} src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
-            <img style={{height: "20px", margin: "0px", marginLeft: "5px", verticalAlign: "text-bottom"}} src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="SA" />
+            <img style={{height: "20px", margin: "0px", marginLeft: "10px", verticalAlign: "middle"}} src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC" />
+            <img style={{height: "20px", margin: "0px", marginLeft: "7px", verticalAlign: "middle"}} src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY" />
+            <img style={{height: "20px", margin: "0px", marginLeft: "7px", verticalAlign: "middle"}} src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="SA" />
           </>
         )
       // Add more cases for other licenses as needed

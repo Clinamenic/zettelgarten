@@ -17,7 +17,7 @@ const PublishDate: QuartzComponent = ({ cfg, fileData }) => {
         month: 'long',
         day: 'numeric'
       }).replace(/(\w+)\s(\d+),\s(\d+)/, (_, month, day, year) => 
-        `${month.toUpperCase()} ${day} ${year}`
+        `${month.toUpperCase()} ${day}, ${year}`
       )
     }
     

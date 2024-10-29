@@ -66,7 +66,7 @@ header {
   height: 2rem;
   top: 0;
   left: calc(((100vw - 749px) / 2) + 1.5rem);
-  right: calc(((100vw - 748px) / 2) + 1.5rem);
+  right: calc(((100vw - 749px) / 2) + 1.5rem);
   z-index: 1000;
   background-color: var(--lightgray);
   display: flex;
