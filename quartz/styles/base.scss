@@ -155,11 +155,13 @@ body {
   font-weight: 200;
   box-sizing: border-box;
   background-color: var(--lightgray);
-  background-image: url(https://arweave.net/wx7JlDU8eCGQTIfR9Hevwb1LyKeUeI6Ke8ARCLIPXdo);
+  background-image: url(https://arweave.net/lNlBdLsi0iKgi6vpjI0q19sBqhHXB8kLZYnjdOUoL9w);
+  background-size: 150%;
   font-family: "MonaspaceNeon";
   color: var(--darkgray);
   @media only screen and (max-width: calc(750px + 2rem)) { 
     background-color: var(--light);
+    background-image: none;
   }
 }
 

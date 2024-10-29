@@ -12,11 +12,13 @@ tags:
           <img
             src="https://i.pinimg.com/originals/24/7f/45/247f45070cb1ef7163052703f80e5e5d.png"
             class="gallery-img"
+            style="border: 0px;"
             alt="SoloSalonBadge"
           />
           <img
             src="https://i.pinimg.com/originals/0d/2c/cb/0d2ccb72395e7aac4d199d0c6da082b6.png"
             class="gallery-img"
+            style="border: 0px;"
             alt="ClinamenicGreenCube"
           />
           <img
@@ -27,6 +29,7 @@ tags:
           <img
             src="https://i.pinimg.com/originals/ba/8d/60/ba8d60ed927336c2c17e076a1615a795.png"
             class="gallery-img"
+            style="border: 0px;"
             alt="DAOCoalitionLogo"
           />
           <img
