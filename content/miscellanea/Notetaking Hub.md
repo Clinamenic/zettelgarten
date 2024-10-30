@@ -63,3 +63,14 @@ This method permits the interstitial inclusion of recursive reference notes, alo
 	- https://www.youtube.com/watch?v=y1dbwSbXggg
 - https://web.archive.org/web/20150919121615/http://www.abolish.me/blog/semantic-notes
 - Kepano's web clipper bookmark: https://stephango.com/obsidian-web-clipper
+
+### Articles & Resources
+
+- https://strengejacke.wordpress.com/wp-content/uploads/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf
+- [Zettelkasten: Hypertext, Linearity and Sequentiality](https://www.thesing-online.de/blog/zettelkasten-hypertext-linearity-sequentiality)
+- [https://writing.bobdoto.computer/folgezettel-is-not-an-outline-luhmanns-playful-appreciation-of-disfunction/](https://writing.bobdoto.computer/folgezettel-is-not-an-outline-luhmanns-playful-appreciation-of-disfunction/)
+- The Process of Writing World History of Design, 2015. [https://www.youtube.com/watch?v=Kxyy0THLfuI](https://www.youtube.com/watch?v=Kxyy0THLfuI).
+
+#### Article/Resource Lists
+
+- https://www.reddit.com/r/Zettelkasten/comments/10wj6tv/what_are_your_two_favourite_articles_videos_or/

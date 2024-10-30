@@ -17,16 +17,7 @@ export const sharedPageComponents: SharedLayout = {
       showGraph: (frontmatter) => !frontmatter.hideGraph,
       // ... other graph options
     }),
-    // Component.DesktopOnly(Component.Comments({
-    //  provider: 'giscus',
-    //  options: {
-    //    repo: 'clinamenic/zettelgarten',
-    //    repoId: 'R_kgDOMqLVgA',
-    //    category: 'Announcements',
-    //    categoryId: 'DIC_kwDOMqLVgM4CjP31',
-    //  },
-    //  showComments: (frontmatter) => !frontmatter.hideComments,
-    // })),
+    
   ],
   footer: Component.Footer({
     links: {
@@ -75,3 +66,17 @@ export const defaultListPageLayout: PageLayout = {
 }
 
 export const defaultLayout = defaultContentPageLayout
+
+
+
+
+    // Component.DesktopOnly(Component.Comments({
+    //  provider: 'giscus',
+    //  options: {
+    //    repo: 'clinamenic/zettelgarten',
+    //    repoId: 'R_kgDOMqLVgA',
+    //    category: 'Announcements',
+    //    categoryId: 'DIC_kwDOMqLVgM4CjP31',
+    //  },
+    //  showComments: (frontmatter) => !frontmatter.hideComments,
+    // })),
