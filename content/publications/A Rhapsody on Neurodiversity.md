@@ -1,17 +1,17 @@
 ---
+arweaveHash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: A Rhapsody on Neurodiversity
-subtitle: Reflections on auto-didacticism and neurodiversity.
 date: 2023-01-17
-source: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
 license: CC BY-SA 4.0
-arweaveHash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 publish: true
-downloadable: false
+source: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
+subtitle: Reflections on auto-didacticism and neurodiversity.
 tags:
   - personal-discourse
   - text
+title: A Rhapsody on Neurodiversity
+uuid: 245497b4-8ced-46b3-a841-d8e683c09373
 ---
 
 As someone without formal experience in STEM higher education, but rather as a [**self-guided generalist**](https://solosalon.substack.com/p/mogenpro-background), I should perhaps preface what follows with an explanation of my intentions.

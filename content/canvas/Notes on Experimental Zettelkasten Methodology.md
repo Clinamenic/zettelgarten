@@ -1,18 +1,22 @@
 ---
+arweaveHash: sSobq_FUVYtPWt6LONmPvf_ta7LJ6yQKwpUn5TSKXZo
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: Notes on Experimental Zettelkasten Methodology
-subtitle: Some coverage of the various challenges faced in the construction of a bespoke multi-purpose zettelkasten.
-itemType: canvas
-draft started: 2024-10-12
 date: 2024-10-12
+draft started: 2024-10-12
+itemType: canvas
 license: CC BY-SA 4.0
-arweaveHash: sSobq_FUVYtPWt6LONmPvf_ta7LJ6yQKwpUn5TSKXZo
 publish: true
+subtitle: Some coverage of the various challenges faced in the construction of a bespoke
+  multi-purpose zettelkasten.
 tags:
-  - personal-discourse/log
-  - misc/zettelkasten
+- personal-discourse/log
+- misc/zettelkasten
+title: Notes on Experimental Zettelkasten Methodology
+uuid: f287fa9c-c615-4f2c-97db-5103b6df1b07
+
 ---
+
 ![[Boilerplate#Canvas Foreword]]
 
 Finding myself in a period of pronounced methodological disequilibrium, at once confounding and exciting, I think it may be useful to take brief account of the challenges faced, in hopes of dispelling artificial problems and surfacing potential solutions. It is also in the spirit of auto-discourse that this exercise, like those few preceding it, will be made public, so as to provide additional epistemic context for more polished future publications.
@@ -21,7 +25,7 @@ In a largely unstructured manner, I will list the methodological difficulties en
 
 ## File Naming Conventions
 
-One of the major difficulties, which I suspect may largely be artificial qua non-substantive, is the file-keeping and codification schema of the zettelkasten itself. I find myself formally drawn to the notion of having a uniform and canonical file-naming system to encompass more or less the entirely of the zettelkasten, but I run into several practical issues entailed by my particular circumstances. 
+One of the major difficulties, which I suspect may largely be artificial qua non-substantive, is the file-keeping and codification schema of the zettelkasten itself. I find myself formally drawn to the notion of having a uniform and canonical file-naming system to encompass more or less the entirely of the zettelkasten, but I run into several practical issues entailed by my particular circumstances.
 
 Choosing concise non-content-oriented file names, like 'log-2024-09-18' for long(ish)-form notes like this or 'r-JK-GT-7' for reference notes like those I've taken for Keynes' General Theory, is appealing for formal (and potentially non-substantive) reasons, but is also appealing for a more substantive reason, namely that it could enable unforeseen rediscovery of notes in unexpected contexts. In this respect, one may view the zettelkasten as an epistemic landscape through which one may take a [dérive](https://en.wikipedia.org/wiki/D%C3%A9rive), insofar as it permits the ability to navigate ideas without a pre-determined destination.
 
@@ -51,7 +55,7 @@ As for now, while I do not have much of need for non-reference atomic notes, I d
 
 ## Books and Notes on Books
 
-In piloting [[Keynes_GeneralTheory]] as a book my notes on which will systematically processed into a zettelkasten, I have incurred considerable complexity above and beyond what is already proving to be a challenging exercise in reading comprehension. That said, such a rigorous notetaking system is, I am finding, aiding tremendously in said comprehension, which is to say I do not regret incurring such added complexity. 
+In piloting [[Keynes_GeneralTheory]] as a book my notes on which will systematically processed into a zettelkasten, I have incurred considerable complexity above and beyond what is already proving to be a challenging exercise in reading comprehension. That said, such a rigorous notetaking system is, I am finding, aiding tremendously in said comprehension, which is to say I do not regret incurring such added complexity.
 
 In certain respects this comprehension exercise is a continuation of the Modular Generalist Program I had started developing a few years ago (see [[Modular Generalist Program Background]]. Specifically, I am attempting to process (qua intuitively comprehend) a given work of discourse from a given domain, in this case macroeconomics. My notetaking priorities in general are to:
 
@@ -75,16 +79,16 @@ If the zettelkasten is to be optimized around a central function, that function 
 
 Where this particular methodology may differ is in how the publication process is structured. As of now, I am drafting multiple publications in parallel, while also writing and publishing extended notes (which I have been calling 'logs'), such as this note. These extended notes serve primarily as a personal sensemaking exercise and and internal discursive context, and secondarily as an external feedback facilitation mechanism. Publications, on the other hand, primarily serve the purpose of communicating these ideas to the public, in the form of polished discourse.
 
-In other words, the primary function of these extended notes are internal, whereas the primary function of publications is external. Because they are both public, and thus considered publications, the polished publications are considered the "outermost" layer because they are outward facing in their purpose, whereas the extended notes (as proto-publications) constitute the middle layer insofar as their function is more internal. More atomic notes, and their accompanying reference material, constitute a still more inward layer and are also public. 
+In other words, the primary function of these extended notes are internal, whereas the primary function of publications is external. Because they are both public, and thus considered publications, the polished publications are considered the "outermost" layer because they are outward facing in their purpose, whereas the extended notes (as proto-publications) constitute the middle layer insofar as their function is more internal. More atomic notes, and their accompanying reference material, constitute a still more inward layer and are also public.
 
 What remains private are notes and files containing information I am not at liberty to publish. These files will remain in the zettelkasten, but will not be included in the publishing flow. Thus, the zettelkasten, across all its strata, ultimately revolves around publication, and is not entirely public. That said, I do find the approach of "drafting in public" to be appealing, in the spirit of auto-discourse.
 
 ## Site Construction, Hosting, and Networking
 
-This particular zettelkasten stack consists, at present, of Obsidian as a text editor, Quartz as a site construction mechanism, and Github Pages as a site hosting solution. Beyond Github Pages, I plan on hosting either on IPFS (via Fleek) or Arweave (via Fleek or Protocol.land or something else). There is also the potential to utilize Seed Protocol to index this content onchain. 
+This particular zettelkasten stack consists, at present, of Obsidian as a text editor, Quartz as a site construction mechanism, and Github Pages as a site hosting solution. Beyond Github Pages, I plan on hosting either on IPFS (via Fleek) or Arweave (via Fleek or Protocol.land or something else). There is also the potential to utilize Seed Protocol to index this content onchain.
 
 In the case of my Quartz publication, I have introduced several custom typescript components, thanks to the help of Perplexity and Cursor. This configurability, and how it can all be engineered into the frontmatter of the markdown files being published, opens a wide field of functionality potential.
 
-Still unclear to me is the extent to which a website like this can operate purely on peer-to-peer infrastructure, instead of relying on institutionally managed platforms which can more readily be deprecated. 
+Still unclear to me is the extent to which a website like this can operate purely on peer-to-peer infrastructure, instead of relying on institutionally managed platforms which can more readily be deprecated.
 
-Beyond this particular publishing stack, this process can be replicated and repurposed for a variety of purposes, such as group publications or libraries. Based on preliminary testing so far, it seems feasible to have multiple people, each with their own local Obsidian vault, contribute to the same Quartz publication. 
+Beyond this particular publishing stack, this process can be replicated and repurposed for a variety of purposes, such as group publications or libraries. Based on preliminary testing so far, it seems feasible to have multiple people, each with their own local Obsidian vault, contribute to the same Quartz publication.

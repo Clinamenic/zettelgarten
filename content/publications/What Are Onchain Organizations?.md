@@ -1,16 +1,19 @@
 ---
+arweaveHash: GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: What Are Onchain Organizations?
-subtitle: Using smart contracts to design organizations and facilitate governance processes.
 date: 2023-12-10
 license: CC BY-SA 4.0
-arweaveHash: GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs
 publish: true
+subtitle: Using smart contracts to design organizations and facilitate governance
+  processes.
 tags:
-  - personal-discourse
-  - misc/bureaumancy
-  - text
+- personal-discourse
+- misc/bureaumancy
+- text
+title: What Are Onchain Organizations?
+uuid: 89cc2fdf-006b-456c-8349-dd9f8209d102
+
 ---
 
 Smart contracts have brought about a paradigm shift in organizational design. These algorithms, which operate on peer-to-peer financial databases like blockchains, can be used to facilitate a variety of administrative processes, and can enable large groups of stakeholders to govern themselves within a transparent framework which, if well designed, can be virtually impossible for any one entity to capture.

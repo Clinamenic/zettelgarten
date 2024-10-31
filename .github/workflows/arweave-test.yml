@@ -1,0 +1,32 @@
+name: Arweave Query Test
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: "Setup Arweave JS and YAML"
+        run: npm install arweave js-yaml
+
+      - name: "Query Arweave for hashes"
+        run: |
+          node <<EOF
+          // Your Node.js script here
+          EOF
+
+      - name: "Commit updated files"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update Arweave hashes in frontmatter" || echo "No changes to commit"
+          git push

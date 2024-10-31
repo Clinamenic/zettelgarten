@@ -1,11 +1,11 @@
 ---
-title: Design | Clinamenic LLC
-publish: true
-keywords: clinamenic, design, spencer saar cavanaugh, clinamenic LLC
+hideComments: true
 hideGraph: false
 hideTitle: true
-hideComments: true
-tags:
+keywords: clinamenic, design, spencer saar cavanaugh, clinamenic LLC
+publish: true
+tags: null
+title: Design | Clinamenic LLC
 ---
 
 <div class="gallery3">

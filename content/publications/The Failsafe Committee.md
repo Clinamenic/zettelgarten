@@ -1,16 +1,18 @@
 ---
+arweaveHash: 5RFMa6GU3HIrm4Mh6FEjnkGNQNoAoh5aRlSxaAkGU7k
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: The Failsafe Commitee
-subtitle:
 date: 2023-09-25
 license: CC BY-SA 4.0
-arweaveHash: 5RFMa6GU3HIrm4Mh6FEjnkGNQNoAoh5aRlSxaAkGU7k
 publish: true
+subtitle: null
 tags:
-  - misc/bureaumancy
-  - personal-discourse
-  - text
+- misc/bureaumancy
+- personal-discourse
+- text
+title: The Failsafe Commitee
+uuid: 707bafc0-4074-4ea1-98cd-ce7dd8e16961
+
 ---
 
 On-chain organizations have a multitude of techniques available to institute truly community-led governance, without the need for representatives or committees to approve the will of the community.

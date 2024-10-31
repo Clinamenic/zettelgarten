@@ -1,11 +1,12 @@
 ---
-title: Clinamenic LLC
-publish: true
-keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
+hideComments: true
 hideGraph: false
 hideTitle: true
-hideComments: true
-tags:
+keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten,
+  digital garden, hypergraph
+publish: true
+tags: null
+title: Clinamenic LLC
 ---
 
 <div class="text-box" style="padding-bottom: 2rem;">

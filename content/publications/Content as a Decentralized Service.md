@@ -1,17 +1,20 @@
 ---
+arweaveHash: _DJgldYi4gjB3_9XE47T4iwy0gmhF7ttCZ-T6lm2Trw
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: Content as a Decentralized Service
-subtitle: 
 date: 2023-01-21
 license: CC BY-SA 4.0
-sourceURL: https://mirror.xyz/ops.clinamenic.eth/SL3pcfxKAE4D4wlEKHjeMjna8fHZmwGeYEC-47icYs0
-arweaveHash: _DJgldYi4gjB3_9XE47T4iwy0gmhF7ttCZ-T6lm2Trw
 publish: true
+sourceURL: https://mirror.xyz/ops.clinamenic.eth/SL3pcfxKAE4D4wlEKHjeMjna8fHZmwGeYEC-47icYs0
+subtitle: null
 tags:
-  - personal-discourse
-  - text
+- personal-discourse
+- text
+title: Content as a Decentralized Service
+uuid: dc9a4759-964b-4ddd-8a38-ccd91e529eee
+
 ---
+
 At this early stage of the development of PubDAO, we are building the base layer of our service model, a model which could be called Content as a Service, or CaaS.
 
 The term CaaS has been used before to refer to content creators delivering content straight to consumers, but in our case we create content for clients who in turn deliver it to consumers.
@@ -45,6 +48,5 @@ In the arrangement PubDAO is exploring, clients can plug into a community of con
 One of the difficulties we may encounter in this model, however good a problem it may be, is an overabundance of low-quality writer applications for content tasks. Of course, the client is still ultimately able to approve both the application of a given creator to start a task, and the work submitted by that creator, but having to sift through dozens of applications at the onset may be a friction point.
 
 Hiring a PubDAO manager to help separate the signal from the noise would here indeed be considered a premium service, but ideally such premium services won’t have to consist of solutions to problems we ourselves create.
-
 
 ![](https://images.mirror-media.xyz/publication-images/y1dJ6oOYIrYQKHNdk6QVm.png)

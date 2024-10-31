@@ -1,15 +1,17 @@
 ---
+arweaveHash: adYCfiTpszM00-hYZwjX0h7AXOFDUTtbZf-dpLTf_jU
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: Slayer Cake, A Layered Membership Structure for DAOs
-subtitle: 
 date: 2023-03-26
 license: CC BY-SA 4.0
-arweaveHash: adYCfiTpszM00-hYZwjX0h7AXOFDUTtbZf-dpLTf_jU
 publish: true
+subtitle: null
 tags:
-  - personal-discourse
-  - text
+- personal-discourse
+- text
+title: Slayer Cake, A Layered Membership Structure for DAOs
+uuid: a017e199-2054-48ef-a637-568e69348c8c
+
 ---
 
 Despite frigid market conditions, the DAO space remains a robust laboratory for organizational design.
@@ -28,7 +30,7 @@ _Disclaimer: The author is a core contributor for PubDAO, Lobby3 and JournoDAO, 
 
 Ultimately, I’m of the notion that it is still too early to identify most of the best practices for DAOs to sustainably endure market cycles. That said, a nascent case can be made for a heterogenous membership structure for DAOs, involving multiple membership tokens which each confer a particular access level governance power. Specifically, here we will be exploring the case for layered membership structures, in which such access levels and governance powers can be measured according to a hierarchy of tokens.
 
-If you want a membership token with secure governance dynamics, some tokenholder verification or other “positive friction” may be justified, at some expense of inclusivity. If you want a maximally inclusive membership token, such inclusivity may come at the cost of operational security and contributor quality. Separating the various responsibilities and privileges of your membership body into various tokenholder groups may be a viable solution for, _ahem_, having your cake and eating it too.
+If you want a membership token with secure governance dynamics, some tokenholder verification or other “positive friction” may be justified, at some expense of inclusivity. If you want a maximally inclusive membership token, such inclusivity may come at the cost of operational security and contributor quality. Separating the various responsibilities and privileges of your membership body into various tokenholder groups may be a viable solution for, *ahem*, having your cake and eating it too.
 
 The Slayer Cake model for DAOs is a mosaic and combinatorial approach to membership, involving a multitude of tokens which each have particular acquisition criteria and each endow particular access levels.
 
@@ -53,11 +55,8 @@ Below is a diagram illustrating this membership structure, using some hypothetic
 The logic is as follows:
 
 - You need to complete basic onboarding to receive the draft Community Token.
-    
 - You need the Community Token to receive certain in-house tokens such as the Featured Writer token.
-    
 - If the certificates are issued outside of PubDAO, such as the [Content Guild](https://contentguild.xyz/Join-Now) role badges, then the Community Token is not a prerequisite to receive them.
-    
 
 This way, access to the Community Token, the base token of our membership structure, is inclusive and open to early-career content creators, while factors such as talent, experience, and contribution levels can be measured by additional tokens which would effectively constitute sub-DAOs.
 
@@ -84,9 +83,7 @@ Below is a diagram illustrating this membership structure.
 The logic is as follows:
 
 - In order to receive the Lobby3 Membership Token, you need to complete Holo’s proof of uniqueness, and agree to the Lobby3 Association Agreement.
-    
 - You need the Holo proof of U.S. residency in order to participate in certain nationality-sensitive operations, but this proof is not necessary to become a member.
-    
 
 In this respect, the Lobby3 Membership Token is more restrictive in is distribution than the PubDAO Community Token, even though both may remain free across iterations.
 
@@ -111,9 +108,7 @@ Below is a diagram illustrating this membership structure.
 The logic is as follows:
 
 - To get the Directory Badge, you don’t need to already have the Voter Token, but upon approval for the former you will be given the latter, should you accept it.
-    
 - You do not need the Directory Badge in order to qualify for the Consultancy Badge, meaning that non-journalist members of the JournoDAO community may participate in certain consulting services.
-    
 
 ## Member Experience
 

@@ -1,16 +1,18 @@
 ---
+arweave-hashes:
+arweave-track: true
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: A Primer on Auto-Discourse
-subtitle:
 date: 2024-05-03
 license: CC BY-SA 4.0
-arweaveHash:
 publish: true
+subtitle: null
 tags:
   - personal-discourse
   - misc/auto-discourse
   - text
+title: A Primer on Auto-Discourse
+uuid: ae848434-8df1-4ffe-aa79-14e32ddd0878
 ---
 
 If traditional first-order discourse is characterized by the exploration of a given topic, with the author aptly assuming some degree of authority, there exists a second-order mode of discourse wherein the author’s own understanding of the topic is jointly, alongside the topic itself, the object of inquiry. This latter mode of discourse, here referred to ‘auto-discourse’ insofar as it contains some degree of self-reference to the author’s own understanding of the topic, may perhaps lend itself to didactic applications which the former mode discourse may not, with such prospects being the focus of this piece.

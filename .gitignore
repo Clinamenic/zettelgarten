@@ -10,5 +10,10 @@ private/
 .replit
 replit.nix
 
+
 # Ignore everything in the private folder
 /private/**
+
+# Ignore everything in the private folder
+/myenv/**
+

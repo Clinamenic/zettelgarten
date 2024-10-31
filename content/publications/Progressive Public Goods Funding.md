@@ -1,16 +1,19 @@
 ---
+arweaveHash: YwpUk7Vxn2c6YKPTGmODfyA5u1-n6VvrZHJXNDy1fBE
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: Progressive Public Goods Funding
-subtitle: Publicly tracking impact progress, and balancing between proactive and retroactive funding models.
 date: 2024-04-05
 license: CC BY-SA 4.0
-arweaveHash: YwpUk7Vxn2c6YKPTGmODfyA5u1-n6VvrZHJXNDy1fBE
 publish: true
+subtitle: Publicly tracking impact progress, and balancing between proactive and retroactive
+  funding models.
 tags:
-  - personal-discourse
-  - misc/onchain-philanthropy
-  - text
+- personal-discourse
+- misc/onchain-philanthropy
+- text
+title: Progressive Public Goods Funding
+uuid: 8166b4bc-4b46-4aba-be6d-e59607cc4aac
+
 ---
 
 _The following does not constitute legal, financial, accounting, or compliance advice, but is intended purely for informational purposes._

@@ -198,8 +198,9 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  hyphens: auto;
+  hyphens: none;
 }
+
 
 p,
 ul,
@@ -448,7 +449,13 @@ blockquote {
   margin: 1rem 0;
   border-left: 3px solid var(--secondary);
   padding-left: 1rem;
+  padding-right: 1rem;
   transition: border-color 0.2s ease;
+  background-color: rgba(121, 197, 126, 0.15);
+}
+
+blockquote a {
+  background-color: transparent;
 }
 
 h1,
@@ -723,6 +730,10 @@ ol.overflow {
   ul {
     padding-left: 1rem;
   }
+}
+
+.transclude-src {
+  display: none !important;
 }
 
 .katex-display {

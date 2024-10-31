@@ -1,15 +1,18 @@
 ---
+arweaveHash: p9gGX1WhTPClo3xP84rUHhNFd6f9CC_atIm6WIW2b9U
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: A Crypto-Native Invoice Template
-subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
 date: 2024-03-05
 license: CC BY-SA 4.0
-arweaveHash: p9gGX1WhTPClo3xP84rUHhNFd6f9CC_atIm6WIW2b9U
 publish: true
+subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice
+  template.
 tags:
-  - personal-discourse
-  - text
+- personal-discourse
+- text
+title: A Crypto-Native Invoice Template
+uuid: e836933a-e99c-4c6a-abf3-9a03fe90f47c
+
 ---
 
 Given how early the onchain economy is, compensation arrangements are often ambiguous and disordered, whether they involve DAO contributors or freelance service-providers. Despite the transparency of the underlying technology, allowing anyone to track payments between entities, personal and enterprise accounting practices remain largely undefined. This article will cover some basic practices for invoicing in the onchain economy, using both traditional invoice templates, as well as using smart contracts to facilitate invoices.

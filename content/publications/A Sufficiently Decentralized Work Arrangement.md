@@ -1,17 +1,20 @@
 ---
+arweaveHash: wXt1bW1sXe-ShxX0Pp_Jy06yrV4jvmppg_VS2x4nuJM
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: A Sufficiently Decentralized Work Arrangement
-subtitle: 
 date: 2023-01-21
 license: CC BY-SA 4.0
-sourceURL: https://mirror.xyz/ops.clinamenic.eth/58IFNhSUmneWrH8Cr_zg5U09U2muI2FxQ-HtuCCv9Fw
-arweaveHash: wXt1bW1sXe-ShxX0Pp_Jy06yrV4jvmppg_VS2x4nuJM
 publish: true
+sourceURL: https://mirror.xyz/ops.clinamenic.eth/58IFNhSUmneWrH8Cr_zg5U09U2muI2FxQ-HtuCCv9Fw
+subtitle: null
 tags:
-  - personal-discourse
-  - text
+- personal-discourse
+- text
+title: A Sufficiently Decentralized Work Arrangement
+uuid: 6a9687f8-9470-4497-ac00-813b164517bf
+
 ---
+
 One indicator that DAOs are still young in their development, is the fact that they are still searching for business models which fit the web3 ethos of decentralized power and transparency. Currently DAOs mainly rely on speculative asset sales and royalties, early-stage private investments, or grants to financially sustain their operations.
 
 That said, there are some DAOs that create monetizable content as a source of revenue, or offer other products or services. What follows are various considerations about how to structure such work arrangements in a decentralized fashion.
