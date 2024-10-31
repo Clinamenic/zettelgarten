@@ -11,7 +11,7 @@ tags:
   - personal-discourse
   - misc/auto-discourse
   - text
-  - test-tag-1
+  - test-tag-2
 title: A Primer on Auto-Discourse
 uuid: ae848434-8df1-4ffe-aa79-14e32ddd0878
 ---
