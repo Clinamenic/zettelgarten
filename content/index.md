@@ -74,18 +74,13 @@ title: Clinamenic LLC
 - [[Notes on Extitutional Theory and Progressive Protocolization]]
 - [[Notes on Keynes, Hayek, and Fiscal Protocols]]
 - [[Notes on Experimental Zettelkasten Methodology]]
+- [[Notes on Methodology for Communities of Practice]]
 
 ### Current Drafts
 
 - [[DRAFT Methodological Prospectus of the Onchain Impact Economy]]
-- [[DRAFT An Organizational Theory of Active Inference]]
-- [[DRAFT A Mirror for Nomads]]
-- [[DRAFT Zettelkasten and Ideonomy]]
-- [[DRAFT History of Accelerationism]]
-- [[DRAFT Multipolar Extitution Design]]
-- [[DRAFT Intimations around Bureaumancy]]
-- [[DRAFT Theoretical and Applied Governance]]
-- [[DRAFT Micropolitics and Organizational Design]]
+
+![[Notetaking Hub#Notes on Books]]
 
 <h2 style="text-align: center;">Experience</h2>
 
