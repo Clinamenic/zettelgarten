@@ -1,0 +1,72 @@
+name: Selective Arweave Upload
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2 # To be able to get the changed files
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install arweave js-yaml
+
+      - name: Upload changed files
+        run: |
+          changed_files=$(git diff --name-only @{1}.. | grep '\.md$')
+
+          node <<EOF
+          const Arweave = require('arweave');
+          const fs = require('fs');
+          const yaml = require('js-yaml');
+
+          const arweave = Arweave.init({
+            host: 'arweave.net',
+            port: 443,
+            protocol: 'https'
+          });
+
+          const wallet = JSON.parse(process.env.ARWEAVE_WALLET);
+
+          async function uploadFile(filePath) {
+            const fileContent = fs.readFileSync(filePath, 'utf8');
+            const frontmatter = yaml.loadFront(fileContent);
+            const uuid = frontmatter.uuid;
+
+            if (!uuid) {
+              console.log(`No UUID found for ${filePath}. Skipping.`);
+              return;
+            }
+
+            const transaction = await arweave.createTransaction({ data: fileContent }, wallet);
+            transaction.addTag('Content-Type', 'text/markdown');
+            transaction.addTag('UUID', uuid);
+
+            await arweave.transactions.sign(transaction, wallet);
+            await arweave.transactions.post(transaction);
+
+            console.log(`Uploaded ${filePath} with UUID ${uuid}. Transaction ID: ${transaction.id}`);
+          }
+
+          async function processFiles() {
+            const files = process.env.CHANGED_FILES.split(' ');
+            for (const file of files) {
+              await uploadFile(file);
+            }
+          }
+
+          processFiles();
+          EOF
+        env:
+          ARWEAVE_WALLET: ${{ secrets.ARWEAVE_WALLET }}
+          CHANGED_FILES: ${{ steps.changed_files.outputs.all }}
