@@ -1,4 +1,4 @@
-name: Upload All MD Files with UUID
+name: Upload All MD Files with UUID test
 on:
   workflow_dispatch:
 
