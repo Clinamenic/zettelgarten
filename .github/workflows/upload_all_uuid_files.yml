@@ -1,4 +1,4 @@
-name: Upload All MD Files with UUID test
+name: Upload All MD Files with UUID
 on:
   workflow_dispatch:
 
@@ -68,7 +68,7 @@ jobs:
 
               console.log(`Uploaded ${filePath} with UUID ${uuid}. Transaction ID: ${transaction.id}`);
             } catch (error) {
-              console.error(`Error uploading ${filePath}:`, error);
+              console.error(`Error uploading ${filePath}: ${error.message}`);
             }
           }
 
@@ -81,7 +81,7 @@ jobs:
           }
 
           processAllFiles().catch(error => {
-            console.error("Error in processAllFiles:", error);
+            console.error("Error in processAllFiles:", error.message);
             process.exit(1);
           });
           EOF
