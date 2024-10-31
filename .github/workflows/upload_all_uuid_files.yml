@@ -19,10 +19,10 @@ jobs:
       - name: Create upload script
         run: |
           cat << EOF > upload_all_script.js
-          const Arweave = require('arweave');
-          const fs = require('fs').promises;
-          const path = require('path');
-          const yaml = require('js-yaml');
+          import Arweave from 'arweave';
+          import { promises as fs } from 'fs';
+          import path from 'path';
+          import yaml from 'js-yaml';
 
           const arweave = Arweave.init({
             host: 'arweave.net',
