@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 2 # To be able to get the changed files
+          fetch-depth: 0 # Fetch all history for all branches and tags
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -21,10 +21,25 @@ jobs:
       - name: Install dependencies
         run: npm install arweave js-yaml
 
-      - name: Upload changed files
+      - name: Get changed markdown files
+        id: changed-files
         run: |
-          changed_files=$(git diff --name-only @{1}.. | grep '\.md$')
+          if [ "${{ github.event_name }}" == "push" ]; then
+            changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$' || true)
+          else
+            changed_files=$(git diff --name-only HEAD~1 HEAD | grep '\.md$' || true)
+          fi
 
+          if [ -z "$changed_files" ]; then
+            echo "No markdown files changed. Exiting."
+            echo "files=" >> $GITHUB_OUTPUT
+          else
+            echo "files=$changed_files" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload changed files
+        if: steps.changed-files.outputs.files != ''
+        run: |
           node <<EOF
           const Arweave = require('arweave');
           const fs = require('fs');
@@ -59,7 +74,7 @@ jobs:
           }
 
           async function processFiles() {
-            const files = process.env.CHANGED_FILES.split(' ');
+            const files = process.env.CHANGED_FILES.split(' ').filter(Boolean);
             for (const file of files) {
               await uploadFile(file);
             }
@@ -69,4 +84,4 @@ jobs:
           EOF
         env:
           ARWEAVE_WALLET: ${{ secrets.ARWEAVE_WALLET }}
-          CHANGED_FILES: ${{ steps.changed_files.outputs.all }}
+          CHANGED_FILES: ${{ steps.changed-files.outputs.files }}
