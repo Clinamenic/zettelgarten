@@ -51,36 +51,51 @@ jobs:
             protocol: 'https'
           });
 
-          const wallet = JSON.parse(process.env.ARWEAVE_WALLET);
+          let wallet;
+          try {
+            wallet = JSON.parse(process.env.ARWEAVE_WALLET);
+            console.log("Wallet parsed successfully");
+          } catch (error) {
+            console.error("Error parsing ARWEAVE_WALLET:", error);
+            process.exit(1);
+          }
 
           async function uploadFile(filePath) {
-            const fileContent = fs.readFileSync(filePath, 'utf8');
-            const frontmatter = yaml.loadFront(fileContent);
-            const uuid = frontmatter.uuid;
+            try {
+              const fileContent = fs.readFileSync(filePath, 'utf8');
+              const frontmatter = yaml.loadFront(fileContent);
+              const uuid = frontmatter.uuid;
 
-            if (!uuid) {
-              console.log(`No UUID found for ${filePath}. Skipping.`);
-              return;
+              if (!uuid) {
+                console.log(`No UUID found for ${filePath}. Skipping.`);
+                return;
+              }
+
+              const transaction = await arweave.createTransaction({ data: fileContent }, wallet);
+              transaction.addTag('Content-Type', 'text/markdown');
+              transaction.addTag('UUID', uuid);
+
+              await arweave.transactions.sign(transaction, wallet);
+              await arweave.transactions.post(transaction);
+
+              console.log(`Uploaded ${filePath} with UUID ${uuid}. Transaction ID: ${transaction.id}`);
+            } catch (error) {
+              console.error(`Error uploading ${filePath}:`, error);
             }
-
-            const transaction = await arweave.createTransaction({ data: fileContent }, wallet);
-            transaction.addTag('Content-Type', 'text/markdown');
-            transaction.addTag('UUID', uuid);
-
-            await arweave.transactions.sign(transaction, wallet);
-            await arweave.transactions.post(transaction);
-
-            console.log(`Uploaded ${filePath} with UUID ${uuid}. Transaction ID: ${transaction.id}`);
           }
 
           async function processFiles() {
             const files = process.env.CHANGED_FILES.split(' ').filter(Boolean);
+            console.log("Files to process:", files);
             for (const file of files) {
               await uploadFile(file);
             }
           }
 
-          processFiles();
+          processFiles().catch(error => {
+            console.error("Error in processFiles:", error);
+            process.exit(1);
+          });
           EOF
         env:
           ARWEAVE_WALLET: ${{ secrets.ARWEAVE_WALLET }}
