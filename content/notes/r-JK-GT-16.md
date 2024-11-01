@@ -2,7 +2,7 @@
 title: Summary of General Theory Book I Chapter 3 Section II
 date: 2024-08-18
 author: Spencer Saar Cavanaugh
-reference: "[[Keynes_GeneralTheory#Chapter 3, Section II]]"
+reference: "[[The General Theory of Employment, Interest and Money#Chapter 3, Section II]]"
 publish: true
 tags:
   - r/JK/GT/classical-v-general

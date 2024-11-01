@@ -1,7 +1,7 @@
 ---
 title: Summary of General Theory Book I
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory#BOOK I INTRODUCTION]]"
+reference: "[[The General Theory of Employment, Interest and Money#BOOK I INTRODUCTION]]"
 date: 2024-08-19
 author: Spencer Saar Cavanaugh
 publish: true

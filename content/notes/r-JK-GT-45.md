@@ -1,7 +1,7 @@
 ---
 title: Summary of General Theory Book IV Chapter 12 Section V
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory]]"
+reference: "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-08-30
 author: Spencer Saar Cavanaugh
 publish: true

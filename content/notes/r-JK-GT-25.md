@@ -1,7 +1,7 @@
 ---
 title: Summary of General Theory Book II Chapter 6
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory#Chapter 6 THE DEFINITION OF INCOME, SAVING AND INVESTMENT]]"
+reference: "[[The General Theory of Employment, Interest and Money#Chapter 6 THE DEFINITION OF INCOME, SAVING AND INVESTMENT]]"
 date: 2024-08-21
 author: Spencer Saar Cavanaugh
 publish: true

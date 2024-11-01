@@ -1,7 +1,7 @@
 ---
 title: 
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory]]"
+reference: "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-08-26
 author: Spencer Saar Cavanaugh
 publish: true
@@ -11,4 +11,4 @@ tags:
 #r/JK/GT/Q/unresolved  How, according to the classical theory, did the rate of interest bring "supply and demand for savings" into equilibrium? And how does Keynes' general theory differ?
 
 
-![[Keynes_GeneralTheory#^5429ae]]
+![[The General Theory of Employment, Interest and Money#^5429ae]]

@@ -2,7 +2,7 @@
 title: 
 date: 2024-08-18
 author: Spencer Saar Cavanaugh
-reference: "[[Keynes_GeneralTheory#Chapter 3, Section I]]"
+reference: "[[The General Theory of Employment, Interest and Money#Chapter 3, Section I]]"
 publish: true
 tags:
   - r/JK/GT
@@ -12,4 +12,4 @@ tags:
 
 #r/JK/GT/Q/unresolved What is an intuitive way of understanding user cost and factor cost?
 
-![[Keynes_GeneralTheory#^760af4]]
+![[The General Theory of Employment, Interest and Money#^760af4]]

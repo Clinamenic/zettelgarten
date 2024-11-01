@@ -20,6 +20,10 @@
   overflow: visible;
   padding: 1rem;
 
+  .banner {
+    display: none;
+  }
+
   & > .popover-inner {
     position: relative;
     width: 30rem;

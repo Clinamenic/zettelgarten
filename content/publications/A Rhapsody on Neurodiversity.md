@@ -2,6 +2,7 @@
 arweaveHash: A1BQ7QUEnQ5I6W-o-ot4GB0w832OkR0LbNAjtqPX_GQ
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/xyErVkoWdB0uDWV5a5onev40x8gZBSd8yINxgzKKOrE
 date: 2023-01-17
 license: CC BY-SA 4.0
 publish: true

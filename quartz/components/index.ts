@@ -25,7 +25,8 @@ import AuthorName from "./AuthorName"
 import PublishDate from "./PublishDate"
 import LicenseInfo from "./LicenseInfo"
 import ArticleSubtitle from "./ArticleSubtitle"
-import DownloadMarkdown from "./DownloadMarkdown"
+import DownloadMarkdown from "./DownloadMarkdown" // unused
+import Banner from "./Banner"
 
 export {
   ArticleTitle,
@@ -55,5 +56,6 @@ export {
   PublishDate,
   LicenseInfo,
   ArticleSubtitle,
-  DownloadMarkdown,
+  DownloadMarkdown, // unused
+  Banner,
 }

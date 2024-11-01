@@ -2,18 +2,18 @@
 arweaveHash: Jb3VeB5IHdCy9l7jn_Wy3fZFM0fyH5OTGKRKS9eQdNE
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/q2Iv0vm7Fi5JCcbPFdx3CAweppk8SwUXT2mA8HU2DNA
 date: 2023-11-13
 license: CC BY-SA 4.0
 publish: true
 subtitle: "This expos\xE9 highlights a number of fonts which encapsulate the solarpunk\
   \ ethos."
 tags:
-- personal-discourse
-- misc/design
-- text
+  - personal-discourse
+  - misc/design
+  - text
 title: "A Solarpunk Typography Expos\xE9"
 uuid: ca7f828d-9d36-4557-8e3b-7300001d25f0
-
 ---
 
 Characterized chiefly by its hopeful aesthetics of nature-technology balance, solarpunk is a relatively young genre and movement, and yet it has already secured a foothold among technologists who reject the otherwise prevailing prognoses of doom and dystopia. Combining aspects of liberal economics, bioregionalism, emerging technology, participatory civics, and various other ideas and traditions, solarpunk constitutes a syncretic and solutions-oriented “infraculture” geared toward a healthier future.

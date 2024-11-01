@@ -2,7 +2,7 @@
 title: Summary of General Theory Book I Chapter 3 Section III
 date: 2024-08-19
 author: Spencer Saar Cavanaugh
-reference: "[[Keynes_GeneralTheory#Chapter 3, Section III]]"
+reference: "[[The General Theory of Employment, Interest and Money#Chapter 3, Section III]]"
 publish: true
 tags:
   - r/JK/GT/progressivism

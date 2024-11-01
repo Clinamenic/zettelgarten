@@ -10,8 +10,8 @@ tags:
 ---
 Savings: excess of income over what is spent on consumption.
 
-[[Keynes_GeneralTheory#^d2d6d2]]
+[[The General Theory of Employment, Interest and Money#^d2d6d2]]
 
 Investment: the net addition to all capital equipment.
 
-[[Keynes_GeneralTheory#^f43463]]
+[[The General Theory of Employment, Interest and Money#^f43463]]

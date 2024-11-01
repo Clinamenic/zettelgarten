@@ -309,6 +309,16 @@ a {
     p > strong {
       color: var(--dark);
     }
+
+    p {
+      img {
+        width: calc(100% - 2px);
+        border: 1px solid var(--dark);
+        border-radius: 10px;
+      }
+    }
+
+    
   }
 
   & > #quartz-body {
@@ -382,7 +392,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
-    padding: 0rem 1.5rem 15rem 1.5rem;
+    padding: 0rem 1.5rem 1.5rem 1.5rem;
     background-color: var(--light);
     border-left: 1px solid var(--dark);
     border-right: 1px solid var(--dark);
@@ -445,9 +455,18 @@ input[type="checkbox"] {
   }
 }
 
+.banner {
+  width: calc(100% - 2px);
+  @media all and (max-width: 500px) {
+  }
+}
+
 blockquote {
   margin: 1rem 0;
-  border-left: 3px solid var(--secondary);
+  border: 1px solid var(--secondary);
+  border-left: 4px solid var(--secondary);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
   padding-left: 1rem;
   padding-right: 1rem;
   transition: border-color 0.2s ease;
@@ -507,14 +526,14 @@ h1 {
 h2 {
   font-weight: 500;
   font-size: 1.4rem;
-  margin-top: 1.9rem;
+  margin-top: 1.25rem;
   margin-bottom: 1rem;
 }
 
 h3 {
   font-weight: 500;
   font-size: 1.12rem;
-  margin-top: 1.62rem;
+  margin-top: 1.25rem;
   margin-bottom: 1rem;
 }
 
@@ -523,7 +542,7 @@ h5,
 h6 {
   font-weight: 400;
   font-size: 1rem;
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
   margin-bottom: 1rem;
 }
 

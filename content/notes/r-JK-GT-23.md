@@ -1,7 +1,7 @@
 ---
 title: Summary of General Theory Book II Chapter 5
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory#Chapter 5 EXPECTATION AS DETERMINING OUTPUT AND EMPLOYMENT]]"
+reference: "[[The General Theory of Employment, Interest and Money#Chapter 5 EXPECTATION AS DETERMINING OUTPUT AND EMPLOYMENT]]"
 date: 2024-08-20
 author: Spencer Saar Cavanaugh
 publish: true

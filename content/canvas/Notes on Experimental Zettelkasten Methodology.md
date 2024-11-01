@@ -43,7 +43,7 @@ Many of the aspects of these challenges are technical and ostensibly trivial in 
 - personal notes of arbitrary length and subject matter (e.g. [[Notes on Keynes, Hayek, and Fiscal Protocols]]);
 - exegetic notes made in reference to books I read (e.g. [[r-JK-GT-9]])
 - finished publications (e.g. [[Recuperate the Vanguard]]);
-- external publications which I have publication rights to (e.g. [[Keynes_GeneralTheory]]);
+- external publications which I have publication rights to (e.g. [[The General Theory of Employment, Interest and Money]]);
 - the various non-note pages of my website (e.g. [[index]]);
 - any miscellaneous configuration files needed by Quartz or any other technical components of the system. Many, if not all, of these such files are not markdown files in nature, and thus they are not displayed in Obsidian, which effectively serves as my primary filing and navigation interface.
 
@@ -55,7 +55,7 @@ As for now, while I do not have much of need for non-reference atomic notes, I d
 
 ## Books and Notes on Books
 
-In piloting [[Keynes_GeneralTheory]] as a book my notes on which will systematically processed into a zettelkasten, I have incurred considerable complexity above and beyond what is already proving to be a challenging exercise in reading comprehension. That said, such a rigorous notetaking system is, I am finding, aiding tremendously in said comprehension, which is to say I do not regret incurring such added complexity.
+In piloting [[The General Theory of Employment, Interest and Money]] as a book my notes on which will systematically processed into a zettelkasten, I have incurred considerable complexity above and beyond what is already proving to be a challenging exercise in reading comprehension. That said, such a rigorous notetaking system is, I am finding, aiding tremendously in said comprehension, which is to say I do not regret incurring such added complexity.
 
 In certain respects this comprehension exercise is a continuation of the Modular Generalist Program I had started developing a few years ago (see [[Modular Generalist Program Background]]. Specifically, I am attempting to process (qua intuitively comprehend) a given work of discourse from a given domain, in this case macroeconomics. My notetaking priorities in general are to:
 

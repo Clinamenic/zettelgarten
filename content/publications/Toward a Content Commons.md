@@ -2,16 +2,16 @@
 arweaveHash: 6Kc8f4GgBN6t2VX5AQ4fPed63oqP7za46SXNbYifVPk
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/IDVBPcLEntrZ09zDqjzjk1ETPnHNeWKuMlQdTIELnTg
 date: 2023-11-01
 license: CC BY-SA 4.0
 publish: true
 subtitle: A Potential Solution to the Content Moderation Problem
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Toward a Content Commons
 uuid: 2c7b519f-e30c-4677-9bea-8b667f0c3f22
-
 ---
 
 The online public sphere, composed jointly of various social media platforms, enables dialogue at societal scale, rapid dissemination of news, and heightened opportunity for people to discover content and opinions they find interesting or important.

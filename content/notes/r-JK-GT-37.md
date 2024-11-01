@@ -1,7 +1,7 @@
 ---
 title: Summary of General Theory Book III Chapter 9
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory]]"
+reference: "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-08-27
 author: Spencer Saar Cavanaugh
 publish: true

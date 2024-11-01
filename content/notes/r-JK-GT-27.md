@@ -1,7 +1,7 @@
 ---
 title: 
 item type: Reference Note
-reference: "[[Keynes_GeneralTheory]]"
+reference: "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-08-21
 author: Spencer Saar Cavanaugh
 publish: true
@@ -17,4 +17,4 @@ tags:
 
 #r/JK/GT/Q/unresolved  Does short-term supply price = marginal prime cost?
 
-![[Keynes_GeneralTheory#^13022f]]
+![[The General Theory of Employment, Interest and Money#^13022f]]

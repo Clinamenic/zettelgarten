@@ -24,62 +24,68 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
 
-        <div className="footer-section">
+        <div class="footer-container">
 
-            <a href="#" class="Clinamenic-Slide">
-              <img
-                src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC%20Slide.gif?raw=true"
-                style="margin: 0rem"
-              />
-            </a> 
+          <div className="footer-section">
 
-            <div class="newsletter">
+              <a href="#" class="Clinamenic-Slide">
+                <img
+                  src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC%20Slide.gif?raw=true"
+                  style="margin: 0rem"
+               />
+             </a> 
+
+              <div class="newsletter">
               <iframe
-                src="https://solosalon.clinamenic.com/embed?minimal=true"
-                width="480"
-                height="40"
-                style="border: 1px solid var(--dark); border-radius: 10px; background: black"
-                frameborder="0"
-                scrolling="no"
-              ></iframe>
-            </div>
-
-            <div id="dynamicTextAlt">
-              {randomPhrase}
+                  src="https://solosalon.clinamenic.com/embed?minimal=true"
+                  width="480"
+                  height="40"
+                  style="border: 1px solid var(--dark); border-radius: 10px; background: black"
+                  frameborder="0"
+                  scrolling="no"
+               ></iframe>
               </div>
-          <script dangerouslySetInnerHTML={{__html: `
-          document.addEventListener("DOMContentLoaded", function() {
-            const dynamicTextElement = document.getElementById("dynamicTextAlt");
-            if (dynamicTextElement && dynamicTextElement.textContent === "") {
-              dynamicTextElement.textContent = "${randomPhrase}";
-            }
-          });
-          `}} />
 
-        </div>
+              <div id="dynamicTextAlt">
+                {randomPhrase}
+                </div>
+            <script dangerouslySetInnerHTML={{__html: `
+            document.addEventListener("DOMContentLoaded", function() {
+              const dynamicTextElement = document.getElementById("dynamicTextAlt");
+              if (dynamicTextElement && dynamicTextElement.textContent === "") {
+                dynamicTextElement.textContent = "${randomPhrase}";
+              }
+            });
+            `}} />
 
-        <div className="footer-section">
-          <div className="nav-button">
-            <a className="nav-link" href="https://warpcast.com/clinamenic">Farcaster</a>
           </div>
-          <div className="nav-button">
-            <a className="nav-link" href="https://www.github.com/clinamenic">Github</a>
-          </div>
-          <div className="nav-button">
-            <a className="nav-link" href="https://www.x.com/clinamenic">Twitter</a>
-          </div>
-        </div>
 
-        <div className="footer-section" style="border: 0px; margin-top: 0rem;">
-          <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 1rem 0rem 1rem; font-size: 0.8rem;">
-            Created with&nbsp;
-            <a href="https://quartz.jzhao.xyz/">Quartz v4.3.1</a>
-            &nbsp;© 2024<br />
-            Published to Arweave via&nbsp;
-            <a href="https://protocol.land/#/repository/4323e52e-edf7-4f09-8d3c-b9add2bb14cb">Protocol.land</a>
-          </p>
+          <div className="footer-section">
+            <div className="nav-button">
+              <a className="nav-link" href="https://warpcast.com/clinamenic">Farcaster</a>
+            </div>
+            <div className="nav-button">
+              <a className="nav-link" href="https://www.github.com/clinamenic">Github</a>
+            </div>
+            <div className="nav-button">
+              <a className="nav-link" href="https://www.x.com/clinamenic">Twitter</a>
+            </div>
+          </div>
+
+          <div className="footer-section" style="border: 0px; margin-top: 0rem; justify-content: left;">
+            <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 1rem 0rem 1rem; font-size: 0.8rem; justify-content: left; text-align: left;">
+              Created with&nbsp;
+              <a href="https://quartz.jzhao.xyz/">Quartz v4.3.1</a>
+              &nbsp;© 2024<br />
+              Published to Arweave via&nbsp;
+              <a href="https://protocol.land/#/repository/4323e52e-edf7-4f09-8d3c-b9add2bb14cb">Protocol.land</a><br />
+              Hosted on IPFS via Fleek<br />
+              Designed by Clinamenic LLC
+            </p>
           
           </div>
+
+        </div>
 
       </footer>
     )
