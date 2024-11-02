@@ -1,11 +1,12 @@
 ---
-title: 
-author: 
+title: The Art of War
+author: Niccolo Machiavelli
 date: 
-altDate: 
+Text URL: 
 license: 
 Started Reading: 
 Finished Reading: 
 publish: false
 tags:
 ---
+(placeholder)
