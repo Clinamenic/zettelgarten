@@ -415,6 +415,10 @@ a {
       margin-left: 0;
       margin-right: 0;
     }
+    @media all and (min-width: $fullPageWidth) {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
   }
 }
 

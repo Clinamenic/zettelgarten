@@ -65,6 +65,10 @@ title: Clinamenic LLC
 - [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
 - [[Wu Gwei, or Going with the Flow of Governance]]
 
+### Current Drafts
+
+- [[DRAFT Methodological Prospectus of the Onchain Impact Economy]]
+
 ### Canvassing
 
 ![[Boilerplate#Canvas Foreword]]
@@ -75,10 +79,8 @@ title: Clinamenic LLC
 - [[Notes on Keynes, Hayek, and Fiscal Protocols]]
 - [[Notes on Experimental Zettelkasten Methodology]]
 - [[Notes on Methodology for Communities of Practice]]
+- [[Notes on an Ethical Hermeneutics of Machiavelli]]
 
-### Current Drafts
-
-- [[DRAFT Methodological Prospectus of the Onchain Impact Economy]]
 
 ![[Notetaking Hub#Notes on Books]]
 
