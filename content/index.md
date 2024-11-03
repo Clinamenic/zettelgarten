@@ -44,8 +44,8 @@ title: Clinamenic LLC
 
 ### Published Writings
 
-- [[What is to Be Done Differently?]]
 - [[A Rhapsody on Neurodiversity]]
+- [[What is to Be Done Differently?]]
 - [[Toward an Open-Access Service DAO]]
 - [[Content as a Decentralized Service]]
 - [[A Sufficiently Decentralized Work Arrangement]]
@@ -67,7 +67,7 @@ title: Clinamenic LLC
 
 ### Current Drafts
 
-- [[DRAFT Methodological Prospectus of the Onchain Impact Economy]]
+- [[DRAFT Ontological Prospectus of the Onchain Impact Economy]]
 
 ### Canvassing
 
@@ -80,7 +80,6 @@ title: Clinamenic LLC
 - [[Notes on Experimental Zettelkasten Methodology]]
 - [[Notes on Methodology for Communities of Practice]]
 - [[Notes on an Ethical Hermeneutics of Machiavelli]]
-
 
 ![[Notetaking Hub#Notes on Books]]
 

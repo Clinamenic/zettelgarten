@@ -1,7 +1,7 @@
 ---
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: DRAFT Methodological Prospectus of the Onchain Impact Economy
+title: DRAFT Ontological Prospectus of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
 draft started: 0024-06-28
 date: 
@@ -44,15 +44,15 @@ Because the matters at hand are complex enough without the added confusion of se
 
 These terms are meant in the sense articulated by the [Impact Management Norms](https://impactfrontiers.org/norms/), developed by Impact Frontiers:
 
-_"Impact is a change in an outcome caused by an organization. An impact can be positive or negative, intended or unintended._
-
-_An outcome is the level of well-being experienced by a group of people, or the condition of the natural environment, as a result of an event or action._
-
-_Impact management is the process of identifying the positive and negative impacts that an enterprise has on people and the planet, and then reducing the negative and increasing the positive."_
+> Impact is a change in an outcome caused by an organization. An impact can be positive or negative, intended or unintended.
+> 
+> An outcome is the level of well-being experienced by a group of people, or the condition of the natural environment, as a result of an event or action.
+> 
+> Impact management is the process of identifying the positive and negative impacts that an enterprise has on people and the planet, and then reducing the negative and increasing the positive.
 
 #### 'Public Goods' and 'Network Goods'
 
-The term '[public good](<https://en.wikipedia.org/wiki/Public_good_(economics)>)' is meant in its conventional economic sense, referring to a good which is non-rivalrous (meaning it is inexhaustible, so people do not need to compete for it) and non-excludable (meaning it cannot be gatekept or otherwise enclosed according to private interests). Examples of public goods can include physical infrastructure, knowledge, and open-source software, depending on how these things are specifically configured.
+The term '[public good](<https://en.wikipedia.org/wiki/Public_good_(economics)>)' is meant in its conventional economic sense, referring to a good which is non-rivalrous (meaning it is virtually inexhaustible, i.e. people do not need to compete for it) and non-excludable (meaning it cannot be gatekept or otherwise enclosed according to private interests). Examples of public goods can include physical infrastructure, knowledge, and open-source software, depending on how these things are specifically configured.
 
 One can understand public goods within the fourfold model of goods, composed of the axes of rivalrousness and excludability, as shown below:
 
@@ -179,7 +179,7 @@ For example, if a software company receives a grant from a protocol foundation t
 
 ### 1.4 - Ontological Considerations
 
-Text here
+While the onchain impact and philanthropy ecosystems have seen great advancements in terms of technical infrastructure, the methodologies and ontologies of impact reporting and assessment still need refinement (Leventhal et al., 2024). There there have been promising conversations emerging within the onchain philanthropy sector around outcome-based and milestone-based impact reporting, we still have much to learn from standards and practices beyond the sphere of blockchain technology.
 
 #### LinkedClaims & Verifiable Credentials
 
@@ -297,21 +297,23 @@ Text here
 1. For example, grantees included in Gitcoin's quadratic funding rounds tend to participate in public panels, such as Twitter spaces, intended to cross-promote the grantees' projects and to more generally promote the development of the Gitcoin ecosystem.
 2. See ["The Master's Tools Will Never Dismantle the Master's House"](https://collectiveliberation.org/wp-content/uploads/2013/01/Lorde_The_Masters_Tools.pdf) by Audre Lord, Cory Doctorow's concept of [enshittification](https://en.wikipedia.org/wiki/Enshittification), and ["An Introduction to Extitutional Theory"](https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53) by Jessy Kate Schingler and Primavera de Filippi.
 3. While the process at large is public and transparent, there are certain configurable exceptions to this, such as the solicitation of private personal data from grant applicants, such as email addresses and KYC/AML screening information.
-4. For example, information collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing reporting paradigm that any novel unified onchain impact assessment ontologies should be devised.
+4. For example, information about tax-exempt organizations collected via [IRS Form 990](https://www.irs.gov/forms-pubs/about-form-990) is public, and constitutes a major part of the existing reporting paradigm for impact and philanthropy. It is in full awareness of this existing reporting paradigm that any novel unified onchain impact assessment ontologies should be devised.
 5. For more resources regarding the quadratic funding mechanism, see this [calculator](https://www.wtfisqf.com/?match=10000&grant=34-56&grant=3-100-4&grant=2-2-2-2-2&grant=700) provided by Gitcoin.
 6. Recently there have been successful attempts to integrate payment processing for fiat currencies in these grant rounds, thanks to projects like [ViaPrize](https://www.viaprize.org/). For example, the [OpenCivics Collaborative Research Round](https://gov.gitcoin.co/t/gg21-retrospective-opencivics-collaborative-research-round/19313) utilized ViaPrize to facilitate dollar donations to grantees, thus eliminating the need for donors to donate in cryptoassets.
 7. This sentiment can be discerned in the shift of certain currents of discourse in the industry, such as Gitcoin's pivot from language around funding public goods to simply "Fund what Matters".
 
 ## Bibliography
 
-- Buterin, V., Hitzig, Z., & Weyl, E. G. (2018). [A Flexible Design for Funding Public Goods](https://arxiv.org/abs/1809.06421v2). (Self-published).
-- Cavanaugh, S. S. (2023). [[What Are Onchain Organizations?]] (Self-published). [Arweave](https://viewblock.io/arweave/tx/GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs).
+- Buterin, V., Hitzig, Z., & Weyl, E. G. (2018). [A Flexible Design for Funding Public Goods](https://arxiv.org/abs/1809.06421v2).
+- Cavanaugh, S. S. (2023). [[What Are Onchain Organizations?]]. [Arweave](https://viewblock.io/arweave/tx/GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs).
 - Graham, S. (2022). [Anticapture: Towards a Framework of Capture-Resistant Governance](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ) (Self-published). [Arweave](https://viewblock.io/arweave/tx/yAxnXi_oZlIa5eB3CkKujBwzrprX177jEPemu2LeLl8).
-- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa). (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
-- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). (Self-published). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
-- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). (Self-published). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
-- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). (Self-published) [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
-- wheebill (2024, September 18) [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
+- Leventhal, E., Waqar, M., Liu, A., Biedermann, B., Feems, Devjani, H., LauNaMu, Grendel, M., Mori, S., & Elefante, V. (2024). [State of Web3 Grants Report 2024](https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/view).
+- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
+- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
+- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
+- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
+- Waqar, M., ZER8 (2024). [Web3 Grant Program Research and Analysis](https://docsend.com/view/rxs93u4s5sb93xck). 
+- wheebill (2024, September 18). [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
 
 ‌
 

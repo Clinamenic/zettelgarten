@@ -155,8 +155,8 @@ body {
   font-weight: 200;
   box-sizing: border-box;
   background-color: var(--lightgray);
-  background-image: url(https://arweave.net/lNlBdLsi0iKgi6vpjI0q19sBqhHXB8kLZYnjdOUoL9w);
-  background-size: 150%;
+  background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M);
+  background-size: 100%;
   font-family: "MonaspaceNeon";
   color: var(--darkgray);
   @media only screen and (max-width: calc(750px + 2rem)) { 
@@ -750,8 +750,26 @@ ol.overflow {
 }
 
 .transclude {
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(121, 197, 126, 0.15),
+    rgba(121, 197, 126, 0.15) 23px,
+    rgba(121, 197, 126, 0.35) 23px,
+    rgba(121, 197, 126, 0.35) 24px
+  );
+  background-size: 200% 200%;
+  animation: moveStripes 3s linear infinite;
   ul {
     padding-left: 1rem;
+  }
+}
+
+@keyframes moveStripes {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -34px 0;
   }
 }
 
@@ -775,3 +793,7 @@ iframe.pdf {
 .light .sidebar {
   background-image: url(https://mgogss5tjplk6loo44xiyhilk6euzgbx7mu52av7tzon5mmghvhq.arweave.net/YZxpS7NL1q8tzucujB0LV4lMmDf7Kd0Cv55c3rGGPU8);
 }
+
+
+
+
