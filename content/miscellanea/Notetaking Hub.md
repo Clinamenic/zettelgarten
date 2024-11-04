@@ -30,7 +30,7 @@ This method permits the interstitial inclusion of recursive reference notes, alo
 	- [[r-FH-UK-Hub]] ([scanned notes](https://app.ardrive.io/#/file/94219817-8498-450f-9ad6-e575a70954a9/view))
 - [[Progress and Poverty]] by Henry George
 	- [[r-HG-PP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/6ded2432-4be8-4d22-9042-9058a8157bae/view))
-- On the Nature of Things by Lucretius
+- [[On the Nature of Things]] by Lucretius
 	- [[r-Lu-NT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/67854654-f077-43c8-bf95-ad43ee238a7c/view))
 - [[The General Theory of Employment, Interest and Money]] by John Maynard Keynes
 	- [[r-JK-GT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/a8b10b15-dad2-4bad-bf7c-72c76fc94edd/view))
