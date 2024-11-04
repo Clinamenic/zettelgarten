@@ -18,7 +18,7 @@ tags:
 
 The following research was conducted by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Funding for this research was provided by [LexDAO](https://lexdao.org/) and [SuperBenefitDAO](https://superbenefit.org/).
 
-I would like to thank the following individuals for their feedback and support: Kyle Smith of LexClinic, rathermercurial of SuperBenefitDAO, Holke Brammer and bitbeckers of Hypercerts, Mahesh Murthy of Karma, Natalie J. Crüe, Monty Merlin of ReFi DAO, Eugene Leventhal of MetaGov, Mashal Waqar of Octant, LauNaMu of Optimism, Mike Natanzon of Abundance Protocol, and Razvan Matei Popescu.
+I would like to thank the following individuals for their feedback and support: Kyle Smith of LexClinic, rathermercurial of SuperBenefitDAO, Holke Brammer and bitbeckers of Hypercerts, Mahesh Murthy of Karma, Natalie J. Crüe, Monty Merlin of ReFi DAO, Eugene Leventhal of MetaGov, Mashal Waqar of Octant, LauNaMu of Optimism, Mike Natanzon of Abundance Protocol.
 
 ## Abstract
 
