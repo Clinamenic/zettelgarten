@@ -54,6 +54,7 @@ This method permits the interstitial inclusion of recursive reference notes, alo
 
 - Configure [canonical URLs](https://www.semrush.com/blog/canonical-url-guide/) tags in end HTML files, perhaps from a 'canonical: true/false' frontmatter property in the markdown file.
 - Initialize global grid such that nodes aggregate into a cluster shaped like my monogram.
+- Investigate potential benefits of using ArWiki framework ([repo](https://github.com/luckyr13/arwiki))
 
 ## Miscellaneous
 
@@ -70,6 +71,7 @@ This method permits the interstitial inclusion of recursive reference notes, alo
 - [Zettelkasten: Hypertext, Linearity and Sequentiality](https://www.thesing-online.de/blog/zettelkasten-hypertext-linearity-sequentiality)
 - [https://writing.bobdoto.computer/folgezettel-is-not-an-outline-luhmanns-playful-appreciation-of-disfunction/](https://writing.bobdoto.computer/folgezettel-is-not-an-outline-luhmanns-playful-appreciation-of-disfunction/)
 - The Process of Writing World History of Design, 2015. [https://www.youtube.com/watch?v=Kxyy0THLfuI](https://www.youtube.com/watch?v=Kxyy0THLfuI).
+- [Example](https://docs.paragraph.xyz/docs/integrations/arweave) of querying Arweave for version history of articles.
 
 #### Article/Resource Lists
 

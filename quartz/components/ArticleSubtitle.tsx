@@ -30,6 +30,7 @@ export default ((opts?: ArticleSubtitleOptions) => {
   ArticleSubtitle.css = `
   .article-subtitle {
     color: var(--dark);
+    line-height: 1.6 !important;
     margin: -1.25rem 0rem 1.75rem 0rem;
     font-size: 1rem;
     text-align: center;

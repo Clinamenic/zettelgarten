@@ -2,17 +2,17 @@
 arweaveHash: -mhdqD0HOi1GlWYQwygt_K85OKYlyZdNqSplU_GyWOM
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/1OCpB8IN7kO8LiEOoutCLSSyGbHLHfhoJSQoloN_Y5g
 date: 2023-01-21
 license: CC BY-SA 4.0
 publish: true
 sourceURL: https://mirror.xyz/ops.clinamenic.eth/CMWteFrY7Xyapf4R9fsnyZYm4Q81VUyWyeBkeo0zzDM
 subtitle: null
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Trust and Trustlessness
 uuid: b537813f-7859-4bb0-929c-f7090375820e
-
 ---
 
 One of the core innovations unfolding in the web3 space is the utilization of smart contracts to facilitate interpersonal dynamics, thus augmenting, if not altogether supplanting, any requisite counterparty trust. The idea is that counterparty trust has long required the parties involved to take measures to establish said trust, measures which may be time-consuming or costly, and that the minimization of such costs could be a boon for business in general.

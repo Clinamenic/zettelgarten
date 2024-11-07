@@ -462,6 +462,10 @@ input[type="checkbox"] {
   width: calc(100% - 2px);
   @media all and (max-width: 500px) {
   }
+
+  img {
+    margin: 0rem 0rem 0rem 0rem;
+  }
 }
 
 blockquote {

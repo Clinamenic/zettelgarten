@@ -2,17 +2,17 @@
 arweaveHash: _DJgldYi4gjB3_9XE47T4iwy0gmhF7ttCZ-T6lm2Trw
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/S_7elciXXNRVye1evieIApJiMkrnv327zPve2NfHqS4
 date: 2023-01-21
 license: CC BY-SA 4.0
 publish: true
 sourceURL: https://mirror.xyz/ops.clinamenic.eth/SL3pcfxKAE4D4wlEKHjeMjna8fHZmwGeYEC-47icYs0
 subtitle: null
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Content as a Decentralized Service
 uuid: dc9a4759-964b-4ddd-8a38-ccd91e529eee
-
 ---
 
 At this early stage of the development of PubDAO, we are building the base layer of our service model, a model which could be called Content as a Service, or CaaS.

@@ -2,17 +2,17 @@
 arweaveHash: wXt1bW1sXe-ShxX0Pp_Jy06yrV4jvmppg_VS2x4nuJM
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/EOOrxyrx519Kaz2R5ULq_5IwX_AdK51rM4zK_OFkOqg
 date: 2023-01-21
 license: CC BY-SA 4.0
 publish: true
 sourceURL: https://mirror.xyz/ops.clinamenic.eth/58IFNhSUmneWrH8Cr_zg5U09U2muI2FxQ-HtuCCv9Fw
 subtitle: null
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: A Sufficiently Decentralized Work Arrangement
 uuid: 6a9687f8-9470-4497-ac00-813b164517bf
-
 ---
 
 One indicator that DAOs are still young in their development, is the fact that they are still searching for business models which fit the web3 ethos of decentralized power and transparency. Currently DAOs mainly rely on speculative asset sales and royalties, early-stage private investments, or grants to financially sustain their operations.

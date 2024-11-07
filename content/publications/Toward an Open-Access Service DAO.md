@@ -2,17 +2,17 @@
 arweaveHash: DF0fizqrXJXqIM-FQuWvRirzhfqQ-Ad4bY0J_Kkl9Ew
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/SE7Zm0pn6jbAg5tLwspSK_C8ckuBC9zS98QdmLLz6iw
 date: 2023-01-21
 license: CC BY-SA 4.0
 publish: true
 sourceURL: https://mirror.xyz/ops.clinamenic.eth/r26ztiaaCV89ykuKaVwa_KgHmC6YW8Q6rBNDLqFWETw
 subtitle: null
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Toward an Open-Access Service DAO
 uuid: 660f3943-8987-4bd3-9f49-dcd8b4cdee17
-
 ---
 
 At PubDAO, an early-stage media service DAO, we’ve been working to develop what could be called an open-access business model. Instead of devising practices, methods and techniques behind closed doors and keeping them there, we are engineering them to not only survive in public, but actually benefit from such accessibility.
