@@ -31,12 +31,16 @@ export default ((opts?: ArticleSubtitleOptions) => {
   .article-subtitle {
     color: var(--dark);
     line-height: 1.6 !important;
-    margin: -1.25rem 0rem 1.75rem 0rem;
+    margin: -1rem 0rem 1.75rem 0rem;
+    padding: 0rem 5rem;
     font-size: 1rem;
     text-align: center;
     transition: color 0.5s ease
     font-style: italic !important;
     font-weight: 200;
+    @media all and (max-width: calc(750px + 2rem)) { 
+      padding: 0rem;
+    }
   }
   `
 

@@ -19,7 +19,7 @@ title: Clinamenic LLC
     />
   </div>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center;">Clinamenic LLC</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem;">the consultancy of</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.6rem 0rem;">the consultancy of</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">
     <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">S&nbsp;&nbsp;&nbsp;</p>
@@ -33,37 +33,51 @@ title: Clinamenic LLC
 
 <div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none;">
     <p style="text-align: justify; font-size: 0.9rem; line-height: 1.6; justify-content: center; hyphens: none;">
-      The atoms, as their own weight bears them down plumb through the void, at scarce determined times, in scarce determined places, from their course decline a little -- call it, so to speak, mere changed trend. For were it not their wont thuswise to swerve, down would they fall, each one, like drops of rain, through the unbottomed void; and then collisions ne'er could be nor blows among the primal elements; and thus nature would never have created aught.
+      <em>The atoms, as their own weight bears them down plumb through the void, at scarce determined times, in scarce determined places, from their course decline a little -- call it, so to speak, mere changed trend. For were it not their wont thuswise to swerve, down would they fall, each one, like drops of rain, through the unbottomed void; and then collisions ne'er could be nor blows among the primal elements; and thus nature would never have created aught.</em>
     </p>
     <p></p>
     <p style="text-align: center; font-size: 0.9rem; line-height: 1.6; hyphens: none;">
-      -Lucretius, <em>On the Nature of Things</em>,
+      Lucretius, <em>On the Nature of Things</em>,
       describing the phenomenon of clinamen.
     </p>
 </div>
 
 ### Published Writings
 
+#### Epistemology
+
 - [[A Rhapsody on Neurodiversity]]
+- [[A Primer on Auto-Discourse]]
+
+#### Organization Design and Governance
+
 - [[What is to Be Done Differently?]]
 - [[Toward an Open-Access Service DAO]]
 - [[Content as a Decentralized Service]]
 - [[A Sufficiently Decentralized Work Arrangement]]
 - [[Trust and Trustlessness]]
 - [[Slayer Cake, A Layered Membership Structure for DAOs]]
-- [[Recuperate the Vanguard]]
-- [[Toward a Content Commons]]
 - [[Containers for Consultants]]
 - [[Role-Bound Multisigs]]
 - [[The Failsafe Committee]]
 - [[Pre-Constitutional Governance]]
-- [[A Solarpunk Typography Expose]]
 - [[What Are Onchain Organizations?]]
 - [[A Crypto-Native Invoice Template]]
-- [[A Primer on Auto-Discourse]]
-- [[Progressive Public Goods Funding]]
-- [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
 - [[Wu Gwei, or Going with the Flow of Governance]]
+
+#### Digital Public Infrastructure
+
+- [[Toward a Content Commons]]
+- [[Progressive Public Goods Funding]]
+
+#### Political Philosophy
+
+- [[Recuperate the Vanguard]]
+- [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
+
+#### Design
+
+- [[A Solarpunk Typography Expose]]
 
 ### Current Drafts
 
