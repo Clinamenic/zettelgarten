@@ -6,6 +6,7 @@ authorURL: https://www.clinamenic.com
 date: 2024-05-03
 license: CC BY-SA 4.0
 publish: true
+quartzShowCitation: true
 subtitle: null
 tags:
   - personal-discourse

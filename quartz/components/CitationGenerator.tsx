@@ -1,7 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponent } from "./types"
 import { ValidLocale } from "../i18n/locales/definition"
 import { classNames } from "../util/lang"
-import style from "./styles/citationGenerator.scss"
+import style from "./styles/citationGenerator.scss?module"
 import citationStyles from './CitationStyles'
 import { getExportFormat } from './CitationExports'
 import { CitationFields } from './types/CitationTypes'
@@ -254,10 +254,34 @@ ER  -\`;
     `
 
     return (
-      <div class="citation-wrapper">
-        <div id={containerId} className="citation-container">
-          <div className="citation-controls">
-            <select data-citation-style className="style-select" defaultValue={defaultStyle}>
+      <div style={{
+        margin: '1rem 0',
+        padding: '1rem',
+        border: '1px solid var(--dark)',
+        borderRadius: '10px',
+        backgroundColor: 'var(--lightgray)'
+      }}>
+        <div id={containerId} style={{
+          width: '100%'
+        }}>
+          <div style={{
+            display: 'flex',
+            gap: '1rem',
+            marginBottom: '0.5rem',
+          }}>
+            <select 
+              data-citation-style 
+              style={{
+                fontFamily: "MonaspaceNeon",
+                fontSize: '0.7rem',
+                minWidth: '80px',
+                padding: '0.25rem 0.5rem 0.15rem',
+                border: '1px solid var(--dark)',
+                borderRadius: '5px',
+                backgroundColor: 'var(--light)',
+                cursor: 'pointer'
+              }}
+            >
               <option value="apa">APA</option>
               <option value="mla">MLA</option>
               <option value="chicago">Chicago</option>
@@ -265,18 +289,57 @@ ER  -\`;
               <option value="harvard">Harvard</option>
             </select>
             
-            <select data-citation-export className="export-select">
-              <option value="text">Export as...</option>
+            <select 
+              data-citation-export 
+              style={{
+                fontFamily: "MonaspaceNeon",
+                fontSize: '0.7rem',
+                minWidth: '80px',
+                padding: '0.25rem 0.5rem 0.15rem',
+                border: '1px solid var(--dark)',
+                borderRadius: '5px',
+                backgroundColor: 'var(--light)',
+                cursor: 'pointer'
+              }}
+            >
+              <option value="text">Export</option>
               <option value="bibtex">BibTeX</option>
               <option value="ris">RIS</option>
             </select>
             
-            <button data-citation-copy className="copy-button" type="button">
+            <button 
+              data-citation-copy 
+              type="button"
+              style={{
+                fontFamily: "MonaspaceNeon",
+                fontSize: '0.7rem',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.25rem',
+                padding: '0.25rem 0.5rem 0.15rem',
+                border: '1px solid var(--dark)',
+                borderRadius: '5px',
+                backgroundColor: 'var(--light)',
+                cursor: 'pointer'
+              }}
+            >
               Copy
             </button>
           </div>
           
-          <div data-citation-text className="citation-text">
+          <div 
+            data-citation-text 
+            style={{
+              fontFamily: 'var(--codeFont)',
+              fontSize: '0.8rem',
+              lineHeight: '1.2rem',
+              backgroundColor: 'var(--lightgray)',
+              borderRadius: '4px',
+              whiteSpace: 'pre-wrap',
+              wordBreak: 'break-word',
+              transition: 'all 0.2s ease-in-out'
+            }}
+          >
             {citationStyles[defaultStyle](fileData.frontmatter as CitationFields, locale as ValidLocale)}
           </div>
         </div>
@@ -286,7 +349,6 @@ ER  -\`;
     )
   }
 
-  CitationGenerator.css = style
   return CitationGenerator
 }) as QuartzComponentConstructor
 

@@ -137,11 +137,75 @@ function sanitizeForExport(text: string): string {
 }
 
 // Usage in component
-export function getExportFormat(format: 'bibtex' | 'ris', fields: CitationFields): string {
+export function getExportFormat(format: 'bibtex' | 'ris' | 'apa' | 'mla' | 'chicago' | 'ieee' | 'harvard', fields: CitationFields): string {
   const sanitizedFields = Object.entries(fields).reduce((acc, [key, value]) => {
-    acc[key] = typeof value === 'string' ? sanitizeForExport(value) : value
-    return acc
-  }, {} as CitationFields)
+    acc[key] = typeof value === 'string' ? sanitizeForExport(value) : value;
+    return acc;
+  }, {} as CitationFields);
 
-  return exportFormats[format](sanitizedFields)
+  switch (format) {
+    case 'bibtex':
+      return exportFormats.bibtex(sanitizedFields);
+    case 'ris':
+      return exportFormats.ris(sanitizedFields);
+    case 'apa':
+      return generateAPACitation(sanitizedFields);
+    case 'mla':
+      return generateMLACitation(sanitizedFields);
+    case 'ieee':
+      return generateIEEECitation(sanitizedFields);
+    case 'harvard':
+      return generateHarvardCitation(sanitizedFields);
+    // Add cases for other formats
+    default:
+      return '';
+  }
+}
+
+function generateAPACitation(fields: CitationFields): string {
+  const author = Array.isArray(fields.author) ? fields.author.join(', ') : fields.author;
+  const year = new Date(fields.date).getFullYear();
+  const title = fields.title;
+  const journal = fields.journal ? `, ${fields.journal}` : '';
+  const volume = fields.volume ? `, ${fields.volume}` : '';
+  const issue = fields.issue ? `(${fields.issue})` : '';
+  const pages = fields.pages ? `, ${fields.pages}` : '';
+
+  return `${author} (${year}). ${title}${journal}${volume}${issue}${pages}.`;
+}
+
+function generateMLACitation(fields: CitationFields): string {
+  const author = Array.isArray(fields.author) ? fields.author.join(', ') : fields.author;
+  const title = fields.title;
+  const journal = fields.journal ? `, ${fields.journal}` : '';
+  const volume = fields.volume ? `, vol. ${fields.volume}` : '';
+  const issue = fields.issue ? `, no. ${fields.issue}` : '';
+  const year = new Date(fields.date).getFullYear();
+  const pages = fields.pages ? `, pp. ${fields.pages}` : '';
+
+  return `${author}. "${title}"${journal}${volume}${issue}, ${year}${pages}.`;
+}
+
+function generateIEEECitation(fields: CitationFields): string {
+  const author = Array.isArray(fields.author) ? fields.author.map(a => `${a.split(' ').map(n => n[0].toUpperCase() + '.').join(' ')} ${a.split(' ').pop()}`).join(', ') : fields.author;
+  const title = fields.title;
+  const journal = fields.journal ? `, ${fields.journal}` : '';
+  const volume = fields.volume ? `, vol. ${fields.volume}` : '';
+  const issue = fields.issue ? `, no. ${fields.issue}` : '';
+  const pages = fields.pages ? `, pp. ${fields.pages}` : '';
+  const year = new Date(fields.date).getFullYear();
+
+  return `${author}, "${title}"${journal}${volume}${issue}${pages}, ${year}`;
+}
+
+function generateHarvardCitation(fields: CitationFields): string {
+  const author = Array.isArray(fields.author) ? fields.author.join(', ') : fields.author;
+  const year = new Date(fields.date).getFullYear();
+  const title = fields.title;
+  const journal = fields.journal ? `, ${fields.journal}` : '';
+  const volume = fields.volume ? `, vol. ${fields.volume}` : '';
+  const issue = fields.issue ? `, no. ${fields.issue}` : '';
+  const pages = fields.pages ? `, pp. ${fields.pages}` : '';
+
+  return `${author} ${year}, '${title}'${journal}${volume}${issue}${pages}`;
 } 
