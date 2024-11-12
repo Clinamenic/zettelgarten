@@ -27,6 +27,7 @@ import LicenseInfo from "./LicenseInfo"
 import ArticleSubtitle from "./ArticleSubtitle"
 import DownloadMarkdown from "./DownloadMarkdown" // unused
 import Banner from "./Banner"
+import CitationGenerator from "./CitationGenerator"
 
 export {
   ArticleTitle,
@@ -58,4 +59,5 @@ export {
   ArticleSubtitle,
   DownloadMarkdown, // unused
   Banner,
+  CitationGenerator,
 }

@@ -77,6 +77,7 @@ This section follows no particular order.
 
 ### Of Passive Interest
 
+- Education of a Christian Prince (Erasmus)
 - The Sphere and Duties of Government (von Humboldt)
 - Don Quixote (Cervantes)
 - In Search of Lost Time (Proust)

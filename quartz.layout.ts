@@ -12,6 +12,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.TagList(),
     Component.LicenseInfo(),
+    Component.CitationGenerator({
+      defaultStyle: 'apa' // Add default options
+    }),    
     Component.DownloadMarkdown(),
     Component.Graph({
       showGraph: (frontmatter) => !frontmatter.hideGraph,

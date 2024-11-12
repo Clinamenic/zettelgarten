@@ -6,6 +6,12 @@ hideGraph: false
 hideTitle: true
 downloadable: true
 tags:
+  - BIOL/MOLE
+  - BIOL/GENE
+  - BIOL/CELL
+  - ECON/MICR
+  - ECON/MACR
+  - PHIL/ETHI
 ---
 
 <div class="tri-column">
