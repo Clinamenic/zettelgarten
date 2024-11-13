@@ -1,12 +1,12 @@
 body .quartz-license-info.license-info {
+    height: 100%;
     font-size: 0.8rem !important;
     color: var(--dark) !important;
     background-color: var(--lightgray);
     font-weight: 200;
-    margin: 1.5rem 0rem;
+    margin: 0rem 0rem;
     padding: 0.5rem 1rem;
     border: 1px solid var(--dark);
-    max-width: calc((100% - 4.5rem) * 0.5);
     border-radius: 10px;
     hyphens: none;
     overflow-wrap: break-word;

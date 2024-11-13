@@ -62,20 +62,28 @@ const helpers = {
   // Chicago Helpers
   chicago: {
     formatAuthors: (author: string | string[]): string => {
-      if (typeof author === 'string') author = [author]
-      const parsedAuthors = author.map(parseAuthor)
-      
-      if (parsedAuthors.length === 1) {
-        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given}`
-      } else if (parsedAuthors.length === 2) {
-        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given}, and ${parsedAuthors[1].given} ${parsedAuthors[1].family}`
-      } else if (parsedAuthors.length > 2) {
-        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given}, et al.`
+      if (!author) return '';
+      if (typeof author === 'string') {
+        const parts = author.split(' ');
+        const lastName = parts[parts.length - 1];
+        const firstName = parts.slice(0, -1).join(' ');
+        return `${lastName}, ${firstName}`;
       }
-      return ''
+      return Array.isArray(author) 
+        ? author.map(a => {
+            const parts = a.split(' ');
+            const lastName = parts[parts.length - 1];
+            const firstName = parts.slice(0, -1).join(' ');
+            return `${lastName}, ${firstName}`;
+          }).join(' and ')
+        : author;
     },
+
     formatDate: (date: string): string => {
-      return new Date(date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+      return new Date(date).toLocaleDateString('en-US', { 
+        month: 'long',
+        year: 'numeric'
+      })
     }
   },
 
@@ -101,26 +109,11 @@ const helpers = {
         : ''
     },
 
-    abbreviateJournal: (journal: string): string => {
-      if (!journal) return ''
-      
-      return journal
-        .split(' ')
-        .map(word => {
-          const lowerWord = word.toLowerCase()
-          // Skip common words
-          if (['of', 'and', 'the', 'for', 'in', 'on', 'to'].includes(lowerWord)) {
-            return ''
-          }
-          // Take first letter and abbreviate
-          return `${word[0].toUpperCase()}.`
-        })
-        .filter(Boolean) // Remove empty strings
-        .join(' ')
-    },
-
     formatDate: (date: string): string => {
-      return new Date(date).getFullYear().toString()
+      return new Date(date).toLocaleDateString('en-US', {
+        month: 'short',
+        year: 'numeric'
+      })
     }
   },
 
@@ -131,11 +124,17 @@ const helpers = {
       const parsedAuthors = author.map(parseAuthor)
       
       if (parsedAuthors.length === 1) {
-        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given.split(' ').map(n => n[0] + '.').join('.')}`
+        const initials = parsedAuthors[0].given
+          .split(' ')
+          .map(n => n[0].toUpperCase())
+          .join('')
+        return `${parsedAuthors[0].family}, ${initials}.`
       } else if (parsedAuthors.length === 2) {
-        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given.charAt(0)}. and ${parsedAuthors[1].family}, ${parsedAuthors[1].given.charAt(0)}.`
+        const author1 = `${parsedAuthors[0].family}, ${parsedAuthors[0].given.split(' ').map(n => n[0].toUpperCase()).join('')}.`
+        const author2 = `${parsedAuthors[1].family}, ${parsedAuthors[1].given.split(' ').map(n => n[0].toUpperCase()).join('')}.`
+        return `${author1} and ${author2}`
       } else if (parsedAuthors.length > 2) {
-        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given.charAt(0)}. et al.`
+        return `${parsedAuthors[0].family}, ${parsedAuthors[0].given.split(' ').map(n => n[0].toUpperCase()).join('')}. et al.`
       }
       return ''
     },

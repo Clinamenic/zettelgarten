@@ -10,6 +10,36 @@ interface CitationGeneratorOptions {
   defaultStyle?: 'apa' | 'mla' | 'chicago' | 'ieee' | 'harvard'
 }
 
+function filterCitationData(data: any): CitationFields {
+  console.log('Raw citation data:', data);  // Debug log
+
+  // Only include required fields and non-empty optional fields
+  const filtered: Partial<CitationFields> = {
+    title: data.title || '',
+    author: data.author || '',
+    date: data.date || ''
+  }
+
+  // Optional fields - only include if they exist, aren't empty, and aren't null/undefined
+  const optionalFields: (keyof CitationFields)[] = [
+    'subtitle', 'type', 'journal', 'volume', 'issue', 'pages',
+    'publisher', 'publisherLocation', 'edition', 'website',
+    'doi', 'url', 'degree', 'language', 'abstract', 'keywords'
+  ]
+
+  optionalFields.forEach(field => {
+    // Only add the field if it exists and has non-empty content
+    if (data[field] && 
+        typeof data[field] === 'string' && 
+        data[field].trim() !== '') {
+      filtered[field] = data[field]
+    }
+  })
+
+  console.log('Filtered citation data:', filtered);  // Debug log
+  return filtered as CitationFields
+}
+
 export default ((opts?: CitationGeneratorOptions) => {
   const CitationGenerator: QuartzComponent = ({
     fileData,
@@ -41,9 +71,18 @@ export default ((opts?: CitationGeneratorOptions) => {
       function formatAuthors(author) {
         if (!author) return '';
         if (typeof author === 'string') {
-          return author.split(/[,;&]/).map(a => a.trim()).join(', ');
+          // Split the full name into parts
+          const parts = author.split(' ');
+          const lastName = parts[parts.length - 1];
+          const firstName = parts.slice(0, -1).join(' ');
+          return \`\${lastName}, \${firstName}\`;
         }
-        return Array.isArray(author) ? author.join(', ') : author;
+        return Array.isArray(author) ? author.map(a => {
+          const parts = a.split(' ');
+          const lastName = parts[parts.length - 1];
+          const firstName = parts.slice(0, -1).join(' ');
+          return \`\${lastName}, \${firstName}\`;
+        }).join(' and ') : author;
       }
 
       function formatAuthorIEEE(author) {
@@ -52,20 +91,6 @@ export default ((opts?: CitationGeneratorOptions) => {
         const lastName = parts[parts.length - 1];
         const initials = parts.slice(0, -1).map(n => n[0].toUpperCase() + '.').join(' ');
         return \`\${initials} \${lastName}\`;
-      }
-
-      function formatJournalIEEE(journal) {
-        if (!journal) return '';
-        return journal
-          .split(' ')
-          .map(word => {
-            if (['of', 'and', 'the', 'for', 'in', 'on', 'to'].includes(word.toLowerCase())) {
-              return '';
-            }
-            return \`\${word[0].toUpperCase()}.\`;
-          })
-          .filter(Boolean)
-          .join(' ');
       }
 
       function formatDate(date) {
@@ -87,56 +112,97 @@ export default ((opts?: CitationGeneratorOptions) => {
             const authors = formatAuthorAPA(data.author);
             const year = formatDate(data.date);
             const title = data.title || '';
-            const journal = data.journal || '';
-            const volume = data.volume || '';
-            const issue = data.issue || '';
-            const pages = data.pages || '';
-            const doi = data.doi || '';
-
-            return \`\${authors} (\${year}). \${title}. \${journal}, \${volume}(\${issue}), \${pages}\${doi ? \`. https://doi.org/\${doi}\` : ''}\`;
+            let citation = authors + ' (' + year + '). ' + title;
+            
+            if (data.journal) {
+              citation += '. ' + data.journal;
+              if (data.volume) citation += ', ' + data.volume;
+              if (data.issue) citation += '(' + data.issue + ')';
+              if (data.pages) citation += ', ' + data.pages;
+            }
+            if (data.doi) citation += '. https://doi.org/' + data.doi;
+            
+            return citation;
           },
           mla: function(data) {
             const author = formatAuthorMLA(data.author);
             const title = data.title || '';
-            const journal = data.journal || '';
-            const volume = data.volume || '';
-            const issue = data.issue || '';
             const year = new Date(data.date).getFullYear();
-            const pages = data.pages || '';
-
-            return \`\${author}. "\${title}." \${journal}, vol. \${volume}, no. \${issue}, \${year}, pp. \${pages}.\`;
+            let citation = author + '. "' + title + '"';
+            
+            if (data.journal) {
+              citation += '. ' + data.journal;
+              if (data.volume) citation += ', vol. ' + data.volume;
+              if (data.issue) citation += ', no. ' + data.issue;
+              citation += ', ' + year;
+              if (data.pages) citation += ', pp. ' + data.pages;
+            } else {
+              citation += ', ' + year;
+            }
+            
+            return citation + '.';
           },
           chicago: function(data) {
             const authors = formatAuthors(data.author);
             const title = data.title || '';
-            const journal = data.journal || '';
-            const volume = data.volume || '';
             const year = formatDate(data.date);
-            const pages = data.pages || '';
-
-            return \`\${authors}. "\${title}." \${journal} \${volume} (\${year}): \${pages}\`;
+            let citation = \`\${authors}. "\${title}"\`;
+            
+            if (data.journal) {
+              citation += \` \${data.journal}\`;
+              if (data.volume) citation += \` \${data.volume}\`;
+            }
+            citation += \` (\${year})\`;
+            if (data.pages) citation += \`: \${data.pages}\`;
+            
+            return citation + '.';
           },
           ieee: function(data) {
             const authors = formatAuthorIEEE(data.author);
             const title = data.title || '';
-            const journal = formatJournalIEEE(data.journal || '');
-            const volume = data.volume || '';
-            const issue = data.issue || '';
-            const year = formatDate(data.date);
-            const pages = data.pages || '';
-
-            return \`\${authors}, "\${title}," \${journal}, vol. \${volume}, no. \${issue}, pp. \${pages}, \${year}\`;
+            const journal = data.journal;
+            const year = new Date(data.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+            
+            let citation = \`\${authors}, "\${title}"\`;
+            
+            if (journal) {
+              citation += \`, \${journal}\`;
+            }
+            
+            if (data.volume) {
+              citation += \`, vol. \${data.volume}\`;
+            }
+            if (data.issue) {
+              citation += \`, no. \${data.issue}\`;
+            }
+            if (data.pages) {
+              citation += \`, pp. \${data.pages}\`;
+            }
+            if (year) {
+              citation += \`, \${year}\`;
+            }
+            
+            return citation + '.';
           },
           harvard: function(data) {
-            const authors = formatAuthors(data.author);
+            const authors = formatAuthorAPA(data.author);
             const year = formatDate(data.date);
             const title = data.title || '';
-            const journal = data.journal || '';
-            const volume = data.volume || '';
-            const issue = data.issue || '';
-            const pages = data.pages || '';
-
-            return \`\${authors} \${year}, '\${title}', \${journal}, vol. \${volume}, no. \${issue}, pp. \${pages}\`;
+            
+            let citation = \`\${authors}, \${year}. \${title}\`;
+            
+            if (data.journal) {
+              citation += \`. \${data.journal}\`;
+              if (data.volume) {
+                citation += \`, \${data.volume}\`;
+                if (data.issue) citation += \`(\${data.issue})\`;
+              }
+              if (data.pages) {
+                citation += \`, pp.\${data.pages.replace(/\s+/g, '')}\`;
+              }
+            }
+            
+            return citation + '.';
           }
         },
         frontmatter: ${JSON.stringify(fileData.frontmatter)},
@@ -340,7 +406,7 @@ ER  -\`;
               transition: 'all 0.2s ease-in-out'
             }}
           >
-            {citationStyles[defaultStyle](fileData.frontmatter as CitationFields, locale as ValidLocale)}
+            {citationStyles[defaultStyle](filterCitationData(fileData.frontmatter))}
           </div>
         </div>
         <script dangerouslySetInnerHTML={{ __html: helperScript }} />

@@ -28,6 +28,7 @@ import ArticleSubtitle from "./ArticleSubtitle"
 import DownloadMarkdown from "./DownloadMarkdown" // unused
 import Banner from "./Banner"
 import CitationGenerator from "./CitationGenerator"
+import FlexContainer from "./FlexContainer"
 
 export {
   ArticleTitle,
@@ -60,4 +61,5 @@ export {
   DownloadMarkdown, // unused
   Banner,
   CitationGenerator,
+  FlexContainer,
 }

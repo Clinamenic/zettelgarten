@@ -11,16 +11,18 @@ export const sharedPageComponents: SharedLayout = {
   ],
   afterBody: [
     Component.TagList(),
-    Component.LicenseInfo(),
-    Component.CitationGenerator({
-      defaultStyle: 'apa' // Add default options
-    }),    
+    Component.FlexContainer({
+      components: [
+        Component.LicenseInfo(),
+        Component.CitationGenerator({
+          defaultStyle: 'apa'
+        })
+      ]
+    }),
     Component.DownloadMarkdown(),
     Component.Graph({
       showGraph: (frontmatter) => !frontmatter.hideGraph,
-      // ... other graph options
     }),
-    
   ],
   footer: Component.Footer({
     links: {
