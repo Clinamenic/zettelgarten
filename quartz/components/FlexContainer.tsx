@@ -13,39 +13,65 @@ export default ((opts?: FlexContainerOptions) => {
 
     return (
       <div className="flex-container">
-        {opts.components.map((Component, index) => (
-          <div key={index} className="flex-item">
-            <Component {...props} />
-          </div>
-        ))}
+        <div className="flex-content">
+          {opts.components.map((Component, index) => (
+            <div key={index} className="flex-item">
+              <div className="flex-item-inner">
+                <Component {...props} />
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
     )
   }
 
-  // Add required properties
   FlexContainer.css = `
     .flex-container {
+      width: 100%;
+      margin: 1.5rem 0;
+    }
+
+    .flex-content {
       display: flex;
       gap: 1.5rem;
       justify-content: space-between;
-      align-items: flex-start;
-      flex-wrap: wrap;
-      width: 100%;
-      margin: 1.5rem 0;
+      box-sizing: border-box;
+      min-height: 144px;
     }
 
     .flex-item {
       flex: 1;
       min-width: 300px;
+      display: flex;
+      box-sizing: border-box;
+    }
 
-      div {
-        margin: 0rem 0rem !important;
+    .flex-item-inner {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+      
+      & > div {
+        box-sizing: border-box;
+        flex: 1;
+        margin: 0 !important;
+        display: flex;
+      }
+
+      & > div > * {
+        box-sizing: border-box;
+        flex: 1;
+        margin: 0;
+        padding: 0.75rem 1rem;
       }
     }
 
     @media (max-width: 768px) {
-      .flex-container {
+      .flex-content {
         flex-direction: column;
+        min-height: auto;
       }
       
       .flex-item {

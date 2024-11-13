@@ -333,7 +333,7 @@ ER  -\`;
           <div style={{
             display: 'flex',
             gap: '1rem',
-            marginBottom: '0.5rem',
+            marginBottom: '0.75rem !important',
           }}>
             <select 
               data-citation-style 
