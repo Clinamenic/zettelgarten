@@ -17,11 +17,12 @@ export const sharedPageComponents: SharedLayout = {
         Component.CitationGenerator({
           defaultStyle: 'apa'
         })
-      ]
+      ],
+      showFlex: (frontmatter) => frontmatter.quartzShowFlex ?? false,
     }),
     Component.DownloadMarkdown(),
     Component.Graph({
-      showGraph: (frontmatter) => !frontmatter.hideGraph,
+      showGraph: (frontmatter) => frontmatter.quartzShowGraph ?? false,
     }),
   ],
   footer: Component.Footer({

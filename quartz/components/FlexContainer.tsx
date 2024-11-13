@@ -2,10 +2,15 @@ import { QuartzComponentConstructor, QuartzComponent, QuartzComponentProps } fro
 
 interface FlexContainerOptions {
   components: QuartzComponent[]
+  showFlex?: (frontmatter: any) => boolean
 }
 
 export default ((opts?: FlexContainerOptions) => {
   const FlexContainer: QuartzComponent = (props: QuartzComponentProps) => {
+    if (opts?.showFlex && !opts.showFlex(props.frontmatter ?? {})) {
+      return null
+    }
+
     if (!opts?.components || opts.components.length === 0) {
       console.log("No components provided to FlexContainer")
       return null

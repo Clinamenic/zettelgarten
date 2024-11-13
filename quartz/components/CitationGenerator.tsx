@@ -333,7 +333,7 @@ ER  -\`;
           <div style={{
             display: 'flex',
             gap: '1rem',
-            marginBottom: '0.75rem !important',
+            marginBottom: '0.6rem !important',
           }}>
             <select 
               data-citation-style 
@@ -400,7 +400,7 @@ ER  -\`;
             style={{
               fontFamily: 'var(--codeFont)',
               fontSize: '0.8rem',
-              lineHeight: '1.4rem',
+              lineHeight: '1.6rem',
               backgroundColor: 'var(--lightgray)',
               borderRadius: '4px',
               whiteSpace: 'pre-wrap',

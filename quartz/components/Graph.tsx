@@ -27,7 +27,7 @@ interface GraphOptions {
 }
 
 interface Frontmatter {
-  hideGraph?: boolean
+  quartzShowGraph?: boolean
   // ... other frontmatter properties
 }
 
@@ -60,7 +60,7 @@ const defaultOptions: GraphOptions = {
     removeTags: [],
     focusOnHover: true,
   },
-  showGraph: (frontmatter: Frontmatter) => !frontmatter.hideGraph,
+  showGraph: (frontmatter: Frontmatter) => frontmatter.quartzShowGraph ?? false,
 }
 
 export default ((opts?: GraphOptions) => {

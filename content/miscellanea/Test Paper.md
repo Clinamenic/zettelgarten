@@ -40,3 +40,17 @@ degree: "PhD"
 ---
 
 Your article content goes here...
+
+Smith, J. (2024). The Evolution of Digital Gardens: A Comprehensive Analysis: Personal Knowledge Management in the Modern Era. Journal of Digital Knowledge Management, 15(2), 123-145. https://doi.org/10.1234/jdkm.2024.15.2.123
+
+TY - JOUR
+T1 - The Evolution of Digital Gardens: A Comprehensive Analysis
+AU -
+PY - undefined
+ER -
+
+@article{
+title={The Evolution of Digital Gardens: A Comprehensive Analysis},
+author={},
+year={undefined}
+}

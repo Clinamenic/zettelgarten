@@ -44,24 +44,31 @@ const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
   }
 
   return (
-    <div>
-    <p className="license-info quartz-license-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" style={styles}>
-      <a property="dct:title" rel="cc:attributionURL" href={currentPageUrl}>
-        {title}
-      </a> ({year}) by{" "}
-      <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href={authorUrl}>
-        {author}
-      </a> is licensed under{" "}
-      <a 
-        href={getLicenseUrl(license)} 
-        target="_blank" 
-        rel="license noopener noreferrer" 
-        style={{display: "inline-block"}}
-      >
-        {license}
-        {getLicenseImages(license)}
-      </a>
-    </p>
+    <div className="license-info quartz-license-info" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+      <div className="license-icons">
+        <a 
+          href={getLicenseUrl(license)} 
+          target="_blank" 
+          rel="license noopener noreferrer" 
+        >
+          {getLicenseImages(license)}
+        </a>
+      </div>
+      <p style={{textAlign: 'left'}}>
+        <a property="dct:title" rel="cc:attributionURL" href={currentPageUrl}>
+          {title}
+        </a> ({year}) by{" "}
+        <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href={authorUrl}>
+          {author}
+        </a> is licensed under{" "}
+        <a 
+          href={getLicenseUrl(license)} 
+          target="_blank" 
+          rel="license noopener noreferrer"
+        >
+          {license}
+        </a>
+      </p>
     </div>
   )
 }

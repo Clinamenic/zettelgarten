@@ -7,6 +7,7 @@ date: 2024-05-03
 license: CC BY-SA 4.0
 publish: true
 quartzShowCitation: true
+quartzShowFlex: true
 subtitle: null
 tags:
   - personal-discourse
