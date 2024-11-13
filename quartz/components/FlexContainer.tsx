@@ -64,6 +64,9 @@ export default ((opts?: FlexContainerOptions) => {
         box-sizing: border-box;
         flex: 1;
         margin: 0;
+      }
+
+      & > div > .quartz-license-info {
         padding: 0.75rem 1rem;
       }
     }

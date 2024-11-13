@@ -339,13 +339,15 @@ ER  -\`;
               data-citation-style 
               style={{
                 fontFamily: "MonaspaceNeon",
+                lineHeight: '1.1rem',
                 fontSize: '0.7rem',
                 minWidth: '80px',
                 padding: '0.25rem 0.5rem 0.15rem',
                 border: '1px solid var(--dark)',
-                borderRadius: '5px',
+                borderRadius: '10px',
                 backgroundColor: 'var(--light)',
-                cursor: 'pointer'
+                cursor: 'pointer',
+                transition: 'all 0.3s ease'
               }}
             >
               <option value="apa">APA</option>
@@ -363,7 +365,7 @@ ER  -\`;
                 minWidth: '80px',
                 padding: '0.25rem 0.5rem 0.15rem',
                 border: '1px solid var(--dark)',
-                borderRadius: '5px',
+                borderRadius: '10px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer'
               }}
@@ -384,7 +386,7 @@ ER  -\`;
                 gap: '0.25rem',
                 padding: '0.25rem 0.5rem 0.15rem',
                 border: '1px solid var(--dark)',
-                borderRadius: '5px',
+                borderRadius: '10px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer'
               }}
@@ -398,12 +400,12 @@ ER  -\`;
             style={{
               fontFamily: 'var(--codeFont)',
               fontSize: '0.8rem',
-              lineHeight: '1.2rem',
+              lineHeight: '1.4rem',
               backgroundColor: 'var(--lightgray)',
               borderRadius: '4px',
               whiteSpace: 'pre-wrap',
               wordBreak: 'break-word',
-              transition: 'all 0.2s ease-in-out'
+              transition: 'all 0.3s ease'
             }}
           >
             {citationStyles[defaultStyle](filterCitationData(fileData.frontmatter))}
