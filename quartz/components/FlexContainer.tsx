@@ -1,35 +1,47 @@
 import { QuartzComponentConstructor, QuartzComponent, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
 
 interface FlexContainerOptions {
   components: QuartzComponent[]
-  showFlex?: (frontmatter: any) => boolean
+  showFlex?: (frontmatter: Frontmatter) => boolean
+}
+
+interface Frontmatter {
+  quartzShowFlex?: boolean
+  // ... other frontmatter properties
+}
+
+const defaultOptions: FlexContainerOptions = {
+  components: [],
+  showFlex: (frontmatter: Frontmatter) => frontmatter?.quartzShowFlex ?? false,
 }
 
 export default ((opts?: FlexContainerOptions) => {
-  const FlexContainer: QuartzComponent = (props: QuartzComponentProps) => {
-    if (opts?.showFlex && !opts.showFlex(props.frontmatter ?? {})) {
-      return null
+  const FlexContainer: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+    const showFlex = opts?.showFlex ?? defaultOptions.showFlex
+    
+    if (showFlex && !showFlex(fileData.frontmatter)) {
+      return null;
     }
 
-    if (!opts?.components || opts.components.length === 0) {
-      console.log("No components provided to FlexContainer")
-      return null
+    if (!opts?.components?.length) {
+      return null;
     }
 
     return (
-      <div className="flex-container">
+      <div className={classNames(displayClass, "flex-container")}>
         <div className="flex-content">
           {opts.components.map((Component, index) => (
             <div key={index} className="flex-item">
               <div className="flex-item-inner">
-                <Component {...props} />
+                <Component {...{ displayClass, cfg, fileData }} />
               </div>
             </div>
           ))}
         </div>
       </div>
-    )
-  }
+    );
+  };
 
   FlexContainer.css = `
     .flex-container {
@@ -88,9 +100,6 @@ export default ((opts?: FlexContainerOptions) => {
       }
     }
   `
-  
-  FlexContainer.beforeDOMLoaded = undefined
-  FlexContainer.afterDOMLoaded = undefined
 
-  return FlexContainer
-}) satisfies QuartzComponentConstructor
+  return FlexContainer;
+}) satisfies QuartzComponentConstructor;

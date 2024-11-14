@@ -18,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
           defaultStyle: 'apa'
         })
       ],
-      showFlex: (frontmatter) => frontmatter.quartzShowFlex ?? false,
+      showFlex: (frontmatter) => frontmatter?.quartzShowFlex ?? false,
     }),
     Component.DownloadMarkdown(),
     Component.Graph({

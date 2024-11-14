@@ -8,6 +8,7 @@ license: CC BY-SA 4.0
 publish: true
 quartzShowCitation: true
 quartzShowFlex: true
+quartzShowGraph: true
 subtitle: null
 tags:
   - personal-discourse
