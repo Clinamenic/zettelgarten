@@ -4,15 +4,17 @@ arweaveHash: null
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 license: CC BY-SA 4.0
-publish: true
 sourceURL: null
 subtitle: Reflections on the early stages of metagovernance in decentralized society.
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: What is to Be Done Differently?
 uuid: 624ee2b1-089c-4818-9365-65efbf2472db
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 > The individual mind is immanent but not only in the body. It is immanent also in pathways and messages outside the body; and there is a larger mind of which the individual mind is only a sub-system.

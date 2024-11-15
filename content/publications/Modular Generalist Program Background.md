@@ -4,15 +4,17 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2021-10-29
 license: CC BY-SA 4.0
-publish: true
 source: https://solosalon.substack.com/p/mogenpro-background
 subtitle: An overview of the development of this program so far
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Modular Generalist Program Background
 uuid: 5fc7d78a-8fd7-4b08-85bd-bf34e2e853aa
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 Around four years ago I began to realize the value of the virtually endless supply of top-tier educational content freely available on YouTube.

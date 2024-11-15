@@ -4,15 +4,17 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-05-23
 license: CC BY-SA 4.0
-publish: true
 subtitle: Considerations to inform a more cogent economic philosophy.
 tags:
-- personal-discourse
-- text
-- misc/postcapitalism
+  - personal-discourse
+  - text
+  - misc/postcapitalism
 title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
 uuid: 2c052cbc-a0fe-4585-86d5-7d6477db9eac
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 ## Prefatory Comments on the Semantics, Intentions, and Method of the Discourse

@@ -11,7 +11,6 @@ interface CitationGeneratorOptions {
 }
 
 function filterCitationData(data: any): CitationFields {
-  console.log('Raw citation data:', data);  // Debug log
 
   // Only include required fields and non-empty optional fields
   const filtered: Partial<CitationFields> = {
@@ -36,7 +35,6 @@ function filterCitationData(data: any): CitationFields {
     }
   })
 
-  console.log('Filtered citation data:', filtered);  // Debug log
   return filtered as CitationFields
 }
 
@@ -238,48 +236,35 @@ ER  -\`;
           return '';
         }
       };
-
-      console.log('Frontmatter:', window.citationHelpers.frontmatter);
-      console.log('Available styles:', Object.keys(window.citationHelpers.styles));
     `
 
     const initScript = `
       document.addEventListener('DOMContentLoaded', function() {
-        console.log('DOM fully loaded, initializing citation handlers');
         try {
           const container = document.getElementById('${containerId}');
-          console.log('Container found:', !!container);
           if (!container) return;
 
           // Style selector
           const styleSelect = container.querySelector('select[data-citation-style]');
-          console.log('Style select found:', !!styleSelect);
           styleSelect?.addEventListener('change', function(e) {
             const selectedStyle = e.target.value;
-            console.log('Style changed:', selectedStyle);
             const citationText = container.querySelector('[data-citation-text]');
             if (citationText && window.citationHelpers?.styles) {
               try {
-                // Get the style function and apply it
                 const styleFunction = window.citationHelpers.styles[selectedStyle];
                 if (styleFunction) {
                   const newCitation = styleFunction(window.citationHelpers.frontmatter);
                   citationText.textContent = newCitation;
-                  console.log('Citation updated successfully');
-                } else {
-                  console.error('Style function not found:', selectedStyle);
                 }
               } catch (err) {
-                console.error('Failed to generate citation:', err);
+                // Silent error handling
               }
             }
           });
 
           // Copy button
           const copyButton = container.querySelector('button[data-citation-copy]');
-          console.log('Copy button found:', !!copyButton);
           copyButton?.addEventListener('click', async function() {
-            console.log('Copy button clicked');
             const citationText = container.querySelector('[data-citation-text]')?.textContent;
             if (citationText) {
               try {
@@ -287,16 +272,14 @@ ER  -\`;
                 this.textContent = 'Copied!';
                 setTimeout(() => this.textContent = 'Copy', 2000);
               } catch (err) {
-                console.error('Copy failed:', err);
+                // Silent error handling
               }
             }
           });
 
           // Export format selector
           const exportSelect = container.querySelector('select[data-citation-export]');
-          console.log('Export select found:', !!exportSelect);
           exportSelect?.addEventListener('change', function(e) {
-            console.log('Export format changed:', e.target.value);
             const format = e.target.value;
             if (format === 'bibtex' || format === 'ris') {
               try {
@@ -307,14 +290,13 @@ ER  -\`;
                 navigator.clipboard.writeText(exportText);
                 alert(format.toUpperCase() + ' format copied to clipboard!');
               } catch (err) {
-                console.error('Export failed:', err);
+                // Silent error handling
               }
               e.target.value = 'text';
             }
           });
-          console.log('All event listeners attached successfully');
         } catch (error) {
-          console.error('Error in init script:', error);
+          // Silent error handling
         }
       });
     `

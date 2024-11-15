@@ -1,6 +1,5 @@
 import { QuartzComponentConstructor, QuartzComponent } from "./types"
 import "./styles/licenseinfo.scss"
-console.log("LicenseInfo styles imported")
 
 const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
   const author = fileData.frontmatter?.author

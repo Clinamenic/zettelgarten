@@ -4,15 +4,17 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-07-23
 license: CC BY-SA 4.0
-publish: true
 subtitle: null
 tags:
-- misc/bureaumancy
-- personal-discourse
-- text
+  - misc/bureaumancy
+  - personal-discourse
+  - text
 title: Containers for Consultants
 uuid: 3c20ac50-e3f4-4b7b-9304-7abed12298d7
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 By virtue of being public and deterministic, smart contracts enable novel approaches to business engagements. Where and when this novelty has real utility, however, is a matter still early in the unfolding.

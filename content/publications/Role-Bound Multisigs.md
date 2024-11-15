@@ -4,15 +4,17 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-08-08
 license: CC BY-SA 4.0
-publish: true
 subtitle: null
 tags:
-- misc/bureaumancy
-- personal-discourse
-- text
+  - misc/bureaumancy
+  - personal-discourse
+  - text
 title: Role-Bound Multisigs
 uuid: 26f1afd1-3d34-47db-be11-c68707fa13e4
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 The multisig wallet is a powerful organizational primitive, enabling individuals to share control over funds and assets, and to collectively execute smart contract interactions. They can be created quickly and inexpensively, and they facilitate international financial cooperation.

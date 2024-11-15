@@ -4,14 +4,16 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-11-24
 license: CC BY-SA 4.0
-publish: true
 subtitle: A template and methodology for initializing your organization's governance.
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Pre-Constitutional Governance
 uuid: 53a6c4e0-8b75-4a4a-85ef-4e2b267e84a4
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 As formal governance emerges from a structureless social soup, it can be difficult to establish consensus on basic matters, in lieu of a pre-existing system of procedures to facilitate such consensus.

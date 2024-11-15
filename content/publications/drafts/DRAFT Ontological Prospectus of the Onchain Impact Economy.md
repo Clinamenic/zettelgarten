@@ -4,15 +4,17 @@ authorURL: https://www.clinamenic.com
 title: DRAFT Ontological Prospectus of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
 draft started: 0024-06-28
-date: 
+date:
 license: CC BY-SA 4.0
 sponsor: LexDAO, SuperBenefitDAO
-arweaveHash: 
-publish: true
+arweaveHash:
 tags:
+uuid:
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
-
-
 
 ## Acknowledgments
 
@@ -41,9 +43,9 @@ Because the matters at hand are complex enough without the added confusion of se
 These terms are meant in the sense articulated by the [Impact Management Norms](https://impactfrontiers.org/norms/), developed by Impact Frontiers:
 
 > Impact is a change in an outcome caused by an organization. An impact can be positive or negative, intended or unintended.
-> 
+>
 > An outcome is the level of well-being experienced by a group of people, or the condition of the natural environment, as a result of an event or action.
-> 
+>
 > Impact management is the process of identifying the positive and negative impacts that an enterprise has on people and the planet, and then reducing the negative and increasing the positive.
 
 #### 'Public Goods' and 'Network Goods'
@@ -91,7 +93,7 @@ In this section we will highlight how certain blockchain-based protocols and pla
 
 Worth bearing in mind throughout this section is the distinction between solutions based on peer-to-peer protocols, and solutions based on institutionally maintained platforms. While both classes of technical tooling have their place in the larger stack, they each come with their own risk profile.
 
-Much of the potential of this technology, as digital public infrastructure, rests on the premise that the software itself is functionally autonomous and not reliant on the revenue models of the institutions that developed it. While institutions, public and private, have crucial roles to play in these socio-economic systems, they also have their own economic and legal imperatives which may preclude them from effectively stewarding public goods. After all, the institutional tooling will not de-enshittify the institutional paradigm<sup>2</sup>. 
+Much of the potential of this technology, as digital public infrastructure, rests on the premise that the software itself is functionally autonomous and not reliant on the revenue models of the institutions that developed it. While institutions, public and private, have crucial roles to play in these socio-economic systems, they also have their own economic and legal imperatives which may preclude them from effectively stewarding public goods. After all, the institutional tooling will not de-enshittify the institutional paradigm<sup>2</sup>.
 
 #### Hypercerts
 
@@ -133,7 +135,7 @@ In addition to the various platforms and protocols highlighted above, there are 
 
 ### 1.3 - Selected Funding Processes
 
-The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate the financial and computational elements of philanthropy. Arguably the primary purpose of the usage of this technology in these capacities is to uphold high standards of financial transparency while automating unnecessary administrative burden. 
+The fundamental innovation of the onchain philanthropy sector is the usage of smart contracts to facilitate the financial and computational elements of philanthropy. Arguably the primary purpose of the usage of this technology in these capacities is to uphold high standards of financial transparency while automating unnecessary administrative burden.
 
 Ideals aside, the utilization of blockchain and related technologies for philanthropic purposes, such as funding public goods, is still a radically novel economic phenomenon, constituting a movement in its own right. Over the last several years, this experimental infrastructure has enabled several novel funding mechanisms, which will be examined throughout this section. This infrastructure has facilitated the distribution of over $150 million dollars in public goods funding over the last few years. For more information on the financial scale and nuance of this technology, see the Appendix on Grant Volume.
 
@@ -141,33 +143,33 @@ However, as we will see in the section on challenges, there remain significant o
 
 #### Direct and Quadratic Funding
 
-The most popular examples of philanthropic applications of smart contracts are grant programs. Many of these grant programs implement participatory grant allocation mechanisms, based on quadratic formulae, which aim to proportionately reward grantees according to the amount of donations they receive (Buterin, Hitzig, & Weyl, 2018). 
+The most popular examples of philanthropic applications of smart contracts are grant programs. Many of these grant programs implement participatory grant allocation mechanisms, based on quadratic formulae, which aim to proportionately reward grantees according to the amount of donations they receive (Buterin, Hitzig, & Weyl, 2018).
 
-For the purpose of this section, we will focus on Grants Stack, as digital public infrastructure to facilitate grantmaking, and Gitcoin's [grant manager platform](https://manager.gitcoin.co/#/) as an interface to enable  communities and institutions to configure their instance of Grants Stack. Those who operationally administer these grant programs (henceforth "round operators") can choose either direct or quadratic funding mechanisms<sup>5</sup>, depending on how participatory they want the grant program to be.
+For the purpose of this section, we will focus on Grants Stack, as digital public infrastructure to facilitate grantmaking, and Gitcoin's [grant manager platform](https://manager.gitcoin.co/#/) as an interface to enable communities and institutions to configure their instance of Grants Stack. Those who operationally administer these grant programs (henceforth "round operators") can choose either direct or quadratic funding mechanisms<sup>5</sup>, depending on how participatory they want the grant program to be.
 
-Both direct and quadratic grant rounds involve a matching pool funding process, whereby administrators deposit funds into the smart contract to eventually be disbursed to grantees, and a grantee application process, whereby applicants submit forms to be approved by the round operators. Once approved, the accepted grantees have their project profiles published, and the funding can be facilitated. 
+Both direct and quadratic grant rounds involve a matching pool funding process, whereby administrators deposit funds into the smart contract to eventually be disbursed to grantees, and a grantee application process, whereby applicants submit forms to be approved by the round operators. Once approved, the accepted grantees have their project profiles published, and the funding can be facilitated.
 
 In the case of quadratic funding, there is a customizable period of time, conventionally two to three week, whereby anyone can visit the grantees' profiles, and donate to them in crypto or in fiat currencies<sup>6</sup>. During this donation period, various data are collected automatically, such as the amount of donations, the value of each donation, and various other analytics performed upon donor activity. One significant aspect of this analysis pertains to the identification and prevention of fraudulent donor behavior, which will be examined more closely in the section on technical challenges.
 
-Once these results are calculated, the funds from the matching pool are disbursed to grantees according to a quadratic formula such as the following: 
+Once these results are calculated, the funds from the matching pool are disbursed to grantees according to a quadratic formula such as the following:
 
 $$F^p = (∑_j \sqrt{c_j^p})^2$$
 
-Direct funding, on the other hand, merely has round operators directly determine the amount each grantee receives from the matching pool. 
+Direct funding, on the other hand, merely has round operators directly determine the amount each grantee receives from the matching pool.
 
-Allo Protocol uses smart contracts to programmatically facilitate both direct and quadratic funding rounds, meaning that the essential mechanisms of this grantmaking process occur onchain, and that the public data involved is stored on a global peer-to-peer network which is not managed by a single institution. Instead, institutions such as Gitcoin maintain dedicated user interfaces, like the Gitcoin round manager interface, for people to interact with the underlying smart contracts. In this case, the users in question are grant round operators, grant applicants, and donors. 
+Allo Protocol uses smart contracts to programmatically facilitate both direct and quadratic funding rounds, meaning that the essential mechanisms of this grantmaking process occur onchain, and that the public data involved is stored on a global peer-to-peer network which is not managed by a single institution. Instead, institutions such as Gitcoin maintain dedicated user interfaces, like the Gitcoin round manager interface, for people to interact with the underlying smart contracts. In this case, the users in question are grant round operators, grant applicants, and donors.
 
 #### Retroactive Funding
 
-Whereas the above quadratic and direct grants, as facilitated by the likes of Allo Protocol, are prospective in nature in that they generally fund work which is yet to be done, there also exists a class of funding processes concerned with retroactively funding work which has been completed. 
+Whereas the above quadratic and direct grants, as facilitated by the likes of Allo Protocol, are prospective in nature in that they generally fund work which is yet to be done, there also exists a class of funding processes concerned with retroactively funding work which has been completed.
 
 This idea that "it is easier to agree on what was useful than what will be useful" has guided the prominent examples of retroactive funding programs in this ecosystem so far, such as Optimism's Retroactive Public Goods Funding program, or RetroPGF (Optimism Collective, 2023b). In the case of RetroPGF, applications are reviewed by members of the Optimism Collective, and funding is provided by institutional donors (wheebill, 2024). For more information about the economic volume of the RetroPGF rounds, see the appendix on grant volume.
 
 #### Ecosystem Development Funding
 
-One of the primary difficulties encountered in the allocation of funding to public goods is that of sustainable value exchange. With respect to the source of funding, this funding process ought to be sustainable if it is to support the long term development and maintenance of public goods from an ecosystem perspective. 
+One of the primary difficulties encountered in the allocation of funding to public goods is that of sustainable value exchange. With respect to the source of funding, this funding process ought to be sustainable if it is to support the long term development and maintenance of public goods from an ecosystem perspective.
 
-That said, by virtue of public goods being non-rivalrous and non-excludable, it is often difficult to configure a financial model which permits a return on investment. Indeed, depending on how strictly we define public goods, it may even be impossible to conceive of a public good which can entail exclusive rights to profit. Are exclusive rights to profit needed in order to promote sustainable funding for public goods at scale, and would it necessarily compromise the essential value of public goods? This question of value exchange and profitability has been discussed extensively in the ecosystem. 
+That said, by virtue of public goods being non-rivalrous and non-excludable, it is often difficult to configure a financial model which permits a return on investment. Indeed, depending on how strictly we define public goods, it may even be impossible to conceive of a public good which can entail exclusive rights to profit. Are exclusive rights to profit needed in order to promote sustainable funding for public goods at scale, and would it necessarily compromise the essential value of public goods? This question of value exchange and profitability has been discussed extensively in the ecosystem.
 
 Ecosystem development funding arguably constitutes an example of this sort of compromise. In these arrangements, grants are awarded to projects which expand or enrich the ecosystem stewarded by the grantor institution. In cases like this, the projects receiving funding can still qualify as public goods, even if the constraints of ecosystem development limit the effective beneficiary base of the value created. The ecosystem in question can be anything from a particular domain of impact, to the user base of a particular software product.
 
@@ -175,15 +177,16 @@ For example, if a software company receives a grant from a protocol foundation t
 
 Recently a report was published suggesting a formula for grantor institutions to systematically determine the ecosystem alignment of a potential grantee (Waqar, M. 2024). This report includes a number of heuristic formulae and models which ecosystem development grantmaking institutions can utilize to quantitatively evaluate the prospects and efficacy of their grants. One example is the strategic alignment score (SAS) determined by the formula below, which represents the degree of alignment between grantees and the strategic ecosystem goals determined by the grantor. $$SAS = \frac{\sum^G_{g=1}((\frac{1}{N}\sum^N_{i=1}A_{g,i}) \cdot W_g)}{\sum^G_{g=1}W_g}$$
 Where $A_{g,i}$ is the alignment score (on a scale of 1 to 5) of project $i$ for a given strategic ecosystem goal $g$; $W_g$ is the weight of a given goal $g$; $N$ is the number of projects; and $G$ is the number of goals. Given a grant program with a number of grantees, and a number of measurable goals, this formula determines the average alignment of projects for each goal, weights these averages according to the weight of each goal, adds these goal-weights average alignment scores, and then divides by the sum of the goal weights, yielding a value which represents how impactful the grant program was in light of its strategic goals
+
 ### 1.4 - Ontological Considerations
 
 While the onchain impact and philanthropy ecosystems have seen great advancements in terms of technical infrastructure, the actual methodologies and ontologies surrounding impact reporting and assessment still need refinement (Leventhal et al., 2024). While there have been promising conversations emerging within the onchain philanthropy sector around outcome-based and milestone-based impact reporting, we still have much to learn from existing standards and practices beyond the sphere of blockchain technology. In this section, we will explore some examples of ontological frameworks for impact assessment.
 
 #### LinkedClaims & Verifiable Credentials
 
-[LinkedTrust](https://linkedtrust.us/#about) is a system for facilitating impact claims (i.e. LinkedClaims) via verifiable credentials which can be independently and openly verified by third parties. These LinkedClaims constitute an open knowledge graph representing the web of claims which derive social legitimacy from their relations to other claims and entities in the network. 
+[LinkedTrust](https://linkedtrust.us/#about) is a system for facilitating impact claims (i.e. LinkedClaims) via verifiable credentials which can be independently and openly verified by third parties. These LinkedClaims constitute an open knowledge graph representing the web of claims which derive social legitimacy from their relations to other claims and entities in the network.
 
-LinkedClaims builds upon the [W3C Verifiable Credentials envelope data model](https://www.w3.org/TR/vc-data-model-2.0/), and is intended to facilitate compound credentials (wherein a number of constituent credentials are verified en masse) as well as micro-credentials (wherein a given block of credentials can be granularly verified). 
+LinkedClaims builds upon the [W3C Verifiable Credentials envelope data model](https://www.w3.org/TR/vc-data-model-2.0/), and is intended to facilitate compound credentials (wherein a number of constituent credentials are verified en masse) as well as micro-credentials (wherein a given block of credentials can be granularly verified).
 
 The W3C Verifiable Credential model uses JSON-LDs as the base format for credentials. Below is an example of a university degree expressed as a JSON-LD according to the W3C Verifiable Credential model.
 
@@ -215,7 +218,7 @@ The [Common Impact Data Standard](https://www.commonapproach.org/common-impact-d
 
 In other words, the common impact data standard is a data formatting method for communicating impact-related information in a manner readable by humans and machines. This standard is designed to be adopted by impact reporting software, such as KarmaGAP's platform, and it already has [a number of such platforms](https://www.youtube.com/playlist?list=PLjaTMP-2h_lLAzoYRUjnh7-hOwZvmNdGu) using it.
 
-This standard can also be considered infrastructure-agnostic, meaning it can work within and across a number of storage layers, seeing as relies on widely adopted ontologies. For example, if an organization is to express its impact measurements in a JSON-LD, this information can be stored using EAS, Arweave, or offchain data layers, and it can still function within this paradigm of open and transparent impact reporting. 
+This standard can also be considered infrastructure-agnostic, meaning it can work within and across a number of storage layers, seeing as relies on widely adopted ontologies. For example, if an organization is to express its impact measurements in a JSON-LD, this information can be stored using EAS, Arweave, or offchain data layers, and it can still function within this paradigm of open and transparent impact reporting.
 
 Below is visual representation of a CIDS schema for an organization, building upon the [TOVE Organization Ontology](http://ontology.eil.utoronto.ca/organization.html). This schema demonstrates how organizations can use OWL to define ontologies expressed via RDF and serialized as JSON-LDs to communicate critical impact-related information to their wider network of beneficiaries and stakeholders.
 
@@ -340,21 +343,21 @@ Text here
 - Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
 - Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
 - Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
-- Waqar, M., ZER8 (2024). [Web3 Grant Program Research and Analysis](https://docsend.com/view/rxs93u4s5sb93xck). 
+- Waqar, M., ZER8 (2024). [Web3 Grant Program Research and Analysis](https://docsend.com/view/rxs93u4s5sb93xck).
 - wheebill (2024, September 18). [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
 
 ## Appendix on Grant Volume
 
 1. Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
 2. Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
-  1. Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
-  2. Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
-  3. Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
-  4. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
+3. Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
+4. Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
+5. Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+6. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
 
 ## Disclaimers
 
-At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities. 
+At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
 
 The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations.
 

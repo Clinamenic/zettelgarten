@@ -6,7 +6,6 @@ bannerURI: https://arweave.net/OlfYxTPNxpv3HKgFm0pQruQkzURTxy02Th141M9kDEI
 date: 2023-09-13
 hideGraph: false
 license: CC BY-SA 4.0
-publish: true
 subtitle: Free Market Collectivism via Self-Regulation in Emerging Technology Sectors
 tags:
   - personal-discourse
@@ -14,6 +13,10 @@ tags:
   - text
 title: Recuperate the Vanguard
 uuid: e49b28e8-2b0f-4fa4-ac9d-0f294aa3c78c
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 If the spectre of history has anything left to teach the western world, are we willing to learn?

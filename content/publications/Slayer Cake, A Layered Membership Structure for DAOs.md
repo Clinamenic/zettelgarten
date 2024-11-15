@@ -4,14 +4,16 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-03-26
 license: CC BY-SA 4.0
-publish: true
 subtitle: null
 tags:
-- personal-discourse
-- text
+  - personal-discourse
+  - text
 title: Slayer Cake, A Layered Membership Structure for DAOs
 uuid: a017e199-2054-48ef-a637-568e69348c8c
-
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 Despite frigid market conditions, the DAO space remains a robust laboratory for organizational design.

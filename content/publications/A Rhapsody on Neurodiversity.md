@@ -5,7 +5,6 @@ authorURL: https://www.clinamenic.com
 bannerURI: https://arweave.net/xyErVkoWdB0uDWV5a5onev40x8gZBSd8yINxgzKKOrE
 date: 2023-01-17
 license: CC BY-SA 4.0
-publish: true
 source: https://mirror.xyz/clinamenic.eth/3oyZ4AX-BAbZ2r0UsUAW2be3-3Xpktk0vkm5x-V5Jh0
 subtitle: Reflections on auto-didacticism and neurodiversity.
 tags:
@@ -13,6 +12,10 @@ tags:
   - text
 title: A Rhapsody on Neurodiversity
 uuid: 245497b4-8ced-46b3-a841-d8e683c09373
+publish: true
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 ---
 
 As someone without formal experience in STEM higher education, but rather as a [**self-guided generalist**](https://solosalon.substack.com/p/mogenpro-background), I should perhaps preface what follows with an explanation of my intentions.
