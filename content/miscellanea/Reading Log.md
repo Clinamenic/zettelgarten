@@ -69,14 +69,17 @@ This section is not comprehensive, and does not count the shorter articles read.
 ## To Read
 This section follows no particular order.
 
-### Of Active Interest
+### Books
+
+#### Of Active Interest
 
 - Art and Agency (Gell)
 - The English Face of Machiavelli (Raab)
 - The Presentation of Self in Everyday Life (Goffman)
 
-### Of Passive Interest
+#### Of Passive Interest
 
+- [The first part of the disquisition of truth, concerning political affaires](https://quod.lib.umich.edu/e/eebo2/A15753.0001.001?rgn=main;view=fulltext) (Henry Wright)
 - Education of a Christian Prince (Erasmus)
 - The Sphere and Duties of Government (von Humboldt)
 - Don Quixote (Cervantes)
@@ -103,3 +106,9 @@ This section follows no particular order.
 - The Wealth of Nations (Smith)
 - Tractatus Logico-Philosophicus (Wittgenstein)
 - Democracy in America (de Tocqueville)
+
+
+### Articles
+
+- https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
+- The Theory of the Firm

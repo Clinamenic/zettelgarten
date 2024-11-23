@@ -1,5 +1,5 @@
 ---
-title: 
+title: Considerations on Delegate Agents
 subtitle: 
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
@@ -31,3 +31,4 @@ internalRef:
 tags:
   - personal-discourse/draft
 ---
+![[Boilerplate#Canvas Foreword]]

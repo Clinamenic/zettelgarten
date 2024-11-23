@@ -4,17 +4,15 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-10-12
 draft started: 2024-10-12
-itemType: canvas
+type: canvas
 license: CC BY-SA 4.0
 publish: true
-subtitle: Some coverage of the various challenges faced in the construction of a bespoke
-  multi-purpose zettelkasten.
+subtitle: Some coverage of the various challenges faced in the construction of a bespoke multi-purpose zettelkasten.
 tags:
-- personal-discourse/log
-- misc/zettelkasten
+  - personal-discourse/log
+  - misc/zettelkasten
 title: Notes on Experimental Zettelkasten Methodology
 uuid: f287fa9c-c615-4f2c-97db-5103b6df1b07
-
 ---
 
 ![[Boilerplate#Canvas Foreword]]

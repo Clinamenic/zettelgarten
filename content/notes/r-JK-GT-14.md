@@ -10,4 +10,6 @@ tags:
 
 #r/JK/GT/Q/unresolved Why are these functions called the "aggregate supply function" and the "aggregate demand function"?
 
-![[The General Theory of Employment, Interest and Money#^fbe1e8]]
+[[The General Theory of Employment, Interest and Money#^fbe1e8]]
+
+> Let $Z$ be the aggregate supply price of the output from employing $N$ men, the relationship between $Z$ and $N$ being written $Z = φ(N)$, which can be called the aggregate supply function. Similarly, let D be the proceeds which entrepreneurs expect to receive from the employment of $N$ men, the relationship between $D$ and $N$ being written $D = f(N)$, which can be called the aggregate demand function.

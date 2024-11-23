@@ -4,7 +4,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-11-01
 draft started: 2024-11-01
-itemType: canvas
+type: canvas
 license: CC BY-SA 4.0
 publish: true
 subtitle: Applications of Machiavellian moral-tactical calculus to micropolitics and peer-to-peer statecraft.

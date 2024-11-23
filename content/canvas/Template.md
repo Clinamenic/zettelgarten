@@ -5,8 +5,9 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 
 type: 
-tags:
-  - personal-discourse/draft
+language: en
+abstract: 
+keywords: 
 journal: 
 volume: 
 issue: 
@@ -14,19 +15,20 @@ pages:
 publisher: 
 publisherLocation: 
 edition: 
+institution: 
+department: 
+degree: 
+license: 
 doi: 
 url: 
 uuid: 
-language: en
-abstract: 
-keywords:
-  - keyword 1, keyword 2
-license: 
 arweaveHashes: 
 publish: false
-hideGraph: false
 quartzShowCitation: true
-institution: 
-department: 
-degree:
+quartzShowFlex: true
+quartzShowGraph: true
+internalRef: 
+tags:
+  - personal-discourse/draft
 ---
+![[Boilerplate#Canvas Foreword]]

@@ -4,7 +4,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-10-31
 draft started: 2024-10-31
-itemType: canvas
+type: canvas
 license: CC BY-SA 4.0
 publish: true
 subtitle: Considerations on community growth and lightweight administration.

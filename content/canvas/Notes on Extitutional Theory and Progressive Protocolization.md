@@ -1,18 +1,17 @@
 ---
-arweaveHash: null
+arweaveHash: 
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-09-18
 draft started: 2024-09-18
-itemType: canvas
+type: canvas
 license: CC BY-SA 4.0
 publish: true
-subtitle: null
+subtitle: 
 tags:
-- personal-discourse/log
+  - personal-discourse/log
 title: Notes on Extitutional Theory and Progressive Protocolization
 uuid: 695f780e-5cbe-4ed7-bdef-818dbd227ec9
-
 ---
 
 ![[Boilerplate#Canvas Foreword]]

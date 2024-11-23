@@ -4,18 +4,16 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-10-06
 draft started: 2024-10-06
-itemType: canvas
+type: canvas
 license: CC BY-SA 4.0
 publish: true
-subtitle: Peer-to-peer economic infrastructure to address foundational disagreements
-  in the discourse.
+subtitle: Peer-to-peer economic infrastructure to address foundational disagreements in the discourse.
 tags:
-- personal-discourse/log
-- parafiscal
-- protocolization
+  - personal-discourse/log
+  - parafiscal
+  - protocolization
 title: Notes on Keynes, Hayek, and Fiscal Protocols
 uuid: 02cdabc6-8467-4962-96bd-8b68b38dbf8b
-
 ---
 
 ![[Boilerplate#Canvas Foreword]]

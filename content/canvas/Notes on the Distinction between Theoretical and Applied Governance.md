@@ -4,16 +4,14 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-09-08
 draft started: 2024-09-08
-itemType: canvas
+type: canvas
 license: CC BY-SA 4.0
 publish: true
-subtitle: Considerations around how governance theorists and practitioners may require
-  different skillsets.
+subtitle: Considerations around how governance theorists and practitioners may require different skillsets.
 tags:
-- personal-discourse/log
+  - personal-discourse/log
 title: Notes on the Distinction between Theoretical and Applied Governance
 uuid: 79a7882b-cdd3-4cdd-a9ca-b560e1b10441
-
 ---
 
 ![[Boilerplate#Canvas Foreword]]
