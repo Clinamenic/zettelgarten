@@ -67,12 +67,36 @@ type TweenNode = {
   stop: () => void
 }
 
+function getCirclePosition(index: number, total: number, radius: number): { x: number; y: number } {
+  const angle = ((index / total) * 2 * Math.PI) - (Math.PI / 2)
+  return {
+    x: radius * Math.cos(angle),
+    y: radius * Math.sin(angle)
+  }
+}
+
+// Define the list of topic tag prefixes (near the top of the file)
+const TOPIC_PREFIXES = ["ECON", "CHEM", "BIOL", "MISC"]
+
+function isTopicTag(tagId: string): boolean {
+  // Remove "tags/" prefix
+  const tag = tagId.replace("tags/", "")
+  // Check if the tag starts with any of our topic prefixes followed by "/"
+  return TOPIC_PREFIXES.some(prefix => tag.startsWith(prefix + "/"))
+}
+
 async function renderGraph(container: string, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
   const graph = document.getElementById(container)
   if (!graph) return
+  
+  // Clean up any existing canvases first
   removeAllChildren(graph)
+  
+  // Also remove any canvas elements that might have been appended outside the container
+  const existingCanvases = document.querySelectorAll(`canvas[data-graph-container="${container}"]`)
+  existingCanvases.forEach(canvas => canvas.remove())
 
   let {
     drag: enableDrag,
@@ -161,12 +185,126 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       })),
   }
 
-  // we virtualize the simulation and use pixi to actually render it
-  const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
-    .force("charge", forceManyBody().strength(-100 * repelForce))
-    .force("center", forceCenter().strength(centerForce))
-    .force("link", forceLink(graphData.links).distance(linkDistance))
-    .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
+  const tagNodes = nodes.filter(n => n.id.startsWith("tags/"))
+  const contentNodes = nodes.filter(n => !n.id.startsWith("tags/"))
+
+  // Calculate radius based on content nodes count
+  const radius = Math.max(Math.sqrt(contentNodes.length) * linkDistance * 3, 200)
+
+  // After filtering nodes
+  console.log("Initial node counts:", {
+    total: nodes.length,
+    tags: tagNodes.length,
+    content: contentNodes.length,
+    firstContent: contentNodes[0]
+  })
+
+  // Split tag nodes into topic tags and regular tags
+  const topicTagNodes = tagNodes.filter(n => isTopicTag(n.id))
+  const regularTagNodes = tagNodes.filter(n => !isTopicTag(n.id))
+
+  // Add debug logging
+  console.log("Topic tag nodes:", {
+    total: topicTagNodes.length,
+    first: topicTagNodes[0],
+    nodes: topicTagNodes.map(n => ({id: n.id, fx: n.fx, fy: n.fy}))
+  })
+
+  // Position topic tags in the outer circle
+  topicTagNodes.forEach((node, i) => {
+    const pos = getCirclePosition(i, topicTagNodes.length, radius)
+    node.fx = pos.x
+    node.fy = pos.y
+    
+    // Add debug logging for this specific tag
+    if (node.id.includes('CHEM')) {
+      console.log(`CHEM tag position:`, {
+        id: node.id,
+        index: i,
+        total: topicTagNodes.length,
+        position: pos,
+        radius: radius,
+        finalPos: {
+          fx: node.fx,
+          fy: node.fy
+        }
+      })
+    }
+  })
+
+  // Initialize regular tags and content nodes with valid starting positions
+  const innerNodes = [...contentNodes, ...regularTagNodes]
+  innerNodes.forEach((node) => {
+    const angle = Math.random() * 2 * Math.PI
+    const r = Math.random() * (radius * 0.3) // 30% of the full radius
+    node.x = r * Math.cos(angle)
+    node.y = r * Math.sin(angle)
+    node.vx = 0
+    node.vy = 0
+  })
+
+  console.log("After position initialization:", {
+    sampleTag: tagNodes[0],
+    sampleContent: contentNodes[0]
+  })
+
+  // Modify simulation setup
+  const simulation: Simulation<NodeData, LinkData> = forceSimulation(graphData.nodes)
+    .force("charge", forceManyBody().strength(d => 
+      d.id.startsWith("tags/") ? -30 : -80
+    ))
+    .force("center", forceCenter(0, 0).strength(0.5))
+    .force("collision", forceCollide().radius(d => 
+      d.id.startsWith("tags/") ? 20 : 10
+    ))
+    .force("link", forceLink(graphData.links)
+      .distance(d => d.source.id.startsWith("tags/") || d.target.id.startsWith("tags/") 
+        ? radius * 0.1 
+        : radius * 0.05)
+    )
+    .force("bound", () => {
+      // Handle inner nodes (content + regular tags) - keep them inside
+      for (const node of innerNodes) {
+        const r = Math.sqrt(node.x * node.x + node.y * node.y)
+        if (r > radius * 0.8) {
+          const scale = (radius * 0.8) / r
+          node.x *= scale
+          node.y *= scale
+          if (node.vx && node.vy) {
+            node.vx *= -0.5
+            node.vy *= -0.5
+          }
+        }
+      }
+
+      // Handle topic tag nodes - keep them outside
+      for (const node of topicTagNodes) {
+        const r = Math.sqrt(node.x * node.x + node.y * node.y)
+        if (r < radius * 0.9) {
+          const scale = radius / r
+          node.x *= scale
+          node.y *= scale
+          if (node.vx && node.vy) {
+            node.vx *= -0.5
+            node.vy *= -0.5
+          }
+        }
+      }
+    })
+    .on("tick", () => {
+      // Log positions every 100 ticks to avoid console spam
+      if (simulation.tick() % 100 === 0) {
+        console.log("Simulation tick:", {
+          sampleContentNode: {
+            id: contentNodes[0].id,
+            x: contentNodes[0].x,
+            y: contentNodes[0].y,
+            vx: contentNodes[0].vx,
+            vy: contentNodes[0].vy
+          }
+        })
+      }
+    })
 
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
@@ -198,7 +336,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      return computedStyleMap["--tertiary"]
     }
   }
 
@@ -206,6 +344,10 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
+    // Make topic tags larger
+    if (d.id.startsWith("tags/") && isTopicTag(d.id)) {
+      return 8 + Math.sqrt(numLinks)  // Bigger radius for topic tags
+    }
     return 2 + Math.sqrt(numLinks)
   }
 
@@ -259,7 +401,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         alpha = l.active ? 1 : 0.2
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--light"]
+      l.color = l.active ? "#D3D3D3" : "#36454F" // computedStyleMap["--gray"] : computedStyleMap["--light"]
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -358,6 +500,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     resolution: window.devicePixelRatio,
     eventMode: "static",
   })
+  
+  // Add a data attribute to track which container this canvas belongs to
+  app.canvas.setAttribute('data-graph-container', container)
   graph.appendChild(app.canvas)
 
   const stage = app.stage
@@ -379,10 +524,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
-        fill: computedStyleMap["--dark"],
+        fill: "#fef9eb", // computedStyleMap["--dark"],
         fontFamily: computedStyleMap["--bodyFont"],
+        stroke: "#000000",
+        strokeThickness: 0.5,
+        lineJoin: "round",
       },
-      resolution: window.devicePixelRatio * 4,
+      resolution: window.devicePixelRatio * 6,
     })
     label.scale.set(1 / scale)
 
@@ -396,8 +544,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
-      .stroke({ width: isTagNode ? 2 : 0, color: color(n) })
+      .fill({ color: isTopicTag(n.id) ? "#181D21" : (isTagNode ? "#666666" : color(n)) })
+      .stroke({ 
+        width: isTopicTag(n.id) ? 3 : (isTagNode ? 2 : 0.5), 
+        color: isTopicTag(n.id) ? "#FFA500" : (isTagNode ? "#ffffff" : "#000000"),
+      })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -435,7 +586,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
-      color: computedStyleMap["--light"],
+      color: "#36454F", // computedStyleMap["--light"],
       alpha: 1,
       active: false,
     }
@@ -444,12 +595,20 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   }
 
   let currentTransform = zoomIdentity
+    .translate(width/2, height/2)  // Center the view
+    .scale(Math.min(width, height) / (radius * 2.5))  // Scale to fit all nodes
+
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
         .container(() => app.canvas)
-        .subject(() => graphData.nodes.find((n) => n.id === hoveredNodeId))
+        .subject(() => {
+          const node = graphData.nodes.find((n) => n.id === hoveredNodeId)
+          // Don't allow dragging of topic tag nodes
+          return node && !isTopicTag(node.id) ? node : null
+        })
         .on("start", function dragstarted(event) {
+          if (!event.subject) return // Skip if no valid drag subject
           if (!event.active) simulation.alphaTarget(1).restart()
           event.subject.fx = event.subject.x
           event.subject.fy = event.subject.y
@@ -497,7 +656,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           [0, 0],
           [width, height],
         ])
-        .scaleExtent([0.25, 8])
+        .scaleExtent([0.125, 8])
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
@@ -539,7 +698,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
       l.gfx
         .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 1, color: l.color })
+        .stroke({ alpha: l.alpha, width: 0.25, color: l.color })
     }
 
     tweens.forEach((t) => t.update(time))
@@ -592,3 +751,4 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
 })
+

@@ -10,7 +10,7 @@ journal: Journal of Digital Knowledge Management
 volume: "15"
 issue: "2"
 pages: 123-145
-publish: false
+publish: true
 publisher: Academic Publishing House
 publisherLocation: Cambridge, MA
 edition: 2nd
@@ -30,6 +30,26 @@ degree: PhD
 reference:
   - "[[Untitled 1]]"
   - "[[Test Paper 2]]"
+tags:
+  - CHEM/0001
+  - CHEM/0002
+  - CHEM/0003
+  - CHEM/0004
+  - CHEM/0005
+  - ECON/MICR
+  - ECON/MACR
+  - ECON/MISC
+  - ECON/POLI
+  - ECON/TECH
+  - MISC/0001
+  - MISC/0002
+  - MISC/0003
+  - MISC/0004
+  - MISC/0005
+  - MISC/0006
+  - MISC/0007
+  - MISC/0008
+  - MISC/0009
 ---
 
 Your article content goes here...
@@ -47,3 +67,21 @@ title={The Evolution of Digital Gardens: A Comprehensive Analysis},
 author={},
 year={undefined}
 }
+
+#ECON/MICR
+#ECON/MACR
+#ECON/MISC
+#ECON/POLI
+#ECON/TECH
+#CHEM/MOLE
+#CHEM/PHYS
+#CHEM/SYNT
+#CHEM/BIOL
+#CHEM/MISC
+#CHEM/TECH
+#CHEM/POLI
+#CHEM/0001
+#CHEM/0002
+#CHEM/0003
+#CHEM/0004
+#CHEM/0005

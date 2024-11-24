@@ -55,7 +55,7 @@
 
     & > #global-graph-container {
       border: 1px solid var(--dark);
-      background-color: var(--lightgray);
+      background-color: #181D21; // var(--lightgray);
       border-radius: 10px;
       box-sizing: border-box;
       position: fixed;
@@ -64,6 +64,12 @@
       transform: translate(-50%, -50%);
       height: 80vh;
       width: 80vw;
+      overflow: hidden;
+
+      canvas {
+        width: 100% !important;
+        height: 100% !important;
+      }
 
       @media all and (max-width: $fullPageWidth) {
         width: 90%;
