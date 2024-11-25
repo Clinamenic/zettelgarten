@@ -629,7 +629,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
   let currentTransform = zoomIdentity
     .translate(width/2, height/2)
-    .scale(0.25)
+    .scale(container === "global-graph-container" ? 0.125 : 1.0)
+    .translate(-width/2, -height/2)
 
   // Apply initial transform to stage
   stage.scale.set(currentTransform.k, currentTransform.k)
@@ -714,7 +715,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     // Set initial transform to center the graph
     const initialTransform = zoomIdentity
       .translate(width/2, height/2)
-      .scale(0.125)
+      .scale(container === "global-graph-container" ? 0.125 : 1.0)
       .translate(-width/2, -height/2)
 
     select<HTMLCanvasElement, NodeData>(app.canvas)
@@ -803,48 +804,52 @@ const container = document.getElementById("global-graph-outer")
 const sidebar = container?.closest(".sidebar") as HTMLElement
 
 async function renderGlobalGraph() {
-  const slug = getFullSlug(window)
-  container?.classList.add("active")
-  if (sidebar) {
-    sidebar.style.zIndex = "1"
-  }
-
-  // Get the global graph container
-  const graphContainer = document.getElementById("global-graph-container")
-  if (!graphContainer) return
-
-  // Make sure the container has the necessary configuration data
-  if (!graphContainer.dataset.cfg) {
-    graphContainer.dataset.cfg = JSON.stringify({
-      drag: true,
-      zoom: true,
-      depth: -1,  // Show all nodes
-      scale: 1.1,
-      repelForce: 0.5,
-      centerForce: 0.3,
-      linkDistance: 30,
-      fontSize: 0.6,
-      opacityScale: 1,
-      removeTags: [],
-      showTags: true,
-      focusOnHover: false,
-    })
-  }
-
-  await renderGraph("global-graph-container", slug)
+  if (container?.classList.contains("rendering")) return
+  container?.classList.add("rendering")
   
-  // Update click/touch event listener for the container
-  const handleOutsideInteraction = (e: MouseEvent | TouchEvent) => {
-    const target = e.target as HTMLElement
-    if (target === container) {
-      hideGlobalGraph()
-      container.removeEventListener('click', handleOutsideInteraction)
-      container.removeEventListener('touchend', handleOutsideInteraction)
+  try {
+    const slug = getFullSlug(window)
+    container?.classList.add("active")
+    if (sidebar) {
+      sidebar.style.zIndex = "1"
     }
+    
+    // Get the global graph container
+    const graphContainer = document.getElementById("global-graph-container")
+    if (!graphContainer) return
+
+    // Make sure the container has the necessary configuration data
+    if (!graphContainer.dataset.cfg) {
+      graphContainer.dataset.cfg = JSON.stringify({
+        drag: true,
+        zoom: true,
+        depth: -1,  // Show all nodes
+        scale: 1.1,
+        repelForce: 0.5,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 0.6,
+        opacityScale: 1,
+        removeTags: [],
+        showTags: true,
+        focusOnHover: false,
+      })
+    }
+
+    // Add click event listener to the container
+    const handleOutsideClick = (e: MouseEvent) => {
+      if (e.target === container) {
+        hideGlobalGraph()
+        // Remove the event listener after hiding
+        container.removeEventListener('click', handleOutsideClick)
+      }
+    }
+    container?.addEventListener('click', handleOutsideClick)
+
+    await renderGraph("global-graph-container", slug)
+  } finally {
+    container?.classList.remove("rendering")
   }
-  
-  container?.addEventListener('click', handleOutsideInteraction)
-  container?.addEventListener('touchend', handleOutsideInteraction)
 }
 
 function hideGlobalGraph() {
@@ -865,8 +870,13 @@ async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
 // Update the global graph icon event listeners
 const containerIcon = document.getElementById("global-graph-icon")
 const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
-  e.preventDefault() // Prevent double-firing on mobile
-  renderGlobalGraph()
+  e.preventDefault() // Prevent default behavior
+  e.stopPropagation() // Stop event bubbling
+  
+  // Delay rendering slightly to ensure event handling is complete
+  setTimeout(() => {
+    renderGlobalGraph()
+  }, 10)
 }
 
 containerIcon?.addEventListener("click", handleGraphIconClick)
