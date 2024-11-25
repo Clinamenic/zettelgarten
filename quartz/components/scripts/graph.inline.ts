@@ -870,8 +870,17 @@ async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
 // Update the global graph icon event listeners
 const containerIcon = document.getElementById("global-graph-icon")
 const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
-  e.preventDefault() // Prevent default behavior
-  e.stopPropagation() // Stop event bubbling
+  // Ensure we prevent default behavior and stop propagation
+  e.preventDefault()
+  e.stopPropagation()
+  
+  // Add touchend handling
+  if (e.type === 'touchend') {
+    // Prevent ghost click
+    e.preventDefault()
+    // Prevent any parent handlers
+    e.stopPropagation()
+  }
   
   // Delay rendering slightly to ensure event handling is complete
   setTimeout(() => {
@@ -879,8 +888,11 @@ const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
   }, 10)
 }
 
-containerIcon?.addEventListener("click", handleGraphIconClick)
-containerIcon?.addEventListener("touchend", handleGraphIconClick)
+// Add both click and touch handlers
+containerIcon?.addEventListener("click", handleGraphIconClick, { passive: false })
+containerIcon?.addEventListener("touchend", handleGraphIconClick, { passive: false })
+
+// Clean up event listeners
 window.addCleanup(() => {
   containerIcon?.removeEventListener("click", handleGraphIconClick)
   containerIcon?.removeEventListener("touchend", handleGraphIconClick)
