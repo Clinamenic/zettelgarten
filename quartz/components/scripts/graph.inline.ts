@@ -833,14 +833,18 @@ async function renderGlobalGraph() {
 
   await renderGraph("global-graph-container", slug)
   
-  // Add click event listener to the container
-  const handleOutsideClick = (e: MouseEvent) => {
-    if (e.target === container) {
+  // Update click/touch event listener for the container
+  const handleOutsideInteraction = (e: MouseEvent | TouchEvent) => {
+    const target = e.target as HTMLElement
+    if (target === container) {
       hideGlobalGraph()
-      container.removeEventListener('click', handleOutsideClick)
+      container.removeEventListener('click', handleOutsideInteraction)
+      container.removeEventListener('touchend', handleOutsideInteraction)
     }
   }
-  container?.addEventListener('click', handleOutsideClick)
+  
+  container?.addEventListener('click', handleOutsideInteraction)
+  container?.addEventListener('touchend', handleOutsideInteraction)
 }
 
 function hideGlobalGraph() {
@@ -858,10 +862,19 @@ async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
   }
 }
 
-// Set up event listeners immediately
+// Update the global graph icon event listeners
 const containerIcon = document.getElementById("global-graph-icon")
-containerIcon?.addEventListener("click", renderGlobalGraph)
-window.addCleanup(() => containerIcon?.removeEventListener("click", renderGlobalGraph))
+const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
+  e.preventDefault() // Prevent double-firing on mobile
+  renderGlobalGraph()
+}
+
+containerIcon?.addEventListener("click", handleGraphIconClick)
+containerIcon?.addEventListener("touchend", handleGraphIconClick)
+window.addCleanup(() => {
+  containerIcon?.removeEventListener("click", handleGraphIconClick)
+  containerIcon?.removeEventListener("touchend", handleGraphIconClick)
+})
 
 document.addEventListener("keydown", shortcutHandler)
 window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
