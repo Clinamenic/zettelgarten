@@ -30,7 +30,7 @@ A second emerging cluster has to do with identifying theoretical politico-econom
 
 ### Cluster 3: Onchain Ecosystem
 
-A third emerging cluster has to do with technical matters around how smart contracts can be used for organization design ([[What Are Onchain Organizations?]]; [[Pre-Constitutional Governance]]), public goods funding ([[Progressive Public Goods Funding]]), impact assessment ([[DRAFT Ontological Prospectus of the Onchain Impact Economy]]), and various other mechanisms and processes which could factor into a new programmatic economic order. This front of inquiry will hopefully inform a technical praxis around private-sector welfare programs, and, more generally, how a new "programmatically liberal" economic order may be established
+A third emerging cluster has to do with technical matters around how smart contracts can be used for organization design ([[What Are Onchain Organizations?]]; [[Pre-Constitutional Governance]]), public goods funding ([[Progressive Public Goods Funding]]), impact assessment ([[DRAFT Methodology for Ecosystem Funding and Impact Assessment]]), and various other mechanisms and processes which could factor into a new programmatic economic order. This front of inquiry will hopefully inform a technical praxis around private-sector welfare programs, and, more generally, how a new "programmatically liberal" economic order may be established
 
 ### Cluster 4: Discourse Methodology
 

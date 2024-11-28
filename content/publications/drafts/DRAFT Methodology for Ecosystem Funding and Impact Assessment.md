@@ -3,13 +3,13 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 title: DRAFT Ontological Prospectus of the Onchain Impact Economy
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
-draft started: 0024-06-28
-date:
+draftStart: 0024-06-28
+date: 
 license: CC BY-SA 4.0
 sponsor: LexDAO, SuperBenefitDAO
-arweaveHash:
-tags:
-uuid:
+arweaveHash: 
+tags: 
+uuid: 
 publish: true
 quartzShowCitation: true
 quartzShowFlex: true
@@ -226,7 +226,7 @@ Below is visual representation of a CIDS schema for an organization, building up
 
 ## Section 2 - Challenges
 
-Having provided some fundamental context to orient our inquiry, we will now advance to address the various challenges faced by the communities and institutions implementing this technology in philanthropic capacities. These challenges are not presented as comprehensive in nature, but are intended to broadly span the technical, operational, and financial dimensions of the ecosystems in question.
+Having provided some fundamental context to orient our inquiry, we will now advance to address the various challenges faced by the communities and institutions implementing this technology in philanthropic capacities. These challenges are not presented as comprehensive in nature, but are intended to broadly span the technical, operational, and financial dimensions of the ecosystems in question. Additionally, while many of the following challenges specifically pertain to onchain philanthropy, the scope of this survey is ultimately broader than blockchain-based solutions. 
 
 ### 2.1 - Technical Challenges
 
@@ -234,19 +234,45 @@ Many of the challenges under consideration in this section are directly or indir
 
 #### User Experience & Accessibility
 
-Text here
+Because many of the solutions under consideration involve early-stage technologies which are rapidly evolving, our collective understanding of them is constantly in flux. At the forefront of innovation, the collective sensemaking and dialogues naturally tend to be limited to specialists, and additional efforts need to be made to communicate learnings and discoveries across a knowledge gap, to the general public. 
+
+One symptom of this early stage of development is the state of user interfaces, and of user experience (UX) more broadly. As a manifestation of the aforementioned knowledge gap, these early-stage user interfaces often assume a degree of technical familiarity on behalf of the user, a degree of familiarity which cannot reasonably be expected from the general public. 
+
+While the existence and widening of this knowledge gap can indicate technical progress and industrial maturation, such progress is certainly not without its limiting factors. The realization of the potential of a technology, at scale, tends to require a UX which accommodates the technical literacy of its target users. 
+
+One can view this through the lens of UX development, streamlining the UX to accommodate the existing average user literacy, or one can view this process through the lens of user education, bringing the average user literacy closer to the existing UX. The former is more along the lines of product-market fit, developing a product to suit the needs of an established addressable market, while the latter is more along the lines of market-product fit, cultivating a market to suit the capabilities of a novel product.
+
+In actuality, with emerging technology, we tend to see a combination of the two. However, it is worth remembering that while even the combination of UX development and user education can help bridge this gap, the gap itself tends to widen as the technology undergoes innovation. Such innovation tends to entail the state of the art advancing deeper into specialized territories of knowledge. That said, sometimes breakthroughs are made which fundamentally simplify a technology, or at least the discourse around a technology.
+
+This is all to contextualize one of the more glaring challenges facing the onchain philanthropy sector in particular, namely that the apps in this industry tend to have a UX which is too complex for many would-be users, thus setting a firm ceiling on the scalability of the underlying infrastructure. 
 
 #### Sybil Resistance
 
-Text here
+Some of the above technologies and methods incentivize mass participation by treating popularity as a proxy for value assignment. Quadratic funding, for example, tends to treat the number of donors as a determinant of funding outcomes. 
+
+This dynamic tends to introduce the risk of Sybil attacks, or events wherein individuals fraudulently operate multiple accounts to manipulate outcomes. In the case of quadratic voting, this takes the form of individuals making multiple accounts to donate small sums to grantees, in order to unduly multiply the matching funds received by said grantees. 
+
+In the case of quadratic funding, additional protective measures have been developed to mitigate or screen out Sybil attacks, resulting in something of an arms race between defensive protocol design and offensive financial fraudulence. 
+
+Below are highlighted some examples of these defensive measures, which each bring their own strengths and weaknesses. Here, it is worth bearing in mind the aforementioned challenge of UX, namely that the introduction of additional technical features can risk raising the technical barrier to entry, thus increasing the burden placed on UX development. That said, if a community or institution decides to use quadratic funding or comparable processes which reward mass participation, the threat of Sybil attacks is real and costly. The challenge, of mitigating fraudulent engagement while maximizing accessibility, is starkly manifest. 
 
 ##### Gitcoin Passport
 
-Text here
+The Gitcoin community has been the methodological pioneer and developmental epicenter of quadratic funding, and thus they also play a leading role in addressing the challenges specific to quadratic funding. 
+
+[Gitcoin Passport](https://app.passport.xyz/#/) is one solution they developed in response to Sybil attacks. In essence, it is a user verification process intended to enable grant round operators to identify donors who have a high likelihood of being a real, individual person. Instead of letting all donations be eligible for matching funds, grant round operators can configure their grant round to only match donations from users with Gitcoin Passport. 
+
+Specifically, Gitcoin Passport involves a number of third-party account verification processes, each resulting in a "badge" earned by the passport holder. The user can verify their accounts and activities on other protocols and platforms, both onchain and offchain, to earn badges which add points to their passport score. For example, the user may earn points by connecting a LinkedIn account, having voted on a DAO proposal, having over 100 transactions on Ethereum, or various other things. Once the user accrues enough points to surpass a specified threshold, they are deemed a unique individual.
+
+This is an entirely optional feature for those who want to use Allo Protocol and Grants Stack to run their own grant rounds, but where it succeeds in blocking users who would otherwise mobilize puppet accounts, it also succeeds in blocking users who lack the time or literacy to navigate an admittedly complex multi-step verification process. 
 
 ##### Connection-Oriented Cluster Matching
 
-Text here
+Another innovative anti-Sybil solution originating from Gitcoin is [Connection-Oriented Cluster Mapping](https://www.gitcoin.co/blog/leveling-the-field-how-connection-oriented-cluster-matching-strengthens-quadratic-funding) (COCM), an algorithmic analytical process designed to detect potential collusion activity in quadratic funding rounds.  
+
+This process maps out relational data between donors and the grantee projects which receive donations, in order to identify suspicious donation activity and allocate matching funds accordingly. COCM rewards projects which receive donations from a diverse body of donors, meaning donors who exhibit diverse donation activity. 
+
+For example, a project which receives donations, from donors who each only give to that one project and thus exhibit similar donation activity, will receive a smaller matching amount than a project which receives donations from donors who each donate to a variety of projects and thus exhibit diverse donation activity. 
 
 #### Compliance and KYC
 
@@ -256,7 +282,7 @@ Text here
 
 Text here
 
-### 2.3 - Financial Challenges
+### 2.3 - Economic Challenges
 
 Text here
 
@@ -294,24 +320,11 @@ Text here
 
 Text here
 
-### 3.1 - Hypothetical Funding Processes
-
-Text here
-
-#### Progressive Public Goods Funding
-
-text here
-
-#### Continuous Funding Streams
-
-Text here
-Consolidate [[ARCHIVE Impact-Weighted Funding for Public Goods]] into this section
-
-### 3.2 - Unified Ontology for Impact Reporting
+### 3.1 - Unified Ontology for Impact Reporting
 
 Text here, Common Impact Data Standards
 
-### 3.3 - A Peer-to-Peer Parafiscal Paradigm
+### 3.2 - A Peer-to-Peer Parafiscal Paradigm
 
 Text here
 
@@ -343,6 +356,7 @@ Text here
 - Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
 - Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
 - Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
+- Schrott, L. P. (2024). [Leveling the Field: How Connection-Oriented Cluster Matching Strengthens Quadratic Funding](https://www.gitcoin.co/blog/leveling-the-field-how-connection-oriented-cluster-matching-strengthens-quadratic-funding). Gitcoin blog.
 - Waqar, M., ZER8 (2024). [Web3 Grant Program Research and Analysis](https://docsend.com/view/rxs93u4s5sb93xck).
 - wheebill (2024, September 18). [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
 

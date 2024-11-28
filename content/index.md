@@ -82,7 +82,7 @@ quartzShowGraph: true
 
 ### Current Drafts
 
-- [[DRAFT Ontological Prospectus of the Onchain Impact Economy]]
+- [[DRAFT Methodology for Ecosystem Funding and Impact Assessment]]
 
 ### Canvassing
 
