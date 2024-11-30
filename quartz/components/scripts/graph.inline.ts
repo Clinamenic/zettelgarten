@@ -114,6 +114,34 @@ if (!window.addCleanup) {
   })
 }
 
+// Add this function at the top level
+function getGraphContainer(container: string) {
+  const graphContainer = document.getElementById(container)
+  if (!graphContainer) return null
+  
+  // If this is the global graph, ensure it's visible temporarily to get dimensions
+  if (container === "global-graph-container") {
+    const globalOuter = document.getElementById("global-graph-outer")
+    const wasActive = globalOuter?.classList.contains("active")
+    if (!wasActive) {
+      globalOuter?.classList.add("active")
+    }
+    const dims = {
+      width: graphContainer.offsetWidth,
+      height: graphContainer.offsetHeight
+    }
+    if (!wasActive) {
+      globalOuter?.classList.remove("active")
+    }
+    return dims
+  }
+  
+  return {
+    width: graphContainer.offsetWidth,
+    height: Math.max(graphContainer.offsetHeight, 250)
+  }
+}
+
 async function renderGraph(container: string, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
@@ -122,6 +150,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   
   // Clean up any existing canvases first
   removeAllChildren(graph)
+  
+  // Get dimensions before initializing
+  const dims = getGraphContainer(container)
+  if (!dims) return
+  
+  const width = dims.width
+  const height = dims.height
   
   // Also remove any canvas elements that might have been appended outside the container
   const existingCanvases = document.querySelectorAll(`canvas[data-graph-container="${container}"]`)
@@ -334,9 +369,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         })
       }
     })
-
-  const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -799,52 +831,52 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   }
 }
 
-// Move these functions and event listeners outside the "nav" event handler
-const container = document.getElementById("global-graph-outer")
-const sidebar = container?.closest(".sidebar") as HTMLElement
+// Instead of storing as module-level constants, create getter functions
+function getContainer() {
+  return document.getElementById("global-graph-outer")
+}
+
+function getSidebar() {
+  return getContainer()?.closest(".sidebar") as HTMLElement
+}
 
 async function renderGlobalGraph() {
+  const container = getContainer()
   if (container?.classList.contains("rendering")) return
   container?.classList.add("rendering")
   
   try {
     const slug = getFullSlug(window)
+    
+    // Clean up any existing event listeners first
+    container?.removeEventListener('click', handleOutsideClick)
+    
+    // Explicitly set visibility and display
+    if (container) {
+      container.style.visibility = 'visible'
+      container.style.display = 'block'
+      container.style.backdropFilter = 'blur(4px)'
+      container.style.webkitBackdropFilter = 'blur(4px)' // For Safari support
+      
+      // Add click outside handler
+      container.addEventListener('click', handleOutsideClick)
+    }
     container?.classList.add("active")
+    
+    const sidebar = getSidebar()
     if (sidebar) {
       sidebar.style.zIndex = "1"
     }
     
-    // Get the global graph container
     const graphContainer = document.getElementById("global-graph-container")
-    if (!graphContainer) return
-
-    // Make sure the container has the necessary configuration data
-    if (!graphContainer.dataset.cfg) {
-      graphContainer.dataset.cfg = JSON.stringify({
-        drag: true,
-        zoom: true,
-        depth: -1,  // Show all nodes
-        scale: 1.1,
-        repelForce: 0.5,
-        centerForce: 0.3,
-        linkDistance: 30,
-        fontSize: 0.6,
-        opacityScale: 1,
-        removeTags: [],
-        showTags: true,
-        focusOnHover: false,
-      })
+    if (!graphContainer) {
+      console.error("Debug - Graph container not found")
+      return
     }
 
-    // Add click event listener to the container
-    const handleOutsideClick = (e: MouseEvent) => {
-      if (e.target === container) {
-        hideGlobalGraph()
-        // Remove the event listener after hiding
-        container.removeEventListener('click', handleOutsideClick)
-      }
-    }
-    container?.addEventListener('click', handleOutsideClick)
+    // Make sure graph container is also visible
+    graphContainer.style.visibility = 'visible'
+    graphContainer.style.display = 'block'
 
     await renderGraph("global-graph-container", slug)
   } finally {
@@ -852,8 +884,25 @@ async function renderGlobalGraph() {
   }
 }
 
+const handleOutsideClick = (e: MouseEvent) => {
+  const container = getContainer()
+  if (e.target === container) {
+    hideGlobalGraph()
+  }
+}
+
 function hideGlobalGraph() {
-  container?.classList.remove("active")
+  const container = getContainer()
+  const sidebar = getSidebar()
+  
+  if (container) {
+    container.style.visibility = 'hidden'
+    container.style.display = 'none'
+    container.style.backdropFilter = 'none'
+    container.style.webkitBackdropFilter = 'none'
+    container.classList.remove("active")
+    container.removeEventListener('click', handleOutsideClick)
+  }
   if (sidebar) {
     sidebar.style.zIndex = "unset"
   }
@@ -862,32 +911,29 @@ function hideGlobalGraph() {
 async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
   if (e.key === "g" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
     e.preventDefault()
-    const globalGraphOpen = container?.classList.contains("active")
+    const globalGraphOpen = getContainer()?.classList.contains("active")
     globalGraphOpen ? hideGlobalGraph() : renderGlobalGraph()
   }
 }
 
 // Update the global graph icon event listeners
-const containerIcon = document.getElementById("global-graph-icon")
 const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
-  // Ensure we prevent default behavior and stop propagation
+  console.log("Debug - Graph Icon Clicked")
   e.preventDefault()
   e.stopPropagation()
   
-  // Add touchend handling
   if (e.type === 'touchend') {
-    // Prevent ghost click
     e.preventDefault()
-    // Prevent any parent handlers
     e.stopPropagation()
   }
   
-  // Delay rendering slightly to ensure event handling is complete
+  console.log("Debug - Before renderGlobalGraph call")
   setTimeout(() => {
     renderGlobalGraph()
   }, 10)
 }
 
+const containerIcon = document.getElementById("global-graph-icon")
 // Add both click and touch handlers
 containerIcon?.addEventListener("click", handleGraphIconClick, { passive: false })
 containerIcon?.addEventListener("touchend", handleGraphIconClick, { passive: false })
@@ -906,5 +952,14 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
   await renderGraph("graph-container", slug)
+})
+
+// Add this near the other event listeners
+document.addEventListener("nav", () => {
+  // Clean up global graph state when navigating
+  const container = getContainer()
+  if (container?.classList.contains("active")) {
+    hideGlobalGraph()
+  }
 })
 

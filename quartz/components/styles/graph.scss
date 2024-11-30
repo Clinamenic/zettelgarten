@@ -46,11 +46,11 @@
     width: 100vw;
     height: 100%;
     backdrop-filter: blur(4px);
-    display: none;
+    visibility: hidden;
     overflow: hidden;
 
     &.active {
-      display: inline-block;
+      visibility: visible;
     }
 
     & > #global-graph-container {
