@@ -10,7 +10,7 @@ journal: International Journal of Cryptographic Engineering
 volume: "28"
 issue: "4"
 pages: 412-438
-publish: false
+publish: true
 publisher: Technical Publishing Group
 publisherLocation: London, UK
 edition: 1st
@@ -23,10 +23,20 @@ keywords:
   - cryptography
   - machine learning
   - security systems
+reference:
+  - "[[Test Paper]]"
+  - "[[Lecture Log]]"
 license: CC BY-SA 4.0
 institution: Stanford University
 department: Department of Computer Science
 degree: PhD
+tags:
+  - BIOL/MOLE
+  - BIOL/GENE
+  - BIOL/CELL
+  - ECON/MICR
+  - ECON/MACR
+  - PHIL/ETHI
 ---
 
 Test content

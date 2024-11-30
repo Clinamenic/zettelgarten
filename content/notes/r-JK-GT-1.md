@@ -1,13 +1,14 @@
 ---
-title: 
-date: 2024-08-16
 author: Spencer Saar Cavanaugh
+date: 2024-08-16
 internalRef:
-  - "[[The General Theory of Employment, Interest and Money]]"
+- '[[The General Theory of Employment, Interest and Money]]'
 publish: true
-uuid: 
 tags:
-  - r/JK/GT
+- r/JK/GT
+title: null
+uuid: 650d79fb-8a18-45eb-ad80-cfddd1b1ac72
+
 ---
 
 Keynes states that the classical theory around value and production does touch upon unemployed resources but that the theory does not fundamentally account for incomplete employment of resources.

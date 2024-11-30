@@ -28,7 +28,7 @@ institution: Massachusetts Institute of Technology
 department: Department of Digital Media
 degree: PhD
 reference:
-  - "[[Untitled 1]]"
+  - "[[Lecture Log]]"
   - "[[Test Paper 2]]"
 tags:
   - CHEM/0001
@@ -52,36 +52,6 @@ tags:
   - MISC/0009
 ---
 
-Your article content goes here...
+[[index]]
 
-Smith, J. (2024). The Evolution of Digital Gardens: A Comprehensive Analysis: Personal Knowledge Management in the Modern Era. Journal of Digital Knowledge Management, 15(2), 123-145. https://doi.org/10.1234/jdkm.2024.15.2.123
-
-TY - JOUR
-T1 - The Evolution of Digital Gardens: A Comprehensive Analysis
-AU -
-PY - undefined
-ER -
-
-@article{
-title={The Evolution of Digital Gardens: A Comprehensive Analysis},
-author={},
-year={undefined}
-}
-
-#ECON/MICR
-#ECON/MACR
-#ECON/MISC
-#ECON/POLI
-#ECON/TECH
-#CHEM/MOLE
-#CHEM/PHYS
-#CHEM/SYNT
-#CHEM/BIOL
-#CHEM/MISC
-#CHEM/TECH
-#CHEM/POLI
-#CHEM/0001
-#CHEM/0002
-#CHEM/0003
-#CHEM/0004
-#CHEM/0005
+test

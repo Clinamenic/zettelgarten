@@ -1,19 +1,21 @@
 ---
+arweaveHash: null
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-title: DRAFT Ontological Prospectus of the Onchain Impact Economy
-subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
+date: null
 draftStart: 0024-06-28
-date: 
 license: CC BY-SA 4.0
-sponsor: LexDAO, SuperBenefitDAO
-arweaveHash: 
-tags: 
-uuid: 
 publish: true
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+sponsor: LexDAO, SuperBenefitDAO
+subtitle: Preliminary survey of existing practices and challenges to inform an ontologically
+  integrated paradigm for distributed impact assessment.
+tags: null
+title: DRAFT Ontological Prospectus of the Onchain Impact Economy
+uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
+
 ---
 
 ## Acknowledgments
