@@ -255,24 +255,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // Calculate radius based on content nodes count
   const radius = Math.max(Math.sqrt(contentNodes.length) * linkDistance * 3, 200)
 
-  // After filtering nodes
-  console.log("Initial node counts:", {
-    total: nodes.length,
-    tags: tagNodes.length,
-    content: contentNodes.length,
-    firstContent: contentNodes[0]
-  })
 
   // Split tag nodes into topic tags and regular tags
   const topicTagNodes = tagNodes.filter(n => isTopicTag(n.id))
   const regularTagNodes = tagNodes.filter(n => !isTopicTag(n.id))
 
-  // Add debug logging
-  console.log("Topic tag nodes:", {
-    total: topicTagNodes.length,
-    first: topicTagNodes[0],
-    nodes: topicTagNodes.map(n => ({id: n.id, fx: n.fx, fy: n.fy}))
-  })
 
   // Position topic tags in the outer circle
   topicTagNodes.forEach((node, i) => {
@@ -280,20 +267,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     node.fx = pos.x
     node.fy = pos.y
     
-    // Add debug logging for this specific tag
-    if (node.id.includes('CHEM')) {
-      console.log(`CHEM tag position:`, {
-        id: node.id,
-        index: i,
-        total: topicTagNodes.length,
-        position: pos,
-        radius: radius,
-        finalPos: {
-          fx: node.fx,
-          fy: node.fy
-        }
-      })
-    }
   })
 
   // Initialize regular tags and content nodes with valid starting positions
@@ -307,10 +280,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     node.vy = 0
   })
 
-  console.log("After position initialization:", {
-    sampleTag: tagNodes[0],
-    sampleContent: contentNodes[0]
-  })
 
   // Modify simulation setup
   const simulation: Simulation<NodeData, LinkData> = forceSimulation(graphData.nodes)
@@ -785,7 +754,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // Add logo as background sprite
   if (container === "global-graph-container") {
     try {
-      console.log("Attempting to load logo...")
       
       // Use the existing backgroundContainer that was created earlier
       const texture = await PIXI.Assets.load({
@@ -918,7 +886,6 @@ async function shortcutHandler(e: HTMLElementEventMap["keydown"]) {
 
 // Update the global graph icon event listeners
 const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
-  console.log("Debug - Graph Icon Clicked")
   e.preventDefault()
   e.stopPropagation()
   
@@ -927,7 +894,6 @@ const handleGraphIconClick = (e: MouseEvent | TouchEvent) => {
     e.stopPropagation()
   }
   
-  console.log("Debug - Before renderGlobalGraph call")
   setTimeout(() => {
     renderGlobalGraph()
   }, 10)

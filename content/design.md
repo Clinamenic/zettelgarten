@@ -4,6 +4,9 @@ hideGraph: false
 hideTitle: true
 keywords: clinamenic, design, spencer saar cavanaugh, clinamenic LLC
 publish: true
+quartzShowCitation: false
+quartzShowFlex: false
+quartzShowGraph: true
 tags: null
 title: Design | Clinamenic LLC
 ---
@@ -78,48 +81,58 @@ title: Design | Clinamenic LLC
 
 <div class="gallery4">
           <img
-            src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmRMms5sWJXu3P3tRErfTim5KDXosh3grF9TGDDPMeQGZ1"
+            src="https://arweave.net/yLPZGK3KHwEjMEOKXtjzW9ORWTLhGWlA5JbOtUn-3IQ"
             class="gallery-img"
             alt="PubDAO"
           />
           <img
-            src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmQfkWX2q4tnAKTjwd7fak4MHUt3R5tPTnMvDYTRU8oUqX"
+            src="https://arweave.net/3TAVprqLnvqjGYYg8nAP_g3McwdWK9DMxk0UW2ZQwsk"
             class="gallery-img"
             alt="Lobby3"
           />
           <img
-            src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmcpgYvZo7fL5DK6BwBV7WvEjwTtBbZBFRDiMjxxJQaMAS"
+            src="https://arweave.net/Hxdks3FGsej1el1_kmPLNaMfQOUMiv30z47PfeCj4IM"
             class="gallery-img"
             alt="JournoDAO"
           />
           <img
-            src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmcRV7AJEGd9PN6bSVPwH1ArJuHJyy4wFjN1YYjwKaQjkh"
+            src="https://arweave.net/-ccfrMYluDqy0chV6f_Uq3BRmDK1CYuqLviNE1IXNAw"
             class="gallery-img"
             alt="DAO Coalition"
           />
           <img
-            src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmTVUAbNQQvMaUFV44jUg9ybKToUMKnxnrsPotj3ged4y8"
+            src="https://arweave.net/LV7qaov2G7j194NaRzia-gONRhErYAxfKxnp5HC1Fbc"
             class="gallery-img"
             alt="Lumen"
           />
           <img
-            src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmXpN45JzQpFUNa5H5f7kiW5fHY55pgp4RxCvEL1F39qbq"
+            src="https://arweave.net/2tt04MwrGVCIBX8DkaCcxkY7cOTLvvbgdrH-_A4R76w"
             class="gallery-img"
             alt="aes0p"
           />
           <img
-            src="https://pinata.clinamenic.com/ipfs/Qme7vjUxXWu5HtKAFBA6Fesjc9ipYA8g6oYLupMAxUZ8wP"
+            src="https://arweave.net/7fAZYimO6b4JWlrlU8L-OMGHYkDUXPmD_5Zw4V_6-YI"
             class="gallery-img"
             alt="Chiasma"
           />
           <img
-            src="https://pinata.clinamenic.com/ipfs/QmP2t97SyEDoa9KxGH86MemrXD22cgxMGbU5v3qY258HCm"
+            src="https://arweave.net/MTcov50p5gqybv9gFUK8UBqmhbaT_-nDBiRGiILnN3c"
             class="gallery-img"
             alt="DosiDAO"
           />
           <img
-            src="https://pinata.clinamenic.com/ipfs/QmQUxbFDpTBSTNPM2nBFRqUZmEeuVBXhWEMdmyUw2kX9eF"
+            src="https://arweave.net/XVFr82WjP9OUotbZpHvwsKxM5kvApMSsXYi02rsqx28"
             class="gallery-img"
             alt="Opus Collective"
+          />
+          <img
+            src="https://arweave.net/o3UVsU5OWVQOcO-4Hx3ws_jsSK7NWoO3qJspMqVwo0k"
+            class="gallery-img"
+            alt="LexDAO"
+          />
+          <img
+            src="https://arweave.net/wZivIrNiLsQn44oBV0VtKSCdzPob4-Pmkg8Lh9TRZ9Y"
+            class="gallery-img"
+            alt="Haight Street Archives"
           />
 </div>
