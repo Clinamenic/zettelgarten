@@ -17,6 +17,8 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
+    const isAbsoluteUrl = (str: string) => str.startsWith('http://') || str.startsWith('https://')
+
     const iconPath = fileData.frontmatter?.headIcon 
       ? isAbsoluteUrl(fileData.frontmatter.headIcon)
         ? fileData.frontmatter.headIcon
