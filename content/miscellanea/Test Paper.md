@@ -27,6 +27,9 @@ license: CC BY-SA 4.0
 institution: Massachusetts Institute of Technology
 department: Department of Digital Media
 degree: PhD
+headDescription: test description
+headIcon: https://arweave.net/yLPZGK3KHwEjMEOKXtjzW9ORWTLhGWlA5JbOtUn-3IQ
+headImage: https://arweave.net/yLPZGK3KHwEjMEOKXtjzW9ORWTLhGWlA5JbOtUn-3IQ
 reference:
   - "[[Lecture Log]]"
   - "[[Test Paper 2]]"
