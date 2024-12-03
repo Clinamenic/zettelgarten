@@ -12,6 +12,9 @@ tags:
 title: Prospectus of the Reconciliation of Individual Liberty and Collective Welfare
 uuid: 2c052cbc-a0fe-4585-86d5-7d6477db9eac
 publish: true
+headDescription: Considerations to inform a more cogent economic philosophy.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

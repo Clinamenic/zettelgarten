@@ -4,14 +4,16 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-03-05
 license: CC BY-SA 4.0
-subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice
-  template.
+subtitle: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
 tags:
   - personal-discourse
   - text
 title: A Crypto-Native Invoice Template
 uuid: e836933a-e99c-4c6a-abf3-9a03fe90f47c
 publish: true
+headDescription: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -5,7 +5,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2024-05-03
 license: CC BY-SA 4.0
-subtitle: null
+subtitle: Introductory remarks on an experimental mode of transparent discourse.
 tags:
   - personal-discourse
   - misc/auto-discourse
@@ -14,6 +14,9 @@ tags:
 title: A Primer on Auto-Discourse
 uuid: ae848434-8df1-4ffe-aa79-14e32ddd0878
 publish: true
+headDescription: Introductory remarks on an experimental mode of transparent discourse.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

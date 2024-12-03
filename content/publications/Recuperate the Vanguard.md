@@ -6,7 +6,7 @@ bannerURI: https://arweave.net/OlfYxTPNxpv3HKgFm0pQruQkzURTxy02Th141M9kDEI
 date: 2023-09-13
 hideGraph: false
 license: CC BY-SA 4.0
-subtitle: Free Market Collectivism via Self-Regulation in Emerging Technology Sectors
+subtitle: Free-market collectivism via self-regulation in emerging technology sectors.
 tags:
   - personal-discourse
   - misc/postcapitalism
@@ -14,6 +14,9 @@ tags:
 title: Recuperate the Vanguard
 uuid: e49b28e8-2b0f-4fa4-ac9d-0f294aa3c78c
 publish: true
+headDescription: Free-market collectivism via self-regulation in emerging technology sectors.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

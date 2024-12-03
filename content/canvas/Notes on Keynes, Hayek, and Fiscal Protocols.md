@@ -7,6 +7,12 @@ draft started: 2024-10-06
 type: canvas
 license: CC BY-SA 4.0
 publish: true
+headDescription: Peer-to-peer economic infrastructure to address foundational disagreements in the discourse.
+headIcon:
+headImage:
+quartzShowCitation: true
+quartzShowFlex: true
+quartzShowGraph: true
 subtitle: Peer-to-peer economic infrastructure to address foundational disagreements in the discourse.
 tags:
   - personal-discourse/log

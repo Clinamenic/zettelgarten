@@ -4,7 +4,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-09-25
 license: CC BY-SA 4.0
-subtitle: null
+subtitle: A hedge to better enable a "Code is Law" organizational policy.
 tags:
   - misc/bureaumancy
   - personal-discourse
@@ -12,6 +12,9 @@ tags:
 title: The Failsafe Commitee
 uuid: 707bafc0-4074-4ea1-98cd-ce7dd8e16961
 publish: true
+headDescription: A hedge to better enable a "Code is Law" organizational policy.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

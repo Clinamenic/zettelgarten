@@ -13,6 +13,9 @@ tags:
 title: Toward an Open-Access Service DAO
 uuid: 660f3943-8987-4bd3-9f49-dcd8b4cdee17
 publish: true
+headDescription:
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

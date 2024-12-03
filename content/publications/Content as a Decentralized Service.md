@@ -13,6 +13,9 @@ tags:
 title: Content as a Decentralized Service
 uuid: dc9a4759-964b-4ddd-8a38-ccd91e529eee
 publish: true
+headDescription:
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

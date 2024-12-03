@@ -12,6 +12,9 @@ tags:
 title: Wu Gwei, or Going with the Flow of Governance
 uuid: 37c66fd7-dc8a-4baa-a266-ec28b3a23983
 publish: true
+headDescription: Applying daoist and sociocratic principles to sensemaking and governance.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

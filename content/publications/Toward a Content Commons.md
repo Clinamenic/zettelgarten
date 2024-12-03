@@ -5,13 +5,16 @@ authorURL: https://www.clinamenic.com
 bannerURI: https://arweave.net/IDVBPcLEntrZ09zDqjzjk1ETPnHNeWKuMlQdTIELnTg
 date: 2023-11-01
 license: CC BY-SA 4.0
-subtitle: A Potential Solution to the Content Moderation Problem
+subtitle: A potential solution to the content moderation problem.
 tags:
   - personal-discourse
   - text
 title: Toward a Content Commons
 uuid: 2c7b519f-e30c-4677-9bea-8b667f0c3f22
 publish: true
+headDescription: A potential solution to the content moderation problem.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

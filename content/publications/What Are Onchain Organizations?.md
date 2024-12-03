@@ -4,15 +4,17 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-12-10
 license: CC BY-SA 4.0
-subtitle: Using smart contracts to design organizations and facilitate governance
-  processes.
+subtitle: Using smart contracts to design organizations and facilitate governance processes.
 tags:
-- personal-discourse
-- misc/bureaumancy
-- text
+  - personal-discourse
+  - misc/bureaumancy
+  - text
 title: What Are Onchain Organizations?
 uuid: 89cc2fdf-006b-456c-8349-dd9f8209d102
 publish: true
+headDescription: Using smart contracts to design organizations and facilitate governance processes.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

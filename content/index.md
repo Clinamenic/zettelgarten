@@ -5,6 +5,9 @@ keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zett
 publish: true
 tags: null
 title: Clinamenic LLC
+headDescription: A consultancy for the development of digital public infrastructure.
+headIcon:
+headImage:
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true

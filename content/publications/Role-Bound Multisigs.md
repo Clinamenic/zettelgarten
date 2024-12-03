@@ -4,7 +4,7 @@ author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date: 2023-08-08
 license: CC BY-SA 4.0
-subtitle: null
+subtitle: No longer must multisigs be statically assigned to wallet addresses.
 tags:
   - misc/bureaumancy
   - personal-discourse
@@ -12,6 +12,9 @@ tags:
 title: Role-Bound Multisigs
 uuid: 26f1afd1-3d34-47db-be11-c68707fa13e4
 publish: true
+headDescription: No longer must multisigs be statically assigned to wallet addresses.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -5,13 +5,16 @@ authorURL: https://www.clinamenic.com
 date: 2021-10-29
 license: CC BY-SA 4.0
 source: https://solosalon.substack.com/p/mogenpro-background
-subtitle: An overview of the development of this program so far
+subtitle: An overview of the development of this program so far.
 tags:
   - personal-discourse
   - text
 title: Modular Generalist Program Background
 uuid: 5fc7d78a-8fd7-4b08-85bd-bf34e2e853aa
 publish: true
+headDescription: An overview of the development of this program so far.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

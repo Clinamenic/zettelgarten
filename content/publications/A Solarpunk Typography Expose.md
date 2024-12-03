@@ -5,15 +5,17 @@ authorURL: https://www.clinamenic.com
 bannerURI: https://arweave.net/q2Iv0vm7Fi5JCcbPFdx3CAweppk8SwUXT2mA8HU2DNA
 date: 2023-11-13
 license: CC BY-SA 4.0
-subtitle: "This expos\xE9 highlights a number of fonts which encapsulate the solarpunk\
-  \ ethos."
+subtitle: This expose highlights a number of fonts which encapsulate the solarpunk ethos.
 tags:
   - personal-discourse
   - misc/design
   - text
-title: "A Solarpunk Typography Expos\xE9"
+title: A Solarpunk Typography Expose
 uuid: ca7f828d-9d36-4557-8e3b-7300001d25f0
 publish: true
+headDescription: This expose highlights a number of fonts which encapsulate the solarpunk ethos.
+headIcon:
+headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
