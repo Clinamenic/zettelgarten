@@ -96,6 +96,8 @@ quartzShowGraph: true
 - [[Notes on Methodology for Communities of Practice]]
 - [[Notes on an Ethical Hermeneutics of Machiavelli]]
 - [[Notes on Experimental Zettelkasten Methodology, Part 2]]
+- [[Intimations of a Post-Machiavellian Moral-Tactical Calculus]]
+- [[Considerations on Delegate Agents]]
 
 ![[Notetaking Hub#Notes on Books]]
 

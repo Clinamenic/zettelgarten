@@ -55,6 +55,10 @@ This method permits the interstitial inclusion of recursive reference notes, alo
 - Configure [canonical URLs](https://www.semrush.com/blog/canonical-url-guide/) tags in end HTML files, perhaps from a 'canonical: true/false' frontmatter property in the markdown file.
 - Initialize global grid such that nodes aggregate into a cluster shaped like my monogram.
 - Investigate potential benefits of using ArWiki framework ([repo](https://github.com/luckyr13/arwiki))
+- Configure frontmatter specs for Open Graph details, such as:
+	- Page-specific subtitles displayed by link previews
+	- Page-specific banner/image URIs
+- Configure keywords in frontmatter in light of SEO
 
 ## Miscellaneous
 

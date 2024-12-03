@@ -2,7 +2,7 @@
 arweaveHashes: 5zEpR__dnrhxGDmuBkJqfHsP1PwNBTk57sUZyBXx5Jw
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-date: 
+date: 2024-12-02
 doi: 
 keywords: 
 language: en
@@ -12,7 +12,7 @@ quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
 subtitle: Implications of an arrangement whereby representative agents predictively queue voting decisions for users.
-tags: []
+tags: 
 title: Considerations on Delegate Agents
 type: canvas
 url: 
