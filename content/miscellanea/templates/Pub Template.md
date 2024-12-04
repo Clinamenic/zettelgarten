@@ -4,6 +4,7 @@ subtitle:
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
 date:
+bannerURI:
 type:
 language: en
 abstract:
@@ -26,7 +27,6 @@ arweaveHashes:
 publish: false
 headDescription:
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

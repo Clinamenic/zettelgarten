@@ -15,7 +15,6 @@ uuid: 245497b4-8ced-46b3-a841-d8e683c09373
 publish: true
 headDescription: Reflections on auto-didacticism and neurodiversity.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -2,7 +2,6 @@
 publish: true
 headDescription: Some examples of aesthetic works which have inspired me.
 headIcon:
-headImage:
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true

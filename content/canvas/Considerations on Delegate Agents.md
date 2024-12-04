@@ -10,7 +10,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Implications of an arrangement whereby representative agents predictively queue voting decisions for users.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

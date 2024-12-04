@@ -15,7 +15,6 @@ uuid: b537813f-7859-4bb0-929c-f7090375820e
 publish: true
 headDescription:
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -14,7 +14,6 @@ uuid: 707bafc0-4074-4ea1-98cd-ce7dd8e16961
 publish: true
 headDescription: A hedge to better enable a "Code is Law" organizational policy.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

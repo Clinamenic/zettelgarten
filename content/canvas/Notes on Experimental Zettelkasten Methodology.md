@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Some coverage of the various challenges faced in the construction of a bespoke multi-purpose zettelkasten.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

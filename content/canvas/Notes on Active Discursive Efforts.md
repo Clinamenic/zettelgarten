@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Regarding nascent theories of bureaumancy, zettelkasten methodology, and other existing topic clusters.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -11,7 +11,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Probing the prospects of reconciliation between political realism and principled conduct.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

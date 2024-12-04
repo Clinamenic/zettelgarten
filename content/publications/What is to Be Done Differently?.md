@@ -14,7 +14,6 @@ uuid: 624ee2b1-089c-4818-9365-65efbf2472db
 publish: true
 headDescription: Reflections on the early stages of metagovernance in decentralized society.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

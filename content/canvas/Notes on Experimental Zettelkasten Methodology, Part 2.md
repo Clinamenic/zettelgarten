@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Prospects of a bespoke folgezettel UUID system and other considerations.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

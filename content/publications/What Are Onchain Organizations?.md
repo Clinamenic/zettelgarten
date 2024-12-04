@@ -14,7 +14,6 @@ uuid: 89cc2fdf-006b-456c-8349-dd9f8209d102
 publish: true
 headDescription: Using smart contracts to design organizations and facilitate governance processes.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -14,7 +14,6 @@ uuid: 3c20ac50-e3f4-4b7b-9304-7abed12298d7
 publish: true
 headDescription: How should consultants approach on-chain engagements with clients?
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

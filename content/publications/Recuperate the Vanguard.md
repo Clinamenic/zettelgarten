@@ -16,7 +16,6 @@ uuid: e49b28e8-2b0f-4fa4-ac9d-0f294aa3c78c
 publish: true
 headDescription: Free-market collectivism via self-regulation in emerging technology sectors.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

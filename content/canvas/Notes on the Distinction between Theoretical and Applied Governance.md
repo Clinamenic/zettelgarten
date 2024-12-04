@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Considerations around how governance theorists and practitioners may require different skillsets.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

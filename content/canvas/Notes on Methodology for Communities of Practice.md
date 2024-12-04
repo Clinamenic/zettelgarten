@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Considerations on community growth and lightweight administration.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

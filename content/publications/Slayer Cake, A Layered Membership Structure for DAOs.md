@@ -13,7 +13,6 @@ uuid: a017e199-2054-48ef-a637-568e69348c8c
 publish: true
 headDescription:
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

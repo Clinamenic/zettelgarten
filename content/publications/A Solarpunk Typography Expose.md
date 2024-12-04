@@ -15,7 +15,6 @@ uuid: ca7f828d-9d36-4557-8e3b-7300001d25f0
 publish: true
 headDescription: This expose highlights a number of fonts which encapsulate the solarpunk ethos.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

@@ -14,7 +14,6 @@ uuid: 8166b4bc-4b46-4aba-be6d-e59607cc4aac
 publish: true
 headDescription: Publicly tracking impact progress, and balancing between proactive and retroactive funding models.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

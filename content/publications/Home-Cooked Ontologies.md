@@ -27,7 +27,6 @@ arweaveHashes:
 publish: false
 headDescription: Semantic design for local sensemaking first, and global compatibility second.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

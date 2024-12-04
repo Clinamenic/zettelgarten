@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: Applications of Machiavellian moral-tactical calculus to micropolitics and peer-to-peer statecraft.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

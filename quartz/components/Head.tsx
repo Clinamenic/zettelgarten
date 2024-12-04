@@ -25,10 +25,10 @@ export default (() => {
         : joinSegments(baseDir, fileData.frontmatter.headIcon)
       : joinSegments(baseDir, "static/icon.png")
     
-    const ogImagePath = fileData.frontmatter?.headImage
-      ? isAbsoluteUrl(fileData.frontmatter.headImage)
-        ? fileData.frontmatter.headImage
-        : `https://${cfg.baseUrl}/${fileData.frontmatter.headImage}`
+    const ogImagePath = fileData.frontmatter?.bannerURI
+      ? isAbsoluteUrl(fileData.frontmatter.bannerURI)
+        ? fileData.frontmatter.bannerURI
+        : `https://${cfg.baseUrl}/${fileData.frontmatter.bannerURI}`
       : `https://${cfg.baseUrl}/static/og-image.png`
 
     return (

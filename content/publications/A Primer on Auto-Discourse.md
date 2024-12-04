@@ -16,7 +16,6 @@ uuid: ae848434-8df1-4ffe-aa79-14e32ddd0878
 publish: true
 headDescription: Introductory remarks on an experimental mode of transparent discourse.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

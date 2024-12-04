@@ -13,7 +13,6 @@ uuid: e836933a-e99c-4c6a-abf3-9a03fe90f47c
 publish: true
 headDescription: Early thoughts on best practices for crypto-native invoicing, and an invoice template.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

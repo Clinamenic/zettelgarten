@@ -9,7 +9,6 @@ license: CC BY-SA 4.0
 publish: true
 headDescription: An open and protocol-oriented philosophy of social organization.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

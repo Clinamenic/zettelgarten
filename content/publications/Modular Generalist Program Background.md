@@ -14,7 +14,6 @@ uuid: 5fc7d78a-8fd7-4b08-85bd-bf34e2e853aa
 publish: true
 headDescription: An overview of the development of this program so far.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

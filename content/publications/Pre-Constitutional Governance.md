@@ -13,7 +13,6 @@ uuid: 53a6c4e0-8b75-4a4a-85ef-4e2b267e84a4
 publish: true
 headDescription: A template and methodology for initializing your organization's governance.
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true

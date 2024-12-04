@@ -26,7 +26,6 @@ arweaveHashes:
 publish: false
 headDescription:
 headIcon:
-headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
