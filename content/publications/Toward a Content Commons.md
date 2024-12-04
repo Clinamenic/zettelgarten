@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 The online public sphere, composed jointly of various social media platforms, enables dialogue at societal scale, rapid dissemination of news, and heightened opportunity for people to discover content and opinions they find interesting or important.

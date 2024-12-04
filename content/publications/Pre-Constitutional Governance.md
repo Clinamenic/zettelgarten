@@ -17,6 +17,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 As formal governance emerges from a structureless social soup, it can be difficult to establish consensus on basic matters, in lieu of a pre-existing system of procedures to facilitate such consensus.

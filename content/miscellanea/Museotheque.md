@@ -1,11 +1,12 @@
 ---
 publish: true
 headDescription: Some examples of aesthetic works which have inspired me.
-headIcon: 
-headImage: 
+headIcon:
+headImage:
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 ## Visionary Architecture
@@ -34,12 +35,14 @@ _Architectural fantasy with a Colossal Facade_
 _Project for the interior of a metropolitan church_
 
 ---
+
 ### Jean-Jacques Lequeu (1757-1826)
 
 ![Temple de la Devination](https://arweave.net/wnrFvhDJgegQvb8MaEm42AdbZkihNbZzucxudN0qQpk)
 _Temple de la Devination, qui forma le fond septentrional de l'Elisée_
 
 ---
+
 ### Yona Friedman (1923-2020)
 
 ![Name](https://arweave.net/HHGpbsCKouFGY9tVvS9EZXeWfrtNbHKq55PeInRQVV8)
@@ -55,6 +58,7 @@ _Centre Pompidou, Paris_
 _Ville Spatiale_
 
 ---
+
 ### Lebbeus Woods (1940-2012)
 
 ![Name](https://arweave.net/FLp8JdHBM9N8su0BxdY_v2Yqw5h5oupwM7nT03_HTuw)

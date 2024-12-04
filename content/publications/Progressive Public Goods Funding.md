@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 _The following does not constitute legal, financial, accounting, or compliance advice, but is intended purely for informational purposes._

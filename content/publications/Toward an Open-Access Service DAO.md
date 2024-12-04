@@ -19,6 +19,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 At PubDAO, an early-stage media service DAO, we’ve been working to develop what could be called an open-access business model. Instead of devising practices, methods and techniques behind closed doors and keeping them there, we are engineering them to not only survive in public, but actually benefit from such accessibility.

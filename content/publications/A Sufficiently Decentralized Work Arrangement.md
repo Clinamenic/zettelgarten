@@ -19,6 +19,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 One indicator that DAOs are still young in their development, is the fact that they are still searching for business models which fit the web3 ethos of decentralized power and transparency. Currently DAOs mainly rely on speculative asset sales and royalties, early-stage private investments, or grants to financially sustain their operations.

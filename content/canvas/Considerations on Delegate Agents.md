@@ -14,6 +14,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Implications of an arrangement whereby representative agents predictively queue voting decisions for users.
 tags:
 title: Considerations on Delegate Agents

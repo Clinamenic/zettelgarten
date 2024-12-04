@@ -19,6 +19,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 Characterized chiefly by its hopeful aesthetics of nature-technology balance, solarpunk is a relatively young genre and movement, and yet it has already secured a foothold among technologists who reject the otherwise prevailing prognoses of doom and dystopia. Combining aspects of liberal economics, bioregionalism, emerging technology, participatory civics, and various other ideas and traditions, solarpunk constitutes a syncretic and solutions-oriented “infraculture” geared toward a healthier future.

@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 The multisig wallet is a powerful organizational primitive, enabling individuals to share control over funds and assets, and to collectively execute smart contract interactions. They can be created quickly and inexpensively, and they facilitate international financial cooperation.

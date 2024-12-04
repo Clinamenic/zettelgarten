@@ -30,6 +30,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 internalRef:
 tags:
   - personal-discourse/draft

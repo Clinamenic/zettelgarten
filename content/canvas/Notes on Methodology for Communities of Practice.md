@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Considerations on community growth and lightweight administration.
 tags:
   - personal-discourse/log

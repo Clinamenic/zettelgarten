@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 Smart contracts have brought about a paradigm shift in organizational design. These algorithms, which operate on peer-to-peer financial databases like blockchains, can be used to facilitate a variety of administrative processes, and can enable large groups of stakeholders to govern themselves within a transparent framework which, if well designed, can be virtually impossible for any one entity to capture.

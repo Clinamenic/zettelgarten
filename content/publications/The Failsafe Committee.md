@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 On-chain organizations have a multitude of techniques available to institute truly community-led governance, without the need for representatives or committees to approve the will of the community.

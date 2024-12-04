@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 Around four years ago I began to realize the value of the virtually endless supply of top-tier educational content freely available on YouTube.

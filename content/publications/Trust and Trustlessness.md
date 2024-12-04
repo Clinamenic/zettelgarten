@@ -19,6 +19,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 One of the core innovations unfolding in the web3 space is the utilization of smart contracts to facilitate interpersonal dynamics, thus augmenting, if not altogether supplanting, any requisite counterparty trust. The idea is that counterparty trust has long required the parties involved to take measures to establish said trust, measures which may be time-consuming or costly, and that the minimization of such costs could be a boon for business in general.

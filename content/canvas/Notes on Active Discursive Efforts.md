@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Regarding nascent theories of bureaumancy, zettelkasten methodology, and other existing topic clusters.
 tags:
   - personal-discourse/log

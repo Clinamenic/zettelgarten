@@ -17,6 +17,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 Despite frigid market conditions, the DAO space remains a robust laboratory for organizational design.

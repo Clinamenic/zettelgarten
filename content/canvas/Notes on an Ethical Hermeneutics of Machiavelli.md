@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Applications of Machiavellian moral-tactical calculus to micropolitics and peer-to-peer statecraft.
 tags:
   - personal-discourse/log

@@ -20,6 +20,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 If the spectre of history has anything left to teach the western world, are we willing to learn?

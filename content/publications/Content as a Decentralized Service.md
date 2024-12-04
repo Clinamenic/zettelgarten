@@ -19,6 +19,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 At this early stage of the development of PubDAO, we are building the base layer of our service model, a model which could be called Content as a Service, or CaaS.

@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 By virtue of being public and deterministic, smart contracts enable novel approaches to business engagements. Where and when this novelty has real utility, however, is a matter still early in the unfolding.

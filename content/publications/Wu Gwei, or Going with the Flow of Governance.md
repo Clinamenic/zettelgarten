@@ -18,6 +18,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 For some time people have wondered, however seriously, whether the acronym 'DAO' was at all intended as a nod to Daoism, or if it was just a coincidence of technical nomenclature. While the [**prevailing (albeit nascent) history**](https://policyreview.info/glossary/DAO) of DAOs doesn't seem to indicate much intentional relation between the two terms, there is one concept which may curiously unite them, namely that of [**wu wei**](https://en.wikipedia.org/wiki/Wu_wei).

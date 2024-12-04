@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Some coverage of the various challenges faced in the construction of a bespoke multi-purpose zettelkasten.
 tags:
   - personal-discourse/log

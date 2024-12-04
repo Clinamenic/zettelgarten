@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Peer-to-peer economic infrastructure to address foundational disagreements in the discourse.
 tags:
   - personal-discourse/log

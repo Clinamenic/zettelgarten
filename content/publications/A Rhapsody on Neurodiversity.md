@@ -19,6 +19,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 As someone without formal experience in STEM higher education, but rather as a [**self-guided generalist**](https://solosalon.substack.com/p/mogenpro-background), I should perhaps preface what follows with an explanation of my intentions.

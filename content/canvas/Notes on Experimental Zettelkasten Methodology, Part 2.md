@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Prospects of a bespoke folgezettel UUID system and other considerations.
 tags:
   - personal-discourse/log

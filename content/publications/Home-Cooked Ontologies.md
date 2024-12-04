@@ -31,6 +31,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 tags:
   - personal-discourse
 ---

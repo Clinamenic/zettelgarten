@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Considerations around how governance theorists and practitioners may require different skillsets.
 tags:
   - personal-discourse/log

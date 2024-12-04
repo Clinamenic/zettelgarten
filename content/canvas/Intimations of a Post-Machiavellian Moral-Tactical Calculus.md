@@ -15,6 +15,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: Probing the prospects of reconciliation between political realism and principled conduct.
 tags:
 title: Intimations of a Post-Machiavellian Moral-Tactical Calculus

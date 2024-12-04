@@ -13,6 +13,7 @@ headImage:
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 subtitle: An open and protocol-oriented philosophy of social organization.
 tags:
   - personal-discourse/log
