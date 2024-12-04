@@ -8,15 +8,28 @@ export default (() => {
   const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
     const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
     const description =
-      fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
+      fileData.frontmatter?.headDescription ??
+      fileData.description?.trim() ??
+      i18n(cfg.locale).propertyDefaults.description
     const { css, js } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
-    const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const isAbsoluteUrl = (str: string) => str.startsWith('http://') || str.startsWith('https://')
+
+    const iconPath = fileData.frontmatter?.headIcon 
+      ? isAbsoluteUrl(fileData.frontmatter.headIcon)
+        ? fileData.frontmatter.headIcon
+        : joinSegments(baseDir, fileData.frontmatter.headIcon)
+      : joinSegments(baseDir, "static/icon.png")
+    
+    const ogImagePath = fileData.frontmatter?.headImage
+      ? isAbsoluteUrl(fileData.frontmatter.headImage)
+        ? fileData.frontmatter.headImage
+        : `https://${cfg.baseUrl}/${fileData.frontmatter.headImage}`
+      : `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
       <head>
