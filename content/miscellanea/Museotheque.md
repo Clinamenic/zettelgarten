@@ -36,10 +36,27 @@ _Project for the interior of a metropolitan church_
 
 ## Jean-Jacques Lequeu (1757-1826)
 
+
 ![Temple de la Devination](https://arweave.net/wnrFvhDJgegQvb8MaEm42AdbZkihNbZzucxudN0qQpk)
 _Temple de la Devination, qui forma le fond septentrional de l'Elisée_
 
 ---
+
+## Leon Golub (1922-2004)
+
+
+![Gigantomachy V](https://arweave.net/YvTx6c5YaEQFZOVxPi5eiBr8tlrdZmN0CIBadf7QdAQ)
+*Gigantomachy V*
+
+![Three Head (II)](https://arweave.net/Fs5YxVTSy2c0110RW-VF6owiG42G4nJ4fejFQo9R4s0)
+*Three Heads (II) (1938)*
+
+![Two Black Men](https://arweave.net/Of2uegI-8y5QiuzvSa4DtDwa5c-7heMkBhZlJPSUzvM)
+*Two Black Men*
+
+
+---
+
 
 ## Yona Friedman (1923-2020)
 
