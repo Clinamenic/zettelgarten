@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Banner(),
     Component.ArticleTitle({
-      showTitle: (frontmatter) => !frontmatter.hideTitle,
+      showTitle: (frontmatter) => frontmatter.quartzShowTitle ?? true,
     }),
     Component.ArticleSubtitle(),
     Component.AuthorName(),

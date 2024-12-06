@@ -7,12 +7,12 @@ interface ArticleTitleOptions {
 
 interface Frontmatter {
   title?: string
-  hideTitle?: boolean
+  quartzShowTitle?: boolean
   // ... other frontmatter properties
 }
 
 const defaultOptions: ArticleTitleOptions = {
-  showTitle: (frontmatter: Frontmatter) => !frontmatter.hideTitle,
+  showTitle: (frontmatter: Frontmatter) => frontmatter.quartzShowTitle ?? true,
 }
 
 export default ((opts?: ArticleTitleOptions) => {
@@ -35,7 +35,6 @@ export default ((opts?: ArticleTitleOptions) => {
     text-align: center;
   }
   `
-
 
   return ArticleTitle
 }) satisfies QuartzComponentConstructor

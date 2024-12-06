@@ -10,6 +10,9 @@ const Backlinks: QuartzComponent = ({
   displayClass,
   cfg,
 }: QuartzComponentProps) => {
+  const showBacklinks = fileData.frontmatter?.quartzShowBacklinks ?? true
+  if (!showBacklinks) return null
+
   const slug = simplifySlug(fileData.slug!)
   const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
   return (

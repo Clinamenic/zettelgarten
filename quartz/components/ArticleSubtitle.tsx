@@ -7,12 +7,12 @@ interface ArticleSubtitleOptions {
 
 interface Frontmatter {
   subtitle?: string
-  hideSubtitle?: boolean
+  quartzShowSubtitle?: boolean
   // ... other frontmatter properties
 }
 
 const defaultOptions: ArticleSubtitleOptions = {
-  showSubtitle: (frontmatter: Frontmatter) => !frontmatter.hideSubtitle,
+  showSubtitle: (frontmatter: Frontmatter) => frontmatter.quartzShowSubtitle ?? true,
 }
 
 export default ((opts?: ArticleSubtitleOptions) => {

@@ -84,6 +84,9 @@ export default ((userOpts?: Partial<Options>) => {
       constructFileTree(allFiles)
     }
 
+    const showExplorer = fileData.frontmatter?.quartzShowExplorer ?? true
+    if (!showExplorer) return null
+
     return (
       <div class={classNames(displayClass, "explorer-container")}>
       <div class={classNames(displayClass, "explorer")}>

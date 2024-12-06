@@ -7,7 +7,20 @@ date:
 bannerURI:
 type:
 language: en
+tags:
+abstract:
 keywords:
+journal:
+volume:
+issue:
+pages:
+publisher:
+publisherLocation:
+edition:
+institution:
+department:
+degree:
+license:
 doi:
 url:
 uuid:
@@ -25,5 +38,4 @@ quartzShowFlex: true
 quartzShowGraph: true
 quartzSearch: true
 internalRef:
-tags:
 ---

@@ -1,12 +1,16 @@
 ---
 hideComments: true
-hideTitle: true
 keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
 publish: true
 tags: null
 title: Clinamenic LLC
 headDescription: A consultancy for the development of digital public infrastructure.
 headIcon:
+quartzShowTitle: false
+quartzShowSubtitle: false
+quartzShowTOC: false
+quartzShowExplorer: false
+quartzShowBacklinks: false
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true
