@@ -11,7 +11,8 @@ tags:
 keywords:
 doi:
 url:
-uuid: ca7b7d87-1ba0-4cb3-beaa-e159f63fd1f3arweaveHashes:
+uuid: c3663c28-dc09-41ec-a33b-245abfd040cd
+arweaveHashes:
 publish: true
 headDescription:
 headIcon:

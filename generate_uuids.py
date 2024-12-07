@@ -31,11 +31,10 @@ def generate_uuid_for_files(directory):
                             and (fm_data["uuid"] is None or fm_data["uuid"] == "")
                         ):
                             new_uuid = str(uuid.uuid4())
-                            # Instead of using yaml.dump, we'll directly replace the uuid value
-                            # in the original frontmatter string
+                            # Add word boundaries and preserve newlines
                             updated_frontmatter = re.sub(
-                                r"(uuid:)(\s*)(\'\'|\"\"|~|null)?",
-                                f"uuid: {new_uuid}",
+                                r"(uuid:)(\s*)(\'\'|\"\"|~|null)?(\s*?)(?=\S)",
+                                f"uuid: {new_uuid}\n",
                                 frontmatter,
                             )
                             new_content = content.replace(
