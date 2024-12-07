@@ -156,7 +156,7 @@ body {
   box-sizing: border-box;
   background-color: var(--lightgray);
   // background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M);
-  background-size: 100%;
+  // background-size: 100%;
   font-family: "MonaspaceNeon";
   color: var(--darkgray);
   @media only screen and (max-width: calc(750px + 2rem)) { 
@@ -480,6 +480,7 @@ blockquote {
   padding-right: 1rem;
   transition: border-color 0.2s ease;
   background-color: rgba(121, 197, 126, 0.15);
+  overflow-y: visible !important;
   @media all and (max-width: 750px) {
     // z-index: 2000;
   }
@@ -767,7 +768,7 @@ ol.overflow {
   );
   background-size: 200% 200%;
   animation: moveStripes 3s linear infinite;
-  overflow-y: hidden;
+  overflow-y: visible !important;
   transition: all 0.3s ease-in-out;
   ul {
     padding-left: 1rem;

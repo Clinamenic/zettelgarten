@@ -14,6 +14,7 @@ quartzShowBacklinks: false
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true
+quartzSearch: true
 ---
 
 <div class="text-box" style="padding-bottom: 2rem;">

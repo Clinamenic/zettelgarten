@@ -1,11 +1,12 @@
 ---
 title: Test Page
-publish: false
+publish: true
 keywords:
   - clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
 hideGraph: false
 hideTitle: true
 downloadable: true
+quartzSearch: true
 tags:
   - BIOL/MOLE
   - BIOL/GENE
@@ -18,10 +19,10 @@ tags:
 <div class="tri-column">
 
 <div class="side-column">
-<div class="text-box" id="l1" style="height: 25%;"></div>
-<div class="text-box" id="l2" style="height: 25%;"></div>
-<div class="text-box" id="l3" style="height: 25%;"></div>
-<div class="text-box" id="l4" style="height: 25%;"></div>
+<div class="text-box" id="l1" style="height: 25%; background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M); background-size: 1000%;"></div>
+<div class="text-box" id="l2" style="height: 25%; background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M); background-size: 1000%;"></div>
+<div class="text-box" id="l3" style="height: 25%; background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M); background-size: 1000%;"></div>
+<div class="text-box" id="l4" style="height: 25%; background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M); background-size: 1000%;"></div>
 </div>
 
 <div class="text-box" style="padding-bottom: 2rem;">
