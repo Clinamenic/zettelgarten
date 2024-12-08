@@ -7,14 +7,14 @@ headDescription: Clinamenic LLC can provide graph design and branding services f
 headIcon:
 quartzShowTitle: false
 quartzShowSubtitle: false
-quartzShowTOC: false
-quartzShowExplorer: false
-quartzShowBacklinks: false
+quartzShowTOC: true
+quartzShowExplorer: true
+quartzShowBacklinks: true
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true
 quartzSearch: true
-tags: null
+tags:
 ---
 
 <div class="gallery3">

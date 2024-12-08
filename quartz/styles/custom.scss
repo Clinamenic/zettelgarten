@@ -72,8 +72,21 @@
   height: 100%;
   margin: 0rem;
   border: 1px solid var(--dark);
-  border-radius: 0px;
+  border-radius: 5px;
   object-fit: cover;
+}
+
+.gallery2 {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(2, calc((100% - 1.5rem) / 2));
+  grid-auto-rows: auto;
+  justify-content: center;
+  grid-row-gap: 1.5rem;
+  grid-column-gap: 1.5rem;
+  @media only screen and (max-width: 750px) {
+    grid-template-columns: repeat(1, 100%);
+    }
 }
 
 .gallery3 {
