@@ -71,7 +71,7 @@ button#explorer {
   }
 
   & ul {
-    list-style: none;
+    list-style: disc;
     margin: 0.08rem 0;
     padding: 0;
     transition:
@@ -79,6 +79,7 @@ button#explorer {
       transform 0.35s ease,
       opacity 0.2s ease;
     & li > a {
+      font-size: 0.8rem;
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
@@ -103,7 +104,7 @@ svg {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 0.8rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
@@ -126,7 +127,7 @@ svg {
     font-family: var(--headerFont);
 
     & span {
-      font-size: 0.95rem;
+      font-size: 0.8rem;
       display: inline-block;
       color: var(--secondary);
       font-weight: $semiBoldWeight;

@@ -37,9 +37,40 @@ const defaultOptions = {
   order: ["filter", "map", "sort"],
 } satisfies Options
 
+const customOptions = {
+  ...defaultOptions,
+  filterFn: (node: FileNode) => {
+    // Allow specific folders (case-insensitive)
+    const allowedFolders = ['publications', 'notes']
+    // Allow specific files (without .md extension)
+    const allowedFiles = ['design', 'gallery']
+    
+    // Always include root node
+    // if (node.name === '') return true
+    
+    // Check if node is a folder we want to keep (case-insensitive)
+    if (!node.file && allowedFolders.includes(node.name.toLowerCase())) return true
+    
+    // Check if node is a file we want to keep (case-insensitive)
+    if (node.file) {
+      // Allow files in root that match allowedFiles
+      if (allowedFiles.includes(node.name.toLowerCase())) return true
+      
+      // Allow all files within allowed folders
+      const pathParts = node.file.slug?.split('/')
+      if (pathParts && pathParts.length > 1) {
+        const parentFolder = pathParts[0].toLowerCase()
+        if (allowedFolders.includes(parentFolder)) return true
+      }
+    }
+    
+    return false
+  }
+}
+
 export default ((userOpts?: Partial<Options>) => {
   // Parse config
-  const opts: Options = { ...defaultOptions, ...userOpts }
+  const opts: Options = { ...customOptions, ...userOpts }
 
   // memoized
   let fileTree: FileNode
