@@ -20,21 +20,21 @@ quartzSearch: true
 <div class="text-box" style="padding-bottom: 2rem;">
   <div class="clinamenic-cube" style="text-align: center; justify-content: center;">
     <img
-      src="https://github.com/Clinamenic/Zettelgarten/blob/v4/quartz/static/img/SSC_Cube_Ivory.gif?raw=true"
+      src="https://arweave.net/KIy4ZM-FoCYsj9DxH8WIVI-HmhZpPY4V_eVJI-1DFkw"
       width="300px"
       height="300px"
       alt="Clinamenic Cube"
     />
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center;">Clinamenic LLC</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.6rem 0rem;">the consultancy of</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">S P E N C E R</p>
-  <div style="display: flex; justify-content: center;">
+  <p class="body-p" style="animation: fade-in 4s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center;">Clinamenic LLC</p>
+  <p class="body-p" style="animation: fade-in 4.5s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.6rem 0rem;">the consultancy of</p>
+  <p class="body-p" style="animation: fade-in 5s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">S P E N C E R</p>
+  <div style="display: flex; justify-content: center; animation: fade-in 5.5s ease-in;">
     <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">S&nbsp;&nbsp;&nbsp;</p>
     <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">A&nbsp;&nbsp;&nbsp;A</p>
     <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">&nbsp;&nbsp;&nbsp;R</p>
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">C A V A N A U G H</p>
+  <p class="body-p" style="animation: fade-in 5s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">C A V A N A U G H</p>
 </div>
 
 <div style="height: 1.5rem;"></div>

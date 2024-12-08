@@ -147,6 +147,7 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  overscroll-behavior: none;
 }
 
 body {
@@ -159,6 +160,7 @@ body {
   // background-size: 100%;
   font-family: "MonaspaceNeon";
   color: var(--darkgray);
+  overscroll-behavior: none;
   @media only screen and (max-width: calc(750px + 2rem)) { 
     background-color: var(--light);
     background-image: none;
