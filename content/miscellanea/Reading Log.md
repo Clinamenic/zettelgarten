@@ -59,6 +59,10 @@ This section is comprehensive.
 - (07/31/24 - 08/01/24) Common Sense (Paine)
 - (08/03/24 - 08/11/24) How to Take Smart Notes (Ahrens)
 - (08/16/24 - 10/17/24) General Theory of Employment, Interest and Money (Keynes)
+- (10/28/24 - Present) Assets in Common (Infrastructure for Shared Ownership)
+- (10/29/24 - Present) The English Face of Machiavelli (Raab)
+
+     
 
 ### Papers/Articles
 This section is not comprehensive, and does not count the shorter articles read.

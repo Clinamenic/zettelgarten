@@ -3,6 +3,23 @@
 @use "./callouts.scss";
 
 
+/* MEK-Mono */
+@font-face {
+  font-family: "MEK-Mono";
+  src: url(https://pinata.clinamenic.com/ipfs/QmXtPaqAUjfpmCGg3WQdpgiuvsRH9G6SWTL2iLVa8bnfKP);
+  src: url(https://pinata.clinamenic.com/ipfs/QmXtPaqAUjfpmCGg3WQdpgiuvsRH9G6SWTL2iLVa8bnfKP) format("opentype");
+  font-weight: 100;
+}
+
+
+/* Vampiro One */
+@font-face {
+  font-family: "VampiroOne";
+  src: url(https://pinata.clinamenic.com/ipfs/QmZ7WuS8uUx2oaPbpEYUGUvRmJhGxdLnZH1JKY9W2h7ESr);
+  src: url(https://pinata.clinamenic.com/ipfs/QmZ7WuS8uUx2oaPbpEYUGUvRmJhGxdLnZH1JKY9W2h7ESr) format("truetype");
+  font-weight: 100;
+}
+
 
 
 /* Geist Mono Thin */
@@ -783,6 +800,11 @@ ol.overflow {
   100% {
     background-position: -34px 0;
   }
+}
+
+@keyframes jiggle {
+  0%{ transform:translateY(0px)}
+  50%{ transform:translateY(4px) }
 }
 
 .transclude-src {

@@ -131,7 +131,6 @@ export default ((userOpts?: Partial<Options>) => {
           aria-controls="explorer-content"
           aria-expanded={opts.folderDefaultState === "open"}
         >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
@@ -146,6 +145,7 @@ export default ((userOpts?: Partial<Options>) => {
           >
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
+          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
         </button>
         <div id="explorer-content">
           <ul class="overflow" id="explorer-ul">
