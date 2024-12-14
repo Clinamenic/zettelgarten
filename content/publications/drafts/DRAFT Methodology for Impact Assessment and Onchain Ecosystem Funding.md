@@ -1,8 +1,9 @@
 ---
-arweaveHash: null
-author: Spencer Saar Cavanaugh
+arweaveHash: 
+author:
+  - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-date: null
+date: 
 draftStart: 0024-06-28
 license: CC BY-SA 4.0
 publish: true
@@ -10,12 +11,10 @@ quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
 sponsor: LexDAO, SuperBenefitDAO
-subtitle: Preliminary survey of existing practices and challenges to inform an ontologically
-  integrated paradigm for distributed impact assessment.
-tags: null
-title: DRAFT Ontological Prospectus of the Onchain Impact Economy
+subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
+tags: 
+title: Methodology for Impact Assessment and Onchain Ecosystem Funding
 uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
-
 ---
 
 ## Acknowledgments
@@ -274,29 +273,41 @@ Another innovative anti-Sybil solution originating from Gitcoin is [Connection-O
 
 This process maps out relational data between donors and the grantee projects which receive donations, in order to identify suspicious donation activity and allocate matching funds accordingly. COCM rewards projects which receive donations from a diverse body of donors, meaning donors who exhibit diverse donation activity. 
 
-For example, a project which receives donations, from donors who each only give to that one project and thus exhibit similar donation activity, will receive a smaller matching amount than a project which receives donations from donors who each donate to a variety of projects and thus exhibit diverse donation activity. 
+For example, a project which receives donations from donors who each only give to that one project, and thus exhibit similar donation activity, will receive a smaller matching amount than a project which receives donations from donors who each donate to a variety of projects and thus exhibit diverse donation activity. 
 
-#### Compliance and KYC
+#### Compliance, KYC and AML
 
-Text here
+Many of the experimental funding processes explored here have hitherto been operating largely without clear and applicable legal precedent. For example, the usage of immutable smart contracts to facilitate funding carries novel implications around ownership, introducing the legal possibility of autonomous, non-institutional financial infrastructure<sup>8</sup>.
+
+That said, even if immutable smart contracts end up receiving distinct and novel legal treatment, many of the existing KYC/AML reporting requirements will still exist. Because of the emergent and unprecedented nature of some of this technology, these challenges are not always well-defined. Nevertheless, if these technologies are to see systematic adoption, greater clarity is needed with regard to these matters of compliance.
 
 ##### Zero-Knowledge KYC
 
-Text here
+The tension between privacy and compliance is one of the more fundamental tensions at play in the maturation of the onchain economy at large. Some argue that the ideal arrangement allows for security verification of key aspects of user identity, without compromising the privacy of the user. 
 
-### 2.3 - Economic Challenges
+Existing financial reporting standards require institutions to implement traditional KYC measures, in order for user/accountholder data to be available for the relevant authorities<sup>9</sup>. This approach puts the onus of security on the institution to responsibly custody this highly sensitive information. 
 
-Text here
+An alternative approach, making use of zero-knowledge cryptography to privately verify critical user identity information, is actively being developed<sup>10</sup>. Such an approach could, and arguably already begins to, reconcile the imperatives of compliance with the individual's right to privacy. 
+
+For example, if an onchain grant program is being facilitated in a jurisdiction which enforces economic sanctions, the immutable smart contracts of the grant program can be configured to only accept applicants which can privately prove they don't reside in certain sanctioned countries. Such an arrangement could conceivably exist without requiring the institutional collection and custody of sensitive identity information.
+
+### 2.2 - Economic Challenges
+
+In addition to the aforementioned technical challenges, the onchain philanthropy sector also systemically faces a number of financial and economic challenges. Seeing as these philanthropic experiments are unfolding in what is effectively a parallel economy, there remain issues of adoption and liquidity which introduce financial friction into the allocation of funding. There also remain challenges having less to do with the novel financial technology, and more to do with the business of philanthropy.
+
+#### Asset Liquidity and Volatility
+
+Because many vendors, utilities, and other daily living expenses around the world do not accept stablecoins or other blockchain-based assets, the scope of the onchain economy is still largely confined to a narrow sliver of the total global economy. Regardless of however more efficient this new financial infrastructure may be, the reality of adoption still sets the tone for how people engage with this technology. 
+
+Specifically, if grantees receive grants in stablecoins, but still primarily need fiat currency to pay their bills and employees, they will need to convert their stablecoins to their needed form of fiat currency. In this arrangement, the grantees engage with the onchain economy in a largely transitory capacity, and the issues of asset liquidity and volatility are foregrounded. That is, in order for these funding processes to be functional in their de facto transitory capacity, the assets denominating the funding need to be adequately stable and liquid. 
+
+Fortunately, many of the onchain grant programs have adopted the practice of using stablecoins for funding, primarily USDC and DAI. This practice minimizes the volatility risk as much as can be expected<sup>11</sup>, and while liquidity is not a significant issue per se, the process of conversion into fiat currency can still be onerous, and involves a number of steps which do not come intuitively to everyone. 
 
 #### Value Exchange
 
 Text here, something about ROI for public goods.
 
-#### Asset Liquidity and Volatility
-
-Text here, something about risk tolerance
-
-### 2.4 - Operational Challenges
+### 2.3 - Operational Challenges
 
 Text here
 
@@ -310,7 +321,7 @@ For example, it has been common practice during quadratic funding rounds for gra
 
 Depending on the size of the audience, as well as other technical factors, grantees may or may not receive additional donations as a result of these promotional efforts. That is, this promotional work does not always prove worthwhile for the grantees, even if it may prove worthwhile within the context of the ecosystem development goals of the grantor.
 
-#### Reporting Burden
+#### Impact Reporting Burden
 
 Text here
 
@@ -345,6 +356,13 @@ Text here
 5. For more resources regarding the quadratic funding mechanism, see this [calculator](https://www.wtfisqf.com/?match=10000&grant=34-56&grant=3-100-4&grant=2-2-2-2-2&grant=700) provided by Gitcoin.
 6. Recently there have been successful attempts to integrate payment processing for fiat currencies in these grant rounds, thanks to projects like [ViaPrize](https://www.viaprize.org/). For example, the [OpenCivics Collaborative Research Round](https://gov.gitcoin.co/t/gg21-retrospective-opencivics-collaborative-research-round/19313) utilized ViaPrize to facilitate dollar donations to grantees, thus eliminating the need for donors to donate in cryptoassets.
 7. This sentiment can be discerned in the shift of certain currents of discourse in the industry, such as Gitcoin's pivot from language around funding public goods to simply "Fund what Matters".
+8. See *[Van Loon v. U.S. Department of the Treasury](https://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf)* for a decision which intimates a paradigm shift in the legal treatment of non-institutional financial infrastructure.
+
+> The six plaintiffs-appellants are users of Tornado Cash. They argue that Tornado Cash’s inclusion on the SDN list exceeded OFAC’s statutory authority. The district court disagreed, granting summary judgment to the Department and finding Tornado Cash subject to OFAC’s sanctioning authority. Van Loon and the other plaintiffs appealed, making the same principal argument here—that Tornado Cash’s open-source, self-executing software is not sanctionable under the Act (as opposed to the rogue persons and entities who abuse it). OFAC’s concerns with illicit foreign actors laundering funds are undeniably legitimate. Perhaps Congress will update IEEPA, enacted during the Carter Administration, to target modern technologies like crypto-mixing software. Until then, we hold that Tornado Cash’s immutable smart contracts (the lines of privacy-enabling software code) are not the “property” of a foreign national or entity, meaning (1) they cannot be blocked under IEEPA, and (2) OFAC overstepped its congressionally defined authority.
+
+9. See [FinCEN](https://www.fincen.gov/what-we-do) and the [Egmont Group of Financial Intelligence Units](https://www.fincen.gov/resources/international/egmont-group-financial-intelligence-units).
+10. See the zero-knowledge solutions being developed by [Holonym](https://holonym.id/).
+11. USDC and DAI have, to date, proven adequate stability, but not all stablecoins have. It should be noted that another tension of institutional trust can be discerned in the choice between USDC and DAI, with the former being a more traditionally institutionally managed stablecoin, collateralized by dollars and dollar equivalents, where DAI is a more experimental multi-collateralized algorithmic stablecoin managed by a DAO. 
 
 ## Bibliography
 
@@ -375,7 +393,7 @@ Text here
 
 At the time of writing this, the author holds a material amount of ETH and other Ethereum-based assets, and is actively involved in the governance and operations of several organizations and projects in this ecosystem, in various paid and unpaid capacities.
 
-The contents of this report do not constitute legal, financial or professional advice, and is intended purely for informational purposes. The publication of this report should not be construed as grounds for a professional relationship between the reader and the author, or the reader and any of the sponsor organizations.
+The contents of this report do not constitute legal, financial or professional advice or endorsement of practices, and is intended purely for informational purposes.
 
 AI was used as a research aid over the course of the creation of this report, but was not used in a generative capacity. Nothing in this report was generated by AI.
 

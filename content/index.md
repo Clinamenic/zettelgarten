@@ -132,7 +132,7 @@ quartzSearch: true
 
 ### Current Drafts
 
-- [[DRAFT Methodology for Ecosystem Funding and Impact Assessment]]
+- [[DRAFT Methodology for Impact Assessment and Onchain Ecosystem Funding]]
 
 ### Canvassing
 

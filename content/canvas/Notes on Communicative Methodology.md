@@ -36,7 +36,7 @@ I'm currently reading [[Writing a Scientific Article]] by F. Ecarnot et al, and 
 
 So far, seeing as I don't believe I am at liberty to reproduce the content of this article in my own knowledge base, as a markdown file, I will instead create only a router note for it (i.e. [[Writing a Scientific Article]]), which redirects the reader to the source URL. Additionally, I will quote passages using the markdown blockquote notation, rather than the markdown transclusion notation.
 
-Granted, I am not writing scientific articles, at least not in any conventional sense (see [[DRAFT Methodology for Ecosystem Funding and Impact Assessment]]), so the relevance of this paper to my work is only partial. That said, I'm sure there are elements of the scientific research and communication methodology explored herein which will prove instructive for my purposes.
+Granted, I am not writing scientific articles, at least not in any conventional sense (see [[DRAFT Methodology for Impact Assessment and Onchain Ecosystem Funding]]), so the relevance of this paper to my work is only partial. That said, I'm sure there are elements of the scientific research and communication methodology explored herein which will prove instructive for my purposes.
 
 ## Tense
 
