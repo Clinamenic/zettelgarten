@@ -201,3 +201,21 @@ tags:
   </div>
   <p class="body-p" style="animation: fade-in 5s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">C A V A N A U G H</p>
 </div>
+
+<div class="footer-section" style="padding-top: 0rem; padding-bottom: 0.75rem; justify-content: space-between;">
+  <div class="nav-button" style="margin-top: 0.75rem;">
+    <a class="nav-link" href="https://bsky.app/profile/clinamenic.bsky.social">Bluesky</a>
+  </div>
+  <div class="nav-button" style="margin-top: 0.75rem;">
+    <a class="nav-link" href="https://warpcast.com/clinamenic">Farcaster</a>
+  </div>
+  <div class="nav-button" style="margin-top: 0.75rem;">
+    <a class="nav-link" href="https://www.github.com/clinamenic">Github</a>
+  </div>
+  <div class="nav-button" style="margin-top: 0.75rem;">
+    <a class="nav-link" href="https://letterboxd.com/clinamenic/">Letterboxd</a>
+  </div>
+  <div class="nav-button" style="margin-top: 0.75rem;">
+    <a class="nav-link" href="https://www.x.com/clinamenic">Twitter</a>
+  </div>
+</div>

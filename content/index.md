@@ -9,7 +9,7 @@ headIcon:
 quartzShowTitle: false
 quartzShowSubtitle: false
 quartzShowTOC: false
-quartzShowExplorer: false
+quartzShowExplorer: true
 quartzShowBacklinks: false
 quartzShowCitation: false
 quartzShowFlex: false
@@ -20,10 +20,10 @@ quartzSearch: true
 <div class="tri-column">
 
 <div class="side-column">
-<div class="text-box" id="l1" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center;">Services</div>
+<div class="text-box" id="l1" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">Services</div>
 <div class="text-box" id="l2" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center; font-size: 2rem; font-weight: 100; color: var(--tertiary);">typo</br>&nbsp;gra</br>phy|</div>
 <div class="text-box" id="l3" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center;">?</div>
-<div class="text-box" id="l4" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center;">Gallery</div>
+<div class="text-box" id="l4" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">Gallery</div>
 </div>
 
 <div class="text-box" style="
@@ -55,10 +55,10 @@ quartzSearch: true
 </div>
 
 <div class="side-column">
-<div class="text-box" id="r1" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center;">About</div>
+<div class="text-box" id="r1" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">About</div>
 <div class="text-box" id="r2" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center;">?</div>
 <div class="text-box" id="r3" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center;">?</div>
-<div class="text-box" id="r4" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center;">Contact</div>
+<div class="text-box" id="r4" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">Contact</div>
 </div>
 
 </div>

@@ -89,6 +89,16 @@
     }
 }
 
+.gallery2-fixed {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(2, calc((100% - 1.5rem) / 2));
+  grid-template-rows: repeat(infinite, 49%);
+  justify-content: center;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+}
+
 .gallery3 {
   display: grid;
   width: 100%;

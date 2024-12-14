@@ -1,9 +1,12 @@
 ---
 title: 
 item type: Reference Note
-reference: "[[r-JK-GT-25]]"
+reference:
+  - "[[r-JK-GT-25]]"
+  - "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-08-21
-author: Spencer Saar Cavanaugh
+author:
+  - Spencer Saar Cavanaugh
 publish: true
 tags:
   - r/JK/GT
