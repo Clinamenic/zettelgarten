@@ -11,6 +11,7 @@ volume: "15"
 issue: "2"
 pages: 123-145
 publish: true
+quartzSearch: true
 publisher: Academic Publishing House
 publisherLocation: Cambridge, MA
 edition: 2nd

@@ -1,11 +1,12 @@
 ---
 hideComments: true
-keywords: clinamenic, podcasts, spencer saar cavanaugh, clinamenic LLC
+keywords:
+  - clinamenic, podcasts, spencer saar cavanaugh, clinamenic LLC
 publish: true
-tags:
-title: Media | Clinamenic LLC
+tags: 
+title: About | Clinamenic LLC
 headDescription: Presentations, interviews, and other media featuring Clinamenic LLC.
-headIcon:
+headIcon: 
 quartzShowTitle: false
 quartzShowSubtitle: false
 quartzShowTOC: true

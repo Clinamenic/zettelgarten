@@ -201,30 +201,7 @@
   }
 }
 
-.side-column #l1 {
-  animation: slide-from-left 3s ease-in-out forwards;
-}
-.side-column #l2 {
-  animation: slide-from-left 3.5s ease-in-out forwards;
-}
-.side-column #l3 {
-  animation: slide-from-left 4s ease-in-out forwards;
-}
-.side-column #l4 {
-  animation: slide-from-left 4.5s ease-in-out forwards;
-}
-.side-column #r1 {
-  animation: slide-from-right 3s ease-in-out forwards;
-}
-.side-column #r2 {
-  animation: slide-from-right 3.5s ease-in-out forwards;
-}
-.side-column #r3 {
-  animation: slide-from-right 4s ease-in-out forwards;
-}
-.side-column #r4 {
-  animation: slide-from-right 4.5s ease-in-out forwards;
-}
+
 
 .pdf-embed {
   width: calc(100% - 2px);

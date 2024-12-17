@@ -1,10 +1,11 @@
 ---
-title: Design
+title: Design | Clinamenic LLC
 hideComments: true
-keywords: clinamenic, design, spencer saar cavanaugh, clinamenic LLC, graphic design, branding
+keywords:
+  - clinamenic, design, spencer saar cavanaugh, clinamenic LLC, graphic design, branding
 publish: true
 headDescription: Clinamenic LLC can provide graph design and branding services for your project.
-headIcon:
+headIcon: 
 quartzShowTitle: false
 quartzShowSubtitle: false
 quartzShowTOC: true

@@ -17,13 +17,75 @@ quartzShowGraph: true
 quartzSearch: true
 ---
 
+<style>
+ .l1, .l2, .l3, .l4, .r1, .r2, .r3, .r4 {
+    text-align: center; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    overflow: hidden; 
+    border: 1px solid var(--dark); 
+    border-radius: 10px !important; 
+    font-weight: 200; 
+    letter-spacing: 2px;
+    background-color: var(--lightgray);
+    transition: all 0.2s ease-in-out;
+    font-size: 1rem;
+    font-family: GeistMono;
+  }
+
+  .l1 {
+    height: 10%;
+    animation: slide-from-left 3s ease-in-out forwards;
+  }
+  .l1:hover, .l2:hover, .l3:hover, .l4:hover, .r1:hover, .r2:hover, .r3:hover, .r4:hover {
+    color: black !important;
+    background-image: none !important;
+    background-color: var(--tertiary) !important;
+    transition: all 0.2s ease-in-out;
+    font-weight: 400; 
+  }
+  .l1::before, .l1::after {
+    color: var(--secondary) !important;
+  } 
+  .l2 {
+    height: 40%;
+    animation: slide-from-left 3.5s ease-in-out forwards;
+  }
+  .l3 {
+    height: 40%;
+    animation: slide-from-left 4s ease-in-out forwards;
+  }
+  .l4 {
+    height: 10%;
+    animation: slide-from-left 4.5s ease-in-out forwards;
+  }
+  .r1 {
+    height: 10%;
+    animation: slide-from-right 3s ease-in-out forwards;
+  }
+  .r2 {
+    height: 40%;
+    animation: slide-from-right 3.5s ease-in-out forwards;
+  }
+  .r3 {
+    height: 40%;
+    animation: slide-from-right 4s ease-in-out forwards;
+  }
+  .r4 {
+    height: 10%;
+    animation: slide-from-right 4.5s ease-in-out forwards;
+  }
+
+</style>
+
 <div class="tri-column">
 
 <div class="side-column">
-<div class="text-box" id="l1" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">Services</div>
-<div class="text-box" id="l2" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center; font-size: 2rem; font-weight: 100; color: var(--tertiary);">typo</br>&nbsp;gra</br>phy|</div>
-<div class="text-box" id="l3" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center;">?</div>
-<div class="text-box" id="l4" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">Gallery</div>
+<a href="" class="l1">SERVICES</a>
+<a href="" class="l2" style="font-size: 1.5rem; font-weight: 100; color: var(--secondary); font-family: GeistMono; line-height: 3rem; letter-spacing: 3px;">TYPO&nbsp;</br>GRA&nbsp;&nbsp;</br>&nbsp;&nbsp;PHY</a>
+<a href="" class="l3">?</a>
+<a href="/gallery.html" class="l4">GALLERY</a>
 </div>
 
 <div class="text-box" style="
@@ -33,7 +95,7 @@ quartzSearch: true
   padding: 0rem 0rem 0rem 0rem;
   animation: fade-in 3s ease-in;
 ">
-<div class="text-box" style="background-color: var(--lightgray); opacity: 0.96; margin: 0rem 0rem 0rem 0rem; border: 0px; padding: 0rem 0rem 1.5rem 0rem;">
+<div class="text-box" style="background-color: var(--lightgray); opacity: 0.96; margin: 0rem 0rem 0rem 0rem; border: 0px; padding: 0.5rem 0rem 2rem 0rem;">
   <div class="clinamenic-cube" style="text-align: center; justify-content: center;">
     <img
       src="https://arweave.net/KIy4ZM-FoCYsj9DxH8WIVI-HmhZpPY4V_eVJI-1DFkw"
@@ -55,12 +117,12 @@ quartzSearch: true
 </div>
 
 <div class="side-column">
-<div class="text-box" id="r1" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">About</div>
-<div class="text-box" id="r2" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center;">?</div>
-<div class="text-box" id="r3" style="height: 45%; text-align: center; display: flex; align-items: center; justify-content: center;">?</div>
-<div class="text-box" id="r4" style="height: 5%; text-align: center; display: flex; align-items: center; justify-content: center; overflow: hidden;">Contact</div>
+<a href="/about.html" class="r1">ABOUT</a>
+<a href="" class="r2">?</a>
+<a href="" class="r3" style="font-size: 1.5rem; font-weight: 100; color: var(--secondary); font-family: GeistMono; line-height: 3rem; letter-spacing: 2px;">ZET&nbsp;&nbsp;&nbsp;</br>TELKAS</br>&nbsp;&nbsp;&nbsp;TEN</a>
+<a href="" class="r4">CONTACT</a>
 </div>
-
+ 
 </div>
 
 <div class="gallery2" style="margin: 1.5rem 0rem 0rem 0rem;">

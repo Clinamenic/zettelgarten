@@ -1,11 +1,13 @@
 ---
 publish: true
 ---
+
 This log documents the books and other written materials I have read, along with the timestamps of reading durations.
 
-## 2019/2021 
+## 2019/2021
 
 ### Books
+
 This section is in rough chronological order, and might not be comprehensive.
 
 - (??/??/?? - ??/??/??) The Wretched of the Earth (Fanon)
@@ -25,6 +27,7 @@ This section is in rough chronological order, and might not be comprehensive.
 ## 2022
 
 ### Books
+
 This section is comprehensive, but imprecisely dated.
 
 - (05/??/22 - 05/06/22) Gravity’s Rainbow (Pynchon)
@@ -36,41 +39,44 @@ This section is comprehensive, but imprecisely dated.
 ## 2023
 
 ### Books
+
 This section is comprehensive, but imprecisely dated.
 
-- (??/??/23 - ??/??/23) Progress and Poverty (George) 
-- (??/??/23 - ??/??/23) The Prince (Machiavelli) 
-- (??/??/23 - ??/??/23) The Art of War (Machiavelli) 
-- (??/??/23 - 05/15/23) The Crying of Lot 49 (Pynchon) 
-- (05/16/23 - 10/22/23) The Odyssey (Homer) 
-- (10/27/23 - 11/03/23) Six Easy Pieces (Feynman) 
-- (11/05/23 - 11/24/23) The Road to Serfdom (Hayek) 
-- (11/28/23 - 12/16/23) On The Nature of Things (Lucretius) 
+- (??/??/23 - ??/??/23) Progress and Poverty (George)
+- (??/??/23 - ??/??/23) The Prince (Machiavelli)
+- (??/??/23 - ??/??/23) The Art of War (Machiavelli)
+- (??/??/23 - 05/15/23) The Crying of Lot 49 (Pynchon)
+- (05/16/23 - 10/22/23) The Odyssey (Homer)
+- (10/27/23 - 11/03/23) Six Easy Pieces (Feynman)
+- (11/05/23 - 11/24/23) The Road to Serfdom (Hayek)
+- (11/28/23 - 12/16/23) On The Nature of Things (Lucretius)
 
 ## 2024
 
 ### Books
+
 This section is comprehensive.
-  
-- (12/17/23 - 01/30/24) Discourses on Livy (Machiavelli) 
-- (02/08/24 - 04/15/24) The Federalist Papers (Hamilton, Jay, Jefferson) 
-- (04/16/24 - 06/28/24) The Constitution of Liberty (Hayek) 
+
+- (12/17/23 - 01/30/24) Discourses on Livy (Machiavelli)
+- (02/08/24 - 04/15/24) The Federalist Papers (Hamilton, Jay, Jefferson)
+- (04/16/24 - 06/28/24) The Constitution of Liberty (Hayek)
 - (07/04/24 - 07/29/24) Moby Dick (Melville)
 - (07/31/24 - 08/01/24) Common Sense (Paine)
 - (08/03/24 - 08/11/24) How to Take Smart Notes (Ahrens)
 - (08/16/24 - 10/17/24) General Theory of Employment, Interest and Money (Keynes)
 - (10/28/24 - Present) Assets in Common (Infrastructure for Shared Ownership)
-- (10/29/24 - Present) The English Face of Machiavelli (Raab)
+- (11/02/24 - 12/16/24) The English Face of Machiavelli (Raab)
 
-     
+
 
 ### Papers/Articles
+
 This section is not comprehensive, and does not count the shorter articles read.
 
-- (08/28/24 - 08/28/24) Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine 
-
+- (08/28/24 - 08/28/24) Niklas Luhmann’s Card Index: Thinking Tool, Communication Partner, Publication Machine
 
 ## To Read
+
 This section follows no particular order.
 
 ### Books
@@ -110,7 +116,6 @@ This section follows no particular order.
 - The Wealth of Nations (Smith)
 - Tractatus Logico-Philosophicus (Wittgenstein)
 - Democracy in America (de Tocqueville)
-
 
 ### Articles
 
