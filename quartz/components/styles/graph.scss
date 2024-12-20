@@ -7,6 +7,7 @@
   }
 
   & > .graph-outer {
+    max-width: var(--pageContentWidth);
     border-radius: 10px;
     border: 1px solid var(--dark);
     background-color: var(--lightgray);

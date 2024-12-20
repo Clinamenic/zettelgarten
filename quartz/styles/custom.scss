@@ -181,8 +181,8 @@
 
 .tri-column{
   display: grid;
-  grid-template-columns: calc((100% - 3rem) * 0.2) calc((100% - 3rem) * 0.6) calc((100% - 3rem) * 0.2);
-  gap: 1.5rem;
+  grid-template-columns: calc((100% - 2rem) * 0.2) calc((100% - 2rem) * 0.6) calc((100% - 2rem) * 0.2);
+  gap: 1rem;
 }
 @media only screen and (max-width: 830px) {
   .tri-column {
@@ -193,7 +193,7 @@
 .side-column{
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1rem;
 }
 @media only screen and (max-width: 830px) {
   .side-column {

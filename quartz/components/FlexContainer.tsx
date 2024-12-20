@@ -46,6 +46,7 @@ export default ((opts?: FlexContainerOptions) => {
   FlexContainer.css = `
     .flex-container {
       width: 100%;
+      max-width: var(--pageContentWidth);
       margin: 1.5rem 0;
     }
 

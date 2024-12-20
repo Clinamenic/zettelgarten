@@ -1,8 +1,13 @@
-$pageWidth: 750px;
+:root {
+  --pageContentWidth: 750px;
+}
+
+$pageWidth: 784px;
+$pageContentWidth: 750px;
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
 $sidePanelWidth: 380px;
-$topSpacing: 5rem;
+$topSpacing: 4.5rem;
 $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
 $boldWeight: 700;
 $semiBoldWeight: 600;

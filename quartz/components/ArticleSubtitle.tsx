@@ -29,10 +29,10 @@ export default ((opts?: ArticleSubtitleOptions) => {
 
   ArticleSubtitle.css = `
   .article-subtitle {
+    max-width: 750px !important;
     color: var(--dark);
     line-height: 1.6 !important;
-    margin: -1.5rem 0rem 1.75rem 0rem !important;
-    padding: 0rem 5rem;
+    margin: -1.5rem 4rem 1.75rem 4rem !important;
     font-size: 1rem;
     text-align: center;
     transition: color 0.5s ease;
@@ -40,6 +40,7 @@ export default ((opts?: ArticleSubtitleOptions) => {
     font-weight: 200;
     @media all and (max-width: calc(750px + 2rem)) { 
       padding: 0rem;
+      margin: -1.5rem 0rem 1.75rem 0rem !important;
     }
   }
   `

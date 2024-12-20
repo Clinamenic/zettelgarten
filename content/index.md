@@ -24,14 +24,15 @@ quartzSearch: true
     align-items: center; 
     justify-content: center; 
     overflow: hidden; 
-    border: 1px solid var(--dark); 
-    border-radius: 10px !important; 
+    border: 0.5px solid var(--secondary); 
+    border-radius: 5px !important; 
     font-weight: 200; 
     letter-spacing: 2px;
     background-color: var(--lightgray);
     transition: all 0.2s ease-in-out;
     font-size: 1rem;
     font-family: GeistMono;
+    line-height: 1.5rem;
   }
 
   .l1 {
@@ -49,11 +50,12 @@ quartzSearch: true
     color: var(--secondary) !important;
   } 
   .l2 {
-    height: 40%;
+    height: 15%;
     animation: slide-from-left 3.5s ease-in-out forwards;
   }
   .l3 {
-    height: 40%;
+    height: 65%;
+    display: hidden;
     animation: slide-from-left 4s ease-in-out forwards;
   }
   .l4 {
@@ -77,13 +79,27 @@ quartzSearch: true
     animation: slide-from-right 4.5s ease-in-out forwards;
   }
 
+  .center {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+
+    > article.popover-hint {
+      > p, h1, h2, h3, h4, h5, h6, li::marker {
+      padding-left: 0.5rem !important;
+      padding-right: 0.5rem !important;
+    }
+    }
+    
+    
+  }
+
 </style>
 
 <div class="tri-column">
 
 <div class="side-column">
 <a href="" class="l1">SERVICES</a>
-<a href="" class="l2" style="font-size: 1.5rem; font-weight: 100; color: var(--secondary); font-family: GeistMono; line-height: 3rem; letter-spacing: 3px;">TYPO&nbsp;</br>GRA&nbsp;&nbsp;</br>&nbsp;&nbsp;PHY</a>
+<a href="" class="l2">TYPO&nbsp;&nbsp;&nbsp;&nbsp;</br>&nbsp;&nbsp;GRAPHY</a>
 <a href="" class="l3">?</a>
 <a href="/gallery.html" class="l4">GALLERY</a>
 </div>
@@ -119,13 +135,13 @@ quartzSearch: true
 <div class="side-column">
 <a href="/about.html" class="r1">ABOUT</a>
 <a href="" class="r2">?</a>
-<a href="" class="r3" style="font-size: 1.5rem; font-weight: 100; color: var(--secondary); font-family: GeistMono; line-height: 3rem; letter-spacing: 2px;">ZET&nbsp;&nbsp;&nbsp;</br>TELKAS</br>&nbsp;&nbsp;&nbsp;TEN</a>
+<a href="" class="r3">ZETTEL&nbsp;&nbsp;</br>&nbsp;&nbsp;KASTEN</a>
 <a href="" class="r4">CONTACT</a>
 </div>
  
 </div>
 
-<div class="gallery2" style="margin: 1.5rem 0rem 0rem 0rem;">
+<div class="gallery2" style="margin: 1rem 0rem 0rem 0rem;">
 
 <div class="text-box" style="padding: 1rem 0rem 0rem 0rem;">
   <p style="text-align: center; font-family: VampiroOne; font-size: 2.5rem; letter-spacing: 0px; padding: 0px; margin: 0rem 0rem 0rem 0rem; margin-top: 15px; rotate: -2deg; animation: jiggle 4s ease-in-out infinite; color: var(--tertiary); text-shadow: 1px 1px 0px black;">Casual</p>

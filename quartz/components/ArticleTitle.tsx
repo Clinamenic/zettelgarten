@@ -29,6 +29,7 @@ export default ((opts?: ArticleTitleOptions) => {
 
   ArticleTitle.css = `
   .article-title {
+    max-width: var(--pageContentWidth);
     line-height: 1.4;
     padding: 2rem 0rem 1rem 0rem;
     margin-top: 0rem;

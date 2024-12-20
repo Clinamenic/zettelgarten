@@ -178,7 +178,7 @@ body {
   font-family: "MonaspaceNeon";
   color: var(--darkgray);
   overscroll-behavior: none;
-  @media only screen and (max-width: calc(750px + 2rem)) { 
+  @media only screen and (max-width: calc(784px + 2rem)) { 
     background-color: var(--light);
     background-image: none;
   }
@@ -349,12 +349,12 @@ a {
       flex: 1;
       display: flex;
       flex-direction: column;
-      gap: 1.5rem;
+      gap: 1rem;
       top: 0;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 3rem;
+      padding: 0 1rem 0 1rem;
       position: fixed;
       z-index: 2;
       @media all and (max-width: $fullPageWidth) {
@@ -398,6 +398,7 @@ a {
 
   & .page-header {
     margin: $topSpacing auto 0 auto;
+    max-width: $pageContentWidth;
     @media all and (max-width: $fullPageWidth) {
     }
   }
@@ -409,21 +410,29 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
-    padding: 0rem 1.5rem 1.5rem 1.5rem;
+    max-width: 750px !important;
+    padding: 0rem 1rem 1.5rem 1rem;
     background-color: var(--light);
     border-left: 1px solid var(--dark);
     border-right: 1px solid var(--dark);
     overflow-x: hidden;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
-      margin-left: 0;
-      margin-right: 0;
+      // margin-left: 0;
+      // margin-right: 0;
     }
-    @media only screen and (max-width: calc(750px + 2rem)) {
-      padding: 0rem 0rem 1.5rem 0rem;
+    @media only screen and (max-width: calc(784px + 2rem)) {
+      width: 100% !important;
+      padding: 0rem 0rem 1.5rem 0rem !important;
       border-left: 0px solid var(--dark);
       border-right: 0px solid var(--dark);
       overflow-x: visible;
+    }
+    > article.popover-hint {
+      > p, h1, h2, h3, h4, h5, h6, li::marker {
+      padding-left: 0.5rem !important;
+      padding-right: 0.5rem !important;
+    }
     }
   }
   & footer {

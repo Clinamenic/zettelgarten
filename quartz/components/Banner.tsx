@@ -9,7 +9,7 @@ function Banner({ fileData }: QuartzComponentProps) {
 
   return (
     <div className="banner" style="width: calc(100% - 2px);">
-      <img src={bannerURI} alt="Banner" style="margin-top: 0rem; border-radius: 10px; border: 1px solid var(--dark)"/>
+      <img src={bannerURI} alt="Banner" style="max-width: var(--pageContentWidth); margin-top: 0rem; border-radius: 10px; border: 1px solid var(--dark)"/>
     </div>
   )
 }
