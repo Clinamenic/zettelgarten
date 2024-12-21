@@ -18,7 +18,7 @@ quartzSearch: true
 ---
 
 <style>
- .l1, .l2, .l3, .l4, .r1, .r2, .r3, .r4 {
+ .l1, .l2, .l3, .l4, .l5, .l6, .r1, .r2, .r3, .r4, .r5, .r6 {
     text-align: center; 
     display: flex; 
     align-items: center; 
@@ -30,53 +30,92 @@ quartzSearch: true
     letter-spacing: 2px;
     background-color: var(--lightgray);
     transition: all 0.2s ease-in-out;
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-family: GeistMono;
     line-height: 1.5rem;
   }
 
   .l1 {
-    height: 10%;
+    height: calc((100% - 5rem) / 6);
+    border-bottom-right-radius: 50px !important;
     animation: slide-from-left 3s ease-in-out forwards;
   }
-  .l1:hover, .l2:hover, .l3:hover, .l4:hover, .r1:hover, .r2:hover, .r3:hover, .r4:hover {
+  .l1:hover, .l2:hover, .l4:hover, .r1:hover, .r3:hover, .r4:hover {
     color: black !important;
     background-image: none !important;
     background-color: var(--tertiary) !important;
     transition: all 0.2s ease-in-out;
     font-weight: 400; 
   }
-  .l1::before, .l1::after {
-    color: var(--secondary) !important;
-  } 
   .l2 {
-    height: 15%;
+    height: calc((100% - 5rem) / 6);
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     animation: slide-from-left 3.5s ease-in-out forwards;
   }
   .l3 {
-    height: 65%;
-    display: hidden;
+    height: calc((100% - 5rem) / 6);
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+    cursor: default;
     animation: slide-from-left 4s ease-in-out forwards;
   }
   .l4 {
-    height: 10%;
+    height: calc((100% - 5rem) / 6);
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     animation: slide-from-left 4.5s ease-in-out forwards;
   }
+  .l5 {
+    height: calc((100% - 5rem) / 6);
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+    cursor: default;
+    animation: slide-from-left 5s ease-in-out forwards;
+  }
+  .l6 {
+    height: calc((100% - 5rem) / 6);
+    border-top-right-radius: 50px !important;
+    cursor: default;
+    animation: slide-from-left 5.5s ease-in-out forwards;
+  }
+
   .r1 {
-    height: 10%;
+    height: calc((100% - 5rem) / 6);
+    border-bottom-left-radius: 50px !important;
     animation: slide-from-right 3s ease-in-out forwards;
   }
   .r2 {
-    height: 40%;
+    height: calc((100% - 5rem) / 6);
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+    cursor: default;
     animation: slide-from-right 3.5s ease-in-out forwards;
   }
   .r3 {
-    height: 40%;
+    height: calc((100% - 5rem) / 6);
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     animation: slide-from-right 4s ease-in-out forwards;
   }
   .r4 {
-    height: 10%;
+    height: 15%;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     animation: slide-from-right 4.5s ease-in-out forwards;
+  }
+  .r5 {
+    height: 15%;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
+    cursor: default;
+    animation: slide-from-right 5s ease-in-out forwards;
+  }
+  .r6 {
+    height: 15%;
+    border-top-left-radius: 50px !important;
+    cursor: default;
+    animation: slide-from-right 5.5s ease-in-out forwards;
   }
 
   .center {
@@ -93,15 +132,21 @@ quartzSearch: true
     
   }
 
+  header {
+    animation: fade-down-100 3s ease-in-out
+  }
+
 </style>
 
 <div class="tri-column">
 
 <div class="side-column">
 <a href="" class="l1">SERVICES</a>
-<a href="" class="l2">TYPO&nbsp;&nbsp;&nbsp;&nbsp;</br>&nbsp;&nbsp;GRAPHY</a>
-<a href="" class="l3">?</a>
+<a href="" class="l2">TYPOGRAPHY</a>
+<a href="" class="l3"></a>
 <a href="/gallery.html" class="l4">GALLERY</a>
+<a href="" class="l5"></a>
+<a href="" class="l6"></a>
 </div>
 
 <div class="text-box" style="
@@ -120,45 +165,47 @@ quartzSearch: true
       alt="Clinamenic Cube"
     />
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 300; text-align: center; font-family: GeistMono; text-shadow: 0px 0px 5px var(--lightgray);">Clinamenic LLC</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem; text-shadow: 0px 0px 5px var(--lightgray);">the consultancy of</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">S P E N C E R</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center; font-family: GeistMono; text-shadow: 0px 0px 15px var(--lightgray); letter-spacing: 1px;">Clinamenic LLC</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem; text-shadow: 0px 0px 15px var(--lightgray);">the consultancy of</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">
-    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">S&nbsp;&nbsp;&nbsp;</p>
-    <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">A&nbsp;&nbsp;&nbsp;A</p>
-    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem;">&nbsp;&nbsp;&nbsp;R</p>
+    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S&nbsp;&nbsp;&nbsp;</p>
+    <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">A&nbsp;&nbsp;&nbsp;A</p>
+    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">&nbsp;&nbsp;&nbsp;R</p>
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem;">C A V A N A U G H</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">C A V A N A U G H</p>
 </div>
 </div>
 
 <div class="side-column">
 <a href="/about.html" class="r1">ABOUT</a>
-<a href="" class="r2">?</a>
-<a href="" class="r3">ZETTEL&nbsp;&nbsp;</br>&nbsp;&nbsp;KASTEN</a>
+<a href="" class="r2"></a>
+<a href="" class="r3" style="letter-spacing: 1px;">ZETTELKASTEN</a>
 <a href="" class="r4">CONTACT</a>
+<a href="" class="r5"></a>
+<a href="" class="r6"></a>
 </div>
  
 </div>
 
 <div class="gallery2" style="margin: 1rem 0rem 0rem 0rem;">
 
-<div class="text-box" style="padding: 1rem 0rem 0rem 0rem;">
+<div class="text-box" style="padding: 1rem 0rem 0rem 0rem; animation: slide-right-400 6s ease-in-out;">
   <p style="text-align: center; font-family: VampiroOne; font-size: 2.5rem; letter-spacing: 0px; padding: 0px; margin: 0rem 0rem 0rem 0rem; margin-top: 15px; rotate: -2deg; animation: jiggle 4s ease-in-out infinite; color: var(--tertiary); text-shadow: 1px 1px 0px black;">Casual</p>
   <p style="text-align: center; font-family: MEK-Mono; font-size: 3.5rem; letter-spacing: 0px; padding: 0px; margin: 0.65rem 1rem 1.5rem 1rem;">DELEGATE</p>
-  <p style="margin: 0rem 1.5rem 1.5rem 1.5rem; text-align: justify; font-size: 0.8rem; line-height: 1.2rem;">Clinamenic LLC is available as a governance delegate for select organizations. <a
+  <p style="margin: 0rem 1.5rem 1.5rem 1.5rem; text-align: center; font-size: 0.8rem; line-height: 1.2rem;">Clinamenic LLC is available as a governance delegate for select organizations. <a
       href="/services.html"
       class="tag"
       style="color: var(--secondary);"
       >Learn more</a>
   </p></div>
 
-<div class="text-box" style="text-align: center; display: flex; align-items: center; justify-content: center;">
+<div class="text-box" style="text-align: center; display: flex; align-items: center; justify-content: center; animation: slide-left-400 6s ease-in-out;">
   <p>Grant Program Management</br>(coming soon!)</p>
 </div>
 </div>
 
-<div style="height: 1.5rem;"></div>
+<div style="height: 1rem;"></div>
 
 <div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none;">
     <p style="text-align: justify; font-size: 0.9rem; line-height: 1.6; justify-content: center; hyphens: none;">

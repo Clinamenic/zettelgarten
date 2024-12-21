@@ -24,9 +24,9 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
 
-        <div class="footer-container">
+        <div class="footer-container" style="box-sizing: border-box;">
 
-          <div className="footer-section">
+          <div class="footer-section" style="box-sizing: border-box; width: 100%; !important;">
 
               <a href="#" class="Clinamenic-Slide">
                 <img
@@ -62,7 +62,7 @@ export default ((opts?: Options) => {
 
 
 
-          <div className="footer-section" style="border: 0px; margin-top: 0rem; justify-content: left;">
+          <div class="footer-section" style="box-sizing: border-box; border-bottom: 0px;">
 
             <div class="gallery2" style="gap: 1rem;">
 

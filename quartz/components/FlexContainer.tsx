@@ -47,12 +47,12 @@ export default ((opts?: FlexContainerOptions) => {
     .flex-container {
       width: 100%;
       max-width: var(--pageContentWidth);
-      margin: 1.5rem 0;
+      margin: 1rem 0;
     }
 
     .flex-content {
       display: flex;
-      gap: 1.5rem;
+      gap: 1rem;
       justify-content: space-between;
       box-sizing: border-box;
       min-height: 144px;

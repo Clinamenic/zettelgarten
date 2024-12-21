@@ -51,6 +51,8 @@ quartzSearch: true
 
 <div style="height: 1.5rem;"></div>
 
+---
+
 ## Decaesitum 1
 
 <p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">(12/18/24)</p>
@@ -61,3 +63,36 @@ quartzSearch: true
     style="border: 1px solid var(--dark);"
     alt="Decaesitum1"
 />
+
+---
+
+## Pixel Tile Patterns
+
+<p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">2017</p>
+
+<div class="gallery2">
+    <img
+        src="https://arweave.net/ipvslDIYy5BKOZPsmPL5ouWwenhYBwBalnhDhzink6k"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt=""
+    />
+    <img
+        src="https://arweave.net/5cFcQwlnF5eAMlbxqUmjwZKPajU2KWe5Jp48MYorZuo"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt=""
+    />
+    <img
+        src="https://arweave.net/vlIc1LrVENeo81U-QGJMOj_IUey4_hVLyT1Y1Pz4oBw"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt=""
+    />
+    <img
+        src="https://arweave.net/VapXxWnNXUV-akAHgCoGEvw0icuoa9EHAoUb1rTq6vU"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt=""
+    />
+</div>
