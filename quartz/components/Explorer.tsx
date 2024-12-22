@@ -43,7 +43,7 @@ const customOptions = {
     // Allow specific folders (case-insensitive)
     const allowedFolders = ['publications', 'notes']
     // Allow specific files (without .md extension)
-    const allowedFiles = ['design', 'gallery']
+    const allowedFiles = ['design', 'gallery', 'about']
     
     // Always include root node
     // if (node.name === '') return true
