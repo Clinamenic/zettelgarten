@@ -10,13 +10,76 @@ publish: true
 quartzShowGraph: true
 ---
 
+<style>
+
+  .article-title {
+    font-weight: 400;
+    font-size: clamp(1.5rem, calc(1.5rem + 1vw), 2.25rem);
+    font-style: italic;
+  }
+
+  article.popover-hint {
+
+    > ol {
+      padding-left: 3rem !important;
+    }
+
+    &h2 {
+      font-weight: 600;
+      font-size: 1.7rem;
+      text-align: center !important;
+      justify-content: center !important;
+      padding-bottom: 1rem;
+      > a {
+        display: none;
+      }
+    }
+    &h3 {
+      font-size: 1.4rem;
+      font-weight: 500;
+      text-align: center !important;
+      justify-content: center !important;
+      padding: 1rem 0rem 1rem 0rem;
+      > a {
+        display: none;
+      }
+    }
+
+    &h4 {
+      font-size: 1.3rem;
+      font-weight: 400;
+      text-align: center !important;
+      justify-content: center !important;
+      padding: 1rem 0rem 1rem 0rem;
+      > a {
+        display: none;
+      }
+    }
+
+    &h5 {
+      font-size: 1.2rem;
+      font-weight: 300;
+      text-align: center !important;
+      justify-content: center !important;
+      padding: 1rem 0rem 1rem 0rem;
+      line-height: 1.6rem;
+      font-style: italic;
+      > a {
+        display: none;
+      }
+    }
+  }
+</style>
+
+---
+
 ## Index
 
-**BOOK ONE - THE DEVELOPMENT OF ROME’S CONSTITUTION**
+<p style=" font-weight: 400; font-size: 1.25rem;"> BOOK ONE - THE DEVELOPMENT OF ROME’S CONSTITUTION</p>
 
-- The Preface
+<p style=" font-weight: 300; font-size: 1.15rem;">Preface</p>
 
-- **1–10: THE BEST FORM OF GOVERNMENT**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 1–10: THE BEST FORM OF GOVERNMENT</p>
 
 1. Concerning the Origin of Cities in General and of Rome in Particular
 2. How many Kinds of State(a) there are and of what Kind was that of Rome
@@ -29,7 +92,7 @@ quartzShowGraph: true
 9. That it is necessary to be the Sole Authority if one would constitute a Republic afresh or would reform it thoroughly regardless of its Ancient Institutions
 10. Those who set up a Tyranny are no less Blameworthy than are the Founders of a Republic or a Kingdom Praiseworthy
 
-- **11–15: RELIGION**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 11–15: RELIGION</p>
 
 11. Concerning the Religion of the Romans
 12. How Important it is to take Account of Religion, and how Italy has been ruined for lack of it, thanks to the Roman Church
@@ -37,13 +100,13 @@ quartzShowGraph: true
 14. The Romans interpreted their Auspices in accordance with their Needs, were wise enough ostensibly to observe Religion when forced to ignore it, and punished those who were so rash as to disparage it
 15. The Samnites had recourse to Religion as a last Resort when their Affairs were going badly
 
-- **16–18: THE TRANSITION FROM SERVITUDE TO FREEDOM**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 16–18: THE TRANSITION FROM SERVITUDE TO FREEDOM </p>
 
 16. A People accustomed to live under a Prince, should they by some Eventuality become free, will with Difficulty maintain their Freedom
 17. A Corrupted People, having acquired Liberty, can maintain it only with the Greatest Difficulty
 18. How in Corrupt Cities a Free Government can be maintained where it exists, or be established where it does not exist
 
-- **19–24: SUNDRY REFLECTIONS ON THE KINGS OF ROME**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 19–24: SUNDRY REFLECTIONS ON THE KINGS OF ROME </p>
 
 19. A Weak Prince who succeeds an Outstanding Prince can hold his own, but a Weak Prince who succeeds another Weak Prince cannot hold any Kingdom
 20. Two Virtuous Princes, of whom one immediately succeeds the other, do Great Things and, as in Well-ordered Republics there is of necessity such a Virtuous Succession, their Acquisitions and their Increase also is great
@@ -52,13 +115,13 @@ quartzShowGraph: true
 23. That One should not stake the Whole of One’s Fortune except on the Whole of One’s Forces; and that, consequently, it is frequently Harmful to defend Passes
 24. Well-ordered Republics, in assigning Rewards and Punishments, never balance one against the Other
 
-- **25–27: THE INTRODUCTION OF NEW FORMS OF GOVERNMENT**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 25–27: THE INTRODUCTION OF NEW FORMS OF GOVERNMENT </p>
 
 25. He who proposes to change an Old-established Form of Government in a Free City should retain at least the Shadow of its Ancient Customs
 26. In a City or Province which he has seized, a New Prince should make Everything New
 27. Very rarely do Men know how to be either Wholly Good or Wholly Bad
 
-- **28–32: INGRATITUDE**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 28–32: INGRATITUDE </p>
 
 28. What made the Romans less ungrateful to their Citizens than were the Athenians?
 29. Which is the more ungrateful, a People or a Prince?
@@ -66,20 +129,20 @@ quartzShowGraph: true
 31. Roman Generals were never punished with Extreme Severity for their Mistakes; nor yet were they ever punished for Ignorance or Bad Judgement even though it caused Harm to the Republic
 32. Neither a Republic nor a Prince should put off conferring Benefits on People until danger is at hand
 
-- **33–36: THE USE AND ABUSE OF DICTATORSHIP**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 33–36: THE USE AND ABUSE OF DICTATORSHIP </p>
 
 33. When either within a State or against a State an Inconvenience has made Headway, the Safer Course is to temporize, not to suppress it
 34. Dictatorial Authority did Good, not Harm, to the Republic of Rome it is the Authority which Citizens arrogate to Themselves, not that granted by Free Suffrage, that is harmful to Civic Life
 35. How it came about that the Appointment of the Decemviri in Rome was harmful to that Republic in spite of their having been appointed by Free and Public Suffrage
 36. Citizens who have held Higher Posts should not disdain to accept Lower
 
-- **37–39: THE ROAD TO RUIN**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 37–39: THE ROAD TO RUIN </p>
 
 37. On the Troubles to which the Agrarian Laws gave rise in Rome; and how great is the Trouble given in a Republic by passing a Law that is too Retrospective and Contravenes an Ancient Custom of the City
 38. Weak Republics suffer from Irresolution and cannot reach Decisions; and, when they do arrive at one, it is due rather to Necessity than to Choice
 39. To Different Peoples the same sort of Thing is often found to happen
 
-- **40–45: SUNDRY REFLECTIONS BASED ON THE DECEMVIRATE**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 40–45: SUNDRY REFLECTIONS BASED ON THE DECEMVIRATE </p>
 
 40. The Appointment of the Decemvirate in Rome and what is Noteworthy about it; in which will be considered, among other Things, how such an Incident may lead either to a Republic’s Salvation or to its Subjection
 41. A Sudden Transition from Humility to Pride or from Kindness to Cruelty without Appropriate Steps in between is both Imprudent and Futile
@@ -88,14 +151,14 @@ quartzShowGraph: true
 44. A Crowd(a) is useless without a Head; nor should it first use Threats and then appeal for the Requisite Authority
 45. It is a Bad Precedent to break a New Law, especially if the Legislator himself does it; and daily to inflict Fresh Injuries on a City is most Harmful to him that governs it
 
-- **46–49: THE POPULAR DEMAND FOR A SHARE IN GOVERNMENT**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 46–49: THE POPULAR DEMAND FOR A SHARE IN GOVERNMENT </p>
 
 46. Men pass from one Ambition to Another, and, having first striven against Ill-treatment, inflict it next upon Others
 47. Though Men make Mistakes about Things in General, they do not make Mistakes about Particulars
 48. To prevent an Official Appointment being given to a Base and Wicked Fellow, either an Exceedingly Base and Wicked Man should be put forward as a Candidate or an Exceedingly Noble and Good Man
 49. If those City-States which from the Outset have been free, as Rome was, find it difficult to formulate Laws whereby to maintain Liberty, those which have just been servile are faced with a Quasi-impossibility
 
-- **50–55: THE MANAGEMENT OF THE POPULACE**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 50–55: THE MANAGEMENT OF THE POPULACE </p>
 
 50. No One Department(a) and no One Official(b) in a State(c) should be able to hold up proceedings
 51. A Republic or a Prince should ostensibly do out of Generosity what Necessity constrains them to do
@@ -104,7 +167,7 @@ quartzShowGraph: true
 54. How Great an Influence a Grave Man may have in restraining an Excited Crowd
 55. That it is very easy to manage Things in a State in which the Masses are not Corrupt; and that, where Equality exists, it is impossible to set up a Principality, and, where it does not exist, impossible to set up a Republic
 
-- **56–60: THE ADVANTAGES OF POPULAR GOVERNMENT**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 56–60: THE ADVANTAGES OF POPULAR GOVERNMENT </p>
 
 56. Before Great Misfortunes befall a City or a Province they are preceded by Portents or foretold by Men
 57. The Plebs United is Strong, but in Itself it is Weak
@@ -112,11 +175,11 @@ quartzShowGraph: true
 59. What Confederations or Leagues can be trusted most; those made with a Republic or those made with a Prince
 60. That the Consulate and all Other Offices in Rome were conferred without Respect to Age
 
-**BOOK TWO - THE GROWTH OF ROME'S EMPIRE**
+<p style=" font-weight: 400; font-size: 1.25rem;"> BOOK TWO - THE GROWTH OF ROME'S EMPIRE </p>
 
-- The Preface
+<p style=" font-weight: 300; font-size: 1.15rem;"> Preface </p>
 
-- **1–5: METHODS OF EXPANSION**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 1–5: METHODS OF EXPANSION </p>
 
 1. Whether Virtue or Fortune was the Principal Cause of the Empire which Rome acquired
 2. Concerning the Kind of People the Romans had to fight, and how obstinately they defended their Freedom
@@ -124,7 +187,7 @@ quartzShowGraph: true
 4. Republics have adopted Three Methods of Expansion
 5. Changes of Religion and of Language, together with such Misfortunes as Floods or Pestilences, obliterate the Records of the Past
 
-- **6–10: COLONIZATION AND WAR: ITS CAUSES AND COST**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 6–10: COLONIZATION AND WAR: ITS CAUSES AND COST </p>
 
 6. How the Romans proceeded in the waging of War
 7. How much Land the Romans gave to their Colonists
@@ -132,7 +195,7 @@ quartzShowGraph: true
 9. What Causes commonly give rise to Wars between Different Powers
 10. Money is not the Sinews of War, as it is commonly supposed to be
 
-- **11–15: DIPLOMACY AND WAR**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 11–15: DIPLOMACY AND WAR </p>
 
 11. It is not a Wise Course to make an Alliance with a Ruler whose Reputation is greater than his Strength
 12. Whether it is better, when threatened with Attack, to assume the Offensive or to await the Outbreak of War
@@ -140,13 +203,13 @@ quartzShowGraph: true
 14. Men often make the Mistake of supposing that Pride is overcome by Humility
 15. The Decisions of Weak States are always fraught with Ambiguity, and the Slowness with which they arrive at them is Harmful
 
-- **16–18: THE ARMY, ITS DISCIPLINE AND COMPONENT PARTS**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 16–18: THE ARMY, ITS DISCIPLINE AND COMPONENT PARTS </p>
 
 16. How far the Discipline of Troops in our Day falls short of that maintained in Days gone by
 17. In what Esteem Artillery should be held by Armies at the Present Time, and whether the Opinion universally held in its Regard is Sound
 18. That Infantry should be more highly esteemed than Cavalry is shown by the Authority of the Romans and by the Example of Ancient Military Practice
 
-- **19–23: THE ADMINISTRATION OF CONQUERED TERRITORY AND OTHER PROBLEMS WHICH ADMIT OF NO MIDDLE COURSE**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 19–23: THE ADMINISTRATION OF CONQUERED TERRITORY AND OTHER PROBLEMS WHICH ADMIT OF NO MIDDLE COURSE </p>
 
 19. Acquisitions made by Republics, when not well governed nor handled with the Virtue the Romans displayed, contribute to the Downfall, not to the Advancement, of such Republics
 20. On the Dangers which accrue to the Prince or the Republic that employs Auxiliary or Mercenary Troops
@@ -154,14 +217,14 @@ quartzShowGraph: true
 22. How frequently Erroneous are the Views Men adopt in regard to Matters of Moment
 23. When Events required that the Romans should pass Judgement on Subject Peoples they avoided a Middle Course
 
-- **24–27: MISTAKES OFTEN MADE IN CONNECTION WITH WAR**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 24–27: MISTAKES OFTEN MADE IN CONNECTION WITH WAR </p>
 
 24. Fortresses in General are much more Harmful than Useful
 25. To attack a Divided City in the Hope that its Divisions will facilitate the Conquest of it is Bad Policy
 26. Scorn and Abuse arouse Hatred against those who indulge in them without bringing them any Advantage
 27. Prudent Princes and Republics should be content with Victory, for, when they are not content with it, they usually lose
 
-- **28–33: ROME'S DEALINGS WITH NEIGHBOURING STATES AND CITIES IN PEACE AND WAR**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 28–33: ROME'S DEALINGS WITH NEIGHBOURING STATES AND CITIES IN PEACE AND WAR </p>
 
 28. How Dangerous it is for a Republic or a Prince not to avenge an Injury done either to the Public or to a Private Person
 29. Fortune blinds Men's Minds when she does not wish them to obstruct her Designs
@@ -170,9 +233,9 @@ quartzShowGraph: true
 32. On the Various Methods used by the Romans in taking Towns
 33. The Romans gave to Army Commanders Discretionary Powers
 
-**BOOK THREE - THE EXAMPLE OF ROME'S GREAT MEN**
+<p style=" font-weight: 400; font-size: 1.25rem;"> BOOK THREE - THE EXAMPLE OF ROME'S GREAT MEN </p>
 
-- **1–5: REFORM, SECURITY, AND THE ELIMINATION OF RIVALS**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 1–5: REFORM, SECURITY, AND THE ELIMINATION OF RIVALS </p>
 
 1. In Order that a Religious Institution or a State should long survive it is essential that it should frequently be Restored to its original principles
 2. That it is a Very Good Notion at Times to pretend to be a Fool
@@ -180,17 +243,17 @@ quartzShowGraph: true
 4. A Prince cannot Live Securely in a Principality whilst those are Alive who have been despoiled of it
 5. What it is that causes a Hereditary Prince to lose his Kingdom
 
-- **6: ON CONSPIRACIES**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 6: ON CONSPIRACIES </p>
 
 6. On Conspiracies
 
-- **7–9: THE NEED OF ADAPTATION TO ENVIRONMENT**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 7–9: THE NEED OF ADAPTATION TO ENVIRONMENT </p>
 
 7. How it comes about that Changes from Liberty to Servitude and from Servitude to Liberty sometimes occur without Bloodshed and sometimes abound in it
 8. He who would transform a Republic should take Due Note of the Governed
 9. That it behoves one to adapt Oneself to the Times if one wants to enjoy Continued Good Fortune
 
-- **10–15: SUNDRY REMARKS ON STRATEGY, TACTICS, NEW DEVICES AND DISCIPLINE**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 10–15: SUNDRY REMARKS ON STRATEGY, TACTICS, NEW DEVICES AND DISCIPLINE </p>
 
 10. That a General cannot avoid an Engagement if the Enemy is determined to force him to it at All Costs
 11. That he who has to deal with several Foes, even though he be Weaker than they are, can actually Win, provided he can sustain their First Attack
@@ -199,13 +262,13 @@ quartzShowGraph: true
 14. What Effects are produced by the Appearance of New Inventions in the course of a Battle and by the hearing of Unfamiliar Cries
 15. That at the Head of an Army there should be One, not Several, Commanders, and that to have a Plurality is a Nuisance
 
-- **16–18: ADMINISTRATIVE POSTS**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 16–18: ADMINISTRATIVE POSTS </p>
 
 16. Genuine Virtue counts in Difficult Times, but, when Things are going well, it is rather to those whose Popularity is due to Wealth or Parentage that Men look
 17. That to a Person to whom Offence has been given, no Administrative Post of Importance should subsequently be assigned
 18. Nothing becomes a General more than to anticipate the Enemy's Plans
 
-- **19–23: ADMINISTRATIVE METHODS: THE RIVAL CLAIMS OF SEVERITY AND GOOD FELLOWSHIP**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 19–23: ADMINISTRATIVE METHODS: THE RIVAL CLAIMS OF SEVERITY AND GOOD FELLOWSHIP </p>
 
 19. Whether in controlling the Masses Considerateness is more Necessary than Punishment
 20. A Single Act of Common Humanity made a Greater Impression on the Falisci than did all the Forces of Rome
@@ -213,7 +276,7 @@ quartzShowGraph: true
 22. How the Severity of Manlius Torquatus and the Sociability of Valerius Corvinus won for Each the same Degree of Fame
 23. Upon what Account Camillus was banished from Rome
 
-- **24–30: INTERNAL SECURITY**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 24–30: INTERNAL SECURITY </p>
 
 24. The Prolongation of Military Commands made Rome a Servile State
 25. Concerning the Poverty of Cincinnatus and of many other Roman Citizens
@@ -223,7 +286,7 @@ quartzShowGraph: true
 29. That the Faults of Peoples are due to Princes
 30. (i) It is necessary for a Citizen who proposes to use his Authority to do any Good Work in a Republic first to extinguish all Envy; and (ii) what Provisions are to be made for the Defence of a City which the Enemy is about to attack
 
-- **31–35: EQUANIMITY, INSURRECTION, CONFIDENCE, ELECTIONEERING, AND THE TENDERING OF ADVICE**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 31–35: EQUANIMITY, INSURRECTION, CONFIDENCE, ELECTIONEERING, AND THE TENDERING OF ADVICE </p>
 
 31. Strong Republics and Outstanding Men retain their Equanimity and their Dignity under all Circumstances
 32. What Means some have adopted to prevent a Peace
@@ -231,20 +294,20 @@ quartzShowGraph: true
 34. What Kind of Reputation or Gossip or Opinion causes the Populace to begin to favour a Particular Citizen; and whether the Populace appoints to Offices with Greater Prudence than does a Prince
 35. What Dangers are run by one who takes the Lead in advising some Course of Action; and how much greater are the Dangers incurred when the Course of Action is Unusual
 
-- **36–39: ADVICE TO GENERALS IN THE FIELD**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 36–39: ADVICE TO GENERALS IN THE FIELD </p>
 
 36. Reasons why the French have been, and still are, looked upon in the Beginning of a Battle as more than Men, and afterwards as less than Women
 37. Whether Skirmishes are Necessary before a Battle, and how, if one decides to do without them, the Presence of Fresh Enemy Troops is to be discovered
 38. What ought to be done by a General so that his Army may have Confidence in him
 39. That a General ought to be acquainted with the Lie of the Land
 
-- **40–42: SALUS POPULI, SUPREMA LEX**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 40–42: SALUS POPULI, SUPREMA LEX </p>
 
 40. That it is a Glorious Thing to use Fraud in the Conduct of a War
 41. That one's Country should be defended whether it entail Ignominy or Glory, and that it is Good to defend it in any way whatsoever
 42. That Promises extracted by Force ought not to be kept
 
-- **43–48: FURTHER REFLECTIONS BASED ON THE SAMNITE WARS**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 43–48: FURTHER REFLECTIONS BASED ON THE SAMNITE WARS </p>
 
 43. That Men who are born in the same Country display throughout the Ages much the same Characteristics
 44. Results are often obtained by Impetuosity and Daring which could never have been obtained by Ordinary Methods
@@ -253,7 +316,7 @@ quartzShowGraph: true
 47. That a Good Citizen out of Love for his Country ought to ignore Personal Affronts
 48. When an Enemy is seen to be making a Big Mistake it should be assumed that it is but an Artifice
 
-- **49: THE PRESERVATION OF FREEDOM IN A REPUBLIC**
+<p style=" font-weight: 300; font-size: 1.15rem;"> 49: THE PRESERVATION OF FREEDOM IN A REPUBLIC </p>
 
 49. A Republic that would preserve its Freedom, ought daily to make Fresh Provisions to this End, and what Quintus Fabius did to earn for himself the title Maximus
 

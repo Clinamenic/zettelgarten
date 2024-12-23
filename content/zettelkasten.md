@@ -18,11 +18,78 @@ quartzSearch: true
 tags:
 ---
 
+<style>
+  .center {
+    &h2 {
+      font-weight: 300;
+      font-size: 1.5rem;
+      text-align: center !important;
+      justify-content: center !important;
+      transform: translateX(1.25rem);
+    }
+    &h3 {
+      font-size: 1.3rem;
+    }
+  }
+</style>
+
 This is the zettelkasten of Spencer Saar Cavanaugh of [Clinamenic LLC](/index.html).
 
 ---
 
-## Methodology
+## Content
+
+---
+
+### Notes on Books
+
+- [[Common Sense]] by Thomas Paine
+  - [[r-TP-CS-Hub]] ([scanned notes](https://app.ardrive.io/#/file/37f0b454-27ef-43a4-9691-971b14bfef35/view))
+- [[The Prince]] by Niccolo Machiavelli
+  - [[r-NM-TP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/ef27fff7-e813-4a46-8673-4f121190415c/view))
+- [[Discourses on Livy]] by Niccolo Machiavelli
+  - [[r-NM-DL-Hub]] ([scanned notes](https://app.ardrive.io/#/file/aa34741e-109a-44a3-b45e-5987ba8540f9/view))
+- The Art of War by Niccolo Machiavelli
+  - [[r-NM-AW-Hub]] ([scanned notes](https://app.ardrive.io/#/file/ee2a3695-37b7-435d-9448-6bbdb6b40b33/view))
+- The Road to Serfdom by Friedrich Hayek
+  - [[r-FH-RS-Hub]] ([scanned notes](https://app.ardrive.io/#/file/32b1dd3c-c1c3-453e-97e3-1de99b51f31a/view))
+- The Constitution of Liberty by Friedrich Hayek
+  - [[r-FH-CL-Hub]] ([scanned notes](https://app.ardrive.io/#/file/4ab5c166-19e4-47be-b49e-a782158d34b6/view))
+- The Use of Knowledge in Society by Friedrich Hayek
+  - [[r-FH-UK-Hub]] ([scanned notes](https://app.ardrive.io/#/file/94219817-8498-450f-9ad6-e575a70954a9/view))
+- [[Progress and Poverty]] by Henry George
+  - [[r-HG-PP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/6ded2432-4be8-4d22-9042-9058a8157bae/view))
+- [[On the Nature of Things]] by Lucretius
+  - [[r-Lu-NT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/67854654-f077-43c8-bf95-ad43ee238a7c/view))
+- [[The General Theory of Employment, Interest and Money]] by John Maynard Keynes
+  - [[r-JK-GT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/a8b10b15-dad2-4bad-bf7c-72c76fc94edd/view))
+- Discourse on the Origin and Basis of Inequality Among Men by Jean-Jacques Rousseau
+  - [[r-JR-DO-Hub]] ([scanned notes](https://app.ardrive.io/#/file/9aa862f5-0340-4281-a21b-e4858d069c42/view))
+- [[The Federalist Papers]] by Publius
+  - [[r-Pu-FP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/7d04009d-ba6e-40e6-a5dd-3ee9e2afc2fe/view))
+
+---
+
+### Canvassing
+
+![[Boilerplate#Canvas Foreword]]
+
+- [[Notes on Active Discursive Efforts]]
+- [[Notes on the Distinction between Theoretical and Applied Governance]]
+- [[Notes on Extitutional Theory and Progressive Protocolization]]
+- [[Notes on Keynes, Hayek, and Fiscal Protocols]]
+- [[Notes on Experimental Zettelkasten Methodology]]
+- [[Notes on Methodology for Communities of Practice]]
+- [[Notes on an Ethical Hermeneutics of Machiavelli]]
+- [[Notes on Experimental Zettelkasten Methodology, Part 2]]
+- [[Intimations of a Post-Machiavellian Moral-Tactical Calculus]]
+- [[Considerations on Delegate Agents]]
+
+---
+
+## Configuration
+
+---
 
 ### File Naming
 
@@ -175,53 +242,7 @@ internalRef:
 
 ---
 
-## Notes on Books
-
-- [[Common Sense]] by Thomas Paine
-  - [[r-TP-CS-Hub]] ([scanned notes](https://app.ardrive.io/#/file/37f0b454-27ef-43a4-9691-971b14bfef35/view))
-- [[The Prince]] by Niccolo Machiavelli
-  - [[r-NM-TP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/ef27fff7-e813-4a46-8673-4f121190415c/view))
-- [[Discourses on Livy]] by Niccolo Machiavelli
-  - [[r-NM-DL-Hub]] ([scanned notes](https://app.ardrive.io/#/file/aa34741e-109a-44a3-b45e-5987ba8540f9/view))
-- The Art of War by Niccolo Machiavelli
-  - [[r-NM-AW-Hub]] ([scanned notes](https://app.ardrive.io/#/file/ee2a3695-37b7-435d-9448-6bbdb6b40b33/view))
-- The Road to Serfdom by Friedrich Hayek
-  - [[r-FH-RS-Hub]] ([scanned notes](https://app.ardrive.io/#/file/32b1dd3c-c1c3-453e-97e3-1de99b51f31a/view))
-- The Constitution of Liberty by Friedrich Hayek
-  - [[r-FH-CL-Hub]] ([scanned notes](https://app.ardrive.io/#/file/4ab5c166-19e4-47be-b49e-a782158d34b6/view))
-- The Use of Knowledge in Society by Friedrich Hayek
-  - [[r-FH-UK-Hub]] ([scanned notes](https://app.ardrive.io/#/file/94219817-8498-450f-9ad6-e575a70954a9/view))
-- [[Progress and Poverty]] by Henry George
-  - [[r-HG-PP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/6ded2432-4be8-4d22-9042-9058a8157bae/view))
-- [[On the Nature of Things]] by Lucretius
-  - [[r-Lu-NT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/67854654-f077-43c8-bf95-ad43ee238a7c/view))
-- [[The General Theory of Employment, Interest and Money]] by John Maynard Keynes
-  - [[r-JK-GT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/a8b10b15-dad2-4bad-bf7c-72c76fc94edd/view))
-- Discourse on the Origin and Basis of Inequality Among Men by Jean-Jacques Rousseau
-  - [[r-JR-DO-Hub]] ([scanned notes](https://app.ardrive.io/#/file/9aa862f5-0340-4281-a21b-e4858d069c42/view))
-- [[The Federalist Papers]] by Publius
-  - [[r-Pu-FP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/7d04009d-ba6e-40e6-a5dd-3ee9e2afc2fe/view))
-
----
-
-## Canvassing
-
-![[Boilerplate#Canvas Foreword]]
-
-- [[Notes on Active Discursive Efforts]]
-- [[Notes on the Distinction between Theoretical and Applied Governance]]
-- [[Notes on Extitutional Theory and Progressive Protocolization]]
-- [[Notes on Keynes, Hayek, and Fiscal Protocols]]
-- [[Notes on Experimental Zettelkasten Methodology]]
-- [[Notes on Methodology for Communities of Practice]]
-- [[Notes on an Ethical Hermeneutics of Machiavelli]]
-- [[Notes on Experimental Zettelkasten Methodology, Part 2]]
-- [[Intimations of a Post-Machiavellian Moral-Tactical Calculus]]
-- [[Considerations on Delegate Agents]]
-
----
-
-## Customizations
+### Customizations
 
 - [x] Add AuthorName.ts component.
 - [x] Add PublishDate.ts component.

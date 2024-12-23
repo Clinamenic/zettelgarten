@@ -23,6 +23,10 @@ quartzSearch: true
     --wideradius: 50px;
   }
 
+  html {
+    animation: fade-in 3s ease-in;
+  }
+
   .l1, .l2, .l3, .l4, .l5, .l6, .r1, .r2, .r3, .r4, .r5, .r6 {
     text-align: center; 
     display: flex; 
