@@ -24,7 +24,7 @@ quartzSearch: true
     align-items: center; 
     justify-content: center; 
     overflow: hidden; 
-    border: 0.5px solid var(--secondary); 
+    border: 1px solid var(--secondary); 
     border-radius: 5px !important; 
     font-weight: 200; 
     letter-spacing: 2px;
@@ -37,7 +37,8 @@ quartzSearch: true
 
   .l1 {
     height: calc((100% - 5rem) / 6);
-    border-bottom-right-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     animation: slide-from-left 3s ease-in-out forwards;
   }
   .l1:hover, .l2:hover, .l4:hover, .r1:hover, .r3:hover, .r4:hover {
@@ -49,71 +50,74 @@ quartzSearch: true
   }
   .l2 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     animation: slide-from-left 3.5s ease-in-out forwards;
   }
   .l3 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     cursor: default;
     animation: slide-from-left 4s ease-in-out forwards;
   }
   .l4 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     animation: slide-from-left 4.5s ease-in-out forwards;
   }
   .l5 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     cursor: default;
     animation: slide-from-left 5s ease-in-out forwards;
   }
   .l6 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     cursor: default;
     animation: slide-from-left 5.5s ease-in-out forwards;
   }
 
   .r1 {
     height: calc((100% - 5rem) / 6);
-    border-bottom-left-radius: 50px !important;
+   border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     animation: slide-from-right 3s ease-in-out forwards;
   }
   .r2 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     cursor: default;
     animation: slide-from-right 3.5s ease-in-out forwards;
   }
   .r3 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     animation: slide-from-right 4s ease-in-out forwards;
   }
   .r4 {
     height: 15%;
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     animation: slide-from-right 4.5s ease-in-out forwards;
   }
   .r5 {
     height: 15%;
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
     cursor: default;
     animation: slide-from-right 5s ease-in-out forwards;
   }
   .r6 {
     height: 15%;
-    border-top-left-radius: 50px !important;
+    border-top-right-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
     cursor: default;
     animation: slide-from-right 5.5s ease-in-out forwards;
   }

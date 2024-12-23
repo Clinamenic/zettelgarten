@@ -77,9 +77,9 @@ header {
   padding: 0.75rem 1.5rem;
   gap: 1.5rem;
   border-top: 0px solid var(--dark);
-  border-right: 0.5px solid var(--dark);
-  border-left: 0.5px solid var(--dark);
-  border-bottom: 0.5px solid var(--dark);
+  border-right: 1px solid var(--dark);
+  border-left: 1px solid var(--dark);
+  border-bottom: 1px solid var(--dark);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   transition: all 0.3s ease;

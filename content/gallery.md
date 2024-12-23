@@ -1,12 +1,13 @@
 ---
 hideComments: true
 keywords: clinamenic, drawings, spencer saar cavanaugh, clinamenic LLC
+bannerURI: https://arweave.net/VapXxWnNXUV-akAHgCoGEvw0icuoa9EHAoUb1rTq6vU
 publish: true
 tags:
 title: Gallery
 headDescription: A collection of artwork by Spencer Saar Cavanaugh.
 headIcon:
-quartzShowTitle: false
+quartzShowTitle: true
 quartzShowSubtitle: false
 quartzShowTOC: true
 quartzShowExplorer: true
@@ -19,6 +20,10 @@ quartzSearch: true
 
 <style>
 
+    .banner {
+        display: none;
+    }
+
     .center{
         &h2 {
             font-weight: 200;
@@ -29,42 +34,6 @@ quartzSearch: true
     
 
 </style>
-
-## Persimmon on Woodgrain
-
-<p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">12/07/24</p>
-
-<div class="gallery2">
-    <img
-        src="https://arweave.net/48mosvTgcPAB8UGHcNamtmb-mVUo-TV1LMp1QasMegw"
-        class="gallery-img"
-        style="border: 1px solid var(--dark);"
-        alt="PersimmonWoodgrainSketch"
-    />
-    <img
-        src="https://arweave.net/iGSctzmRYUXGMtjrmVHb1Sj0Cz3YKZte-sCfsEzZNKw"
-        class="gallery-img"
-        style="border: 1px solid var(--dark);"
-        alt="PersimmonWoodgrainColor"
-    />
-</div>
-
-<div style="height: 1.5rem;"></div>
-
----
-
-## Decaesitum 1
-
-<p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">12/18/24</p>
-
-<div class="gallery1">
-    <img
-        src="https://arweave.net/-RUdHBA8UOxh6M1M-WLU9W0GMt4bIgGd1WFynVwilz0"
-        class="gallery-img"
-        style="border: 1px solid var(--dark); padding: 0rem !important;"
-        alt="Decaesitum1"
-    />
-</div>
 
 ---
 
@@ -107,3 +76,60 @@ quartzSearch: true
         alt=""
     />
 </div>
+
+---
+
+## Persimmon on Woodgrain
+
+<p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">12/07/24</p>
+
+<div class="gallery2">
+    <img
+        src="https://arweave.net/48mosvTgcPAB8UGHcNamtmb-mVUo-TV1LMp1QasMegw"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt="PersimmonWoodgrainSketch"
+    />
+    <img
+        src="https://arweave.net/iGSctzmRYUXGMtjrmVHb1Sj0Cz3YKZte-sCfsEzZNKw"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt="PersimmonWoodgrainColor"
+    />
+</div>
+
+<div style="height: 1.5rem;"></div>
+
+---
+
+## Pothos on Granite Plane
+
+<p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">12/22/24</p>
+
+<div class="gallery2">
+    <img
+        src="https://arweave.net/yWj5FkO3aN7aqs3Z8SR5C7S5jh5L0UIy6ZChMS9mTRQ"
+        class="gallery-img"
+        style="border: 1px solid var(--dark);"
+        alt="PothosGranitePlaneSketchSmall"
+    />
+</div>
+
+<div style="height: 1.5rem;"></div>
+
+---
+
+## Decaesitum
+
+<p style="font-weight: 100; margin-top: -0.85rem; font-size: 0.8rem">12/18/24</p>
+
+<div class="gallery1">
+    <img
+        src="https://arweave.net/-RUdHBA8UOxh6M1M-WLU9W0GMt4bIgGd1WFynVwilz0"
+        class="gallery-img"
+        style="border: 1px solid var(--dark); padding: 0rem !important;"
+        alt="Decaesitum"
+    />
+</div>
+
+---
