@@ -5,7 +5,9 @@
 
 // put your custom CSS here!
 
-
+:root {
+  --main-border-rad: 10px;
+}
 
 .heading1{
     display: flex;
@@ -28,7 +30,7 @@
   position: relative;
   background-color: var(--lightgray);
   border: 1px solid var(--dark);
-  border-radius: 5px;
+  border-radius: var(--main-border-rad);
   padding: 1rem;
   overflow-x: hidden;
   z-index: 0;

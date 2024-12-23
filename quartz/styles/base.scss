@@ -429,7 +429,7 @@ a {
       overflow-x: visible;
     }
     > article.popover-hint {
-      > p, h1, h2, h3, h4, h5, h6, li::marker {
+      > p, h1, h2, h3, h4, h5, h6, li::marker, code, figure {
       padding-left: 0.5rem !important;
       padding-right: 0.5rem !important;
     }

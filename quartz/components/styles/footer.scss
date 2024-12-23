@@ -9,8 +9,8 @@ footer {
   margin-left: auto;
   margin-right: auto;
   background-color: var(--light);
-  border-right: 1px solid var(--dark);
-  border-left: 1px solid var(--dark);
+  border-right: 1px solid var(--dark) !important;
+  border-left: 1px solid var(--dark) !important;
   border-bottom: 0px solid var(--dark);
   overflow: hidden !important;
   transform: translateX(0.2px);
@@ -24,8 +24,8 @@ footer {
   @media only screen and (max-width: calc(784px + 2rem)) {
     padding: 0rem 0rem 0rem 0rem !important;
     width: 100%;
-    border-left: 0px;
-    border-right: 0px;
+    border-left: 0px !important;
+    border-right: 0px !important;
   }
 
   & ul {

@@ -35,6 +35,8 @@ quartzSearch: true
 
 </style>
 
+This is the gallery of Spencer Saar Cavanaugh. For influences, see [[Museotheque]].
+
 ---
 
 ## Pixel Tilework
@@ -54,9 +56,6 @@ quartzSearch: true
         style="border: 0px solid var(--dark);"
         alt=""
     />
-</div>
-
-<div class="gallery3" style="margin-top: 1rem;">
     <img
         src="https://arweave.net/ipvslDIYy5BKOZPsmPL5ouWwenhYBwBalnhDhzink6k"
         class="gallery-img"

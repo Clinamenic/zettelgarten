@@ -18,6 +18,25 @@ quartzSearch: true
 tags:
 ---
 
+---
+
+<style>
+  
+
+  .center{
+    h2 {
+      text-align: center !important;
+      justify-content: center !important;
+      transform: translateX(1.25rem);
+      font-weight: 300;
+      font-size: 1.75rem;
+      padding-bottom: 1rem;
+    }
+  }
+</style>
+
+## Graphic Design
+
 <div class="gallery3">
           <img
             src="https://i.pinimg.com/originals/24/7f/45/247f45070cb1ef7163052703f80e5e5d.png"
@@ -84,7 +103,9 @@ tags:
           />
 </div>
 
-<div style="height: 1.5rem"></div>
+---
+
+## Logo Design
 
 <div class="gallery4">
           <img

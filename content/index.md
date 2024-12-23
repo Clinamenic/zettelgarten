@@ -18,14 +18,19 @@ quartzSearch: true
 ---
 
 <style>
- .l1, .l2, .l3, .l4, .l5, .l6, .r1, .r2, .r3, .r4, .r5, .r6 {
+
+  :root {
+    --wideradius: 50px;
+  }
+
+  .l1, .l2, .l3, .l4, .l5, .l6, .r1, .r2, .r3, .r4, .r5, .r6 {
     text-align: center; 
     display: flex; 
     align-items: center; 
     justify-content: center; 
     overflow: hidden; 
     border: 1px solid var(--secondary); 
-    border-radius: 5px !important; 
+    border-radius: var(--main-border-rad) !important; 
     font-weight: 200; 
     letter-spacing: 2px;
     background-color: var(--lightgray);
@@ -33,92 +38,88 @@ quartzSearch: true
     font-size: 0.9rem;
     font-family: GeistMono;
     line-height: 1.5rem;
+    cursor: default;
   }
 
   .l1 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-left 3s ease-in-out forwards;
   }
-  .l1:hover, .l2:hover, .l4:hover, .r1:hover, .r3:hover, .r4:hover {
+  .l1:hover, .l2:hover, .l4:hover, .l6:hover, .r1:hover, .r2:hover, .r3:hover, .r5:hover {
     color: black !important;
     background-image: none !important;
     background-color: var(--tertiary) !important;
     transition: all 0.2s ease-in-out;
     font-weight: 400; 
+    cursor: pointer;
   }
   .l2 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-left-radius: var(--wideradius) !important;
+    border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-left 3.5s ease-in-out forwards;
   }
   .l3 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
-    cursor: default;
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-left 4s ease-in-out forwards;
   }
   .l4 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-left-radius: var(--wideradius) !important;
+    border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-left 4.5s ease-in-out forwards;
   }
   .l5 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
-    cursor: default;
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-left 5s ease-in-out forwards;
   }
   .l6 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
-    cursor: default;
+    border-top-left-radius: var(--wideradius) !important;
+    border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-left 5.5s ease-in-out forwards;
   }
 
   .r1 {
     height: calc((100% - 5rem) / 6);
-   border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-left-radius: var(--wideradius) !important;
+    border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 3s ease-in-out forwards;
   }
   .r2 {
     height: calc((100% - 5rem) / 6);
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
-    cursor: default;
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 3.5s ease-in-out forwards;
   }
   .r3 {
     height: calc((100% - 5rem) / 6);
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
+    border-top-left-radius: var(--wideradius) !important;
+    border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 4s ease-in-out forwards;
   }
   .r4 {
     height: 15%;
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 4.5s ease-in-out forwards;
   }
   .r5 {
     height: 15%;
-    border-top-left-radius: 50px !important;
-    border-bottom-right-radius: 50px !important;
-    cursor: default;
+    border-top-left-radius: var(--wideradius) !important;
+    border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 5s ease-in-out forwards;
   }
   .r6 {
     height: 15%;
-    border-top-right-radius: 50px !important;
-    border-bottom-left-radius: 50px !important;
-    cursor: default;
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 5.5s ease-in-out forwards;
   }
 
@@ -145,12 +146,12 @@ quartzSearch: true
 <div class="tri-column">
 
 <div class="side-column">
-<a href="" class="l1">SERVICES</a>
-<a href="" class="l2">TYPOGRAPHY</a>
+<a href="/about.html" class="l1">ABOUT</a>
+<a href="" class="l2">SERVICES</a>
 <a href="" class="l3"></a>
-<a href="/gallery.html" class="l4">GALLERY</a>
+<a href="/design.html" class="l4">DESIGN</a>
 <a href="" class="l5"></a>
-<a href="" class="l6"></a>
+<a href="" class="l6">TYPOGRAPHY</a>
 </div>
 
 <div class="text-box" style="
@@ -182,11 +183,11 @@ quartzSearch: true
 </div>
 
 <div class="side-column">
-<a href="/about.html" class="r1">ABOUT</a>
-<a href="" class="r2"></a>
-<a href="" class="r3" style="letter-spacing: 1px;">ZETTELKASTEN</a>
-<a href="" class="r4">CONTACT</a>
-<a href="" class="r5"></a>
+<a href="" class="r1">CONTACT</a>
+<a href="/writings.html" class="r2">WRITINGS</a>
+<a href="/zettelkasten.html" class="r3" style="letter-spacing: 1px;">ZETTELKASTEN</a>
+<a href="" class="r4"></a>
+<a href="/gallery.html" class="r5">GALLERY</a>
 <a href="" class="r6"></a>
 </div>
  
@@ -211,7 +212,7 @@ quartzSearch: true
 
 <div style="height: 1rem;"></div>
 
-<div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none;">
+<div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none; animation: fade-in 3s ease-in;">
     <p style="text-align: justify; font-size: 0.9rem; line-height: 1.6; justify-content: center; hyphens: none;">
       <em>The atoms, as their own weight bears them down plumb through the void, at scarce determined times, in scarce determined places, from their course decline a little -- call it, so to speak, mere changed trend. For were it not their wont thuswise to swerve, down would they fall, each one, like drops of rain, through the unbottomed void; and then collisions ne'er could be nor blows among the primal elements; and thus nature would never have created aught.</em>
     </p>
@@ -221,61 +222,3 @@ quartzSearch: true
       describing the phenomenon of clinamen.
     </p>
 </div>
-
-### Published Writings
-
-#### Epistemology
-
-- [[A Rhapsody on Neurodiversity]]
-- [[A Primer on Auto-Discourse]]
-
-#### Organization Design and Governance
-
-- [[What is to Be Done Differently?]]
-- [[Toward an Open-Access Service DAO]]
-- [[Content as a Decentralized Service]]
-- [[A Sufficiently Decentralized Work Arrangement]]
-- [[Trust and Trustlessness]]
-- [[Slayer Cake, A Layered Membership Structure for DAOs]]
-- [[Containers for Consultants]]
-- [[Role-Bound Multisigs]]
-- [[The Failsafe Committee]]
-- [[Pre-Constitutional Governance]]
-- [[What Are Onchain Organizations?]]
-- [[A Crypto-Native Invoice Template]]
-- [[Wu Gwei, or Going with the Flow of Governance]]
-
-#### Digital Public Infrastructure
-
-- [[Toward a Content Commons]]
-- [[Progressive Public Goods Funding]]
-
-#### Political Philosophy
-
-- [[Recuperate the Vanguard]]
-- [[Prospectus of the Reconciliation of Individual Liberty and Collective Welfare]]
-
-#### Design
-
-- [[A Solarpunk Typography Expose]]
-
-### Current Drafts
-
-- [[DRAFT Methodology for Impact Assessment and Onchain Ecosystem Funding]]
-
-### Canvassing
-
-![[Boilerplate#Canvas Foreword]]
-
-- [[Notes on Active Discursive Efforts]]
-- [[Notes on the Distinction between Theoretical and Applied Governance]]
-- [[Notes on Extitutional Theory and Progressive Protocolization]]
-- [[Notes on Keynes, Hayek, and Fiscal Protocols]]
-- [[Notes on Experimental Zettelkasten Methodology]]
-- [[Notes on Methodology for Communities of Practice]]
-- [[Notes on an Ethical Hermeneutics of Machiavelli]]
-- [[Notes on Experimental Zettelkasten Methodology, Part 2]]
-- [[Intimations of a Post-Machiavellian Moral-Tactical Calculus]]
-- [[Considerations on Delegate Agents]]
-
-![[Notetaking Hub#Notes on Books]]
