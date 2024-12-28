@@ -52,24 +52,24 @@ tags:
             alt="SoloSalonBadge"
           />
           <img
-            src="https://i.pinimg.com/originals/0d/2c/cb/0d2ccb72395e7aac4d199d0c6da082b6.png"
+            src="https://arweave.net/OIwKrWqQCIPULVOlc9RIwHaQBbG2Z2XA0ZXSar1KWns"
             class="gallery-img"
             style="border: 0px;"
             alt="ClinamenicGreenCube"
           />
           <img
-            src="https://i.pinimg.com/originals/ac/83/51/ac8351a7621e2eda2ea932fcf2b2ed16.png"
+            src="https://arweave.net/_viyJRmVmCLAcG4CV3k8mt3_A9J1kwl0xcYyxsCb05Y"
             class="gallery-img"
             alt="Lobby3Summit"
           />
           <img
-            src="https://i.pinimg.com/originals/ba/8d/60/ba8d60ed927336c2c17e076a1615a795.png"
+            src="https://arweave.net/UtrtvMCDKQXUkOsVopzDKKJDKE8pACPnkDCuWSVtHVo"
             class="gallery-img"
             style="border: 0px;"
             alt="DAOCoalitionLogo"
           />
           <img
-            src="https://i.pinimg.com/originals/a2/b7/f0/a2b7f072e1c73db4452c2e4b14c21c2c.png"
+            src="https://arweave.net/QdjXOvmwj_JevlF53JDj5v0tMKRQz5gvPzgsh7ulKyc"
             class="gallery-img"
             alt="SSCBlackSquare"
           />
@@ -79,12 +79,12 @@ tags:
             alt="AESOP_Insignia"
           />
           <img
-            src="https://pinata.clinamenic.com/ipfs/QmQ37HQ9NkDL4AXB2rka6u7wWPNmxkfgALcesoHSq6DiTN"
+            src="https://arweave.net/-Fw0x-Uz3YSDD2R781KtGxWbh3S8SJTI28sJGCzwKpo"
             class="gallery-img"
             alt="Lobby3_CA"
           />
           <img
-            src="https://raw.githubusercontent.com/Clinamenic/clinamenic.github.io/main/img/ClinamenicFractile%20copy.png"
+            src="https://arweave.net/sQBKqlNlXf3hYPLPtk_I_tBuXxhZtkstmvGcKiNC5Fs"
             class="gallery-img"
             alt="Clinamenic Fractile"
           />
@@ -173,214 +173,3 @@ tags:
 </div>
 
 ---
-
-## Typography
-
-<div class="gallery1">
-  <div class="text-box" style="background-color: var(--secondary)">
-    <p
-      class="font-title"
-      style="
-        display: flex;
-        color: black;
-        font-family: Blocker;
-        font-size: clamp(3rem, calc(3rem + 6vw), 10rem);
-        flex-direction: column;
-        text-align: center;
-        align-items: center; 
-        justify-content: center; 
-        letter-spacing: 4px;
-        height: 10rem;
-        line-height: 3rem;
-        margin: 0rem 0rem 1rem 0rem;
-      "
-    >
-      Blocker
-    </p>
-    <p
-      style="
-        color: black;
-        animation-duration: 70s;
-        font-family: Blocker;
-        font-size: 4rem;
-        letter-spacing: 10px;
-        line-height: 4rem;
-        text-align: center;
-        margin: 0rem;
-      "
-    >
-      AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890.,/?!@#[]:;'"
-    </p>
-    <p
-      style="
-        color: black;
-        padding: 10px;
-        padding-left: 20px;
-        font-size: small;
-        border-top: 1px dashed black;
-      "
-    >
-      (In Progress)
-    </p>
-  </div>
-
-  <div class="text-box" style="background-color: var(--secondary)">
-    <p
-      class="font-title"
-      style="
-        display: flex;
-        color: black;
-        font-family: SundaePlush;
-        font-size: clamp(3rem, calc(3rem + 3vw), 5rem);
-        flex-direction: column;
-        text-align: center;
-        align-items: center; 
-        justify-content: center; 
-        height: 10rem;
-        letter-spacing: 4px;
-        line-height: clamp(3rem, calc(3rem + 3vw), 5rem);
-        margin: 0rem 0rem 1rem 0rem;
-      "
-    >
-      SUNDAE PLUSH
-    </p>
-    <p
-      style="
-        color: black;
-        animation-duration: 40s;
-        font-family: SundaePlush;
-        font-size: 4rem;
-        letter-spacing: 10px;
-        text-align: center;
-        line-height: 4rem;
-        margin: 0rem;
-      "
-    >
-      abcdefghijklmnopqrstuvwxyz1234567890
-    </p>
-    <p
-      style="
-        color: black;
-        padding: 10px;
-        padding-left: 20px;
-        font-size: small;
-        border-top: 1px dashed black;
-      "
-    >
-      <a
-        href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl"
-        style="color: black"
-        >Open Font License</a
-      >
-      |
-      <a
-        href="https://www.1001fonts.com/sundae-plush-font.html"
-        style="color: black"
-        >1001Fonts Page</a
-      >
-    </p>
-  </div>
-
-  <div class="text-box" style="background-color: var(--secondary)">
-    <p
-      class="font-title"
-      style="
-        display: flex;
-        color: black;
-        font-family: Redactor;
-        font-size: clamp(2rem, calc(2rem + 4vw), 6rem);
-        flex-direction: column;
-        text-align: center;
-        align-items: center; 
-        justify-content: center; 
-        letter-spacing: 3px;
-        height: 10rem;
-        line-height: 3rem;
-        margin: 0rem
-      "
-    >
-      redactor
-    </p>
-    <p
-      style="
-        color: black;
-        font-family: Redactor;
-        font-size: 3rem;
-        letter-spacing: 10px;
-        animation-duration: 40s;
-        text-align: center;
-        margin: 0rem;
-        line-height: 3rem;
-      "
-    >
-      abcdefghijklmnopqrstuvwxyz1234567890!?&
-    </p>
-    <p
-      style="
-        color: black;
-        padding: 10px;
-        padding-left: 20px;
-        font-size: small;
-        border-top: 1px dashed black;
-      "
-    >
-      100% Free |
-      <a
-        href="https://www.1001fonts.com/redactor-font.html"
-        style="color: black"
-        >1001Fonts Page</a
-      >
-    </p>
-  </div>
-
-  <div class="text-box" style="background-color: var(--secondary)">
-    <p
-      class="font-title"
-      style="
-        display: flex;
-        color: black;
-        font-family: DoctorMingo;
-        font-size: clamp(2rem, calc(2rem + 3vw), 6rem);
-        flex-direction: column;
-        text-align: center;
-        align-items: center; 
-        justify-content: center; 
-        letter-spacing: 4px;
-        height: 10rem;
-        line-height: 3rem;
-        margin: 0rem 0rem 1rem 0rem;
-      "
-    >
-      Dr. Mingo
-    </p>
-    <p
-      style="
-        color: black;
-        font-family: DoctorMingo;
-        font-size: 2.5rem;
-        line-height: 3rem;
-        letter-spacing: 10px;
-        text-align: center;
-        margin: 0rem;
-      "
-    >
-      abcdefghijklmnopqrstuvwxyz1234567890!?&
-    </p>
-    <p
-      style="
-        color: black;
-        padding: 10px;
-        padding-left: 20px;
-        font-size: small;
-        border-top: 1px dashed black;
-      "
-    >
-      100% Free |
-      <a
-        href="https://www.1001fonts.com/dr-mingo-font.html"
-        style="color: black"
-        >1001Fonts Page</a
-      >
-    </p>
-  </div>
-</div>

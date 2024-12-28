@@ -155,7 +155,7 @@ quartzSearch: true
 <a href="" class="l3"></a>
 <a href="/design.html" class="l4">DESIGN</a>
 <a href="" class="l5"></a>
-<a href="" class="l6">TYPOGRAPHY</a>
+<a href="/typography.html" class="l6">TYPOGRAPHY</a>
 </div>
 
 <div class="text-box" style="
