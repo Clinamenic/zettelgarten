@@ -19,18 +19,28 @@ tags:
 ---
 
 <style>
-  .center {
-    &h2 {
-      font-weight: 300;
-      font-size: 1.5rem;
-      text-align: center !important;
-      justify-content: center !important;
-      transform: translateX(1.25rem);
-    }
-    &h3 {
-      font-size: 1.3rem;
-    }
+
+
+  .page-header .popover-hint .article-title {
+    font-weight: 300;
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+    font-family: GeistMono;
   }
+  .center .popover-hint h2 {
+    font-weight: 200;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    text-align: center !important;
+    justify-content: center !important;
+    transform: translateX(1.25rem);
+    text-transform: uppercase;
+    font-family: GeistMono;
+  }
+  .center .popover-hint &h3 {
+    font-size: 1.3rem;
+  }
+
 </style>
 
 This is the zettelkasten of Spencer Saar Cavanaugh of [Clinamenic LLC](/index.html).

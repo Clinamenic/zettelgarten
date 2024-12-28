@@ -176,13 +176,13 @@ quartzSearch: true
   </div>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center; font-family: GeistMono; text-shadow: 0px 0px 15px var(--lightgray); letter-spacing: 1px;">Clinamenic LLC</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem; text-shadow: 0px 0px 15px var(--lightgray);">the consultancy of</p>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S P E N C E R</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">
-    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S&nbsp;&nbsp;&nbsp;</p>
-    <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">A&nbsp;&nbsp;&nbsp;A</p>
-    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 300; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">&nbsp;&nbsp;&nbsp;R</p>
+    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 200; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S&nbsp;&nbsp;&nbsp;</p>
+    <p class="body-p" style="animation: fade-up 5s ease-in-out; font-size: 0.8rem; font-weight: 200; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">A&nbsp;&nbsp;&nbsp;A</p>
+    <p class="body-p" style="animation: fade-down 5s ease-in-out; font-size: 0.8rem; font-weight: 200; text-align: center; position: relative; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">&nbsp;&nbsp;&nbsp;R</p>
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 300; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">C A V A N A U G H</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">C A V A N A U G H</p>
 </div>
 </div>
 

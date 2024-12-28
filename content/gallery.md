@@ -51,7 +51,7 @@ This is the gallery of Spencer Saar Cavanaugh. For influences, see [[Museotheque
         alt=""
     />
     <img
-        src="https://arweave.net/VapXxWnNXUV-akAHgCoGEvw0icuoa9EHAoUb1rTq6vU"
+        src="https://arweave.net/H5XjRbyYd4ZY6_NrXAig5kYD3yuoslIpdamfTWT1rHI"
         class="gallery-img"
         style="border: 0px solid var(--dark);"
         alt=""
