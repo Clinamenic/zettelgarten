@@ -1,15 +1,13 @@
 ---
-title: 
+title: Summary of General Theory Book V Chapter 23 Section VII
 item type: Reference Note
-reference: "[[The General Theory of Employment, Interest and Money]]"
-date: 2024-10-14
-author: Spencer Saar Cavanaugh
+reference:
+  - "[[The General Theory of Employment, Interest and Money]]"
+date: 2024-10-17
+author:
+  - Spencer Saar Cavanaugh
 publish: true
 tags:
   - r/JK/GT
 ---
-#r/JK/GT/Q/unresolved  I do not understand this concept of over-investment.
-
-[[The General Theory of Employment, Interest and Money#^27267c]]
-
-> According to my analysis, however, it is only in the former sense that the boom can be said to be characterised by over-investment. The situation, which I am indicating as typical, is not one in which capital is so abundant that the community as a whole has no reasonable use for any more, but where investment is being made in conditions which are unstable and cannot endure, because it is prompted by expectations which are destined to disappointment.
+In section 23.7, Keynes highlights a number of unorthodox examples of discourse in economies pertaining to theories around how under-consumption contributes to economic downfalls. He says this position goes against the classical theory's position that there can be no imprudent excess of non-productive saving (with non-productive saving here meaning that portion of one's income which is neither used for investment nor consumption).

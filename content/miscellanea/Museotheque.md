@@ -194,10 +194,7 @@ quartzSearch: true
     />
     <p>Retina</p>
     </div>
-</div>
-
-<div class="gallery1">
-         <div class="text-box">
+    <div class="text-box">
     <img
     src="https://history.nih.gov/download/attachments/1016727/3676%20Hi%20Res.jpg?version=1&modificationDate=1552363300467&api=v2"
     class="gallery-img"
@@ -205,6 +202,10 @@ quartzSearch: true
     />
     <p>Calyx of Held</p>
     </div>
+</div>
+
+<div class="gallery1">
+         
 </div>
 
 ---

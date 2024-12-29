@@ -8,4 +8,8 @@ publish: true
 tags:
   - r/JK/GT
 ---
-In section 22.2, Keynes, elaborates on the factors and dynamics driving trade cycles and the feedback loops underpinning them. He builds up to the assertion that the role of the state, as monetary and fiscal authority, is warranted to steer economic recovery beyond what can reasonably be expected from spontaneous free market dynamics of self-correction.
+#r/JK/GT/Q/unresolved  I do not understand this concept of over-investment.
+
+[[The General Theory of Employment, Interest and Money#^27267c]]
+
+> According to my analysis, however, it is only in the former sense that the boom can be said to be characterised by over-investment. The situation, which I am indicating as typical, is not one in which capital is so abundant that the community as a whole has no reasonable use for any more, but where investment is being made in conditions which are unstable and cannot endure, because it is prompted by expectations which are destined to disappointment.

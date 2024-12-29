@@ -1,9 +1,11 @@
 ---
-title: 
+title: Summary of General Theory Book IV Chapter 15 Section I
 item type: Reference Note
-reference: "[[The General Theory of Employment, Interest and Money]]"
+reference:
+  - "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-09-08
-author: Spencer Saar Cavanaugh
+author:
+  - Spencer Saar Cavanaugh
 publish: true
 tags:
   - r/JK/GT

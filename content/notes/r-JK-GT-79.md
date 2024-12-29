@@ -1,11 +1,13 @@
 ---
-title: 
+title: Summary of General Theory Book V Chapter 21 Section II
 item type: Reference Note
-reference: "[[The General Theory of Employment, Interest and Money]]"
+reference:
+  - "[[The General Theory of Employment, Interest and Money]]"
 date: 2024-10-12
-author: Spencer Saar Cavanaugh
+author:
+  - Spencer Saar Cavanaugh
 publish: true
 tags:
   - r/JK/GT
 ---
-In section 21.1, Keynes states that the prevailing discourse of the classical theory has experienced difficulty reconciling a theory of value (e.g. supply and demand) with a theory of prices (i.e. money), and that there could be more optimal distinctions to draw between prominent economic theories. He suggests a split between microeconomic and macroeconomic theories of output, and states that the importance of money s due to its role as a link between present and future economic states.
+In section 21.2, Keynes compares the factors determining price in a given industry, and those determining price across industry as a whole, apply the same logic to both, i.e. that prices are determined by the cost of the factors of production, and the scale of output. He says that both the costs of the factors of production and the scale of the output (i.e. the volume of employment) depend on demand (here I take him to mean effective demand). He also says we need new language and ideas to deal with aggregate demand across industry as a whole.

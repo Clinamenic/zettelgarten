@@ -1,9 +1,11 @@
 ---
 title: Summary of General Theory Book III Chapter 8 Section IV
 item type: Reference Note
-reference: "[[The General Theory of Employment, Interest and Money]]"
-date: ""
-author: Spencer Saar Cavanaugh
+reference:
+  - "[[The General Theory of Employment, Interest and Money]]"
+date: 2024-08-26
+author:
+  - Spencer Saar Cavanaugh
 publish: true
 tags:
   - r/JK/GT

@@ -2,12 +2,14 @@
 title: 
 item type: Reference Note
 reference: "[[The General Theory of Employment, Interest and Money]]"
-date: 2024-10-12
+date: 2024-10-13
 author: Spencer Saar Cavanaugh
 publish: true
 tags:
   - r/JK/GT
 ---
-#r/JK/GT/Q/unresolved  In section 21.3, Keynes argues that changes in the quantity of money effect price levels by first impacting the wage-unit as well as the volume of employment, but I do not understand how.
+#r/JK/GT/Q/unresolved How does an increase in quantity of money tend to increase effective demand?
 
-He also goes on to argue that much of economic discourse is treated in an inappropriately mathematical fashion, trying to impose rigid axiomatic logic onto a fluid and complex social system which (and I am extrapolating here) exhibits varying degrees of self-awareness and self-referentiality. 
+[[The General Theory of Employment, Interest and Money#^391492]]
+
+> When a further increase in the quantity of effective demand produces no further increase in output and entirely spends itself on an increase in the cost-unit fully proportionate to the increase in effective demand, we have reached a condition which might be appropriately designated as one of true inflation. Up to this point the effect of monetary expansion is entirely a question of degree, and there is no previous point at which we can draw a definite line and declare that conditions of inflation have set in. Every previous increase in the quantity of money is likely, in so far as it increases effective demand, to spend itself partly in increasing the cost-unit and partly in increasing output.

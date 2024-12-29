@@ -273,7 +273,7 @@ internalRef:
 - [ ] Configure custom global graph layout
   - [x] Tags in a fixed ring around the border of the rest of the graph.
   - [x] Monogram logo on background
-- [ ]
+- [ ] Add ImageModal component (This is a component that allows for the display of images in a modal window, with a caption and a link to the source.)
 - [ ]
 - [ ]
 
