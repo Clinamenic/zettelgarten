@@ -717,15 +717,22 @@ p {
 
 .table-container {
   overflow-x: auto;
+  font-size: 0.75rem;
+  background-color: var(--lightgray);
+  border-radius: 10px;
+  border: 1px solid var(--dark);
 
   & > table {
     margin: 1rem;
     padding: 1.5rem;
     border-collapse: collapse;
+    white-space: nowrap;
+    width: auto;
 
     th,
     td {
       min-width: 75px;
+      padding: 0.2rem 0.7rem;
     }
 
     & > * {
@@ -737,11 +744,12 @@ p {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  border-bottom: 1px double var(--dark);
 }
 
 td {
   padding: 0.2rem 0.7rem;
+  border-bottom: 1px solid var(--light);
 }
 
 tr {
