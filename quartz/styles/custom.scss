@@ -76,6 +76,13 @@
   border: 1px solid var(--dark);
   border-radius: 5px;
   object-fit: cover;
+  cursor: pointer;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+
+  &:hover {
+    border-width: 1px;
+  }
 }
 
 .gallery1 {
@@ -317,4 +324,105 @@
 @keyframes slide-up {
   0% { transform: translateY(-250px); }
   100% { transform: translateY(0px); }
+}
+
+// Add new modal styles
+.image-modal-outer {
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(4px);
+  background-color: rgba(0, 0, 0, 0.5);
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+
+  &.active {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .image-modal-container {
+    border: 1px solid var(--dark);
+    background-color: var(--light);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.9);
+    height: 80vh;
+    width: 80vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease;
+
+    &.active {
+      transform: translate(-50%, -50%) scale(1);
+    }
+
+    .image-modal-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 1rem;
+      overflow: auto;
+
+      img {
+        max-height: calc(80vh - 8rem);
+        max-width: 100%;
+        object-fit: contain;
+        margin: 0;
+      }
+
+      p {
+        margin-top: 1rem;
+        text-align: center;
+        font-style: italic;
+        color: var(--dark);
+      }
+    }
+
+    .close-button {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: none;
+      border: 1px solid var(--dark);
+      border-radius: 5px;
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: var(--lightgray);
+      }
+
+      &::before,
+      &::after {
+        content: '';
+        position: absolute;
+        width: 15px;
+        height: 1px;
+        background-color: var(--dark);
+      }
+
+      &::before {
+        transform: rotate(45deg);
+      }
+
+      &::after {
+        transform: rotate(-45deg);
+      }
+    }
+  }
 }

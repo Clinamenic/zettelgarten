@@ -29,6 +29,7 @@ import DownloadMarkdown from "./DownloadMarkdown" // unused
 import Banner from "./Banner"
 import CitationGenerator from "./CitationGenerator"
 import FlexContainer from "./FlexContainer"
+import ImageModal from "./ImageModal"
 
 export {
   ArticleTitle,
@@ -62,4 +63,5 @@ export {
   Banner,
   CitationGenerator,
   FlexContainer,
+  ImageModal,
 }

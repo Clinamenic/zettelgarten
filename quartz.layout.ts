@@ -24,6 +24,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Graph({
       showGraph: (frontmatter) => frontmatter.quartzShowGraph ?? false,
     }),
+    Component.ImageModal(),
   ],
   footer: Component.Footer({
     links: {
@@ -31,6 +32,9 @@ export const sharedPageComponents: SharedLayout = {
     "Twitter": "https://twitter.com/clinamenic",
     },
   }),
+  script: [
+    Component.ImageModal(),
+  ],
 }
 
 // components for pages that display a single page (e.g. a single note)
