@@ -1,6 +1,6 @@
 ---
 title: Test Full Page
-publish: true
+publish: false
 headDescription:
 headIcon:
 quartzShowTitle: false
@@ -11,7 +11,7 @@ quartzShowBacklinks: false
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: false
-quartzSearch: true
+quartzSearch: false
 ---
 
 <style>

@@ -1,12 +1,12 @@
 ---
 title: Test Page
-publish: true
+publish: false
 keywords:
   - clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
 hideGraph: false
 quartzShowTitle: false
 downloadable: true
-quartzSearch: true
+quartzSearch: false
 tags:
   - BIOL/MOLE
   - BIOL/GENE

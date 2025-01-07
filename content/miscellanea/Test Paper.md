@@ -10,8 +10,8 @@ journal: Journal of Digital Knowledge Management
 volume: "15"
 issue: "2"
 pages: 123-145
-publish: true
-quartzSearch: true
+publish: false
+quartzSearch: false
 publisher: Academic Publishing House
 publisherLocation: Cambridge, MA
 edition: 2nd

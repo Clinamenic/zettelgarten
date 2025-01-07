@@ -81,14 +81,18 @@ This section follows no particular order.
 
 ### Books
 
-#### Of Active Interest
+#### Fiction
 
-- Art and Agency (Gell)
-- The English Face of Machiavelli (Raab)
-- The Presentation of Self in Everyday Life (Goffman)
+- The Epic of Gilgamesh
+- Journey to the West
+- Dream of the Red Chamber
+- The Tale of Genji
+- The Mahabharata
 
-#### Of Passive Interest
-
+### Nonfiction
+- **Art and Agency (Gell)**
+- ~~The English Face of Machiavelli (Raab)~~
+- **The Presentation of Self in Everyday Life (Goffman)**
 - [The first part of the disquisition of truth, concerning political affaires](https://quod.lib.umich.edu/e/eebo2/A15753.0001.001?rgn=main;view=fulltext) (Henry Wright)
 - Education of a Christian Prince (Erasmus)
 - The Sphere and Duties of Government (von Humboldt)

@@ -10,7 +10,7 @@ journal: International Journal of Cryptographic Engineering
 volume: "28"
 issue: "4"
 pages: 412-438
-publish: true
+publish: false
 publisher: Technical Publishing Group
 publisherLocation: London, UK
 edition: 1st
