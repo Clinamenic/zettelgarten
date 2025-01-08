@@ -432,6 +432,7 @@ a {
   & .center {
     position: relative;
     min-height: 100vh;
+    min-width: calc(784px - 2rem);
     bottom: 0;
     margin-left: auto;
     margin-right: auto;
@@ -449,6 +450,7 @@ a {
     }
     @media only screen and (max-width: calc(784px + 2rem)) {
       width: 100% !important;
+      min-width: 100% !important;
       padding: 0rem 0rem 1rem 0rem !important;
       border-left: 0px solid var(--dark);
       border-right: 0px solid var(--dark);

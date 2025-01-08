@@ -90,6 +90,8 @@ This section follows no particular order.
 - The Mahabharata
 
 ### Nonfiction
+
+- Secret Societies and Psychological Warfare (Hoffman)
 - **Art and Agency (Gell)**
 - ~~The English Face of Machiavelli (Raab)~~
 - **The Presentation of Self in Everyday Life (Goffman)**
