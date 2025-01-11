@@ -97,6 +97,43 @@ This is the zettelkasten of Spencer Saar Cavanaugh of [Clinamenic LLC](/index.ht
 
 ---
 
+### Psychocartography Notes
+
+The following notes were taken by hand in 2019 as an inquiry into how ideas and values can be mapped. For more information about the nature of this inquiry, see [[A Rhapsody on Neurodiversity]]. In 2024, they were scanned and uploaded to Arweave, and PDF links are listed below.
+
+- 2019-??-?? [Evacuative Reorientation of Ideology](https://arweave.net/N99sSO8Bfnk6nejrDACPujcy-EecDroywn-yDL-WpUM)
+- 2019-??-?? [Ontological Duplicity](https://arweave.net/Xww6eMhuoYIm9bzzvrfKEn_08xi0zkqi97tGu6-8wok)
+- 2019-??-?? [Pretextual & Textual Activity](https://arweave.net/fMH37TGbdqlw93FByuvEEJe732_5nWDPNxx7T-Kjojc)
+- 2019-??-?? [Structure as the Interior of Extremes](https://arweave.net/I-T2WgjNE1dEx2pq88GCv56Kjx0F2oTKD_MPuq6zZ2I)
+- 2019-??-?? [Untitled Diagram of Arbitrary Measurement](https://arweave.net/f8B5zMHg-IZlh96JumuAGbTu0G9pYhpUcXSnlxyVe30)
+- 2019-??-?? [Untitled Diagram of Linear and Circular Placement](https://arweave.net/whx3zn45lBEFg2NaM1F0ttT70Lp1sCk6i4uIFyoRqQQ)
+- 2019-??-?? [Untitled Notes on Horizontal Integration](https://arweave.net/EXeOI2p1MuXndgiEq6WpF_vBWYjaSndBRAYX3KzSFZ8)
+- 2019-??-?? [Untitled Partial Inventory A](https://arweave.net/cTonrlcQQIB-G6F5sEuJpkM_PHt2GJJCdD9JqhV13zc)
+- 2019-??-?? [Untitled Partial Inventory B](https://arweave.net/3OVrs4ERSDXBD0Xsn_RYex4NA3CO-t0QyHo4CZ6P5Uo)
+- 2019-??-?? [Comment on The Dialectical Method and My Identity](https://arweave.net/vBzOOjDcXuGUsyHKpfU1jO6qapl-wDMN-Pv3OALR1fo)
+- 2019-04-21 [Psychocartography Brain Dump](https://arweave.net/Tfs1B52RWMA0LCJKpRxDbGHEZ1TsZfNKC_ufFcgOaxQ)
+- 2019-05-04 [Dialectical Metabinaries](https://arweave.net/Pd5mZKjliphd3IUKMhn-EITV736ojTB-TVEIcu8ivXo)
+- 2019-06-01 [Intended & Actual Movement](https://arweave.net/IuatQRwPHJtInafy6g1y_Am4hygQo36aUJtBF9YTrt0)
+- 2019-06-02 [Ideological Plasticity and Elasticity](https://arweave.net/AZ25InfhFCetIqwvZ4ORN_x0SKoBtop0SL527KH7wGc)
+- 2019-06-06 [Positive & Negative Information](https://arweave.net/FAhv-skguRdP8J8t31Z6w-pL-NSxTnBKXWL3jQY8oM8)
+- 2019-06-09 [Untitled Notes on Dispersion](https://arweave.net/TCjPjEw4ang02QiDlrcOO3BgafEELR9MkHDjWKGV_X4)
+- 2019-06-29 [Perpetually Recalibrating Relativity of Value](https://arweave.net/CPJfDNdlb0ZDnOcYJsR9EdKlBrk1WC0YDmtJptSBZW4)
+- 2019-07-09 [A Treatise on the Intersubjective Economy of Morality](https://arweave.net/BTFaFRt55-kC4iVMqyuqp6Wp3oGpvGNwCkaiOkr4YSs)
+- 2019-07-09 [Topography of Ideology](https://arweave.net/NG7P3vufoE2JYWadU-8VTUWALNTfdxVyztXTIIjGNAs)
+- 2019-07-30 [Binary/Triadic Orientation of Object/Subject](https://arweave.net/E_c7c5A2DK2DZKPfWuUtkkyNn9_dyD8izm0UtorZHYk)
+- 2019-08-?? [Subjective Matrix](https://arweave.net/6Yo6H32mcx6UGsQWsntKT14JJkE8e9gAuVhj2je3Woo)
+- 2019-08-06 [Partiality and Entirety in the Eligibility of Binary Distinctions](https://arweave.net/3zeSJh3NJddgX54lhT9LOy8ndL74FNbfrb0x_kbt0mc)
+- 2019-08-08 [The Three Axes of Striation](https://arweave.net/omPqVKQCLXyf7Mgtg0-oyV3Ibqi3WhFmlq0GKC50V18)
+- 2019-08-15 [Reform and Revolution](https://arweave.net/1d38WOqW-dxt9el68yEXY4ICSY76URZ5otNG32Yuu2I)
+- 2019-08-18 [Intentional/Effecual Difference](https://arweave.net/6eJm8wIz26W5RTfCUXzkRrBOPXFBQsxGlZYdLDNp6Gg)
+- 2019-08-18 [Relevant Vocabulary](https://arweave.net/S39SH0ws2MSpksTSdjqPqiJKpKjbU0fxTttocYi557w)
+- 2019-09-15 [Holistic Dichotomization ](https://arweave.net/bl3daza2CbBbOUy957L-o0W4tdWCiwyoYgRBKu4p9R0)
+- 2019-09-24 [The Approximation of the Goal](https://arweave.net/LX8TiAZTUm3zTvMQunTk1U1LpXHj7XIW6GoWNT7Qn88)
+- 2019-10-01 [Fringe Acumen](https://arweave.net/T_3h2pwn77rTGgZ9ZdDderS7IJvGAG9Y30xWGZ4s1wQ)
+- 2019-10-13 [Archive Series 0001 Content](https://arweave.net/yRrQnIMcN-GA5__MQngYbkFfXiXh21ExN6AY3NRcO18)
+
+---
+
 ## Configuration
 
 ---

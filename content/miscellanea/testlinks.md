@@ -1,4 +1,0 @@
-- https://labs.chaingpt.org/
-- https://cosmograph.app/
-- https://help.obsidian.md/import/html
-- https://meaningalignment.substack.com/p/introducing-democratic-fine-tuning?open=false#%C2%A7arms-races-and-artificial-sociopaths

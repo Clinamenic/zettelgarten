@@ -1,5 +1,5 @@
 ---
-title: Bookmark Index
+title: Bookmark Collection
 publish: true
 headDescription:
 headIcon:

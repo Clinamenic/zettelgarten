@@ -109,19 +109,19 @@ quartzSearch: true
     animation: slide-from-right 4s ease-in-out forwards;
   }
   .r4 {
-    height: 15%;
+    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 4.5s ease-in-out forwards;
   }
   .r5 {
-    height: 15%;
+    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 5s ease-in-out forwards;
   }
   .r6 {
-    height: 15%;
+    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 5.5s ease-in-out forwards;
@@ -138,11 +138,35 @@ quartzSearch: true
     }
     }
     
-    
+
   }
 
   header {
     animation: fade-down-100 3s ease-in-out
+  }
+
+  .mobile-gallery2-fixed {
+    @media only screen and (max-width: 750px) {
+  display: grid;
+  width: 100%;
+  max-width: var(--pageContentWidth);
+  grid-template-columns: repeat(2, calc((100% - 1rem) / 2));
+  grid-template-rows: repeat(infinite, 49%);
+  justify-content: center;
+  grid-row-gap: 1rem;
+  grid-column-gap: 1rem;
+
+  > .side-column {
+    display: flex;
+    > .l1, .l2, .l3, .l4, .l5, .l6, .r1, .r2, .r3, .r4, .r5, .r6 {
+      font-size: 0.7rem;
+      height: 100%;
+    }
+  }
+  }
+  @media only screen and (min-width: 750px) {
+    display: none;
+  }
   }
 
 </style>
@@ -197,6 +221,28 @@ quartzSearch: true
  
 </div>
 
+<div class="mobile-gallery2-fixed" style="margin: 1rem 0rem 0rem 0rem; height: 400px;">
+
+<div class="side-column">
+<a href="/about.html" class="l1">ABOUT</a>
+<a href="" class="l2">SERVICES</a>
+<a href="" class="l3"></a>
+<a href="/design.html" class="l4">DESIGN</a>
+<a href="" class="l5"></a>
+<a href="/typography.html" class="l6">TYPOGRAPHY</a>
+</div>
+
+<div class="side-column">
+<a href="" class="r1">CONTACT</a>
+<a href="/writings.html" class="r2">WRITINGS</a>
+<a href="/zettelkasten.html" class="r3" style="letter-spacing: 1px;">ZETTELKASTEN</a>
+<a href="" class="r4"></a>
+<a href="/gallery.html" class="r5">GALLERY</a>
+<a href="" class="r6"></a>
+</div>
+
+</div>
+
 <div class="gallery2" style="margin: 1rem 0rem 0rem 0rem;">
 
 <div class="text-box" style="padding: 1rem 0rem 0rem 0rem; animation: slide-right-400 6s ease-in-out;">
@@ -216,12 +262,12 @@ quartzSearch: true
 
 <div style="height: 1rem;"></div>
 
-<div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none; animation: fade-in 3s ease-in;">
-    <p style="text-align: justify; font-size: 0.9rem; line-height: 1.6; justify-content: center; hyphens: none;">
+<div class="text-box" style="text-align: justify; position: relative; padding: 0rem 1.5rem; hyphens: none; animation: fade-in 3s ease-in; background-color: var(--light); border: 0px; padding: 0rem 1.5rem; animation: fade-in 6s ease-in-out;">
+    <p style="text-align: justify; font-size: 0.75rem; line-height: 1.6; justify-content: center; hyphens: none; font-family: GeistMono; letter-spacing: 1px; font-weight: 200;">
       <em>The atoms, as their own weight bears them down plumb through the void, at scarce determined times, in scarce determined places, from their course decline a little -- call it, so to speak, mere changed trend. For were it not their wont thuswise to swerve, down would they fall, each one, like drops of rain, through the unbottomed void; and then collisions ne'er could be nor blows among the primal elements; and thus nature would never have created aught.</em>
     </p>
     <p></p>
-    <p style="text-align: center; font-size: 0.9rem; line-height: 1.6; hyphens: none;">
+    <p style="text-align: center; font-size: 0.75rem; line-height: 1.6; hyphens: none; font-family: GeistMono; letter-spacing: 1px; font-weight: 300;">
       Lucretius, <em>On the Nature of Things</em>,
       describing the phenomenon of clinamen.
     </p>

@@ -37,7 +37,7 @@ tags:
   .font-box{
     border: 1px solid white;
     border-radius: 10px;
-    background-color: black;
+    background-color: var(--lightgray);
     overflow: hidden;
 }
 </style>
@@ -45,12 +45,12 @@ tags:
 ## Typography
 
 <div class="gallery1">
-  <div class="text-box" style="background-color: var(--secondary)">
+  <div class="text-box" style="background-color: var(--lightgray)">
     <p
       class="font-title"
       style="
         display: flex;
-        color: black;
+        color: var(--dark);
         font-family: Blocker;
         font-size: clamp(3rem, calc(3rem + 6vw), 10rem);
         flex-direction: column;
@@ -67,7 +67,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         animation-duration: 70s;
         font-family: Blocker;
         font-size: 4rem;
@@ -81,7 +81,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         padding: 10px;
         padding-left: 20px;
         font-size: small;
@@ -92,12 +92,12 @@ tags:
     </p>
   </div>
 
-  <div class="text-box" style="background-color: var(--secondary)">
+  <div class="text-box" style="background-color: var(--lightgray)">
     <p
       class="font-title"
       style="
         display: flex;
-        color: black;
+        color: var(--dark);
         font-family: SundaePlush;
         font-size: clamp(3rem, calc(3rem + 3vw), 5rem);
         flex-direction: column;
@@ -114,7 +114,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         animation-duration: 40s;
         font-family: SundaePlush;
         font-size: 4rem;
@@ -128,7 +128,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         padding: 10px;
         padding-left: 20px;
         font-size: small;
@@ -137,24 +137,24 @@ tags:
     >
       <a
         href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl"
-        style="color: black"
+        style="color: var(--dark)"
         >Open Font License</a
       >
       |
       <a
         href="https://www.1001fonts.com/sundae-plush-font.html"
-        style="color: black"
+        style="color: var(--dark)"
         >1001Fonts Page</a
       >
     </p>
   </div>
 
-  <div class="text-box" style="background-color: var(--secondary)">
+  <div class="text-box" style="background-color: var(--lightgray)">
     <p
       class="font-title"
       style="
         display: flex;
-        color: black;
+        color: var(--dark);
         font-family: Redactor;
         font-size: clamp(2rem, calc(2rem + 4vw), 6rem);
         flex-direction: column;
@@ -171,7 +171,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         font-family: Redactor;
         font-size: 3rem;
         letter-spacing: 10px;
@@ -185,7 +185,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         padding: 10px;
         padding-left: 20px;
         font-size: small;
@@ -195,18 +195,18 @@ tags:
       100% Free |
       <a
         href="https://www.1001fonts.com/redactor-font.html"
-        style="color: black"
+        style="color: var(--dark)"
         >1001Fonts Page</a
       >
     </p>
   </div>
 
-  <div class="text-box" style="background-color: var(--secondary)">
+  <div class="text-box" style="background-color: var(--lightgray)">
     <p
       class="font-title"
       style="
         display: flex;
-        color: black;
+        color: var(--dark);
         font-family: DoctorMingo;
         font-size: clamp(2rem, calc(2rem + 3vw), 6rem);
         flex-direction: column;
@@ -223,7 +223,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         font-family: DoctorMingo;
         font-size: 2.5rem;
         line-height: 3rem;
@@ -236,7 +236,7 @@ tags:
     </p>
     <p
       style="
-        color: black;
+        color: var(--dark);
         padding: 10px;
         padding-left: 20px;
         font-size: small;
@@ -246,7 +246,7 @@ tags:
       100% Free |
       <a
         href="https://www.1001fonts.com/dr-mingo-font.html"
-        style="color: black"
+        style="color: var(--dark)"
         >1001Fonts Page</a
       >
     </p>
