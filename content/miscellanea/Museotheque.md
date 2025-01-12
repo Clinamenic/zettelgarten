@@ -1,9 +1,10 @@
 ---
 title: Museotheque
 publish: true
+bannerURI: https://arweave.net/MALjimE4g6_dO_DOWwbA_LOPOCNQkjI2v2aL3oYuG3w
 headDescription: Some examples of aesthetic works which have inspired me.
 headIcon:
-quartzShowTitle: true
+quartzShowTitle: false
 quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true
@@ -11,6 +12,10 @@ quartzSearch: true
 ---
 
 <style>
+
+.banner{
+    display: none;
+}
 
 .center{
     h2 {
@@ -52,7 +57,44 @@ quartzSearch: true
   border-radius: 10px;
   object-fit: cover;
 }
+
+h1 {
+  > a {
+    display: none;
+  }
+  > p {
+    color: var(--darkgray);
+    padding-left: 0.7vw;
+    padding-right: 0.7vw;
+  }
+}
+
+.odd-p {
+  animation: fade-up-5 3s ease-in-out;
+}
+
+.even-p {
+  animation: fade-down-5 3s ease-in-out;
+}
+
+@keyframes fade-up-5 {
+  0%{ opacity: 0%; transform:translateY(5px)}
+  85%{ opacity: 85%; transform:translateY(0px)}
+  100%{ opacity: 100%} 
+}
+@keyframes fade-down-5 {
+  0%{ opacity: 0%; transform:translateY(-5px)}
+  85%{ opacity: 85%; transform:translateY(0px)}
+  100%{ opacity: 100%} 
+}
+
 </style>
+
+<h1 style="display: flex; justify-content: center; align-items: center; font-size: 1.5rem; margin-top: 1rem; font-family: 'GeistMono'; font-weight: 100; font-size: clamp(1.25rem, calc(1.25rem + 4vw), 3rem);"><p class="odd-p">M</p><p class="even-p">U</p><p class="odd-p">S</p><p class="even-p">E</p><p class="odd-p">O</p><p class="even-p">T</p><p class="odd-p">H</p><p class="even-p">E</p><p class="odd-p">Q</p><p class="even-p">U</p><p class="odd-p">E</p></h1>
+
+Listed below in chronological order are various artists and designers who have influenced my style and sense of aesthetic expression.
+
+---
 
 ## Giovanni Battista Piranesi
 
@@ -167,13 +209,13 @@ quartzSearch: true
     />
     <p>Olfactory Bulb</p>
      </div>
-         <div class="text-box">
+     <div class="text-box">
     <img
-    src="https://history.nih.gov/download/attachments/1016727/11315.jpg?version=1&modificationDate=1680642410922&api=v2"
+    src="https://history.nih.gov/download/attachments/1016727/3676%20Hi%20Res.jpg?version=1&modificationDate=1552363300467&api=v2"
     class="gallery-img"
-    alt="Cajal_3"
+    alt="Cajal_4"
     />
-    <p>Schemes intended to facilitate the comparison between retinas of insects, cephalopods and vertebrates</p>
+    <p>Calyx of Held</p>
     </div>
 </div>
 
@@ -194,18 +236,17 @@ quartzSearch: true
     />
     <p>Retina</p>
     </div>
-    <div class="text-box">
-    <img
-    src="https://history.nih.gov/download/attachments/1016727/3676%20Hi%20Res.jpg?version=1&modificationDate=1552363300467&api=v2"
-    class="gallery-img"
-    alt="Cajal_4"
-    />
-    <p>Calyx of Held</p>
-    </div>
 </div>
 
 <div class="gallery1">
-         
+         <div class="text-box">
+    <img
+    src="https://history.nih.gov/download/attachments/1016727/11315.jpg?version=1&modificationDate=1680642410922&api=v2"
+    class="gallery-img"
+    alt="Cajal_3"
+    />
+    <p>Schemes intended to facilitate the comparison between retinas of insects, cephalopods and vertebrates</p>
+    </div>
 </div>
 
 ---
@@ -250,38 +291,38 @@ quartzSearch: true
     </div>
     <div class="text-box">
     <img
-     src="https://arweave.net/kOVLyPyuqefU6rKwTZVh6CBW5UcYJMXAu1SpITaJF2M"
-    class="gallery-img"
-    alt="Escher_2"
-    />
-    <p>Catania, Spain (1936)</p>
-    </div>
-    <div class="text-box">
-    <img
      src="https://arweave.net/pVYZtd2Dkp7BdQLFWb1B7AwEq4QAr7jyWX9z3K63wMs"
     class="gallery-img"
-    alt="Escher_3"
+    alt="Escher_2"
     />
     <p>Balcony (1945)</p>
     </div>
     <div class="text-box">
     <img
-     src="https://arweave.net/0yPG-JUvjTiTh-9rUw8mRg7G34p1vJpJU-CVVApmFF8"
+     src="https://uploads6.wikiart.org/images/m-c-escher/three-spheres-i-scheme(1).jpg"
+    class="gallery-img"
+    alt="Escher_3"
+    />
+    <p>Three Spheres I (1945)</p>
+    </div>
+    <div class="text-box">
+    <img
+     src="https://uploads3.wikiart.org/images/m-c-escher/rind.jpg"
     class="gallery-img"
     alt="Escher_4"
     />
-    <p>?</p>
+    <p>Rind (1955)</p>
     </div>
 </div>
 
 <div class="gallery1">
     <div class="text-box">
     <img
-     src="https://uploads8.wikiart.org/images/m-c-escher/horsemen.jpg!Large.jpg"
+     src="https://arweave.net/kOVLyPyuqefU6rKwTZVh6CBW5UcYJMXAu1SpITaJF2M"
     class="gallery-img"
-    alt="Escher_4"
+    alt="Escher_2"
     />
-    <p>Horsemen (1946)</p>
+    <p>Catania, Spain (1936)</p>
     </div>
 </div>
 
@@ -469,5 +510,46 @@ quartzSearch: true
     alt="Woods_2"
     />
     <p>Geomagnetic Flying Machines</p>
+    </div>
+</div>
+
+---
+
+## Patrick Gunkel
+
+<p style="text-align: center; font-size: 0.9rem; color: var(--dark); font-style: italic; margin-top: -1.5rem;">1947 - 2017</p>
+
+<div class="gallery2">
+    <div class="text-box">
+    <img
+     src="https://ideonomy.mit.edu/scanned-charts/pic040.jpg"
+    class="gallery-img"
+    alt="Gunkel_1"
+    />
+    <p>A Chart of the Morphodynamic Trajectory Manifold of the Triode</p>
+    </div>
+    <div class="text-box">
+    <img
+     src="https://ideonomy.mit.edu/scanned-charts/pic028.jpg"
+    class="gallery-img"
+    alt="Gunkel_2"
+    />
+    <p>Untitled Chart</p>
+    </div>
+    <div class="text-box">
+    <img
+     src="https://ideonomy.mit.edu/scanned-charts/pic017.jpg"
+    class="gallery-img"
+    alt="Gunkel_3"
+    />
+    <p>Battle Analogs</p>
+    </div>
+    <div class="text-box">
+    <img
+     src="https://ideonomy.mit.edu/scanned-charts/pic003.jpg"
+    class="gallery-img"
+    alt="Gunkel_4"
+    />
+    <p>Species of the Form-Genus 'Radiation'</p>
     </div>
 </div>
