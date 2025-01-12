@@ -169,7 +169,22 @@ quartzSearch: true
   }
   }
 
+.marquee {
+  animation: fade-in 5s ease-in;
+  width: calc(100% + 2rem);
+  transform: translateX(-1rem);
+}
+
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const marqueeContent = document.querySelector('.marquee-content');
+  const tiles = Array.from(marqueeContent.children);
+  const duplicateContent = tiles.map(tile => tile.cloneNode(true));
+  duplicateContent.forEach(clone => marqueeContent.appendChild(clone));
+});
+</script>
 
 <div class="tri-column">
 
@@ -252,12 +267,194 @@ quartzSearch: true
       href="/services.html"
       class="tag"
       style="color: var(--secondary);"
-      >Learn more</a>
+      >Coming soon!</a>
   </p></div>
 
 <div class="text-box" style="text-align: center; display: flex; align-items: center; justify-content: center; animation: slide-left-400 6s ease-in-out;">
   <p>Grant Program Management</br>(coming soon!)</p>
 </div>
+</div>
+
+<div class="marquee" style="margin: 1rem 0rem 0rem 0rem;">
+  <div class="marquee-content">
+
+  <div class="exp-tile">
+      <div class="exp-text">
+        <p style="padding-bottom: 0.5rem; font-weight: 300;">JournoDAO</p>
+        <p>Co-founder</p>
+      </div>
+      <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmW14vYxLFSCTwfHBA3x1aNz5hxXxnXBv7rTozTnKnnJS4" alt="JournoDAO" />
+    </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">PubDAO</p>
+      <p>Core Team</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmUqoP49eDSyriR6oettsdfig27hXufCa6pPyuR7PYg7Jm" alt="PubDAO" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Decrypt</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmUkoLVZZruos3gqh88nnUF1811S6haR3CXsSNw58hbtLd" alt="Decrypt" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Holonym</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmVY6gdSXhBL5QdfapSKciSKG7oVbppQDhSaaEABC9nKNW" alt="Holonym" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Lobby3 UNA</p>
+      <p>Director</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmeCKyJFTMKVErB1u31NoEokYHUWsFiMeYk6nuariWSdEW" alt="Lobby3 UNA" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">DAO<br>Coalition</p>
+      <p>Chairman</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmaP6CSzJp6wJbECW4gLGfrDhjpu48oMEhm7tyg8oZaMFg" alt="DAO Coalition" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Education<br>DAO</p>
+      <p>Counsel</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmbxodFHbEpZaYo5AdjUR5Wu77vVJ5H53ZDHRLPawJRiRT" alt="Education DAO" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Consensys</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmZCijUn73vZnCU6PyMGmTe9kMXzDZHgQzXVmZCwidaZmH" alt="Consensys" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Tally</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmRcnc8rhYXYw9uKREKGUuTcevNnDbiwBusGni41HHMPbm" alt="Tally" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Alexandria</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmQLR5YTZj9XB4DrNbU9JXGi989cC8aDxwxXV66Yj5ph2z" alt="Alexandria" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">OpenCivics</p>
+      <p>Steward</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmXPC32sP9t7U3aFwk4Qpi16oMycekazrP9rGfYVoYGJrX" alt="OpenCivics" />
+  </div>
+
+  <div class="exp-tile">
+      <div class="exp-text">
+        <p style="padding-bottom: 0.5rem; font-weight: 300;">JournoDAO</p>
+        <p>Co-founder</p>
+      </div>
+      <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmW14vYxLFSCTwfHBA3x1aNz5hxXxnXBv7rTozTnKnnJS4" alt="JournoDAO" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">PubDAO</p>
+      <p>Core Team</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmUqoP49eDSyriR6oettsdfig27hXufCa6pPyuR7PYg7Jm" alt="PubDAO" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Decrypt</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmUkoLVZZruos3gqh88nnUF1811S6haR3CXsSNw58hbtLd" alt="Decrypt" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Holonym</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmVY6gdSXhBL5QdfapSKciSKG7oVbppQDhSaaEABC9nKNW" alt="Holonym" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Lobby3 UNA</p>
+      <p>Director</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmeCKyJFTMKVErB1u31NoEokYHUWsFiMeYk6nuariWSdEW" alt="Lobby3 UNA" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">DAO<br>Coalition</p>
+      <p>Chairman</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmaP6CSzJp6wJbECW4gLGfrDhjpu48oMEhm7tyg8oZaMFg" alt="DAO Coalition" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Education<br>DAO</p>
+      <p>Counsel</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmbxodFHbEpZaYo5AdjUR5Wu77vVJ5H53ZDHRLPawJRiRT" alt="Education DAO" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Consensys</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmZCijUn73vZnCU6PyMGmTe9kMXzDZHgQzXVmZCwidaZmH" alt="Consensys" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Tally</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmRcnc8rhYXYw9uKREKGUuTcevNnDbiwBusGni41HHMPbm" alt="Tally" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">Alexandria</p>
+      <p>Contractor</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmQLR5YTZj9XB4DrNbU9JXGi989cC8aDxwxXV66Yj5ph2z" alt="Alexandria" />
+  </div>
+
+  <div class="exp-tile">
+    <div class="exp-text">
+      <p style="padding-bottom: 0.5rem; font-weight: 300;">OpenCivics</p>
+      <p>Steward</p>
+    </div>
+    <img src="https://indigo-cautious-chinchilla-877.mypinata.cloud/ipfs/QmXPC32sP9t7U3aFwk4Qpi16oMycekazrP9rGfYVoYGJrX" alt="OpenCivics" />
+  </div>
+
+  </div>
 </div>
 
 <div style="height: 1rem;"></div>
