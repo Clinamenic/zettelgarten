@@ -228,7 +228,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="side-column">
 <a href="" class="r1">CONTACT</a>
 <a href="/writings.html" class="r2">WRITINGS</a>
-<a href="/zettelkasten.html" class="r3" style="letter-spacing: 1px;">ZETTELKASTEN</a>
+<a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">ZETTELGARTEN</a>
 <a href="" class="r4"></a>
 <a href="/gallery.html" class="r5">GALLERY</a>
 <a href="" class="r6"></a>
@@ -250,7 +250,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="side-column">
 <a href="" class="r1">CONTACT</a>
 <a href="/writings.html" class="r2">WRITINGS</a>
-<a href="/zettelkasten.html" class="r3" style="letter-spacing: 1px;">ZETTELKASTEN</a>
+<a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">ZETTELGARTEN</a>
 <a href="" class="r4"></a>
 <a href="/gallery.html" class="r5">GALLERY</a>
 <a href="" class="r6"></a>

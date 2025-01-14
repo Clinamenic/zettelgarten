@@ -70,8 +70,10 @@ export const defaultListPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
   right: [
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   
 }

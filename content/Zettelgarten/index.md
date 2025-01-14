@@ -1,10 +1,10 @@
 ---
-title: Zettelkasten
 hideComments: true
-keywords:
-  - clinamenic, spencer saar cavanaugh, clinamenic LLC,
+keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zettelkasten, digital garden, hypergraph
 publish: true
-headDescription:
+tags: null
+title: Zettelgarten
+headDescription: The Zettelkasten of Spencer Saar Cavanaugh.
 headIcon:
 quartzShowTitle: true
 quartzShowSubtitle: false
@@ -15,7 +15,6 @@ quartzShowCitation: false
 quartzShowFlex: false
 quartzShowGraph: true
 quartzSearch: true
-tags:
 ---
 
 <style>
@@ -41,9 +40,13 @@ tags:
     font-size: 1.3rem;
   }
 
+  .page-listing {
+    display: none;
+  }
+
 </style>
 
-This is the zettelkasten of Spencer Saar Cavanaugh of [Clinamenic LLC](/index.html).
+This is the zettelgarten of Spencer Saar Cavanaugh, an experimental knowledge graph blending the zettelkasten method with the spirit of digital gardening. The primary purpose of this zettelgarten is cultivate knowledge in a public and auditable manner, and to provide an intellectual substrate for published discourse (see [Writing](/writing.html)).
 
 ---
 
@@ -51,32 +54,32 @@ This is the zettelkasten of Spencer Saar Cavanaugh of [Clinamenic LLC](/index.ht
 
 ---
 
-### Notes on Books
+### Reading Notes
 
 - [[Common Sense]] by Thomas Paine
-  - [[r-TP-CS-Hub]] ([scanned notes](https://app.ardrive.io/#/file/37f0b454-27ef-43a4-9691-971b14bfef35/view))
+  - [[r-TP-CS-Hub]] ([scanned notes](https://arweave.net/AaoeGtWNY91c8dnRNnpIFthgQUzUWcaiUWqNjwVVCXc))
 - [[The Prince]] by Niccolo Machiavelli
-  - [[r-NM-TP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/ef27fff7-e813-4a46-8673-4f121190415c/view))
+  - [[r-NM-TP-Hub]] ([scanned notes](https://arweave.net/glUJLGM3lyA-uQIkqspE2TL5NcEqJ_lXXF3MapobRdI))
 - [[Discourses on Livy]] by Niccolo Machiavelli
-  - [[r-NM-DL-Hub]] ([scanned notes](https://app.ardrive.io/#/file/aa34741e-109a-44a3-b45e-5987ba8540f9/view))
+  - [[r-NM-DL-Hub]] ([scanned notes](https://arweave.net/NaIidh_-YawX9SCDndIT3KeaBuUL7pJC2i33ENokUOM))
 - The Art of War by Niccolo Machiavelli
-  - [[r-NM-AW-Hub]] ([scanned notes](https://app.ardrive.io/#/file/ee2a3695-37b7-435d-9448-6bbdb6b40b33/view))
+  - [[r-NM-AW-Hub]] ([scanned notes](https://arweave.net/YWLS5SaigET0-d6aYFA_7d8XqAp20wg03yxWRjpy2yc))
 - The Road to Serfdom by Friedrich Hayek
-  - [[r-FH-RS-Hub]] ([scanned notes](https://app.ardrive.io/#/file/32b1dd3c-c1c3-453e-97e3-1de99b51f31a/view))
+  - [[r-FH-RS-Hub]] ([scanned notes](https://arweave.net/0y1khEq9DviaVSfnqwQTTGY8gIMDgz4ro_zEisrwtvM))
 - The Constitution of Liberty by Friedrich Hayek
-  - [[r-FH-CL-Hub]] ([scanned notes](https://app.ardrive.io/#/file/4ab5c166-19e4-47be-b49e-a782158d34b6/view))
+  - [[r-FH-CL-Hub]] ([scanned notes](https://arweave.net/9kRKCwO-kcYIq09zw5kvUKTlkSdUsRQbAOEi0ZMGY7U))
 - The Use of Knowledge in Society by Friedrich Hayek
-  - [[r-FH-UK-Hub]] ([scanned notes](https://app.ardrive.io/#/file/94219817-8498-450f-9ad6-e575a70954a9/view))
+  - [[r-FH-UK-Hub]] ([scanned notes](https://arweave.net/AjyAAePH9onEQkOPyYjF-EPC5UnmL4-NSzHHuZKMIh4))
 - [[Progress and Poverty]] by Henry George
-  - [[r-HG-PP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/6ded2432-4be8-4d22-9042-9058a8157bae/view))
+  - [[r-HG-PP-Hub]] ([scanned notes](https://arweave.net/i60F46yup0pmX5hTnQCkD9Mf6_AYXqPG9LqlUFG6dEY))
 - [[On the Nature of Things]] by Lucretius
-  - [[r-Lu-NT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/67854654-f077-43c8-bf95-ad43ee238a7c/view))
+  - [[r-Lu-NT-Hub]] ([scanned notes](https://arweave.net/iR-wBZ_M-Lx3aWQH0-OH6ilHX0CQsN1DeT94YmlG5ic))
 - [[The General Theory of Employment, Interest and Money]] by John Maynard Keynes
-  - [[r-JK-GT-Hub]] ([scanned notes](https://app.ardrive.io/#/file/a8b10b15-dad2-4bad-bf7c-72c76fc94edd/view))
+  - [[r-JK-GT-Hub]] ([scanned notes](https://arweave.net/H-sFwO94FGoSjV-5F13dlvJzgBmR3r6uVC9FsLRRW30))
 - Discourse on the Origin and Basis of Inequality Among Men by Jean-Jacques Rousseau
-  - [[r-JR-DO-Hub]] ([scanned notes](https://app.ardrive.io/#/file/9aa862f5-0340-4281-a21b-e4858d069c42/view))
+  - [[r-JR-DO-Hub]] ([scanned notes](https://arweave.net/D9ZA1bbl5yon6F782XEDUB7zV4ckLSPojhGw0whI9Fw))
 - [[The Federalist Papers]] by Publius
-  - [[r-Pu-FP-Hub]] ([scanned notes](https://app.ardrive.io/#/file/7d04009d-ba6e-40e6-a5dd-3ee9e2afc2fe/view))
+  - [[r-Pu-FP-Hub]] ([scanned notes](https://arweave.net/cDMlhSoeVZoL8ZdD8z-qOmzU-s9NdziOXY_5o9PKMSM))
 
 ---
 
@@ -338,3 +341,5 @@ internalRef:
   - https://www.youtube.com/watch?v=y1dbwSbXggg
 - https://web.archive.org/web/20150919121615/http://www.abolish.me/blog/semantic-notes
 - Kepano's web clipper bookmark: https://stephango.com/obsidian-web-clipper
+
+---

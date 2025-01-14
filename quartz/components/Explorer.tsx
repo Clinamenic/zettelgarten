@@ -41,9 +41,9 @@ const customOptions = {
   ...defaultOptions,
   filterFn: (node: FileNode) => {
     // Allow specific folders (case-insensitive)
-    const allowedFolders = ['publications', 'notes']
+    const allowedFolders = ['publications', 'notes', 'zettelgarten', 'writing']
     // Allow specific files (without .md extension)
-    const allowedFiles = ['design', 'gallery', 'about', 'writings', 'zettelkasten']
+    const allowedFiles = ['design', 'gallery', 'about']
     
     // Always include root node
     // if (node.name === '') return true
