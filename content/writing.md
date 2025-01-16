@@ -18,12 +18,6 @@ quartzSearch: true
 tags:
 ---
 
-<style>
-  .page-listing {
-    display: none;
-  }
-</style>
-
 ---
 
 ## Published Writings

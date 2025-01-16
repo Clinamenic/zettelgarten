@@ -40,10 +40,6 @@ quartzSearch: true
     font-size: 1.3rem;
   }
 
-  .page-listing {
-    display: none;
-  }
-
 </style>
 
 This is the zettelgarten of Spencer Saar Cavanaugh, an experimental knowledge graph blending the zettelkasten method with the spirit of digital gardening. The primary purpose of this zettelgarten is cultivate knowledge in a public and auditable manner, and to provide an intellectual substrate for published discourse (see [Writing](/writing.html)).
