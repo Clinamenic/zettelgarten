@@ -64,8 +64,8 @@ h1 {
   }
   > p {
     color: var(--darkgray);
-    padding-left: 0.7vw;
-    padding-right: 0.7vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
   }
 }
 
@@ -90,7 +90,7 @@ h1 {
 
 </style>
 
-<h1 style="display: flex; justify-content: center; align-items: center; font-size: 1.5rem; margin-top: 1rem; font-family: 'GeistMono'; font-weight: 100; font-size: clamp(1.25rem, calc(1.25rem + 4vw), 3rem);"><p class="odd-p">M</p><p class="even-p">U</p><p class="odd-p">S</p><p class="even-p">E</p><p class="odd-p">O</p><p class="even-p">T</p><p class="odd-p">H</p><p class="even-p">E</p><p class="odd-p">Q</p><p class="even-p">U</p><p class="odd-p">E</p></h1>
+<h1 style="display: flex; justify-content: center; align-items: center; font-size: 1.5rem; margin-top: 1rem; font-family: 'GeistMono'; font-weight: 100; font-size: clamp(1.25rem, calc(1.25rem + 4vw), 2rem);"><p class="odd-p">M</p><p class="even-p">U</p><p class="odd-p">S</p><p class="even-p">E</p><p class="odd-p">O</p><p class="even-p">T</p><p class="odd-p">H</p><p class="even-p">E</p><p class="odd-p">Q</p><p class="even-p">U</p><p class="odd-p">E</p></h1>
 
 Listed below in chronological order are various artists and designers who have influenced my style and sense of aesthetic expression.
 

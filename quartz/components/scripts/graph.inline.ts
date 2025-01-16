@@ -558,9 +558,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
-        fill: "#fef9eb", // computedStyleMap["--dark"],
+        fill: computedStyleMap["--dark"],
         fontFamily: computedStyleMap["--bodyFont"],
-        stroke: "#000000",
+        stroke: computedStyleMap["--light"],
         strokeThickness: 0.5,
         lineJoin: "round",
       },
@@ -581,7 +581,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       .fill({ color: isTopicTag(n.id) ? "#181D21" : (isTagNode ? "#666666" : color(n)) })
       .stroke({ 
         width: isTopicTag(n.id) ? 3 : (isTagNode ? 2 : 0.5), 
-        color: isTopicTag(n.id) ? "#FFA500" : (isTagNode ? "#ffffff" : "#000000"),
+        color: isTopicTag(n.id) ? "#FFA500" : (isTagNode ? "#ffffff" : computedStyleMap["--dark"]),
       })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
@@ -716,7 +716,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     // Set initial transform to center the graph
     const initialTransform = zoomIdentity
       .translate(width/2, height/2)
-      .scale(container === "global-graph-container" ? 0.125 : 1.0)
+      .scale(container === "global-graph-container" ? 0.25 : 1.0)
       .translate(-width/2, -height/2)
 
     select<HTMLCanvasElement, NodeData>(app.canvas)

@@ -68,14 +68,14 @@ export default ((opts?: Options) => {
 
             <div class="gallery2-fixed" style="margin: 0rem 0rem 0rem 0.75rem !important; justify-content: left;">
 
-              <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 0rem 0rem 0rem; font-size: 0.8rem; justify-content: left; text-align: left;">
+              <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 0rem 0rem 0rem; font-size: 0.7rem; justify-content: left; text-align: left;">
               <a href="https://bsky.app/profile/clinamenic.bsky.social">Bluesky</a><br />
               <a href="https://warpcast.com/clinamenic">Farcaster</a><br />
               <a href="https://www.x.com/clinamenic">Twitter</a><br />
               <a href="https://www.linkedin.com/in/clinamenic-llc-2178b1278/">LinkedIn</a><br />
               </p>
 
-              <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 0rem 0rem 0rem; font-size: 0.8rem; justify-content: left; text-align: left;">
+              <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 0rem 0rem 0rem; font-size: 0.7rem; justify-content: left; text-align: left;">
               <a href="https://catalog.fyi/users/Clinamenic">Catalog.fyi</a><br />
               <a href="https://www.github.com/clinamenic">Github</a><br />
               <a href="https://letterboxd.com/clinamenic/">Letterboxd</a><br />
@@ -83,7 +83,7 @@ export default ((opts?: Options) => {
 
             </div>
 
-            <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 0.75rem 0rem 0.75rem; font-size: 0.8rem; justify-content: left; text-align: left;">
+            <p style="padding: 0rem 0rem 0rem 0rem; margin: 0rem 0.75rem 0rem 0.75rem; font-size: 0.7rem; justify-content: left; text-align: left;">
               Created with&nbsp;
               <a href="https://quartz.jzhao.xyz/">Quartz v4.3.1</a>
               &nbsp;© 2024<br />

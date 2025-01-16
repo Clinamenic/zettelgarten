@@ -6,7 +6,7 @@ tags: null
 title: Zettelgarten
 headDescription: The Zettelkasten of Spencer Saar Cavanaugh.
 headIcon:
-quartzShowTitle: true
+quartzShowTitle: false
 quartzShowSubtitle: false
 quartzShowTOC: true
 quartzShowExplorer: true
@@ -40,7 +40,39 @@ quartzSearch: true
     font-size: 1.3rem;
   }
 
+h1 {
+  > a {
+    display: none;
+  }
+  > p {
+    color: var(--darkgray);
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+  }
+}
+
+.odd-p {
+  animation: fade-up-5 3s ease-in-out;
+}
+
+.even-p {
+  animation: fade-down-5 3s ease-in-out;
+}
+
+@keyframes fade-up-5 {
+  0%{ opacity: 0%; transform:translateY(5px)}
+  85%{ opacity: 85%; transform:translateY(0px)}
+  100%{ opacity: 100%} 
+}
+@keyframes fade-down-5 {
+  0%{ opacity: 0%; transform:translateY(-5px)}
+  85%{ opacity: 85%; transform:translateY(0px)}
+  100%{ opacity: 100%} 
+}
+
 </style>
+
+<h1 style="display: flex; justify-content: center; align-items: center; font-size: 1.5rem; margin-top: 1rem; font-family: 'GeistMono'; font-weight: 100; font-size: clamp(1.25rem, calc(1.25rem + 4vw), 2rem);"><p class="odd-p">Z</p><p class="even-p">E</p><p class="odd-p">T</p><p class="even-p">T</p><p class="odd-p">E</p><p class="even-p">L</p><p class="odd-p">G</p><p class="even-p">A</p><p class="odd-p">R</p><p class="even-p">T</p><p class="odd-p">E</p><p class="even-p">N</p></h1>
 
 This is the zettelgarten of Spencer Saar Cavanaugh, an experimental knowledge graph blending the zettelkasten method with the spirit of digital gardening. The primary purpose of this zettelgarten is cultivate knowledge in a public and auditable manner, and to provide an intellectual substrate for published discourse (see [Writing](/writing.html)).
 
