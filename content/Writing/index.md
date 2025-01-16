@@ -1,5 +1,5 @@
 ---
-title: Writings
+title: Writing
 hideComments: true
 keywords:
   - clinamenic, spencer saar cavanaugh, clinamenic LLC,
