@@ -70,6 +70,10 @@ h1 {
   100%{ opacity: 100%} 
 }
 
+.page-listing {
+  display: none;
+}
+
 </style>
 
 <h1 style="display: flex; justify-content: center; align-items: center; font-size: 1.5rem; margin-top: 1rem; font-family: 'GeistMono'; font-weight: 100; font-size: clamp(1.25rem, calc(1.25rem + 4vw), 2rem);"><p class="odd-p">Z</p><p class="even-p">E</p><p class="odd-p">T</p><p class="even-p">T</p><p class="odd-p">E</p><p class="even-p">L</p><p class="odd-p">G</p><p class="even-p">A</p><p class="odd-p">R</p><p class="even-p">T</p><p class="odd-p">E</p><p class="even-p">N</p></h1>

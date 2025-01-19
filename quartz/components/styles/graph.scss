@@ -9,7 +9,7 @@
   & > .graph-outer {
     max-width: var(--pageContentWidth);
     border-radius: 10px;
-    border: 1px solid var(--dark);
+    border: 1px solid var(--gray);
     background-color: var(--lightgray);
     box-sizing: border-box;
     height: 250px;
@@ -55,7 +55,7 @@
     }
 
     & > #global-graph-container {
-      border: 1px solid var(--dark);
+      border: 1px solid var(--gray);
       background-color: var(--lightgray); // #181D21; // var(--lightgray);
       border-radius: 10px;
       box-sizing: border-box;

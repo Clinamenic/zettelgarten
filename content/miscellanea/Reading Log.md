@@ -24,50 +24,44 @@ This section is in rough chronological order, and might not be comprehensive.
 - (??/??/?? - ??/??/??) The Antichrist (Nietzsche)
 - (??/??/?? - ??/??/??) The Last Days of Socrates (Plato)
 
-## 2022
-
-### Books
-
-This section is comprehensive, but imprecisely dated.
-
-- (05/??/22 - 05/06/22) Gravity’s Rainbow (Pynchon)
-- (05/??/22 - 05/??/22) Faust part 1 (Goethe)
-- (06/??/22 - 06/??/22) Hamlet (Shakespeare)
-- (09/??/22 - 09/??/22) Discourse on the Sciences and Arts (Rousseau)
-- (10/??/22 - 10/??/22) Discourse on the Origin and Foundations of Inequality (Rousseau)
-
-## 2023
-
-### Books
-
-This section is comprehensive, but imprecisely dated.
-
-- (??/??/23 - ??/??/23) Progress and Poverty (George)
-- (??/??/23 - ??/??/23) The Prince (Machiavelli)
-- (??/??/23 - ??/??/23) The Art of War (Machiavelli)
-- (??/??/23 - 05/15/23) The Crying of Lot 49 (Pynchon)
-- (05/16/23 - 10/22/23) The Odyssey (Homer)
-- (10/27/23 - 11/03/23) Six Easy Pieces (Feynman)
-- (11/05/23 - 11/24/23) The Road to Serfdom (Hayek)
-- (11/28/23 - 12/16/23) On The Nature of Things (Lucretius)
-
-## 2024
-
-### Books
-
-This section is comprehensive.
-
-- (12/17/23 - 01/30/24) Discourses on Livy (Machiavelli)
-- (02/08/24 - 04/15/24) The Federalist Papers (Hamilton, Jay, Jefferson)
-- (04/16/24 - 06/28/24) The Constitution of Liberty (Hayek)
-- (07/04/24 - 07/29/24) Moby Dick (Melville)
-- (07/31/24 - 08/01/24) Common Sense (Paine)
-- (08/03/24 - 08/11/24) How to Take Smart Notes (Ahrens)
-- (08/16/24 - 10/17/24) General Theory of Employment, Interest and Money (Keynes)
-- (10/28/24 - Present) Assets in Common (Infrastructure for Shared Ownership)
-- (11/02/24 - 12/16/24) The English Face of Machiavelli (Raab)
-
-
+| Start    | Finish   | Title                                                    | Author                                      |
+| -------- | -------- | -------------------------------------------------------- | ------------------------------------------- |
+| ??/??/?? | ??/??/?? | The Wretched of the Earth                                | Frantz Fanon                                |
+| ??/??/?? | ??/??/?? | The Broom of the System                                  | David Foster Wallace                        |
+| ??/??/?? | ??/??/?? | The Human Use of Human Beings                            | Norbert Weiner                              |
+| ??/??/?? | ??/??/?? | Either/Or                                                | Søren Kierkegaard                           |
+| ??/??/?? | ??/??/?? | The Bhagavad Gita                                        |                                             |
+| ??/??/?? | ??/??/?? | Inferno                                                  | Dante Alighieri                             |
+| ??/??/?? | ??/??/?? | Ulysses                                                  | James Joyce                                 |
+| ??/??/?? | ??/??/?? | Love and Will                                            | Rollo May                                   |
+| ??/??/?? | ??/??/?? | Dialogue with Meno                                       | Plato                                       |
+| ??/??/?? | ??/??/?? | Dialogue with Protagoras                                 | Plato                                       |
+| ??/??/?? | ??/??/?? | Twilight of The Idols                                    | Friedrich Nietzsche                         |
+| ??/??/?? | ??/??/?? | The Antichrist                                           | Friedrich Nietzsche                         |
+| ??/??/?? | ??/??/?? | The Last Days of Socrates                                | Plato                                       |
+| 05/??/22 | 05/??/22 | Gravity’s Rainbow                                        | Thomas Pynchon                              |
+| 05/??/22 | 05/??/22 | Faust part 1                                             | Johann Wolfgang von Goethe                  |
+| 06/??/22 | 06/??/22 | Hamlet                                                   | William Shakespeare                         |
+| 09/??/22 | 09/??/22 | Discourse on the Sciences and Arts                       | Jean-Jacques Rousseau                       |
+| 10/??/22 | 10/??/22 | Discourse on the Origin and Foundations of Inequality    | Jean-Jacques Rousseau                       |
+| ??/??/23 | ??/??/23 | [[Progress and Poverty]]                                 | Henry George                                |
+| ??/??/23 | ??/??/23 | [[The Prince]]                                           | Niccolò Machiavelli                         |
+| ??/??/23 | ??/??/23 | The Art of War                                           | Niccolò Machiavelli                         |
+| ??/??/23 | ??/??/23 | The Crying of Lot 49                                     | Thomas Pynchon                              |
+| 05/16/23 | 10/22/23 | The Odyssey                                              | Homer                                       |
+| 10/27/23 | 11/03/23 | Six Easy Pieces                                          | Richard Feynman                             |
+| 11/05/23 | 11/24/23 | The Road to Serfdom                                      | Friedrich Hayek                             |
+| 11/28/23 | 12/16/23 | [[On The Nature of Things]]                              | Lucretius                                   |
+| 12/17/23 | 01/30/24 | [[Discourses on Livy]]                                   | Niccolò Machiavelli                         |
+| 02/08/24 | 04/15/24 | [[The Federalist Papers]]                                | Alexander Hamilton, James Madison, John Jay |
+| 04/16/24 | 06/28/24 | The Constitution of Liberty                              | Friedrich Hayek                             |
+| 07/04/24 | 07/29/24 | Moby Dick                                                | Herman Melville                             |
+| 07/31/24 | 08/01/24 | [[Common Sense]]                                         | Thomas Paine                                |
+| 08/03/24 | 08/11/24 | How to Take Smart Notes                                  | Sönke Ahrens                                |
+| 08/16/24 | 10/17/24 | [[The General Theory of Employment, Interest and Money]] | John Maynard Keynes                         |
+| 10/28/24 | Present  | Assets in Common                                         | Infrastructure for Shared Ownership         |
+| 11/02/24 | 12/16/24 | The English Face of Machiavelli                          | Felix Raab                                  |
+| 01/02/25 | Present  | Don Quixote de la Mancha                                 | Miguel de Cervantes                         |
 
 ### Papers/Articles
 
@@ -90,6 +84,38 @@ This section follows no particular order.
 - The Mahabharata
 
 ### Nonfiction
+
+| Title                                      | Author           |
+| ------------------------------------------ | ---------------- |
+| Leviathan                                  | Hobbes           |
+| On War                                     | von Clausewitz   |
+| Individualism and Economic Order           | Hayek            |
+| Recognitions                               | Gaddis           |
+| Secret Societies and Psychological Warfare | Hoffman          |
+| Art and Agency                             | Gell             |
+| The Presentation of Self in Everyday Life  | Goffman          |
+| The English Face of Machiavelli            | Raab             |
+| The Sphere and Duties of Government        | von Humboldt     |
+| Don Quixote                                | Cervantes        |
+| In Search of Lost Time                     | Proust           |
+| Finnegan's Wake                            | Joyce            |
+| A Thousand Plateaus                        | Deleuze-Guattari |
+| Infinite Jest                              | Wallace          |
+| The Origin of Species                      | Darwin           |
+| Governing the Commons                      | Ostrom           |
+| The Listening Society                      | Freinacht        |
+| Mason & Dixon                              | Pynchon          |
+| Anti-Oedipus                               | Deleuze-Guattari |
+| Rhythmanalysis                             | Lefebvre         |
+| The Great Transformation                   | Polanyi          |
+| Naked Lunch                                | Burroughs        |
+| Doctor Faustus                             | Mann             |
+| The Dispossessed                           | Le Guin          |
+| Kindred                                    | Butler           |
+| The Phenomenology of Spirit                | Hegel            |
+| The Wealth of Nations                      | Smith            |
+| Tractatus Logico-Philosophicus             | Wittgenstein     |
+| Democracy in America                       | de Tocqueville   |
 
 - Secret Societies and Psychological Warfare (Hoffman)
 - **Art and Agency (Gell)**

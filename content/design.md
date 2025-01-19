@@ -23,15 +23,15 @@ tags:
 <style>
   
 
-  .center{
-    h2 {
-      text-align: center !important;
-      justify-content: center !important;
-      transform: translateX(1.25rem);
-      font-weight: 300;
-      font-size: 1.75rem;
-      padding-bottom: 1rem;
-    }
+.center .popover-hint h2 {
+    font-weight: 200;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    text-align: center !important;
+    justify-content: center !important;
+    transform: translateX(1.25rem);
+    text-transform: uppercase;
+    font-family: GeistMono;
   }
 
   .font-box{
@@ -40,9 +40,22 @@ tags:
     background-color: black;
     overflow: hidden;
 }
+
+.gallery-img {
+  width: 100%;
+  height: auto;  // Changed from 100% to auto
+  margin: 0;
+  border: 1px solid var(--dark);
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+
 </style>
 
 ## Graphic Design
+
+---
 
 <div class="gallery3">
           <img
@@ -114,6 +127,8 @@ tags:
 
 ## Logo Design
 
+---
+
 <div class="gallery4">
           <img
             src="https://arweave.net/yLPZGK3KHwEjMEOKXtjzW9ORWTLhGWlA5JbOtUn-3IQ"
@@ -170,6 +185,43 @@ tags:
             class="gallery-img"
             alt="Haight Street Archives"
           />
+          <img
+            src="https://arweave.net/d361BXSq_J49_Ltv8kb2HBetop5I0rrZMrfgMIXLESU"
+            class="gallery-img"
+            alt="PermaPress"
+          />
+</div>
+
+---
+
+## Diagrammatic Design
+
+---
+
+<div class="gallery1" style="margin-bottom: 1rem; ">
+  <img src="https://arweave.net/G2P82AKfdjk_rNoNO1p_Q0HqRISuGJBANJ82R1svDlo" class="gallery-img" alt="Diagram1">
+</div>
+
+<div class="gallery2" style="margin-bottom: 1rem;"> 
+  <img src="https://arweave.net/9PI471h-dvIH-BTCVxkf3FnqZWDZOHL7L31BRjqaBB0" class="gallery-img" alt="Diagram6">
+  <img src="https://arweave.net/jq7qxuRtub_UrxzZQBkx0qqRm5jRi48ZEzzpHQKv6Q0" class="gallery-img" alt="Diagram3">
+</div>
+
+<div class="gallery1" style="margin-bottom: 1rem;">
+  <img src="https://arweave.net/SkNl7UKgcm5gbOEfTdlcvlN5e8QRicGEFY87Oo0mM0Q" class="gallery-img" alt="Diagram6">
+</div>
+
+<div class="gallery2" style="margin-bottom: 1rem;"> 
+  <img src="https://arweave.net/2PDFV5uBTHTXVusN23-lalnLArAhE5M__X2QHDgTRHk" class="gallery-img" alt="Diagram4">
+  <img src="https://arweave.net/GmlcPkbzbI3XrM2J6ABh4M9dWSZsXZGF4W6_gRgLp-s" class="gallery-img" alt="Diagram5">
+</div>
+
+<div class="gallery1" style="margin-bottom: 1rem;">
+  <img src="https://arweave.net/X-2KFh2v99NmzIm_YV1vDEqsXyZXP4NbQ_L_iBG6Hs8" class="gallery-img" alt="Diagram2">
+</div>
+
+<div class="gallery1" style="margin-bottom: 1rem;">
+  <img src="https://arweave.net/IREOyLX8UYx5zg9OWhuT-oKzi0t7kQLFcvJU6xBnW2c" class="gallery-img" alt="Diagram7">
 </div>
 
 ---

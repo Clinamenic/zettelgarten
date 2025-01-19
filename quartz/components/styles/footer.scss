@@ -5,13 +5,13 @@ footer {
   padding: 0rem 1rem 0rem 1rem !important;
   bottom: 0;
   width: 100%;
-  max-width: 750px !important;
+  max-width: 752px !important;
   margin-left: auto;
   margin-right: auto;
   background-color: var(--light);
-  border-right: 1px solid var(--dark) !important;
-  border-left: 1px solid var(--dark) !important;
-  border-bottom: 0px solid var(--dark);
+  border-right: 1px solid var(--gray) !important;
+  border-left: 1px solid var(--gray) !important;
+  border-bottom: 0px solid var(--gray);
   overflow: hidden !important;
   transform: translateX(0.2px);
 
@@ -41,16 +41,16 @@ footer {
 }
 
 .footer-container {
-  box-sizing: border-box;
+  // box-sizing: border-box;
   width: 100%;
-  max-width: 748px !important;
+  max-width: 750px !important;
   align-items: center;
   justify-content: center;
   background-color: var(--lightgray);
-  border-top: 1px solid var(--dark);
-  border-right: 1px solid var(--dark) !important;
-  border-left: 1px solid var(--dark);
-  border-bottom: 0px solid var(--dark);
+  border-top: 1px solid var(--gray);
+  border-right: 1px solid var(--gray) !important;
+  border-left: 1px solid var(--gray);
+  border-bottom: 0px solid var(--gray);
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   overflow: hidden !important;
@@ -95,8 +95,8 @@ footer {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  border-top: 0px solid var(--dark);
-  border-bottom: 1px solid var(--dark);
+  border-top: 0px solid var(--gray);
+  border-bottom: 1px solid var(--gray);
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   padding: 0.75rem 0.75rem;

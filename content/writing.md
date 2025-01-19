@@ -18,6 +18,12 @@ quartzSearch: true
 tags:
 ---
 
+<style>
+  .page-listing {
+    display: none;
+  }
+</style>
+
 ---
 
 ## Published Writings
@@ -59,7 +65,7 @@ tags:
 
 ## Current Drafts
 
-- [[DRAFT Methodology for Impact Assessment and Onchain Ecosystem Funding]]
+- [[Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment]]
 
 ## Canvassing
 

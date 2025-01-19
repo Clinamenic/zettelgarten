@@ -175,6 +175,8 @@ quartzSearch: true
   transform: translateX(-1rem);
 }
 
+
+
 </style>
 
 <script>

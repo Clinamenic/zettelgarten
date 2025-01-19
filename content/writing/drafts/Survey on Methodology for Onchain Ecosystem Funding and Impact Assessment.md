@@ -19,13 +19,13 @@ uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
 
 ## Acknowledgments
 
-The following research was conducted by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Funding for this research was provided by [LexDAO](https://lexdao.org/) and [SuperBenefitDAO](https://superbenefit.org/).
+The following research was conducted by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Support for this research was provided by [LexDAO](https://lexdao.org/) and [SuperBenefitDAO](https://superbenefit.org/).
 
 I would like to thank the following individuals for their feedback and support: Kyle Smith of LexClinic, rathermercurial of SuperBenefitDAO, Holke Brammer and bitbeckers of Hypercerts, Mahesh Murthy of Karma, Natalie J. Crüe, Monty Merlin of ReFi DAO, Eugene Leventhal of MetaGov, Mashal Waqar of Octant, LauNaMu of Optimism, Mike Natanzon of Abundance Protocol.
 
 ## Abstract
 
-The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which may innovate upon aspects of the traditional philanthropic sector. It has also encountered various challenges familiar to, and runs the risk of repeating some systematic inefficiencies of, traditional philanthropy. Various open-source protocols exist, or are actively being developed, to: administer onchain grant programs; configure and issue onchain certificates of impact; publish claims and attestations to build onchain trust networks; and retroactively fund public goods via protocol-based fiscal systems. These functions are developed as distinct softwares, but with the intention of being combined into multi-functional open-source assemblages for evaluating and funding impact, based largely on the premise that impact is not adequately valued at present, thus resulting in inadequate funding for publicly impactful work. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and ought to learn from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue, in order to avoid reinventing wheels and recreating systematic inefficiencies. This report is a holistic survey of existing practices and challenges, and a prospectus of methodological considerations to inform the collective stewardship of this promising ecosystem.
+The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which innovate upon aspects of the traditional philanthropic sector. This emerging parallel has also encountered various challenges familiar to the traditional philanthropy, and runs the risk of incurring similar systematic inefficiencies. Various open-source protocols exist, or are actively being developed, to administer onchain grant programs, configure and issue onchain certificates of impact, publish claims and attestations to build onchain trust networks, and retroactively fund public goods via protocol-based fiscal systems. These mechanisms are developed as distinct protocols, but with the intention of inter-operating as multi-functional open-source assemblages for evaluating and funding impact. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and this development ought to draw from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue. This report is a holistic survey of existing practices and challenges, intended to inform our ecosystem's efforts at coordinating a satisfactory paradigm.
 
 ## Section 1 - Orientation
 
@@ -305,21 +305,25 @@ Fortunately, many of the onchain grant programs have adopted the practice of usi
 
 #### Value Exchange
 
-Text here, something about ROI for public goods.
+Another aspect of this ecosystem which can occasion economic friction is the dynamic of value exchange in grant programs and ecosystem development rounds. Here, the question of value exchange is largely analogous to traditional philanthropy: grantees receive financial support from benefactor institutions, and in exchange the benefactor institutions see their missions advanced, their ecosystems expanded, their reputations enhanced, or some combination of the three.
+
+This value exchange relationship, between grantor and grantee, holds true for some of the ecosystem development arrangements outlined in this report, regardless of whether the arrangement is philanthropic or for-profit. Grantmaking institutions need a financially sustainable model for distributing funds within their particular ecosystems, and recipient projects shouldn't have to put more work into grant round participation than is justified by the funds they receive. 
+
+In other words, the funds received by grantees should go to support their mission, and not the operational overhead of participating in the round. Otherwise, we're left with an arrangement whereby grantees develop a dependency on funding to support efforts to procure more funding. Ideally, the projects in question can focus on executing their missions, and grantmaking institutions can benefit from patronal association with these effectual mission-aligned projects and can effectively fundraise on the proven basis of this association. In this ideal arrangement, the operational overhead specific to the funding process is minimized for the grantee, allow them to focus on their mission.
+
+##### Promotional Overhead
+
+With respect to the nuances particular to the participatory funding processes outlined in this report, such as those of quadratic funding rounds, some additional value exchange considerations arise. For example, because quadratic funding rounds require extended community participation in the allocation of funds, much of the work involved in facilitating these rounds consists of social media engagement and publicity. This work falls jointly on the operators of the grant round, who administer the allocation of funds from matching donors to grantees, and on the grantees themselves, who raise awareness of their projects. 
+
+In this particular arrangement, the grantor institutions seek to expand their ecosystem in terms of brand awareness, active users, or some other metric, while grantees seek to increase their individual donor count in order to boost their results from the quadratic funding formula. Here, the goal of the grantor institutions is aligned with that of the grantee: donor participation. That said, the grantee projects are often at an early stage and may not have personnel specialized in this kind of social engagement, thus running the risks of over-allocating efforts to this kind of publicity campaign, relative to the amount of funds received, thus risking net-negative economic outcomes.
+
+The grantor institution faces a slightly different economic task. While grantees in a quadratic funding round are, to an extent, competing for matching funds, the grantor is largely impartial as to which donors donate to which projects. Instead, the grantor aims more broadly to maximize donor participation in terms of quantity of unique donors, and optimize in terms of ensuring uniqueness and non-collusion among said donors. This means that the promotional overhead of the grantees is competitive with respect to the goals of the grantees, but cooperative with respect to the goals of the grantor. 
+
+In other words, this promotional work does not always prove worthwhile for the grantees, even if it may prove worthwhile within the context of the ecosystem development goals of the grantor. A solution here would seem to involve a concentrative outsourcing of the promotional efforts from the grantees onto some specialized entity. In fact, this methodology has already seen some practice, with Gitcoin functioning in this capacity for some of the quadratic funding rounds it has facilitated. 
 
 ### 2.3 - Operational Challenges
 
 Text here
-
-#### Promotional Overhead
-
-In some of the more participatory and community-driven grant programs, such as quadratic funding rounds, grantees are expected to undertake some degree of promotional work to receive donations from their community and other surrounding donor bases.
-
-Similar to more traditional donation campaigns, this promotional work primarily serves to increase grantee's exposure to the wider potential donor base. However, in the case of quadratic funding rounds and similarly participatory grant programs, this promotional work also serves to increase exposure to the other grantees in the round, as well as any institution involved in operating or funding the grant round.
-
-For example, it has been common practice during quadratic funding rounds for grantees of a given round to join promotional Twitter spaces, usually hosted by the institution operating the ground round. During these twitter spaces, grantees take turns describing to listeners the nature of their project, and encouraging listeners to donate. The tone of these twitter spaces is usually highly cooperative and cross-promotional, with grantees often promoting one another's projects.
-
-Depending on the size of the audience, as well as other technical factors, grantees may or may not receive additional donations as a result of these promotional efforts. That is, this promotional work does not always prove worthwhile for the grantees, even if it may prove worthwhile within the context of the ecosystem development goals of the grantor.
 
 #### Impact Reporting Burden
 
