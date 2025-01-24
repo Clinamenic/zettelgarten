@@ -13,7 +13,7 @@ quartzShowGraph: true
 sponsor: LexDAO, SuperBenefitDAO
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
 tags: 
-title: Methodology for Impact Assessment and Onchain Ecosystem Funding
+title: Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment
 uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
 ---
 

@@ -1,20 +1,20 @@
 ---
-title:
-subtitle:
-author: Spencer Saar Cavanaugh
+title: 
+subtitle: 
+author:
+  - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-date:
-bannerURI:
-type:
+date: 
+bannerURI: 
+type: 
 language: en
-keywords:
-doi:
-url:
-uuid:
-arweaveHashes:
+keywords: 
+uuid: 
+arweaveHashes: 
+license: 
 publish: false
-headDescription:
-headIcon:
+headDescription: 
+headIcon: 
 quartzShowTitle: true
 quartzShowSubtitle: true
 quartzShowTOC: true
@@ -24,6 +24,5 @@ quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
 quartzSearch: true
-internalRef:
 tags:
 ---

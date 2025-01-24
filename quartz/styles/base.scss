@@ -743,8 +743,9 @@ p {
 
     th,
     td {
-      min-width: 75px;
-      // max-width: 250px;
+      min-width: 100px;
+      width: auto;
+      max-width: 250px;
       padding: 0.2rem 0.7rem 0.2rem 1rem;
       white-space: wrap;
       vertical-align: top;
