@@ -31,6 +31,8 @@ export default (() => {
         : `https://${cfg.baseUrl}/${fileData.frontmatter.bannerURI}`
       : `https://${cfg.baseUrl}/static/og-image.png`
 
+    const umamiId = fileData.frontmatter?.umami_id
+
     return (
       <head>
         <title>{title}</title>
@@ -63,6 +65,14 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        {umamiId && (
+          <script
+            async
+            defer
+            data-website-id={umamiId}
+            src="http://localhost:3000/umami.js"
+          ></script>
+        )}
       </head>
     )
   }

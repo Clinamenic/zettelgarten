@@ -6,6 +6,7 @@ tags: null
 title: Clinamenic LLC
 headDescription: A consultancy for the development of digital public infrastructure.
 headIcon:
+umami_id: 5e9acaee-1064-49e1-a8c1-4a13cdc2da07
 quartzShowTitle: false
 quartzShowSubtitle: false
 quartzShowTOC: false
