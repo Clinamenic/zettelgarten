@@ -67,10 +67,9 @@ export default (() => {
           .map((res) => JSResourceToScriptElement(res, true))}
         {umamiId && (
           <script
-            async
             defer
+            src="https://umami-dashboard-h8obdj9qq-clinamenics-projects.vercel.app/script.js"
             data-website-id={umamiId}
-            src="http://localhost:3000/umami.js"
           ></script>
         )}
       </head>
