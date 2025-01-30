@@ -68,7 +68,7 @@ export default (() => {
         {umamiId && (
           <script
             defer
-            src="https://umami-dashboard-h8obdj9qq-clinamenics-projects.vercel.app/script.js"
+            src="https://umami-dashboard-sand.vercel.app/script.js"
             data-website-id={umamiId}
           ></script>
         )}
