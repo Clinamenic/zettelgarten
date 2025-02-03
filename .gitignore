@@ -14,6 +14,9 @@ replit.nix
 # Ignore everything in the private folder
 /private/**
 
-# Ignore everything in the private folder
+# Ignore everything in the myenv folder
 /myenv/**
+
+# Ignore everything in the specstory folder
+/.specstory/
 
