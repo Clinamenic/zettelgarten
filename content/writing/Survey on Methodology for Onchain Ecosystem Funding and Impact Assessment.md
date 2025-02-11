@@ -1,5 +1,6 @@
 ---
-arweaveHash:
+title: Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment
+subtitle: An analysis of the innovations and challenges of the onchain philanthropy sector.
 author:
   - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
@@ -7,8 +8,9 @@ bannerURI: https://arweave.net/cwmd2UJItW7IPBeSBdDCqY2DZCXpvqFtGu9_zLSBwds
 date: 2025-02-11
 draftStart: 0024-06-28
 license: CC BY-NC-SA 4.0
+arweaveHash:
 publish: true
-headDescription: An analysis of the innovations and challenges of the onchain philanthropy sector.
+headDescription:
 headIcon:
 quartzShowTitle: true
 quartzShowSubtitle: true
@@ -20,9 +22,9 @@ quartzShowFlex: true
 quartzShowGraph: true
 quartzSearch: true
 sponsor: LexDAO, SuperBenefitDAO
-subtitle: A diagnostic survey of the existing practices and challenges of the onchain philanthropy sector.
+
 tags:
-title: Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment
+
 uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
 ---
 
@@ -307,7 +309,7 @@ Because many of the solutions under consideration involve early-stage technologi
 
 One symptom of this early stage of development is the state of user interfaces, and of user experience (UX) more broadly. As a manifestation of the aforementioned knowledge gap, these early-stage user interfaces often assume a degree of technical familiarity on behalf of the user, a degree of familiarity which cannot reasonably be expected from the general public.
 
-While the existence and widening of this knowledge gap can indicate technical progress and industrial maturation, such progress is certainly not without its limiting factors. The realization of the potential of a technology, at scale, tends to require a UX which accommodates the technical literacy of its target users.
+While the existence and widening of this knowledge gap can indicate technical progress and industry maturation, such progress is certainly not without its limiting factors. The realization of the potential of a technology, at scale, tends to require a UX which accommodates the technical literacy of its target users.
 
 One can view this through the lens of UX development, streamlining the UX to accommodate the existing average user literacy, or one can view this process through the lens of user education, bringing the average user literacy closer to the existing UX. The former is more along the lines of product-market fit, developing a product to suit the needs of an established addressable market, while the latter is more along the lines of market-product fit, cultivating a market to suit the capabilities of a novel product.
 
@@ -492,7 +494,7 @@ Naturally, these capture-resistant peer-to-peer economic technologies are conduc
 - Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
   - Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
   - Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
-  - Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+  - Round 3, Q4 2023, 30 million \$OP, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
   - Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
 
 ---
