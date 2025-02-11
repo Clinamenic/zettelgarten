@@ -3,15 +3,24 @@ arweaveHash:
 author:
   - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
+bannerURI: https://arweave.net/cwmd2UJItW7IPBeSBdDCqY2DZCXpvqFtGu9_zLSBwds
 date:
 draftStart: 0024-06-28
 license: CC BY-NC-SA 4.0
 publish: true
+headDescription: A diagnostic survey of the existing practices and challenges of the onchain philanthropy sector, to inform an ontologically integrated paradigm for distributed impact assessment and funding.
+headIcon:
+quartzShowTitle: true
+quartzShowSubtitle: true
+quartzShowTOC: true
+quartzShowExplorer: true
+quartzShowBacklinks: true
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
+quartzSearch: true
 sponsor: LexDAO, SuperBenefitDAO
-subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
+subtitle: A diagnostic survey of the existing practices and challenges of the onchain philanthropy sector, to inform an ontologically integrated paradigm for distributed impact assessment and funding.
 tags:
 title: Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment
 uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
