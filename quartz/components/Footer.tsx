@@ -35,16 +35,7 @@ export default ((opts?: Options) => {
                />
              </a> 
 
-              <div class="newsletter">
-              <iframe
-                  src="https://solosalon.clinamenic.com/embed?minimal=true"
-                  width="480"
-                  height="40"
-                  style="border: 1px solid var(--gray); border-radius: 10px; background: black"
-                  frameborder="0"
-                  scrolling="no"
-               ></iframe>
-              </div>
+              
 
               <div id="dynamicTextAlt">
                 {randomPhrase}
@@ -108,3 +99,15 @@ export default ((opts?: Options) => {
   Footer.css = style
   return Footer
 }) satisfies QuartzComponentConstructor
+
+
+// ! <div class="newsletter">
+// !              <iframe
+// !                  src="https://solosalon.clinamenic.com/embed?minimal=true"
+// !                  width="480"
+// !                  height="40"
+// !                  style="border: 1px solid var(--gray); border-radius: 10px; background: black"
+// !                  frameborder="0"
+// !                  scrolling="no"
+// !               ></iframe>
+// !              </div>

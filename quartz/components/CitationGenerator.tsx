@@ -305,7 +305,7 @@ ER  -\`;
       <div style={{
         margin: '1rem 0',
         padding: '1rem',
-        border: '1px solid var(--dark)',
+        border: '1px solid var(--gray)',
         borderRadius: '10px',
         backgroundColor: 'var(--lightgray)'
       }}>
@@ -325,8 +325,8 @@ ER  -\`;
                 fontSize: '0.7rem',
                 minWidth: '80px',
                 padding: '0.25rem 0.5rem 0.15rem',
-                border: '1px solid var(--dark)',
-                borderRadius: '10px',
+                border: '1px solid var(--gray)',
+                borderRadius: '5px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer',
                 transition: 'all 0.3s ease'
@@ -346,8 +346,8 @@ ER  -\`;
                 fontSize: '0.7rem',
                 minWidth: '80px',
                 padding: '0.25rem 0.5rem 0.15rem',
-                border: '1px solid var(--dark)',
-                borderRadius: '10px',
+                border: '1px solid var(--gray)',
+                borderRadius: '5px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer'
               }}
@@ -367,8 +367,8 @@ ER  -\`;
                 alignItems: 'center',
                 gap: '0.25rem',
                 padding: '0.25rem 0.5rem 0.15rem',
-                border: '1px solid var(--dark)',
-                borderRadius: '10px',
+                border: '1px solid var(--gray)',
+                borderRadius: '5px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer'
               }}
