@@ -1,5 +1,5 @@
 ---
-arweaveHash: 
+arweaveHash:
 author:
   - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
@@ -8,8 +8,8 @@ date: 2025-02-11
 draftStart: 0024-06-28
 license: CC BY-NC-SA 4.0
 publish: true
-headDescription: An analysis of the innovations and challenges of the onchain philanthropy sector, with a view toward an ontologically integrated paradigm for distributed impact assessment and funding.
-headIcon: 
+headDescription: An analysis of the innovations and challenges of the onchain philanthropy sector.
+headIcon:
 quartzShowTitle: true
 quartzShowSubtitle: true
 quartzShowTOC: true
@@ -20,12 +20,14 @@ quartzShowFlex: true
 quartzShowGraph: true
 quartzSearch: true
 sponsor: LexDAO, SuperBenefitDAO
-subtitle: A diagnostic survey of the existing practices and challenges of the onchain philanthropy sector, to inform an ontologically integrated paradigm for distributed impact assessment and funding.
-tags: 
+subtitle: A diagnostic survey of the existing practices and challenges of the onchain philanthropy sector.
+tags:
 title: Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment
 uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
 ---
+
 ---
+
 ## Table of Contents
 
 - Acknowledgments
@@ -76,6 +78,7 @@ uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
 - Licensing
 
 ---
+
 ## Acknowledgments
 
 This report was researched and written by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Support for this research was provided by [LexDAO](https://lexdao.org/) and [SuperBenefitDAO](https://superbenefit.org/).
@@ -83,11 +86,13 @@ This report was researched and written by Spencer Saar Cavanaugh of [Clinamenic 
 I would like to thank the following individuals for their feedback and support: Kyle Smith of LexClinic, rathermercurial of SuperBenefitDAO, Holke Brammer and bitbeckers of Hypercerts, Mahesh Murthy of Karma, Natalie J. Crüe, Monty Merlin of ReFi DAO, Eugene Leventhal of MetaGov, Mashal Waqar of Octant, LauNaMu of Optimism, Mike Natanzon of Abundance Protocol.
 
 ---
+
 ## Abstract
 
 The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which innovate upon aspects of the traditional philanthropic sector. This emerging parallel economy has also encountered various challenges familiar to the traditional philanthropy sector, and runs the risk of incurring similar systemic inefficiencies and misallocations. Various open-source protocols exist, or are actively being developed, to: administer onchain grant programs; configure and issue onchain certificates of impact; publish claims and attestations to build onchain trust networks; and retroactively fund public goods via automated and transparent parafiscal systems. These mechanisms are developed as distinct protocols, but with the intention of inter-operating as multi-functional open-source assemblages for evaluating and funding impact. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and this development ought to draw from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue. This report is a holistic survey of existing practices and challenges, intended to inform our ecosystem's efforts at coordinating a satisfactory paradigm.
 
 ---
+
 ## Section 1 - Orientation
 
 The ecosystem under consideration, referred to as the onchain impact economy, is multi-faceted, interdisciplinary, and rapidly evolving in lockstep with breakthroughs in its underlying technological infrastructure. Due to the promising potential of this technology to improve human coordination at scale, there is an unusual degree of solidarity across this industry, which spans from the simple alignment of values to the more ideological forms of utopianism.
@@ -287,6 +292,7 @@ Below is visual representation of a CIDS schema for an organization, building up
 ![Organizational Schema](https://arweave.net/k3KUumHmxV-k-SSmYJw_krHTqruHCOVxlPMo0Td9EGA)
 
 ---
+
 ## Section 2 - Challenges
 
 Having provided some fundamental context to orient our inquiry, we will now advance to address the various challenges faced by the communities and institutions implementing this technology in philanthropic capacities. These challenges are not presented as comprehensive in nature, but are intended to broadly span the technical, operational, and financial dimensions of the ecosystems in question. Additionally, while many of the following challenges specifically pertain to onchain philanthropy, the scope of this survey is ultimately broader than blockchain-based solutions.
@@ -406,6 +412,7 @@ In addition to the burden of impact reporting, another operational challenge fac
 Specifically, the grantor should have a reasonable degree of confidence that the grantee(s) will be able to execute their intended goals within the timeframe of the funding model, and the grantees should be able to focus on said goals and be fairly compensated for doing so. If both sides of this relationship are not satisfied, it may jeopardize the sustainability of the funding model. Not only to the technical and economic circumstances need to be conducive to the proper incentives, but the operational circumstances need to reflect and promote the actual priorities of the stakeholders (Cavanaugh, 2024).
 
 ---
+
 ## Section 3 - Prospective Methodology
 
 Given the extensive variety of innovations and challenges encompassed by this survey, one may be left wondering how everything fits together. While the purpose of this survey is to examine the breadth of said innovations and challenges, and not to prescribe any comprehensive unifying strategy, it may nonetheless aid in our sensemaking efforts to briefly probe in that direction. Indeed, it will remain the purview of some subsequent discourse to more holistically outline such a unifying strategy.
@@ -425,6 +432,7 @@ While most of the content of this survey pertains to private sector philanthropi
 With CSR, smart contracts can collect fees and direct these fees elsewhere, such as to the creator of the contract or to a matching pool for a grant program. Optimism is also experimenting with network-wide sequencer fee revenue generation, to support ecosystem development efforts<sup>15</sup>. In certain capacities, this functionality can theoretically enable an transparently protocolized fiscal authority, in the case of pseudo-public funding. For example, popular DeFi protocol contracts could choose to collect a fee to support ongoing protocol development, and a fee to support grant programs chosen by the creator of the contract.
 
 ---
+
 ## Conclusion
 
 A wide array of complex emerging technologies have been highlighted in this report, all of which are rapidly evolving in an open-source pluralistic environment. Many of the problems being addressed have to do with efficient and sustainable allocation of funding to projects which promote the common good, without coercing or imposing a monolithic vision of The Common Good. We have seen successful examples of participatory budgeting to determine grant allocation (quadratic funding), peer-based trust networks (DeVouch), exhaustive ontological paradigms for impact reporting (CIDS), and various other processes and mechanisms which are gradually amounting to a parallel grassroots philanthropic sector.
@@ -432,7 +440,9 @@ A wide array of complex emerging technologies have been highlighted in this repo
 Naturally, these capture-resistant peer-to-peer economic technologies are conducive to such envisioned paradigms as this, but they also entail a great potential for abuse. While the prospects are distant and vague, they are nonetheless profoundly promising and deserving of proper stewardship. As with arguably all technology, these tools are as beneficial or as detrimental as the ends to which we employ them. The task, such as it seems to be, is to refine and embody a viable vision for how this technology can promote the world we want to see.
 
 ---
+
 ---
+
 ## Endnotes
 
 1. For example, grantees included in Gitcoin's quadratic funding rounds tend to participate in public panels, such as Twitter spaces, intended to cross-promote the grantees' projects and to more generally promote the development of the Gitcoin ecosystem.
@@ -446,7 +456,7 @@ Naturally, these capture-resistant peer-to-peer economic technologies are conduc
 
 > The six plaintiffs-appellants are users of Tornado Cash. They argue that Tornado Cash’s inclusion on the SDN list exceeded OFAC’s statutory authority. The district court disagreed, granting summary judgment to the Department and finding Tornado Cash subject to OFAC’s sanctioning authority. Van Loon and the other plaintiffs appealed, making the same principal argument here—that Tornado Cash’s open-source, self-executing software is not sanctionable under the Act (as opposed to the rogue persons and entities who abuse it). OFAC’s concerns with illicit foreign actors laundering funds are undeniably legitimate. Perhaps Congress will update IEEPA, enacted during the Carter Administration, to target modern technologies like crypto-mixing software. Until then, we hold that Tornado Cash’s immutable smart contracts (the lines of privacy-enabling software code) are not the “property” of a foreign national or entity, meaning (1) they cannot be blocked under IEEPA, and (2) OFAC overstepped its congressionally defined authority.
 
-9. See [FinCEN](https://www.fincen.gov/what-we-do) and the [Egmont Group of Financial Intelligence Units](https://www.fincen.gov/resources/international/egmont-group-financial-intelligence-units) for more information about existing financial reporting standards.
+9. See [FinCEN](https://www.fincen.gov/what-we-do) and the [Egmont Group of Financial Intelligence Units](https://www.fincen.gov/resources/international/egmont-group-financial-intelligence-units) for more information about existing KYC/AML reporting standards.
 10. See the zero-knowledge solutions being developed by [Holonym](https://holonym.id/), such as [Human.Tech](https://human.tech/).
 11. USDC and DAI have, to date, proven adequate stability, but not all stablecoins have. It should be noted that another tension of institutional trust can be discerned in the choice between USDC and DAI, with the former being a more traditionally institutionally managed stablecoin, collateralized by dollars and dollar equivalents, where DAI is a more experimental multi-collateralized algorithmic stablecoin managed by a DAO.
 12. Over the three quadratic funding rounds we have managed at OpenCivics, impact reporting, has been a primary tension, due to a combination of factors which dynamically relate.
@@ -455,6 +465,7 @@ Naturally, these capture-resistant peer-to-peer economic technologies are conduc
 15. See Optimism's [Onchain Net Revenue Tracker](https://docs.google.com/spreadsheets/d/1XtyBu5lvCI6MtMBQPC6ZOnjZ5nbbPw4bOH7WO2Pn7cI/edit?gid=0#gid=0).
 
 ---
+
 ## Bibliography
 
 - Bedawala, M., Ozbay, M., & Gu, C. [What is account abstraction? Exploring new techniques for blockchain payment processing](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html). [Visa Crypto Thought Leadership](https://usa.visa.com/solutions/crypto.html#3).
@@ -474,14 +485,17 @@ Naturally, these capture-resistant peer-to-peer economic technologies are conduc
 - wheebill (2024, September 18). [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
 
 ---
+
 ## Appendix on Grant Volume
 
--  Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
+- Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
 - Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
-	- Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
-	- Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
-	- Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
-	- Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
+  - Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
+  - Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
+  - Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+  - Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
+
+---
 
 ## Disclaimers
 
@@ -490,6 +504,8 @@ At the time of writing this, the author holds a material amount of ETH and other
 The contents of this report do not constitute legal, financial or professional advice or endorsement of practices, and is intended purely for informational purposes.
 
 AI was used as a research aid over the course of the creation of this report, but was not used in a generative capacity. Nothing in this report was generated by AI.
+
+---
 
 ## Licensing
 

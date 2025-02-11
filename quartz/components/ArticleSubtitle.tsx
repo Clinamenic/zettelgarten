@@ -32,15 +32,15 @@ export default ((opts?: ArticleSubtitleOptions) => {
     max-width: 750px !important;
     color: var(--dark);
     line-height: 1.6 !important;
-    margin: -1.5rem 4rem 1.75rem 4rem !important;
-    font-size: 1rem;
+    margin: -0.5rem 4rem 1.75rem 4rem !important;
+    font-size: 0.9rem;
     text-align: center;
     transition: color 0.5s ease;
-    font-style: italic !important;
+    font-family: 'GeistMono', monospace;
     font-weight: 200;
     @media all and (max-width: calc(750px + 2rem)) { 
       padding: 0rem;
-      margin: -1.5rem 0rem 1.75rem 0rem !important;
+      margin: -0.5rem 0rem 1.75rem 0rem !important;
     }
   }
   `

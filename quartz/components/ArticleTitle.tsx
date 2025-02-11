@@ -29,11 +29,17 @@ export default ((opts?: ArticleTitleOptions) => {
 
   ArticleTitle.css = `
   .article-title {
+    font-family: 'GeistMono', monospace;
+    font-weight: 300;
+    font-size: 1.5rem;
     max-width: var(--pageContentWidth);
     line-height: 1.4;
-    padding: 2rem 0rem 1rem 0rem;
+    padding: 1.5rem 4rem 1rem 4rem;
     margin-top: 0rem;
     text-align: center;
+    @media all and (max-width: calc(750px + 2rem)) { 
+      padding: 1.5rem 1rem 1rem 1rem;
+    }
   }
   `
 
