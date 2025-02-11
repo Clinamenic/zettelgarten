@@ -1,31 +1,80 @@
 ---
-arweaveHash: 
+arweaveHash:
 author:
   - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-date: 
+date:
 draftStart: 0024-06-28
-license: CC BY-SA 4.0
+license: CC BY-NC-SA 4.0
 publish: true
 quartzShowCitation: true
 quartzShowFlex: true
 quartzShowGraph: true
 sponsor: LexDAO, SuperBenefitDAO
 subtitle: Preliminary survey of existing practices and challenges to inform an ontologically integrated paradigm for distributed impact assessment.
-tags: 
+tags:
 title: Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment
 uuid: 98b0c624-84a8-4a8c-8c1b-ee9b2451aeb9
 ---
 
+## Table of Contents
+
+- Acknowledgments
+- Abstract
+- Section 1 - Orientation
+  - 1.1 - Nomenclature and Semantic Considerations
+    - 'Impact' and 'Outcome'
+    - 'Public Goods' and 'Network Goods'
+    - 'Platforms' and 'Protocols'
+    - 'Digital Public Infrastructure'
+    - 'Onchain'
+  - 1.2 - Selected Onchain Infrastructure
+    - Hypercerts
+    - Ethereum Attestation Service
+    - Allo Protocol and Grants Stack
+    - Grantee Accountability Protocol
+    - Additional Examples
+  - 1.3 - Selected Funding Processes
+    - Direct and Quadratic Funding
+    - Retroactive Funding
+    - Ecosystem Development Funding
+  - 1.4 - Ontological Considerations
+    - LinkedClaims and Verifiable Credentials
+    - Common Impact Data Standard
+- Section 2 - Challenges
+  - 2.1 - Technical Challenges
+    - User Experience and Accountability
+    - Sybil Resistance
+      - Gitcoin Passport
+      - Connection-Oriented Cluster Matching
+    - Compliance and KYC
+      - Zero-Knowledge KYC
+  - 2.2 Economic Challenges
+    - Asset Liquidity and Volatility
+    - Value Exchange
+      - Promotional Overhead
+  - 2.3 Operational Challenges
+    - Impact Reporting Burden
+    - Accountability and Execution
+- Section 3 - Prospective Methodology
+  - 3.1 - Ontology for Impact Assessment
+  - 3.2 - A Peer-to-Peer Fiscal Paradigm
+- Conclusion
+- Endnotes
+- Bibliography
+- Appendix on Grant Volume
+- Disclaimers
+- Licensing
+
 ## Acknowledgments
 
-The following research was conducted by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Support for this research was provided by [LexDAO](https://lexdao.org/) and [SuperBenefitDAO](https://superbenefit.org/).
+This report was researched and written by Spencer Saar Cavanaugh of [Clinamenic LLC](https://www.clinamenic.com/). Support for this research was provided by [LexDAO](https://lexdao.org/) and [SuperBenefitDAO](https://superbenefit.org/).
 
 I would like to thank the following individuals for their feedback and support: Kyle Smith of LexClinic, rathermercurial of SuperBenefitDAO, Holke Brammer and bitbeckers of Hypercerts, Mahesh Murthy of Karma, Natalie J. Crüe, Monty Merlin of ReFi DAO, Eugene Leventhal of MetaGov, Mashal Waqar of Octant, LauNaMu of Optimism, Mike Natanzon of Abundance Protocol.
 
 ## Abstract
 
-The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which innovate upon aspects of the traditional philanthropic sector. This emerging parallel has also encountered various challenges familiar to the traditional philanthropy, and runs the risk of incurring similar systematic inefficiencies. Various open-source protocols exist, or are actively being developed, to administer onchain grant programs, configure and issue onchain certificates of impact, publish claims and attestations to build onchain trust networks, and retroactively fund public goods via protocol-based fiscal systems. These mechanisms are developed as distinct protocols, but with the intention of inter-operating as multi-functional open-source assemblages for evaluating and funding impact. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and this development ought to draw from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue. This report is a holistic survey of existing practices and challenges, intended to inform our ecosystem's efforts at coordinating a satisfactory paradigm.
+The onchain impact economy, which utilizes open-source blockchain infrastructure to evaluate and fund public goods, has occasioned various methodological breakthroughs which innovate upon aspects of the traditional philanthropic sector. This emerging parallel economy has also encountered various challenges familiar to the traditional philanthropy sector, and runs the risk of incurring similar systemic inefficiencies and misallocations. Various open-source protocols exist, or are actively being developed, to: administer onchain grant programs; configure and issue onchain certificates of impact; publish claims and attestations to build onchain trust networks; and retroactively fund public goods via automated and transparent parafiscal systems. These mechanisms are developed as distinct protocols, but with the intention of inter-operating as multi-functional open-source assemblages for evaluating and funding impact. While the infrastructure is being engineered to technologically enable more robust evaluation and funding practices, the actual assessment methodology is also being refined to minimize burdensome procedure and ensure equitable funding arrangements. That is, the _what_ and the _how_ are being developed in parallel, and this development ought to draw from the successes and failures of traditional philanthropy where applicable, in what could optimistically be considered an inter-paradigm dialogue. This report is a holistic survey of existing practices and challenges, intended to inform our ecosystem's efforts at coordinating a satisfactory paradigm.
 
 ## Section 1 - Orientation
 
@@ -35,7 +84,7 @@ The effects this potential has on the culture of this industry, including the mo
 
 For the purposes of this discourse, which is intended for curious newcomers to this industry as well as its more seasoned practitioners, it may help to clearly define some of the more important terms at play, and introduce some of the novel concepts and technologies. It is in this spirit of sensemaking that following introductory section is provided.
 
-### 1.1 - Nomenclature & Semantic Considerations
+### 1.1 - Nomenclature and Semantic Considerations
 
 Because the matters at hand are complex enough without the added confusion of semantic ambiguity, some effort here is made to disambiguate the meaning of the integral terms of this discourse. The following is not necessarily presented as prescriptive, but rather merely as an indication of how these terms are interpreted for our purposes in this survey. If this clarity isn't needed, the reader may wish to skip past the nomenclature section.
 
@@ -108,7 +157,7 @@ Like other protocols in the blockchain public goods space, hypercerts were desig
 
 Using attestations, individuals can make claims and reference the claims of others. In our case, we will be exploring how attestations can be used to qualitatively and quantitatively evaluate the impact and outcomes of public goods in the field of legal engineering. EAS, like Hypercerts, is itself a public good insofar as it is freely accessible and open-source. In this sense, protocols such as these collectively constitute digital public infrastructure, and can be used to systematically promote and support philanthropic and commercial work alike.
 
-#### Allo Protocol & Grants Stack
+#### Allo Protocol and Grants Stack
 
 [Allo Protocol](https://docs.allo.gitcoin.co/) is a framework for constructing custom funding allocation processes. Specifically this framework enables the configuration of certain processes, such as how funds are collected into a pool, how recipients are approved, and how funds are disbursed.
 
@@ -183,9 +232,9 @@ Where $A_{g,i}$ is the alignment score (on a scale of 1 to 5) of project $i$ for
 
 While the onchain impact and philanthropy ecosystems have seen great advancements in terms of technical infrastructure, the actual methodologies and ontologies surrounding impact reporting and assessment still need refinement (Leventhal et al., 2024). While there have been promising conversations emerging within the onchain philanthropy sector around outcome-based and milestone-based impact reporting, we still have much to learn from existing standards and practices beyond the sphere of blockchain technology. In this section, we will explore some examples of ontological frameworks for impact assessment.
 
-#### LinkedClaims & Verifiable Credentials
+#### LinkedClaims and Verifiable Credentials
 
-[LinkedTrust](https://linkedtrust.us/#about) is a system for facilitating impact claims (i.e. LinkedClaims) via verifiable credentials which can be independently and openly verified by third parties. These LinkedClaims constitute an open knowledge graph representing the web of claims which derive social legitimacy from their relations to other claims and entities in the network.
+[LinkedTrust](https://linkedtrust.us/#about) is a system for facilitating impact claims, called LinkedClaims, via verifiable credentials which can be independently and openly verified by third parties. These LinkedClaims constitute an open knowledge graph representing the web of claims which derive social legitimacy from their relations to other claims and entities in the network.
 
 LinkedClaims builds upon the [W3C Verifiable Credentials envelope data model](https://www.w3.org/TR/vc-data-model-2.0/), and is intended to facilitate compound credentials (wherein a number of constituent credentials are verified en masse) as well as micro-credentials (wherein a given block of credentials can be granularly verified).
 
@@ -227,53 +276,53 @@ Below is visual representation of a CIDS schema for an organization, building up
 
 ## Section 2 - Challenges
 
-Having provided some fundamental context to orient our inquiry, we will now advance to address the various challenges faced by the communities and institutions implementing this technology in philanthropic capacities. These challenges are not presented as comprehensive in nature, but are intended to broadly span the technical, operational, and financial dimensions of the ecosystems in question. Additionally, while many of the following challenges specifically pertain to onchain philanthropy, the scope of this survey is ultimately broader than blockchain-based solutions. 
+Having provided some fundamental context to orient our inquiry, we will now advance to address the various challenges faced by the communities and institutions implementing this technology in philanthropic capacities. These challenges are not presented as comprehensive in nature, but are intended to broadly span the technical, operational, and financial dimensions of the ecosystems in question. Additionally, while many of the following challenges specifically pertain to onchain philanthropy, the scope of this survey is ultimately broader than blockchain-based solutions.
 
 ### 2.1 - Technical Challenges
 
 Many of the challenges under consideration in this section are directly or indirectly owing to the highly technical and esoteric nature of the underlying infrastructure. This technical complexity often presents a participation barrier insofar as it requires users to have some basic prerequisite understanding of the technology, in order to use it. Technical nomenclature abounds and proliferates in correspondence with rapid technical innovation, resulting in a steepening learning curve for developers and users alike.
 
-#### User Experience & Accessibility
+#### User Experience and Accessibility
 
-Because many of the solutions under consideration involve early-stage technologies which are rapidly evolving, our collective understanding of them is constantly in flux. At the forefront of innovation, the collective sensemaking and dialogues naturally tend to be limited to specialists, and additional efforts need to be made to communicate learnings and discoveries across a knowledge gap, to the general public. 
+Because many of the solutions under consideration involve early-stage technologies which are rapidly evolving, our collective understanding of them is constantly in flux. At the forefront of innovation, the collective sensemaking and dialogues naturally tend to be limited to specialists, and additional efforts need to be made to communicate learnings and discoveries across a knowledge gap, to the general public.
 
-One symptom of this early stage of development is the state of user interfaces, and of user experience (UX) more broadly. As a manifestation of the aforementioned knowledge gap, these early-stage user interfaces often assume a degree of technical familiarity on behalf of the user, a degree of familiarity which cannot reasonably be expected from the general public. 
+One symptom of this early stage of development is the state of user interfaces, and of user experience (UX) more broadly. As a manifestation of the aforementioned knowledge gap, these early-stage user interfaces often assume a degree of technical familiarity on behalf of the user, a degree of familiarity which cannot reasonably be expected from the general public.
 
-While the existence and widening of this knowledge gap can indicate technical progress and industrial maturation, such progress is certainly not without its limiting factors. The realization of the potential of a technology, at scale, tends to require a UX which accommodates the technical literacy of its target users. 
+While the existence and widening of this knowledge gap can indicate technical progress and industrial maturation, such progress is certainly not without its limiting factors. The realization of the potential of a technology, at scale, tends to require a UX which accommodates the technical literacy of its target users.
 
 One can view this through the lens of UX development, streamlining the UX to accommodate the existing average user literacy, or one can view this process through the lens of user education, bringing the average user literacy closer to the existing UX. The former is more along the lines of product-market fit, developing a product to suit the needs of an established addressable market, while the latter is more along the lines of market-product fit, cultivating a market to suit the capabilities of a novel product.
 
 In actuality, with emerging technology, we tend to see a combination of the two. However, it is worth remembering that while even the combination of UX development and user education can help bridge this gap, the gap itself tends to widen as the technology undergoes innovation. Such innovation tends to entail the state of the art advancing deeper into specialized territories of knowledge. That said, sometimes breakthroughs are made which fundamentally simplify a technology, or at least the discourse around a technology.
 
-This is all to contextualize one of the more glaring challenges facing the onchain philanthropy sector in particular, namely that the apps in this industry tend to have a UX which is too complex for many would-be users, thus setting a firm ceiling on the scalability of the underlying infrastructure. 
+This is all to contextualize one of the more glaring challenges facing the onchain philanthropy sector in particular, namely that the apps in this industry tend to have a UX which is too complex for many would-be users, thus setting a firm ceiling on the scalability of the underlying infrastructure.
 
 #### Sybil Resistance
 
-Some of the above technologies and methods incentivize mass participation by treating popularity as a proxy for value assignment. Quadratic funding, for example, tends to treat the number of donors as a determinant of funding outcomes. 
+Some of the above technologies and methods incentivize mass participation by treating popularity as a proxy for value assignment. Quadratic funding, for example, tends to treat the number of donors as a determinant of funding outcomes.
 
-This dynamic tends to introduce the risk of Sybil attacks, or events wherein individuals fraudulently operate multiple accounts to manipulate outcomes. In the case of quadratic voting, this takes the form of individuals making multiple accounts to donate small sums to grantees, in order to unduly multiply the matching funds received by said grantees. 
+This dynamic tends to introduce the risk of Sybil attacks, or events wherein individuals fraudulently operate multiple accounts to manipulate outcomes. In the case of quadratic voting, this takes the form of individuals making multiple accounts to donate small sums to grantees, in order to unduly multiply the matching funds received by said grantees.
 
-In the case of quadratic funding, additional protective measures have been developed to mitigate or screen out Sybil attacks, resulting in something of an arms race between defensive protocol design and offensive financial fraudulence. 
+In the case of quadratic funding, additional protective measures have been developed to mitigate or screen out Sybil attacks, resulting in something of an arms race between defensive protocol design and offensive financial fraudulence.
 
-Below are highlighted some examples of these defensive measures, which each bring their own strengths and weaknesses. Here, it is worth bearing in mind the aforementioned challenge of UX, namely that the introduction of additional technical features can risk raising the technical barrier to entry, thus increasing the burden placed on UX development. That said, if a community or institution decides to use quadratic funding or comparable processes which reward mass participation, the threat of Sybil attacks is real and costly. The challenge, of mitigating fraudulent engagement while maximizing accessibility, is starkly manifest. 
+Below are highlighted some examples of these defensive measures, which each bring their own strengths and weaknesses. Here, it is worth bearing in mind the aforementioned challenge of UX, namely that the introduction of additional technical features can risk raising the technical barrier to entry, thus increasing the burden placed on UX development. That said, if a community or institution decides to use quadratic funding or comparable processes which reward mass participation, the threat of Sybil attacks is real and costly. The challenge, of mitigating fraudulent engagement while maximizing accessibility, is starkly manifest.
 
 ##### Gitcoin Passport
 
-The Gitcoin community has been the methodological pioneer and developmental epicenter of quadratic funding, and thus they also play a leading role in addressing the challenges specific to quadratic funding. 
+The Gitcoin community has been the methodological pioneer and developmental epicenter of quadratic funding, and thus they also play a leading role in addressing the challenges specific to quadratic funding.
 
-[Gitcoin Passport](https://app.passport.xyz/#/) is one solution they developed in response to Sybil attacks. In essence, it is a user verification process intended to enable grant round operators to identify donors who have a high likelihood of being a real, individual person. Instead of letting all donations be eligible for matching funds, grant round operators can configure their grant round to only match donations from users with Gitcoin Passport. 
+[Gitcoin Passport](https://app.passport.xyz/#/) is one solution they developed in response to Sybil attacks. In essence, it is a user verification process intended to enable grant round operators to identify donors who have a high likelihood of being a real, individual person. Instead of letting all donations be eligible for matching funds, grant round operators can configure their grant round to only match donations from users with Gitcoin Passport.
 
 Specifically, Gitcoin Passport involves a number of third-party account verification processes, each resulting in a "badge" earned by the passport holder. The user can verify their accounts and activities on other protocols and platforms, both onchain and offchain, to earn badges which add points to their passport score. For example, the user may earn points by connecting a LinkedIn account, having voted on a DAO proposal, having over 100 transactions on Ethereum, or various other things. Once the user accrues enough points to surpass a specified threshold, they are deemed a unique individual.
 
-This is an entirely optional feature for those who want to use Allo Protocol and Grants Stack to run their own grant rounds, but where it succeeds in blocking users who would otherwise mobilize puppet accounts, it also succeeds in blocking users who lack the time or literacy to navigate an admittedly complex multi-step verification process. 
+This is an entirely optional feature for those who want to use Allo Protocol and Grants Stack to run their own grant rounds, but where it succeeds in blocking users who would otherwise mobilize puppet accounts, it also succeeds in blocking users who lack the time or literacy to navigate an admittedly complex multi-step verification process.
 
 ##### Connection-Oriented Cluster Matching
 
-Another innovative anti-Sybil solution originating from Gitcoin is [Connection-Oriented Cluster Mapping](https://www.gitcoin.co/blog/leveling-the-field-how-connection-oriented-cluster-matching-strengthens-quadratic-funding) (COCM), an algorithmic analytical process designed to detect potential collusion activity in quadratic funding rounds.  
+Another innovative anti-Sybil solution originating from Gitcoin is [Connection-Oriented Cluster Mapping](https://www.gitcoin.co/blog/leveling-the-field-how-connection-oriented-cluster-matching-strengthens-quadratic-funding) (COCM), an algorithmic analytical process designed to detect potential collusion activity in quadratic funding rounds.
 
-This process maps out relational data between donors and the grantee projects which receive donations, in order to identify suspicious donation activity and allocate matching funds accordingly. COCM rewards projects which receive donations from a diverse body of donors, meaning donors who exhibit diverse donation activity. 
+This process maps out relational data between donors and the grantee projects which receive donations, in order to identify suspicious donation activity and allocate matching funds accordingly. COCM rewards projects which receive donations from a diverse body of donors, meaning donors who exhibit diverse donation activity.
 
-For example, a project which receives donations from donors who each only give to that one project, and thus exhibit similar donation activity, will receive a smaller matching amount than a project which receives donations from donors who each donate to a variety of projects and thus exhibit diverse donation activity. 
+For example, a project which receives donations from donors who each only give to that one project, and thus exhibit similar donation activity, will receive a smaller matching amount than a project which receives donations from donors who each donate to a variety of projects and thus exhibit diverse donation activity.
 
 #### Compliance, KYC and AML
 
@@ -283,11 +332,11 @@ That said, even if immutable smart contracts end up receiving distinct and novel
 
 ##### Zero-Knowledge KYC
 
-The tension between privacy and compliance is one of the more fundamental tensions at play in the maturation of the onchain economy at large. Some argue that the ideal arrangement allows for security verification of key aspects of user identity, without compromising the privacy of the user. 
+The tension between privacy and compliance is one of the more fundamental tensions at play in the maturation of the onchain economy at large. Some argue that the ideal arrangement allows for security verification of key aspects of user identity, without compromising the privacy of the user.
 
-Existing financial reporting standards require institutions to implement traditional KYC measures, in order for user/accountholder data to be available for the relevant authorities<sup>9</sup>. This approach puts the onus of security on the institution to responsibly custody this highly sensitive information. 
+Existing financial reporting standards require institutions to implement traditional KYC measures, in order for user/accountholder data to be available for the relevant authorities<sup>9</sup>. This approach puts the onus of security on the institution to responsibly custody this highly sensitive information.
 
-An alternative approach, making use of zero-knowledge cryptography to privately verify critical user identity information, is actively being developed<sup>10</sup>. Such an approach could, and arguably already begins to, reconcile the imperatives of compliance with the individual's right to privacy. 
+An alternative approach, making use of zero-knowledge cryptography to privately verify critical user identity information, is actively being developed<sup>10</sup>. Such an approach could, and arguably already begins to, reconcile the imperatives of compliance with the individual's right to privacy.
 
 For example, if an onchain grant program is being facilitated in a jurisdiction which enforces economic sanctions, the immutable smart contracts of the grant program can be configured to only accept applicants which can privately prove they don't reside in certain sanctioned countries. Such an arrangement could conceivably exist without requiring the institutional collection and custody of sensitive identity information.
 
@@ -297,59 +346,75 @@ In addition to the aforementioned technical challenges, the onchain philanthropy
 
 #### Asset Liquidity and Volatility
 
-Because many vendors, utilities, and other daily living expenses around the world do not accept stablecoins or other blockchain-based assets, the scope of the onchain economy is still largely confined to a narrow sliver of the total global economy. Regardless of however more efficient this new financial infrastructure may be, the reality of adoption still sets the tone for how people engage with this technology. 
+Because many vendors, utilities, and other daily living expenses around the world do not accept stablecoins or other blockchain-based assets, the scope of the onchain economy is still largely confined to a narrow sliver of the total global economy. Regardless of however more efficient this new financial infrastructure may be, the reality of adoption still sets the tone for how people engage with this technology.
 
-Specifically, if grantees receive grants in stablecoins, but still primarily need fiat currency to pay their bills and employees, they will need to convert their stablecoins to their needed form of fiat currency. In this arrangement, the grantees engage with the onchain economy in a largely transitory capacity, and the issues of asset liquidity and volatility are foregrounded. That is, in order for these funding processes to be functional in their de facto transitory capacity, the assets denominating the funding need to be adequately stable and liquid. 
+Specifically, if grantees receive grants in stablecoins, but still primarily need fiat currency to pay their bills and employees, they will need to convert their stablecoins to their needed form of fiat currency. In this arrangement, the grantees engage with the onchain economy in a largely transitory capacity, and the issues of asset liquidity and volatility are foregrounded. That is, in order for these funding processes to be functional in their de facto transitory capacity, the assets denominating the funding need to be adequately stable and liquid.
 
-Fortunately, many of the onchain grant programs have adopted the practice of using stablecoins for funding, primarily USDC and DAI. This practice minimizes the volatility risk as much as can be expected<sup>11</sup>, and while liquidity is not a significant issue per se, the process of conversion into fiat currency can still be onerous, and involves a number of steps which do not come intuitively to everyone. 
+Fortunately, many of the onchain grant programs have adopted the practice of using stablecoins for funding, primarily USDC and DAI. This practice minimizes the volatility risk as much as can be expected<sup>11</sup>, and while liquidity is not a significant issue per se, the process of conversion into fiat currency can still be onerous, and involves a number of steps which do not come intuitively to everyone.
 
 #### Value Exchange
 
 Another aspect of this ecosystem which can occasion economic friction is the dynamic of value exchange in grant programs and ecosystem development rounds. Here, the question of value exchange is largely analogous to traditional philanthropy: grantees receive financial support from benefactor institutions, and in exchange the benefactor institutions see their missions advanced, their ecosystems expanded, their reputations enhanced, or some combination of the three.
 
-This value exchange relationship, between grantor and grantee, holds true for some of the ecosystem development arrangements outlined in this report, regardless of whether the arrangement is philanthropic or for-profit. Grantmaking institutions need a financially sustainable model for distributing funds within their particular ecosystems, and recipient projects shouldn't have to put more work into grant round participation than is justified by the funds they receive. 
+This value exchange relationship, between grantor and grantee, holds true for some of the ecosystem development arrangements outlined in this report, regardless of whether the arrangement is philanthropic or for-profit. Grantmaking institutions need a financially sustainable model for distributing funds within their particular ecosystems, and recipient projects shouldn't have to put more work into grant round participation than is justified by the funds they receive.
 
 In other words, the funds received by grantees should go to support their mission, and not the operational overhead of participating in the round. Otherwise, we're left with an arrangement whereby grantees develop a dependency on funding to support efforts to procure more funding. Ideally, the projects in question can focus on executing their missions, and grantmaking institutions can benefit from patronal association with these effectual mission-aligned projects and can effectively fundraise on the proven basis of this association. In this ideal arrangement, the operational overhead specific to the funding process is minimized for the grantee, allow them to focus on their mission.
 
 ##### Promotional Overhead
 
-With respect to the nuances particular to the participatory funding processes outlined in this report, such as those of quadratic funding rounds, some additional value exchange considerations arise. For example, because quadratic funding rounds require extended community participation in the allocation of funds, much of the work involved in facilitating these rounds consists of social media engagement and publicity. This work falls jointly on the operators of the grant round, who administer the allocation of funds from matching donors to grantees, and on the grantees themselves, who raise awareness of their projects. 
+With respect to the nuances particular to the participatory funding processes outlined in this report, such as those of quadratic funding rounds, some additional value exchange considerations arise. For example, because quadratic funding rounds require extended community participation in the allocation of funds, much of the work involved in facilitating these rounds consists of social media engagement and publicity. This work falls jointly on the operators of the grant round, who administer the allocation of funds from matching donors to grantees, and on the grantees themselves, who raise awareness of their projects.
 
 In this particular arrangement, the grantor institutions seek to expand their ecosystem in terms of brand awareness, active users, or some other metric, while grantees seek to increase their individual donor count in order to boost their results from the quadratic funding formula. Here, the goal of the grantor institutions is aligned with that of the grantee: donor participation. That said, the grantee projects are often at an early stage and may not have personnel specialized in this kind of social engagement, thus running the risks of over-allocating efforts to this kind of publicity campaign, relative to the amount of funds received, thus risking net-negative economic outcomes.
 
-The grantor institution faces a slightly different economic task. While grantees in a quadratic funding round are, to an extent, competing for matching funds, the grantor is largely impartial as to which donors donate to which projects. Instead, the grantor aims more broadly to maximize donor participation in terms of quantity of unique donors, and optimize in terms of ensuring uniqueness and non-collusion among said donors. This means that the promotional overhead of the grantees is competitive with respect to the goals of the grantees, but cooperative with respect to the goals of the grantor. 
+The grantor institution faces a slightly different economic task. While grantees in a quadratic funding round are, to an extent, competing for matching funds, the grantor is largely impartial as to which donors donate to which projects. Instead, the grantor aims more broadly to maximize donor participation in terms of quantity of unique donors, and optimize in terms of ensuring uniqueness and non-collusion among said donors. This means that the promotional overhead of the grantees is competitive with respect to the goals of the grantees, but cooperative with respect to the goals of the grantor.
 
-In other words, this promotional work does not always prove worthwhile for the grantees, even if it may prove worthwhile within the context of the ecosystem development goals of the grantor. A solution here would seem to involve a concentrative outsourcing of the promotional efforts from the grantees onto some specialized entity. In fact, this methodology has already seen some practice, with Gitcoin functioning in this capacity for some of the quadratic funding rounds it has facilitated. 
+In other words, this promotional work does not always prove worthwhile for the grantees, even if it may prove worthwhile within the context of the ecosystem development goals of the grantor. A solution here would seem to involve a concentrative outsourcing of the promotional efforts from the grantees onto some specialized entity. In fact, this methodology has already seen some practice, with Gitcoin functioning in this capacity for some of the quadratic funding rounds it has facilitated.
 
 ### 2.3 - Operational Challenges
 
-Text here
+The third category of challenges we will consider are those of an operational and executive nature. Even if economic and technical infrastructure is optimized in terms of minimal UX friction and ideal stakeholder incentives, the efficacy of such funding paradigms still depends on the agency and skill of the people involved.
 
 #### Impact Reporting Burden
 
-Text here
+One of the major systemic difficulties encountered during some of these new ecosystem funding processes, is that of impact reporting and the operational burden it places on grantees<sup>12</sup>. Grantees receiving funds, whether from a philanthropic grant program or an ecosystem development fund, are expected to execute projects which promote the priorities of the grantor. In order to discern the effectiveness of this funding, certain metrics or indicators are relied on to gauge how well the the work of the grantee aligns with the priorities of the grantor.
+
+This basic arrangement, involving success metrics as a vehicle for feedback between funding rounds, is a sound an intuitive approach to maintaining financially sustainable funding models. However, when the burden of collecting and reporting this feedback falls on the grantee, and entails too great an amount of work, it begins to detract from the grantee's ability to focus on the work being funded in the first place. At the same time, some sort of feedback is needed in order to develop a financially sustainable ecosystem funding model.
+
+Thus constitutes the dual risks of impact reporting: too extensive, and it can detract from the primary work being funding, and by extension from the impact of the ecosystem funding model itself; too sparse, and it can result in blindspots in the funding feedback loop. Of course, the matter is not so plainly linear as that risk model may suggest. Indeed, an effective reporting process can be thorough without necessarily being burdensome.
+
+Currently, the major fronts of designing effective impact reporting systems are, firstly, the identification of the key metrics and indicators needed in the funding feedback process and, secondly, the simplification of the UX of the reporting process itself. The Common Impact Data Standard has already established a technical vocabulary and holistic ontology for the former issue, whereas the latter issue is a more open-ended effort.
+
+For the onchain ecosystem funding rounds highlighted in this survey, the reporting process often utilizes attestations to capture information about milestone progress, prior funding, and stakeholder testimony<sup>13</sup>. As detailed in the section on technical challenges, these tools often have a challenging UX which requires some degree of patience and technical literacy on behalf of participants, but thankfully this degree is discernibly diminishing as UX improves industry-wide, due to innovations like sponsored gas fees and account abstraction (Bedawala et al., 2025).
 
 #### Accountability and Execution
 
-Text here
+In addition to the burden of impact reporting, another operational challenge faced by these funding models is that of establishing proper incentives to ensure the execution of the funding projects. While much of this has to do with the technical and economic considerations outlined in the previous sections, it also heavily involves the social and professional expectations set during these funding arrangements.
+
+Specifically, the grantor should have a reasonable degree of confidence that the grantee(s) will be able to execute their intended goals within the timeframe of the funding model, and the grantees should be able to focus on said goals and be fairly compensated for doing so. If both sides of this relationship are not satisfied, it may jeopardize the sustainability of the funding model. Not only to the technical and economic circumstances need to be conducive to the proper incentives, but the operational circumstances need to reflect and promote the actual priorities of the stakeholders (Cavanaugh, 2024).
 
 ## Section 3 - Prospective Methodology
 
-Text here
+Given the extensive variety of innovations and challenges encompassed by this survey, one may be left wondering how everything fits together. While the purpose of this survey is to examine the breadth of said innovations and challenges, and not to prescribe any comprehensive unifying strategy, it may nonetheless aid in our sensemaking efforts to briefly probe in that direction. Indeed, it will remain the purview of some subsequent discourse to more holistically outline such a unifying strategy.
 
-### 3.1 - Unified Ontology for Impact Reporting
+### 3.1 - Ontology for Impact Reporting
 
-Text here, Common Impact Data Standards
+Regarding the _how_ of impact reporting, i.e. how we should communicate and structure impact metrics and indicators, it would seem the Common Impact Data Standard constitutes a systematically viable framework for the various ecosystems referenced in this survey. CIDS has a widely interoperable and platform-agnostic ontology for communicating this information, using JSON-LDs which can be written to attestations onchain. Indeed, some promising work is already being done to this effect<sup>14</sup>.
 
-### 3.2 - A Peer-to-Peer Parafiscal Paradigm
+What remains to be seen is how this framework can be distilled down to an operational equilibrium wherein grantees are not burdened by excessive reporting requirements and challenging reporting UX. Again, as explained in the section on UX, this difficulty can be ameliorated jointly by educating stakeholders and by streamlining UX. Moreover, if a sustainable status quo technological self-service cannot be attained, an operational fallback may be for grantmaking institutions to designate an internal role for managing impact reporting, in order to remove the burden from grantees.
 
-Text here
+In such an arrangement, this role would theoretically be tasked with collecting key information from grantees, and processing this information through the onchain CIDS framework. However, the efficacy of such a framework hinges on the public attribution of attestations to particular entities, which means that we likely will not be able to rely on a solution wherein institutions nominally author the attestations of ecosystem stakeholders. Luckily, thanks to account abstraction, we may actually have a way for grantmaking institutions to designate specialized technicians to manage attestations on behalf of grantees, without compromising grantee attribution.
 
-- Optimism onchain revenue tracker: https://docs.google.com/spreadsheets/d/1XtyBu5lvCI6MtMBQPC6ZOnjZ5nbbPw4bOH7WO2Pn7cI/edit?gid=0#gid=0
+### 3.2 - A Peer-to-Peer Fiscal Paradigm
+
+While most of the content of this survey pertains to private sector philanthropic programs operating on parallel economic rails, the methodology described may also have implications for fiscal or even parafiscal systems. Thanks to technical features like Contract Secured Revenue (CSR), we can now have peer-to-peer economic infrastructure wherein the utilization of certain facets of this infrastructure can transparently generate and allocate tax-like funding.
+
+With CSR, smart contracts can collect fees and direct these fees elsewhere, such as to the creator of the contract or to a matching pool for a grant program. Optimism is also experimenting with network-wide sequencer fee revenue generation, to support ecosystem development efforts<sup>15</sup>. In certain capacities, this functionality can theoretically enable an transparently protocolized fiscal authority, in the case of pseudo-public funding. For example, popular DeFi protocol contracts could choose to collect a fee to support ongoing protocol development, and a fee to support grant programs chosen by the creator of the contract.
 
 ## Conclusion
 
-Text here
+A wide array of complex emerging technologies have been highlighted in this report, all of which are rapidly evolving in an open-source pluralistic environment. Many of the problems being addressed have to do with efficient and sustainable allocation of funding to projects which promote the common good, without coercing or imposing a monolithic vision of The Common Good. We have seen successful examples of participatory budgeting to determine grant allocation (quadratic funding), peer-based trust networks (DeVouch), exhaustive ontological paradigms for impact reporting (CIDS), and various other processes and mechanisms which are gradually amounting to a parallel grassroots philanthropic sector.
+
+Naturally, these capture-resistant peer-to-peer economic technologies are conducive to such envisioned paradigms as this, but they also entail a great potential for abuse. While the prospects are distant and vague, they are nonetheless profoundly promising and deserving of proper stewardship. As with arguably all technology, these tools are as beneficial or as detrimental as the ends to which we employ them. The task, such as it seems to be, is to refine and embody a viable vision for how this technology can promote the world we want to see.
 
 ## Endnotes
 
@@ -360,38 +425,44 @@ Text here
 5. For more resources regarding the quadratic funding mechanism, see this [calculator](https://www.wtfisqf.com/?match=10000&grant=34-56&grant=3-100-4&grant=2-2-2-2-2&grant=700) provided by Gitcoin.
 6. Recently there have been successful attempts to integrate payment processing for fiat currencies in these grant rounds, thanks to projects like [ViaPrize](https://www.viaprize.org/). For example, the [OpenCivics Collaborative Research Round](https://gov.gitcoin.co/t/gg21-retrospective-opencivics-collaborative-research-round/19313) utilized ViaPrize to facilitate dollar donations to grantees, thus eliminating the need for donors to donate in cryptoassets.
 7. This sentiment can be discerned in the shift of certain currents of discourse in the industry, such as Gitcoin's pivot from language around funding public goods to simply "Fund what Matters".
-8. See *[Van Loon v. U.S. Department of the Treasury](https://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf)* for a decision which intimates a paradigm shift in the legal treatment of non-institutional financial infrastructure.
+8. See _[Van Loon v. U.S. Department of the Treasury](https://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf)_ for a decision which intimates a paradigm shift in the legal treatment of non-institutional financial infrastructure:
 
 > The six plaintiffs-appellants are users of Tornado Cash. They argue that Tornado Cash’s inclusion on the SDN list exceeded OFAC’s statutory authority. The district court disagreed, granting summary judgment to the Department and finding Tornado Cash subject to OFAC’s sanctioning authority. Van Loon and the other plaintiffs appealed, making the same principal argument here—that Tornado Cash’s open-source, self-executing software is not sanctionable under the Act (as opposed to the rogue persons and entities who abuse it). OFAC’s concerns with illicit foreign actors laundering funds are undeniably legitimate. Perhaps Congress will update IEEPA, enacted during the Carter Administration, to target modern technologies like crypto-mixing software. Until then, we hold that Tornado Cash’s immutable smart contracts (the lines of privacy-enabling software code) are not the “property” of a foreign national or entity, meaning (1) they cannot be blocked under IEEPA, and (2) OFAC overstepped its congressionally defined authority.
 
 9. See [FinCEN](https://www.fincen.gov/what-we-do) and the [Egmont Group of Financial Intelligence Units](https://www.fincen.gov/resources/international/egmont-group-financial-intelligence-units) for more information about existing financial reporting standards.
-10. See the zero-knowledge solutions being developed by [Holonym](https://holonym.id/).
-11. USDC and DAI have, to date, proven adequate stability, but not all stablecoins have. It should be noted that another tension of institutional trust can be discerned in the choice between USDC and DAI, with the former being a more traditionally institutionally managed stablecoin, collateralized by dollars and dollar equivalents, where DAI is a more experimental multi-collateralized algorithmic stablecoin managed by a DAO. 
+10. See the zero-knowledge solutions being developed by [Holonym](https://holonym.id/), such as [Human.Tech](https://human.tech/).
+11. USDC and DAI have, to date, proven adequate stability, but not all stablecoins have. It should be noted that another tension of institutional trust can be discerned in the choice between USDC and DAI, with the former being a more traditionally institutionally managed stablecoin, collateralized by dollars and dollar equivalents, where DAI is a more experimental multi-collateralized algorithmic stablecoin managed by a DAO.
+12. Over the three quadratic funding rounds we have managed at OpenCivics, impact reporting, has been a primary tension, due to a combination of factors which dynamically relate.
+13. Regarding stakeholder testimony, one example of implementation is [Giveth's use of DeVouch](https://blog.giveth.io/devouch-leveraging-trust-networks-for-better-capital-allocation-ad134d130dd4) to enable a project's community to make public statements about the project, using EAS.
+14. See this [ReFi DAO proposal](https://gov.gitcoin.co/t/gg22-community-round-proposal-biofi-pathfinders/19399) on the Gitcoin governance forum.
+15. See Optimism's [Onchain Net Revenue Tracker](https://docs.google.com/spreadsheets/d/1XtyBu5lvCI6MtMBQPC6ZOnjZ5nbbPw4bOH7WO2Pn7cI/edit?gid=0#gid=0).
 
 ## Bibliography
 
+- Bedawala, M., Ozbay, M., & Gu, C. [What is account abstraction? Exploring new techniques for blockchain payment processing](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html). [Visa Crypto Thought Leadership](https://usa.visa.com/solutions/crypto.html#3).
 - Buterin, V., Hitzig, Z., & Weyl, E. G. (2018). [A Flexible Design for Funding Public Goods](https://arxiv.org/abs/1809.06421v2).
-- Cavanaugh, S. S. (2023). [[What Are Onchain Organizations?]]. [Arweave](https://viewblock.io/arweave/tx/GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs).
+- Cavanaugh, S. S. (2023). [What Are Onchain Organizations?](https://www.clinamenic.com/Writing/What-Are-Onchain-Organizations). ([Arweave](https://viewblock.io/arweave/tx/GxrelcyAGMRd0lqR-uNZG9pcWGRaaqf1HaEtLy8nNvs)).
+- Cavanaugh, S. S. (2024). [Progressive Public Goods Funding](https://www.clinamenic.com/Writing/Progressive-Public-Goods-Funding). ([Arweave](https://viewblock.io/arweave/tx/YwpUk7Vxn2c6YKPTGmODfyA5u1-n6VvrZHJXNDy1fBE)).
 - Common Approach to Impact Measurement (2024) [Technical Guide: The Common Impact Data Standard V3.0 Exposure Draft. An Ontology for Representing Impact](https://www.commonapproach.org/wp-content/uploads/2024/06/Exposure-Draft_Common-Impact-Data-Standard-v3.0.pdf), Common Approach to Impact Measurement.
 - Graham, S. (2022). [Anticapture: Towards a Framework of Capture-Resistant Governance](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ). [Arweave](https://viewblock.io/arweave/tx/yAxnXi_oZlIa5eB3CkKujBwzrprX177jEPemu2LeLl8).
 - Leventhal, E., Waqar, M., Liu, A., Biedermann, B., Feems, Devjani, H., LauNaMu, Grendel, M., Mori, S., & Elefante, V. (2024). [State of Web3 Grants Report 2024](https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/view).
 - D. Long, P., Zagidulin, D., & Velez, G. (2023). [Composing Credentials via LinkedClaims and Cryptographic Binding](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/composable-credentials.pdf). [RWOT](https://www.weboftrust.info/about/).
-- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
-- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). [Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8).
-- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). [Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs).
-- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). [Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI).
+- Optimism Collective (2023a). [Announcing the Results of RetroPGF 2](https://arc.net/l/quote/ndqlckpa). ([Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs)).
+- Optimism Collective (2023b). [RetroPGF2: Learnings & Reflections](https://arc.net/l/quote/iuqqismf). ([Arweave](https://viewblock.io/arweave/tx/ry5yRtkJYgehHoKSTr-Wd92MkyaCYAcHxwL5NnycoH8)).
+- Optimism Collective (2024a). [Announcing RetroPGF Round 3 Recipients](https://optimism.mirror.xyz/37Bgum6MfTJWDuE41CH9RXSH5KBm_RCL5zsSFeRZl4E). ([Arweave](https://viewblock.io/arweave/tx/8UPSPW9Fpim1rrZWDnhCiWQg0T9Hd0S0FebLEdJljzs)).
+- Optimism Collective (2024b). [RetroPGF 3: Learnings & Reflections](https://arc.net/l/quote/tguyvict). ([Arweave](https://viewblock.io/arweave/tx/Tz3JQkadZHSVrFTipuCNAMOU80-MjZWGPEoiH05gZqI)).
 - Schrott, L. P. (2024). [Leveling the Field: How Connection-Oriented Cluster Matching Strengthens Quadratic Funding](https://www.gitcoin.co/blog/leveling-the-field-how-connection-oriented-cluster-matching-strengthens-quadratic-funding). Gitcoin blog.
 - Waqar, M., ZER8 (2024). [Web3 Grant Program Research and Analysis](https://docsend.com/view/rxs93u4s5sb93xck).
 - wheebill (2024, September 18). [Badgeholder Onchain Analysis Report](https://gov.optimism.io/t/badgeholder-onchain-analysis-report/8881) (online forum post). Optimism Collective Governance Forum.
 
 ## Appendix on Grant Volume
 
-1. Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
-2. Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
-3. Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
-4. Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
-5. Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
-6. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
+16. Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
+17. Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
+18. Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
+19. Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
+20. Round 3, Q4 2023, 30 million \$0P, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+21. Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
 
 ## Disclaimers
 
@@ -403,4 +474,4 @@ AI was used as a research aid over the course of the creation of this report, bu
 
 ## Licensing
 
-The contents of this report are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The contents of this report are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

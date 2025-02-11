@@ -54,6 +54,7 @@ This section is not comprehensive, and does not count the shorter articles read.
 
 ## To Read
 
+
 This section follows no particular order.
 
 ### Books
@@ -65,37 +66,39 @@ This section follows no particular order.
 - The Mahabharata
 - House of Leaves (Mark Z. Danielewski)
 
-| Title                                      | Author           |
-| ------------------------------------------ | ---------------- |
-| Leviathan                                  | Hobbes           |
-| On War                                     | von Clausewitz   |
-| Individualism and Economic Order           | Hayek            |
-| Art and Agency                             | Gell             |
-| Mason & Dixon                              | Pynchon          |
-| Recognitions                               | Gaddis           |
-| Secret Societies and Psychological Warfare | Hoffman          |
-| The Presentation of Self in Everyday Life  | Goffman          |
-| The English Face of Machiavelli            | Raab             |
-| The Sphere and Duties of Government        | von Humboldt     |
-| Don Quixote                                | Cervantes        |
-| In Search of Lost Time                     | Proust           |
-| Finnegan's Wake                            | Joyce            |
-| A Thousand Plateaus                        | Deleuze-Guattari |
-| Infinite Jest                              | Wallace          |
-| The Origin of Species                      | Darwin           |
-| Governing the Commons                      | Ostrom           |
-| The Listening Society                      | Freinacht        |
-| Anti-Oedipus                               | Deleuze-Guattari |
-| Rhythmanalysis                             | Lefebvre         |
-| The Great Transformation                   | Polanyi          |
-| Naked Lunch                                | Burroughs        |
-| Doctor Faustus                             | Mann             |
-| The Dispossessed                           | Le Guin          |
-| Kindred                                    | Butler           |
-| The Phenomenology of Spirit                | Hegel            |
-| The Wealth of Nations                      | Smith            |
-| Tractatus Logico-Philosophicus             | Wittgenstein     |
-| Democracy in America                       | de Tocqueville   |
+| Title                                      | Author                    |
+| ------------------------------------------ | ------------------------- |
+| Wittgenstein's Mistress                    | David Markson             |
+| On Growth and Form                         | D'Arcy Wentworth Thompson |
+| Leviathan                                  | Hobbes                    |
+| On War                                     | von Clausewitz            |
+| Individualism and Economic Order           | Hayek                     |
+| Art and Agency                             | Gell                      |
+| Mason & Dixon                              | Pynchon                   |
+| Recognitions                               | Gaddis                    |
+| Secret Societies and Psychological Warfare | Hoffman                   |
+| The Presentation of Self in Everyday Life  | Goffman                   |
+| The English Face of Machiavelli            | Raab                      |
+| The Sphere and Duties of Government        | von Humboldt              |
+| Don Quixote                                | Cervantes                 |
+| In Search of Lost Time                     | Proust                    |
+| Finnegan's Wake                            | Joyce                     |
+| A Thousand Plateaus                        | Deleuze-Guattari          |
+| Infinite Jest                              | Wallace                   |
+| The Origin of Species                      | Darwin                    |
+| Governing the Commons                      | Ostrom                    |
+| The Listening Society                      | Freinacht                 |
+| Anti-Oedipus                               | Deleuze-Guattari          |
+| Rhythmanalysis                             | Lefebvre                  |
+| The Great Transformation                   | Polanyi                   |
+| Naked Lunch                                | Burroughs                 |
+| Doctor Faustus                             | Mann                      |
+| The Dispossessed                           | Le Guin                   |
+| Kindred                                    | Butler                    |
+| The Phenomenology of Spirit                | Hegel                     |
+| The Wealth of Nations                      | Smith                     |
+| Tractatus Logico-Philosophicus             | Wittgenstein              |
+| Democracy in America                       | de Tocqueville            |
 
 - Secret Societies and Psychological Warfare (Hoffman)
 - **Art and Agency (Gell)**
