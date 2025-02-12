@@ -1,11 +1,12 @@
 body .quartz-license-info.license-info {
+    position: relative;
     height: 100%;
     font-size: 0.8rem !important;
     line-height: 1.4rem !important;
     color: var(--dark) !important;
     background-color: var(--lightgray);
     font-weight: 200;
-    margin: 0rem 0rem;
+    margin: 2rem 0rem 0rem 0rem;
     padding: 1rem 1rem;
     border: 1px solid var(--gray);
     border-radius: 10px;
@@ -17,25 +18,39 @@ body .quartz-license-info.license-info {
 
     div {
         width: 100%;
-        text-align: center;
+        text-align: justify;
     }
 
     p {
         margin: 0;
-        text-align: center;
+        text-align: justify;
     }
 
     .license-icons {
-        width: 100%;
-        text-align: left;
+        position: absolute;
+        top: -11px;
+        left: 20px;
+        transform: none;
+        background-color: transparent;
+        padding: 0 10px;
+        width: auto !important;
+        display: inline-flex;
+        align-items: center;
+        justify-content: flex-start;
         
         img {
             height: 20px;
             margin: 0px 8px 0px 0px !important;
             vertical-align: middle;
+            border: 1px solid var(--gray);
+            border-radius: 15px;
+
+            &:last-child {
+                margin-right: 0 !important;
+            }
 
             @media screen and (max-width: 768px) {
-              margin-bottom: 0.7rem !important;
+                margin-bottom: 0 !important;
             }
         }
     }

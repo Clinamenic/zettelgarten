@@ -33,7 +33,6 @@ quartzSearch: true
     text-align: center !important;
     justify-content: center !important;
     transform: translateX(1.25rem);
-    text-transform: uppercase;
     font-family: GeistMono;
   }
   .center .popover-hint &h3 {

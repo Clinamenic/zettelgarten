@@ -22,7 +22,41 @@ tags:
   .page-listing {
     display: none;
   }
+
+  .page-header .popover-hint .article-title {
+    font-weight: 300;
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+    font-family: GeistMono;
+  }
+
 </style>
+
+---
+
+<div class="gallery2" style="margin: 1rem 0rem 0rem 0rem;">
+
+<div class="text-box" style="text-align: center; display: flex; flex-direction: column; align-items: center; animation: slide-right-400 4s ease-in-out; padding: 0rem;">
+  <img src="https://arweave.net/adMJyqREd1b7sFF_EWbcUWGN54A84doFU-fFEB-gX1Q" alt="banner" style="margin: 0rem; border-radius: 0px;"/>
+  <p>Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment</p>
+</div>
+
+<div class="text-box" style="text-align: center; display: flex; flex-direction: column; align-items: center; animation: slide-left-400 4s ease-in-out; padding: 0rem;">
+  <img src="https://arweave.net/xyErVkoWdB0uDWV5a5onev40x8gZBSd8yINxgzKKOrE" alt="banner" style="margin: 0rem; border-radius: 0px;"/>
+  <p>A Rhapsody on Neurodiversity</p>
+</div>
+
+<div class="text-box" style="text-align: center; display: flex; flex-direction: column; align-items: center; animation: slide-right-400 5s ease-in-out; padding: 0rem;">
+  <img src="https://arweave.net/Fz2ozgyIb_O7nkketDN9LbdeQ3JknF07Ywi1DI8Jy-0" alt="banner" style="margin: 0rem; border-radius: 0px;"/>
+  <p>Wu Gwei, or Going with the Flow of Governance</p>
+</div>
+
+<div class="text-box" style="text-align: center; display: flex; flex-direction: column; align-items: center; animation: slide-left-400 5s ease-in-out; padding: 0rem;">
+  <img src="https://arweave.net/1OCpB8IN7kO8LiEOoutCLSSyGbHLHfhoJSQoloN_Y5g" alt="banner" style="margin: 0rem; border-radius: 0px;"/>
+  <p>Trust and Trustlessness</p>
+</div>
+
+</div>
 
 ---
 
@@ -63,10 +97,6 @@ tags:
 ### Design
 
 - [[A Solarpunk Typography Expose]]
-
-## Current Drafts
-
-- [[Survey on Methodology for Onchain Ecosystem Funding and Impact Assessment]]
 
 ## Canvassing
 

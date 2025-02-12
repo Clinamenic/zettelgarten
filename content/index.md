@@ -20,6 +20,15 @@ quartzSearch: true
 
 <style>
 
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
   :root {
     --wideradius: 50px;
   }
@@ -176,6 +185,96 @@ quartzSearch: true
   transform: translateX(-1rem);
 }
 
+.logo-block {
+  box-sizing: border-box;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: var(--secondary-color);
+  opacity: 1;
+  border-radius: 15px;
+  border: 1px solid var(--gray);
+  animation: color-blend 3s infinite ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+.logo-bar {
+  box-sizing: border-box;
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  background-color: var(--secondary-color);
+  opacity: 1;
+  border-radius: 15px !important;
+  border: 1px solid var(--gray);
+  animation: color-blend 3s infinite ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+@keyframes color-blend {
+    0%{ background-color: var(--tertiary) }
+    50%{ background-color: var(--secondary)  } 
+    100%{ background-color: var(--tertiary) }
+  }
+@keyframes color-blend-alt {
+    0%{ background-color: var(--tertiary) }
+    50%{ background-color: var(--secondary)  } 
+    100%{ background-color: var(--tertiary) }
+  }
+
+#offerings-1 {
+  margin: 1rem 0rem 0rem 0rem;
+  height: 239px;
+  @media only screen and (max-width: 750px) {
+    height: auto ;
+    }
+}
+
+.gallery3 {
+  > .text-box {
+    overflow: hidden;
+    max-height: 300px;
+    box-sizing: border-box;
+  }
+}
+
+.autoglypha-text {
+  font-family: GeistMono; font-size: 0.82rem; letter-spacing: 3.68px; text-transform: uppercase; font-weight: 200; cursor: default; text-shadow: 0px 0px 10px var(--lightgray); display: none; transition: all 0.3s ease-in-out; animation: rotate-counter 25s infinite;
+}
+
+#autoglypha-box {
+  text-align: center; display: flex; align-items: center; justify-content: center; animation: fade-in 4.5s ease-in; box-sizing: border-box; background-color: var(--lightgray); background-image: url('https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M'); background-repeat: repeat; background-position: center; background-attachment: fixed; background-size: 125%;
+  max-height: 239px;
+  transition: all 0.3s ease-in-out;
+  > .external-icon {
+    display: none;
+  }
+}
+
+#autoglypha-box:hover {
+  background-color: rgba(121, 197, 126, 0.25);
+  transition: all 0.3s ease-in-out;
+  & .logo-bar {
+    border: 1px solid var(--dark);
+    transition: all 0.3s ease-in-out;
+  }
+  & .logo-block {
+    border: 1px solid var(--dark);
+    transition: all 0.3s ease-in-out;
+  }
+  & .autoglypha-text {
+  display: block;
+  transition: all 0.3s ease-in-out;
+}
+}
+
+@keyframes rotate-counter {
+    0%{ transform: rotate(0deg) }
+    5%{ transform: rotate(0deg) }
+    50%{ transform: rotate(-180deg) }
+    55%{ transform: rotate(-180deg) }
+    100%{ transform: rotate(-360deg) }
+  }
+
 
 
 </style>
@@ -202,8 +301,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div class="text-box" style="
   background-image: url(https://arweave.net/hbmMt-9koK_dnMScUW6OdJDiBtKlPY2DkvMwNBPu5zM);
-  background-size: 50%;
+  background-size: 300px;
   background-color: var(--light);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
   padding: 0rem 0rem 0rem 0rem;
   animation: fade-in 3s ease-in;
 ">
@@ -241,41 +343,24 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div class="mobile-gallery2-fixed" style="margin: 1rem 0rem 0rem 0rem; height: 400px;">
 
-<div class="side-column">
-<a href="/about.html" class="l1">ABOUT</a>
-<a href="" class="l2">SERVICES</a>
-<a href="" class="l3"></a>
-<a href="/design.html" class="l4">DESIGN</a>
-<a href="" class="l5"></a>
-<a href="/typography.html" class="l6">TYPOGRAPHY</a>
-</div>
+  <div class="side-column">
+  <a href="/about.html" class="l1">ABOUT</a>
+  <a href="" class="l2">SERVICES</a>
+  <a href="" class="l3"></a>
+  <a href="/design.html" class="l4">DESIGN</a>
+  <a href="" class="l5"></a>
+  <a href="/typography.html" class="l6">TYPOGRAPHY</a>
+  </div>
 
-<div class="side-column">
-<a href="" class="r1">CONTACT</a>
-<a href="/writing.html" class="r2">WRITING</a>
-<a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">ZETTELGARTEN</a>
-<a href="" class="r4"></a>
-<a href="/gallery.html" class="r5">GALLERY</a>
-<a href="" class="r6"></a>
-</div>
+  <div class="side-column">
+  <a href="" class="r1">CONTACT</a>
+  <a href="/writing.html" class="r2">WRITING</a>
+  <a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">ZETTELGARTEN</a>
+  <a href="" class="r4"></a>
+  <a href="/gallery.html" class="r5">GALLERY</a>
+  <a href="" class="r6"></a>
+  </div>
 
-</div>
-
-<div class="gallery2" style="margin: 1rem 0rem 0rem 0rem;">
-
-<div class="text-box" style="padding: 1rem 0rem 0rem 0rem; animation: slide-right-400 6s ease-in-out;">
-  <p style="text-align: center; font-family: VampiroOne; font-size: 2.5rem; letter-spacing: 0px; padding: 0px; margin: 0rem 0rem 0rem 0rem; margin-top: 15px; rotate: -2deg; animation: jiggle 4s ease-in-out infinite; color: var(--tertiary); text-shadow: 1px 1px 0px black;">Casual</p>
-  <p style="text-align: center; font-family: MEK-Mono; font-size: 3.5rem; letter-spacing: 0px; padding: 0px; margin: 0.65rem 1rem 1.5rem 1rem;">DELEGATE</p>
-  <p style="margin: 0rem 1.5rem 1.5rem 1.5rem; text-align: center; font-size: 0.8rem; line-height: 1.2rem;">Clinamenic LLC is available as a governance delegate for select organizations. <a
-      href="/services.html"
-      class="tag"
-      style="color: var(--secondary);"
-      >Coming soon!</a>
-  </p></div>
-
-<div class="text-box" style="text-align: center; display: flex; align-items: center; justify-content: center; animation: slide-left-400 6s ease-in-out;">
-  <p>Grant Program Management</br>(coming soon!)</p>
-</div>
 </div>
 
 <div class="marquee" style="margin: 1rem 0rem 0rem 0rem;">
@@ -458,6 +543,47 @@ document.addEventListener("DOMContentLoaded", function() {
   </div>
 
   </div>
+</div>
+
+<div class="gallery3" id="offerings-1">
+
+<div class="text-box" style="padding: 1rem 0rem 0rem 0rem; align-items: center; justify-content: center; animation: fade-in 4s ease-in; box-sizing: border-box; overflow: hidden;">
+  <p style="text-align: center; font-family: VampiroOne; font-size: 2.3rem; letter-spacing: 0px; padding: 0px; margin: 0rem 0rem 0rem 0rem; margin-top: 20px; rotate: -2deg; animation: jiggle 4s ease-in-out infinite; color: var(--tertiary); text-shadow: 1px 1px 0px black;">Casual</p>
+  <p style="text-align: center; font-family: MEK-Mono; font-size: 3.4rem; letter-spacing: 0px; padding: 0px; margin: 0.65rem 1rem 1.5rem 1rem;">DELEGATE</p>
+  <p style="margin: 0rem 1.5rem 1.5rem 1.5rem; text-align: center; font-size: 0.7rem; line-height: 1.2rem;">Clinamenic LLC is available as a governance delegate for select organizations. <br><br><a
+      href="/services.html"
+      class="tag"
+      style="color: var(--secondary);"
+      >Coming soon!</a>
+  </p></div>
+
+<a href="https://autoglypha.clinamenic.com/?ref=clinamenic" class="text-box" id="autoglypha-box">
+  <div style="position: relative; width: 325px; height: 325px; display: flex; justify-content: center; align-items: center;">
+    <svg viewBox="-150 -150 300 300" style="position: absolute; width: 325px; height: 325px; transform: rotate(145deg);">
+      <path id="circle-path" d="M 0,90 A 90,90 0 1 1 0,-90 A 90,90 0 1 1 0,90" fill="none"/>
+      <text class="autoglypha-text">
+        <textPath href="#circle-path" startOffset="0%">
+          Autoglypha&nbsp;&nbsp;&nbsp;&nbsp; Glyph-Based Cellular Automata
+        </textPath>
+      </text>
+    </svg>
+    <div id="autoglypha-logo" style="height: 180px; width: 180px; display: flex; animation: fade-in 4.5s ease-in-out;">
+      <div class="logo-bar" style="top: calc(50% - 75px); left: calc(50% - 45px); animation: color-blend-alt 4s infinite ease-in-out;"></div>
+      <div class="logo-block" style="top: calc(50% - 45px); left: calc(50% - 75px); animation: color-blend-alt 7s infinite ease-in-out;"></div>
+      <div class="logo-block" style="top: calc(50% - 45px); left: calc(50% + 45px); animation: color-blend 5s infinite ease-in-out;"></div>
+      <div class="logo-bar" style="top: calc(50% - 15px); left: calc(50% - 45px); animation: color-blend-alt 7s infinite ease-in-out;"></div>
+      <div class="logo-block" style="top: calc(50% + 15px); left: calc(50% - 75px); animation: color-blend 8s infinite ease-in-out;"></div>
+      <div class="logo-block" style="top: calc(50% + 15px); left: calc(50% + 45px); animation: color-blend-alt 4s infinite ease-in-out;"></div>
+      <div class="logo-block" style="top: calc(50% + 45px); left: calc(50% - 45px); animation: color-blend 6s infinite ease-in-out;"></div>
+      <div class="logo-block" style="top: calc(50% + 45px); left: calc(50% + 15px); animation: color-blend-alt 6s infinite ease-in-out;"></div>
+    </div>
+  </div>
+</a>
+
+<div class="text-box" style="text-align: center; display: flex; align-items: center; justify-content: center; animation: fade-in 4s ease-in; box-sizing: border-box;">
+  <p>Grant Program Management</br>(coming soon!)</p>
+</div>
+
 </div>
 
 <div style="height: 1rem;"></div>

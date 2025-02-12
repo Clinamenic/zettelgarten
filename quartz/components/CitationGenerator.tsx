@@ -1,7 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponent } from "./types"
 import { ValidLocale } from "../i18n/locales/definition"
 import { classNames } from "../util/lang"
-import style from "./styles/citationGenerator.scss?module"
+import "./styles/citationGenerator.scss"
 import citationStyles from './CitationStyles'
 import { getExportFormat } from './CitationExports'
 import { CitationFields } from './types/CitationTypes'
@@ -302,7 +302,7 @@ ER  -\`;
     `
 
     return (
-      <div style={{
+      <div className="citationWrapper" style={{
         margin: '1rem 0',
         padding: '1rem',
         border: '1px solid var(--gray)',
@@ -314,19 +314,23 @@ ER  -\`;
         }}>
           <div style={{
             display: 'flex',
-            gap: '1rem',
+            gap: '0.75rem',
             marginBottom: '0.6rem !important',
           }}>
             <select 
               data-citation-style 
               style={{
-                fontFamily: "MonaspaceNeon",
-                lineHeight: '1.1rem',
-                fontSize: '0.7rem',
+                maxHeight: '20px',
+                fontFamily: "GeistMono",
+                lineHeight: '1rem',
+                letterSpacing: '1px',
+                fontSize: '0.6rem',
+                fontWeight: '100',
+                textTransform: 'uppercase',
                 minWidth: '80px',
-                padding: '0.25rem 0.5rem 0.15rem',
+                padding: '0.15rem 0.5rem',
                 border: '1px solid var(--gray)',
-                borderRadius: '5px',
+                borderRadius: '10px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer',
                 transition: 'all 0.3s ease'
@@ -342,12 +346,17 @@ ER  -\`;
             <select 
               data-citation-export 
               style={{
-                fontFamily: "MonaspaceNeon",
-                fontSize: '0.7rem',
+                maxHeight: '20px',
+                fontFamily: "GeistMono",
+                lineHeight: '1rem',
+                letterSpacing: '1px',
+                textTransform: 'uppercase',
+                fontSize: '0.6rem',
+                fontWeight: '100',
                 minWidth: '80px',
-                padding: '0.25rem 0.5rem 0.15rem',
+                padding: '0.15rem 0.5rem',
                 border: '1px solid var(--gray)',
-                borderRadius: '5px',
+                borderRadius: '10px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer'
               }}
@@ -361,14 +370,19 @@ ER  -\`;
               data-citation-copy 
               type="button"
               style={{
-                fontFamily: "MonaspaceNeon",
-                fontSize: '0.7rem',
+                maxHeight: '20px',
+                fontFamily: "GeistMono",
+                lineHeight: '1rem',
+                letterSpacing: '1px',
+                fontWeight: '100',
+                fontSize: '0.6rem',
+                textTransform: 'uppercase',
                 display: 'inline-flex',
                 alignItems: 'center',
                 gap: '0.25rem',
-                padding: '0.25rem 0.5rem 0.15rem',
+                padding: '0.15rem 0.5rem',
                 border: '1px solid var(--gray)',
-                borderRadius: '5px',
+                borderRadius: '10px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer'
               }}

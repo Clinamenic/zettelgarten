@@ -4,7 +4,7 @@ subtitle: An analysis of the innovations and challenges of the onchain philanthr
 author:
   - Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-bannerURI: https://arweave.net/cwmd2UJItW7IPBeSBdDCqY2DZCXpvqFtGu9_zLSBwds
+bannerURI: https://arweave.net/adMJyqREd1b7sFF_EWbcUWGN54A84doFU-fFEB-gX1Q
 date: 2025-02-11
 draftStart: 0024-06-28
 license: CC BY-NC-SA 4.0
@@ -493,8 +493,8 @@ Naturally, these capture-resistant peer-to-peer economic technologies are conduc
 - Gitcoin, over \$60 million to date ([Report](https://impact.gitcoin.co/))
 - Optimism Collective's RetroPGF results. For calculations of simple moving average (SMA), I am using discrete weekly snapshots of the closing price of the asset (\$OP) taken every Monday at midnight UTC. I am using data exported from CoinMarketCap's price history.
   - Round 1, Q4 2022, \$1 million distributed ([Results](https://github.com/ethereum-optimism/op-analytics/blob/main/rpgf/rpgf1/results/rpgf1_results.csv)).
-  - Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI)) ([Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
-  - Round 3, Q4 2023, 30 million \$OP, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary)) ([Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
+  - Round 2, Q2 2023, 10 million \$OP distributed, approx. \$25 million FMV ([Results](https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI), [Learnings](https://optimism.mirror.xyz/7v1DehEY3dpRcYFhqWrVNc9Qj94H2L976LKlWH1FX-8)). In Q2 2023 the \$OP token had an SMA of \$1.73, and a standard deviation of approximately 24%.
+  - Round 3, Q4 2023, 30 million \$OP, approx. \$78 million ([Results](https://vote.optimism.io/retropgf/3/summary), [Learnings](https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA)). In Q4 2023 the \$OP token had an SMA of \$1.95, and a standard deviation of approximately 65%, indicating drastic volatility, even by the standards of crypto markets.
   - Round 4, Q2 2024, 10 million \$OP, approx. \$25 million ([Results](https://retrofunding.optimism.io/round/results)). In Q2 2024 the \$OP token had an SMA of \$2.40, and a standard deviation of approximately 16%, indicating relative stability compared to the previous round.
 
 ---
