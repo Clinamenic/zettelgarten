@@ -35,7 +35,10 @@
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
   "optionalDependencies": {
-    "@napi-rs/simple-git-linux-x64-gnu": "0.1.19"
+    "@napi-rs/simple-git-linux-x64-gnu": "0.1.19",
+    "lightningcss-linux-x64-gnu": "1.26.0",
+    "@parcel/css-linux-x64-gnu": "1.12.0",
+    "esbuild-linux-64": "0.19.9"
   },
   "dependencies": {
     "@clack/prompts": "^0.7.0",
