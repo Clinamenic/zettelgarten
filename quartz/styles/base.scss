@@ -201,7 +201,7 @@ body {
   background-color: var(--lightgray);
   // background-image: url(https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M);
   // background-size: 100%;
-  font-family: "MonaspaceNeon";
+  font-family: "MonaspaceNeon", monospace;
   color: var(--darkgray);
   overscroll-behavior: none;
   @media only screen and (max-width: calc(784px + 2rem)) { 

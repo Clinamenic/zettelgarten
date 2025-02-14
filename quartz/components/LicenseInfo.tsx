@@ -71,54 +71,99 @@ const LicenseInfo: QuartzComponent = ({ fileData, cfg }) => {
     return components
   }
 
-  const getLicenseImages = (licenseStr: string) => {
-    const components = getLicenseComponents(licenseStr)
-    
-    return (
-      <div className="license-icons">
-        {components.map((component, index) => {
-          const iconInfo = LICENSE_ICONS[component]
-          if (!iconInfo) return null
-          
-          return (
-            <img 
-              key={index}
-              className="license-icon"
-              src={iconInfo.url}
-              alt={iconInfo.icon}
-              title={iconInfo.icon}
-            />
-          )
-        })}
-      </div>
-    )
-  }
+  const components = getLicenseComponents(license)
 
   return (
-    <div className="license-info quartz-license-info">
-      <a 
-        href={getLicenseUrl(license)} 
-        target="_blank" 
-        rel="license noopener noreferrer" 
-        className="license-link"
-      >
-        {getLicenseImages(license)}
-      </a>
-      <p className="license-text">
-        <a property="dct:title" rel="cc:attributionURL" href={currentPageUrl}>
-          {title}
-        </a> ({year}) by{" "}
-        <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href={authorUrl}>
-          {author}
-        </a> is licensed under{" "}
-        <a 
-          href={getLicenseUrl(license)} 
-          target="_blank" 
-          rel="license noopener noreferrer"
-        >
-          {license}
-        </a>
-      </p>
+    <div style={{
+      margin: '1rem 0',
+      padding: '0.75rem 1rem 1rem 1rem',
+      border: '1px solid var(--gray)',
+      borderRadius: '10px',
+      backgroundColor: 'var(--lightgray)'
+    }}>
+      <div style={{
+        width: '100%'
+      }}>
+        <h3 style={{
+          margin: '0 0 0.5rem 0',
+          fontFamily: 'GeistMono',
+          textAlign: 'center',
+          fontWeight: '200',
+          letterSpacing: '3px',
+          textTransform: 'uppercase',
+          fontSize: '0.85rem',
+          color: 'var(--dark)'
+        }}>
+          Licensing
+        </h3>
+        <div style={{
+          position: 'relative',
+          marginBottom: '-10px',
+          zIndex: 1,
+          display: 'flex',
+          gap: '1rem',
+          backgroundColor: 'transparent',
+          padding: '0',
+          marginLeft: '20px'
+        }}>
+          <a 
+            href={getLicenseUrl(license)} 
+            target="_blank" 
+            rel="license noopener noreferrer"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '8px'
+            }}
+          >
+            {components.map((component, index) => {
+              const iconInfo = LICENSE_ICONS[component]
+              if (!iconInfo) return null
+              
+              return (
+                <img 
+                  key={index}
+                  src={iconInfo.url}
+                  alt={iconInfo.icon}
+                  title={iconInfo.icon}
+                  style={{
+                    height: '20px',
+                    borderRadius: '15px',
+                    verticalAlign: 'middle',
+                    margin: '0 0 0 0'
+                  }}
+                />
+              )
+            })}
+          </a>
+        </div>
+        <div style={{
+          position: 'relative',
+          boxSizing: 'border-box',
+          padding: '1rem',
+          backgroundColor: 'var(--light)',
+          border: '1px solid var(--gray)',
+          borderRadius: '6px',
+          height: '125px',
+          maxHeight: '125px',
+          overflowY: 'scroll'
+        }}>
+          <p style={{
+            margin: 0,
+            fontFamily: 'GeistMono',
+            fontSize: '0.8rem',
+            lineHeight: '1.4rem',
+            fontWeight: '300'
+          }}>
+            <a property="dct:title" rel="cc:attributionURL" href={currentPageUrl}>
+              {title}
+            </a> ({year}) by{" "}
+            <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href={authorUrl}>
+              {author}
+            </a> is licensed under {license}
+          </p>
+        </div>
+      </div>
     </div>
   )
 }

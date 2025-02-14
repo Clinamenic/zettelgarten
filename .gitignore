@@ -23,3 +23,5 @@ replit.nix
 # Ignore everything in the specstory folder
 /.specstory/
 
+# Ignore everything in the private folder
+/.cursor/**

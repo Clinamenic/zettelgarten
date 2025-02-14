@@ -269,8 +269,6 @@ ER  -\`;
             if (citationText) {
               try {
                 await navigator.clipboard.writeText(citationText);
-                this.textContent = 'Copied!';
-                setTimeout(() => this.textContent = 'Copy', 2000);
               } catch (err) {
                 // Silent error handling
               }
@@ -304,7 +302,7 @@ ER  -\`;
     return (
       <div className="citationWrapper" style={{
         margin: '1rem 0',
-        padding: '1rem',
+        padding: '0.75rem 1rem 1rem 1rem',
         border: '1px solid var(--gray)',
         borderRadius: '10px',
         backgroundColor: 'var(--lightgray)'
@@ -314,26 +312,74 @@ ER  -\`;
         }}>
           <div style={{
             display: 'flex',
-            gap: '0.75rem',
-            marginBottom: '0.6rem !important',
+            alignItems: 'center',
+            justifyContent: 'center',
+            position: 'relative',
+            marginBottom: '0.5rem'
+          }}>
+            <h3 style={{
+              margin: 0,
+              fontFamily: 'GeistMono',
+              textAlign: 'center',
+              fontWeight: '200',
+              letterSpacing: '3px',
+              textTransform: 'uppercase',
+              fontSize: '0.85rem',
+              color: 'var(--dark)'
+            }}>
+              Citation
+            </h3>
+            <button 
+              data-citation-copy 
+              type="button"
+              className="copy-button"
+              style={{
+                position: 'absolute',
+                right: 0,
+                top: '50%',
+                transform: 'translateY(-50%)'
+              }}
+            >
+              <svg viewBox="0 0 24 24">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+              </svg>
+            </button>
+          </div>
+          <div style={{
+            position: 'relative',
+            marginBottom: '-10px',
+            zIndex: 1,
+            display: 'flex',
+            gap: 'clamp(2rem, 8vw, 5rem)',
+            backgroundColor: 'transparent',
+            padding: '0',
+            justifyContent: 'center',
+            alignItems: 'center',
           }}>
             <select 
               data-citation-style 
               style={{
                 maxHeight: '20px',
                 fontFamily: "GeistMono",
-                lineHeight: '1rem',
+                lineHeight: '15px',
                 letterSpacing: '1px',
                 fontSize: '0.6rem',
-                fontWeight: '100',
+                fontWeight: '200',
                 textTransform: 'uppercase',
-                minWidth: '80px',
-                padding: '0.15rem 0.5rem',
+                width: '80px',
+                padding: '0.1rem 0.5rem 0.2rem 0.5rem',
                 border: '1px solid var(--gray)',
                 borderRadius: '10px',
                 backgroundColor: 'var(--light)',
                 cursor: 'pointer',
-                transition: 'all 0.3s ease'
+                textAlign: 'center',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                appearance: 'none',
+                WebkitAppearance: 'none',
+                MozAppearance: 'none'
               }}
             >
               <option value="apa">APA</option>
@@ -348,63 +394,58 @@ ER  -\`;
               style={{
                 maxHeight: '20px',
                 fontFamily: "GeistMono",
-                lineHeight: '1rem',
+                lineHeight: '15px',
                 letterSpacing: '1px',
                 textTransform: 'uppercase',
                 fontSize: '0.6rem',
-                fontWeight: '100',
-                minWidth: '80px',
-                padding: '0.15rem 0.5rem',
+                fontWeight: '200',
+                width: '80px',
+                padding: '0.1rem 0.5rem 0.2rem 0.5rem',
                 border: '1px solid var(--gray)',
                 borderRadius: '10px',
                 backgroundColor: 'var(--light)',
-                cursor: 'pointer'
+                cursor: 'pointer',
+                textAlign: 'center',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                appearance: 'none',
+                WebkitAppearance: 'none',
+                MozAppearance: 'none'
               }}
             >
               <option value="text">Export</option>
               <option value="bibtex">BibTeX</option>
               <option value="ris">RIS</option>
             </select>
-            
-            <button 
-              data-citation-copy 
-              type="button"
-              style={{
-                maxHeight: '20px',
-                fontFamily: "GeistMono",
-                lineHeight: '1rem',
-                letterSpacing: '1px',
-                fontWeight: '100',
-                fontSize: '0.6rem',
-                textTransform: 'uppercase',
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: '0.25rem',
-                padding: '0.15rem 0.5rem',
-                border: '1px solid var(--gray)',
-                borderRadius: '10px',
-                backgroundColor: 'var(--light)',
-                cursor: 'pointer'
-              }}
-            >
-              Copy
-            </button>
           </div>
           
-          <div 
-            data-citation-text 
-            style={{
-              fontFamily: 'var(--codeFont)',
-              fontSize: '0.8rem',
-              lineHeight: '1.6rem',
-              backgroundColor: 'var(--lightgray)',
-              borderRadius: '4px',
-              whiteSpace: 'pre-wrap',
-              wordBreak: 'break-word',
-              transition: 'all 0.3s ease'
-            }}
-          >
-            {citationStyles[defaultStyle](filterCitationData(fileData.frontmatter))}
+          <div className="citationContent" style={{
+            position: 'relative',
+            boxSizing: 'border-box',
+            padding: '1rem',
+            backgroundColor: 'var(--light)',
+            border: '1px solid var(--gray)',
+            borderRadius: '6px',
+            height: '125px',
+            maxHeight: '125px',
+            overflowY: 'scroll'
+          }}>
+            <div 
+              data-citation-text 
+              className="citationText" 
+              style={{
+                fontFamily: 'GeistMono',
+                fontSize: '0.8rem',
+                lineHeight: '1.4rem',
+                fontWeight: '300',
+                whiteSpace: 'pre-wrap',
+                wordBreak: 'break-word',
+                transition: 'all 0.2s ease'
+              }}
+            >
+              {citationStyles[defaultStyle](filterCitationData(fileData.frontmatter))}
+            </div>
           </div>
         </div>
         <script dangerouslySetInnerHTML={{ __html: helperScript }} />

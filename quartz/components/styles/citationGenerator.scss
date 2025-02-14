@@ -1,11 +1,24 @@
 .citationWrapper {
   margin: 0rem 0rem;
-  min-height: 200px;
   padding: 1rem;
   border: 1px solid var(--gray);
-  border-radius: 5px;
-  background-color: red !important;
+  border-radius: 8px;
+  background-color: var(--lightgray);
   transition: all 0.3s ease;
+
+  [data-citation-copy] {
+    transition: all 0.2s ease;
+
+    &:hover {
+      background-color: var(--lightgray) !important;
+    }
+
+    &:active {
+      background-color: var(--secondary) !important;
+      border-color: var(--secondary) !important;
+      color: var(--light) !important;
+    }
+  }
 }
 
 .citationContainer {
@@ -46,15 +59,25 @@
   }
 }
 
-.citationText {
-  font-family: 'MonaspaceNeon' !important;
-  line-height: 3.1rem !important;
+.citationContent {
+  box-sizing: border-box;
+  height: 125px;
+  max-height: 125px;
+  overflow-y: auto;
+  background-color: var(--light);
+  border: 1px solid var(--gray);
+  border-radius: 6px;
   padding: 1rem;
-  background-color: var(--lightgray);
-  border-radius: 4px;
+}
+
+.citationText {
+  font-family: 'GeistMono' !important;
+  font-size: 0.8rem !important;
+  line-height: 1.4rem !important;
+  font-weight: 200;
   white-space: pre-wrap;
   word-break: break-word;
-  transition: all 0.3s ease !important;
+  transition: all 0.2s ease !important;
 }
 
 .copyButton {

@@ -20,6 +20,7 @@ export const sharedPageComponents: SharedLayout = {
       ],
       showFlex: (frontmatter) => frontmatter?.quartzShowFlex ?? false,
     }),
+    Component.ArweaveIndex(),
     Component.DownloadMarkdown(),
     Component.Graph({
       showGraph: (frontmatter) => frontmatter.quartzShowGraph ?? false,

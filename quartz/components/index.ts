@@ -30,6 +30,8 @@ import Banner from "./Banner"
 import CitationGenerator from "./CitationGenerator"
 import FlexContainer from "./FlexContainer"
 import ImageModal from "./ImageModal"
+import ArweaveIndex from "./ArweaveIndex"
+import FlexContainer2 from "./FlexContainer2"
 
 export {
   ArticleTitle,
@@ -64,4 +66,6 @@ export {
   CitationGenerator,
   FlexContainer,
   ImageModal,
+  ArweaveIndex,
+  FlexContainer2,
 }

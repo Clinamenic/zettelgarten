@@ -4,7 +4,7 @@ keywords: clinamenic, zettelgarten, spencer saar cavanaugh, clinamenic LLC, zett
 publish: true
 tags: null
 title: Clinamenic LLC
-headDescription: A consultancy for the development of digital public infrastructure.
+headDescription: Clinamenic LLC offers a range of organizational services, from branding to knowledge management.
 headIcon:
 umami_id: 2f7a2940-be21-4f59-ac1e-ff6407b7e5a2
 quartzShowTitle: false
@@ -30,7 +30,7 @@ quartzSearch: true
   }
 
   :root {
-    --wideradius: 50px;
+    --wideradius: 35px;
   }
 
   html {
@@ -38,6 +38,8 @@ quartzSearch: true
   }
 
   .l1, .l2, .l3, .l4, .l5, .l6, .r1, .r2, .r3, .r4, .r5, .r6 {
+    text-transform: uppercase;
+    height: calc((100% - 5rem) / 6);
     text-align: center; 
     display: flex; 
     align-items: center; 
@@ -50,16 +52,9 @@ quartzSearch: true
     background-color: var(--lightgray);
     transition: all 0.2s ease-in-out;
     font-size: 0.9rem;
-    font-family: GeistMono;
+    font-family: "GeistMono", monospace;
     line-height: 1.5rem;
     cursor: default;
-  }
-
-  .l1 {
-    height: calc((100% - 5rem) / 6);
-    border-top-right-radius: var(--wideradius) !important;
-    border-bottom-left-radius: var(--wideradius) !important;
-    animation: slide-from-left 3s ease-in-out forwards;
   }
   .l1:hover, .l2:hover, .l4:hover, .l6:hover, .r1:hover, .r2:hover, .r3:hover, .r5:hover {
     color: black !important;
@@ -69,69 +64,62 @@ quartzSearch: true
     font-weight: 400; 
     cursor: pointer;
   }
+  .l1 {
+    border-top-right-radius: var(--wideradius) !important;
+    border-bottom-left-radius: var(--wideradius) !important;
+    animation: slide-from-left 3s ease-in-out forwards;
+  }
   .l2 {
-    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-left 3.5s ease-in-out forwards;
   }
   .l3 {
-    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-left 4s ease-in-out forwards;
   }
   .l4 {
-    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-left 4.5s ease-in-out forwards;
   }
   .l5 {
-    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-left 5s ease-in-out forwards;
   }
   .l6 {
-    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-left 5.5s ease-in-out forwards;
   }
-
   .r1 {
-    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 3s ease-in-out forwards;
   }
   .r2 {
-    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 3.5s ease-in-out forwards;
   }
   .r3 {
-    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 4s ease-in-out forwards;
   }
   .r4 {
-    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 4.5s ease-in-out forwards;
   }
   .r5 {
-    height: calc((100% - 5rem) / 6);
     border-top-left-radius: var(--wideradius) !important;
     border-bottom-right-radius: var(--wideradius) !important;
     animation: slide-from-right 5s ease-in-out forwards;
   }
   .r6 {
-    height: calc((100% - 5rem) / 6);
     border-top-right-radius: var(--wideradius) !important;
     border-bottom-left-radius: var(--wideradius) !important;
     animation: slide-from-right 5.5s ease-in-out forwards;
@@ -140,15 +128,12 @@ quartzSearch: true
   .center {
     padding-left: 1rem !important;
     padding-right: 1rem !important;
-
     > article.popover-hint {
       > p, h1, h2, h3, h4, h5, h6, li::marker {
       padding-left: 0.5rem !important;
       padding-right: 0.5rem !important;
     }
     }
-    
-
   }
 
   header {
@@ -183,6 +168,9 @@ quartzSearch: true
   animation: fade-in 5s ease-in;
   width: calc(100% + 2rem);
   transform: translateX(-1rem);
+  & .exp-tile{
+    box-sizing: border-box;
+  }
 }
 
 .logo-block {
@@ -238,21 +226,49 @@ quartzSearch: true
 }
 
 .autoglypha-text {
-  font-family: GeistMono; font-size: 0.82rem; letter-spacing: 3.68px; text-transform: uppercase; font-weight: 200; cursor: default; text-shadow: 0px 0px 10px var(--lightgray); display: none; transition: all 0.3s ease-in-out; animation: rotate-counter 25s infinite;
+  font-family: GeistMono; 
+  font-size: 0.82rem; 
+  letter-spacing: 3.68px; 
+  text-transform: uppercase; 
+  font-weight: 200; 
+  cursor: default; 
+  text-shadow: 0px 0px 10px var(--lightgray); 
+  display: none; 
+  transition: all 0.3s ease-in-out; 
+  animation: rotate-counter 25s infinite;
+  @media only screen and (max-width: 750px) {
+    display: block;
+  }
 }
 
 #autoglypha-box {
-  text-align: center; display: flex; align-items: center; justify-content: center; animation: fade-in 4.5s ease-in; box-sizing: border-box; background-color: var(--lightgray); background-image: url('https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M'); background-repeat: repeat; background-position: center; background-attachment: fixed; background-size: 125%;
+  text-align: center; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  animation: fade-in 4.5s ease-in; 
+  box-sizing: border-box; 
+  background-color: var(--lightgray); 
+  background-image: url('https://arweave.net/jZ3EAO7Pl3ldWyNLkfDJ9ksghEouDZSuOAvS9T9Ii6M'); 
+  background-repeat: repeat; 
+  background-position: center; 
+  background-attachment: fixed; 
+  background-size: 125%;
   max-height: 239px;
   transition: all 0.3s ease-in-out;
   > .external-icon {
     display: none;
+  }
+  @media only screen and (max-width: 750px) {
+    background-color: rgba(121, 197, 126, 0.25);
+    background-size: 200%;
   }
 }
 
 #autoglypha-box:hover {
   background-color: rgba(121, 197, 126, 0.25);
   transition: all 0.3s ease-in-out;
+  border: 1px solid var(--secondary);
   & .logo-bar {
     border: 1px solid var(--dark);
     transition: all 0.3s ease-in-out;
@@ -291,12 +307,12 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="tri-column">
 
 <div class="side-column">
-<a href="/about.html" class="l1">ABOUT</a>
-<a href="" class="l2">SERVICES</a>
+<a href="/about.html" class="l1">About</a>
+<a href="" class="l2">Services</a>
 <a href="" class="l3"></a>
-<a href="/design.html" class="l4">DESIGN</a>
+<a href="/design.html" class="l4">Design</a>
 <a href="" class="l5"></a>
-<a href="/typography.html" class="l6">TYPOGRAPHY</a>
+<a href="/typography.html" class="l6">Typography</a>
 </div>
 
 <div class="text-box" style="
@@ -318,7 +334,7 @@ document.addEventListener("DOMContentLoaded", function() {
       alt="Clinamenic Cube"
     />
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center; font-family: GeistMono; text-shadow: 0px 0px 15px var(--lightgray); letter-spacing: 1px;">Clinamenic LLC</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center; font-family: GeistMono, monospace; text-shadow: 0px 0px 15px var(--lightgray); letter-spacing: 1px;">Clinamenic LLC</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem; text-shadow: 0px 0px 15px var(--lightgray);">the consultancy of</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">
@@ -331,11 +347,11 @@ document.addEventListener("DOMContentLoaded", function() {
 </div>
 
 <div class="side-column">
-<a href="" class="r1">CONTACT</a>
-<a href="/writing.html" class="r2">WRITING</a>
-<a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">ZETTELGARTEN</a>
+<a href="" class="r1">Contact</a>
+<a href="/writing.html" class="r2">Writing</a>
+<a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">Zettelgarten</a>
 <a href="" class="r4"></a>
-<a href="/gallery.html" class="r5">GALLERY</a>
+<a href="/gallery.html" class="r5">Gallery</a>
 <a href="" class="r6"></a>
 </div>
  
@@ -344,20 +360,20 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="mobile-gallery2-fixed" style="margin: 1rem 0rem 0rem 0rem; height: 400px;">
 
   <div class="side-column">
-  <a href="/about.html" class="l1">ABOUT</a>
-  <a href="" class="l2">SERVICES</a>
+  <a href="/about.html" class="l1">About</a>
+  <a href="" class="l2">Services</a>
   <a href="" class="l3"></a>
-  <a href="/design.html" class="l4">DESIGN</a>
+  <a href="/design.html" class="l4">Design</a>
   <a href="" class="l5"></a>
-  <a href="/typography.html" class="l6">TYPOGRAPHY</a>
+  <a href="/typography.html" class="l6">Typograph</a>
   </div>
 
   <div class="side-column">
-  <a href="" class="r1">CONTACT</a>
-  <a href="/writing.html" class="r2">WRITING</a>
-  <a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">ZETTELGARTEN</a>
+  <a href="" class="r1">Contact</a>
+  <a href="/writing.html" class="r2">Writing</a>
+  <a href="/zettelgarten.html" class="r3" style="letter-spacing: 1px;">Zettelgarten</a>
   <a href="" class="r4"></a>
-  <a href="/gallery.html" class="r5">GALLERY</a>
+  <a href="/gallery.html" class="r5">Gallery</a>
   <a href="" class="r6"></a>
   </div>
 
