@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "clinamenic/website",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.3.1",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "clinamenic <ssc@clinamenic.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://www.clinamenic.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/clinamenic/website.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",

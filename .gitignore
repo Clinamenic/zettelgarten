@@ -20,8 +20,7 @@ build.sh
 # Ignore everything in the private folder
 /private/**
 
-# Ignore everything in the myenv folder
-/myenv/**
+# Ignore Python virtual environment
 /.venv/**
 
 # Ignore everything in the specstory folder
