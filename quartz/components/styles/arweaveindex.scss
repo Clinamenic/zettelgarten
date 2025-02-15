@@ -35,12 +35,10 @@
 
   .arweave-entry {
     display: flex;
-    gap: 1rem;
-    padding: 0.5rem 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 0.5rem;
     border-bottom: 1px solid var(--gray);
-    &:hover {
-      background-color: var(--lightgray);
-    }
     &:last-child {
       border-bottom: none;
     }
@@ -49,10 +47,17 @@
   .arweave-timestamp {
     display: flex;
     align-items: center;
+    gap: 0.5rem;
     color: var(--darkgray);
     font-size: 0.7rem;
-    font-weight: 300;
+    font-weight: 200;
     padding-left: 0.5rem;
+  }
+
+  .arweave-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
   }
 
   .arweave-link {
@@ -60,13 +65,13 @@
     align-items: center;
     gap: 0.5rem;
     color: var(--secondary);
-    font-weight: 300;
+    font-weight: 200;
     text-decoration: none;
     font-size: 0.7rem;
     transition: color 0.2s ease;
+    padding: 4px;
 
     .external-link-icon {
-      padding-bottom: 0.15rem;
       opacity: 0.75;
     }
 
@@ -78,11 +83,49 @@
     }
   }
 
+  .download-button {
+    background: none;
+    border: none;
+    padding: 8px;
+    margin: 0;
+    cursor: pointer;
+    color: var(--secondary);
+    transition: color 0.2s ease;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    svg {
+      width: 16px;
+      height: 16px;
+      opacity: 0.75;
+      transition: opacity 0.2s ease;
+    }
+
+    &:hover {
+      color: var(--tertiary);
+      svg {
+        opacity: 1;
+      }
+    }
+
+    &:focus {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+  }
+
   @media (max-width: 600px) {
     .arweave-entry {
-      flex-direction: column;
-      align-items: flex-start;
+      flex-direction: row;
+      align-items: center;
       gap: 0.5rem;
+    }
+
+    .arweave-actions {
+      padding-left: 0;
     }
   }
 } 

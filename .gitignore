@@ -10,9 +10,12 @@ private/
 .replit
 replit.nix
 
-# Cursor rules
+build.sh
+
+# IDE
 .cursorrules
 .mdc
+.vscode/
 
 # Ignore everything in the private folder
 /private/**

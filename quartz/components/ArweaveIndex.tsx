@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import style from "./styles/arweaveindex.scss"
+import { JSX } from "preact"
 
 interface ArweaveHash {
   hash: string
@@ -10,6 +11,7 @@ interface ArweaveHash {
 interface ArweaveFile {
   uuid: string
   title: string
+  latest_content?: string
   arweave_hashes: ArweaveHash[]
 }
 
@@ -23,10 +25,9 @@ function ArweaveIndex(): QuartzComponent {
     const uuid = fileData?.frontmatter?.uuid
     
     if (!uuid) {
-      return null // Don't render anything if no UUID
+      return null
     }
 
-    // Try to load the arweave index
     let arweaveData: ArweaveFile | undefined
     try {
       const indexData: ArweaveIndex = require("../../data/arweave.json")
@@ -37,7 +38,7 @@ function ArweaveIndex(): QuartzComponent {
     }
 
     if (!arweaveData?.arweave_hashes?.length) {
-      return null // No Arweave data found for this file
+      return null
     }
 
     // Sort hashes by timestamp, newest first
@@ -45,10 +46,65 @@ function ArweaveIndex(): QuartzComponent {
       (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
     )
 
+    const getDownloadUrl = () => {
+      if (!arweaveData?.latest_content) return '#'
+      // Create a data URL from the content
+      return `data:text/markdown;charset=utf-8,${encodeURIComponent(arweaveData.latest_content)}`
+    }
+
+    const getDownloadFilename = () => {
+      const date = new Date().toISOString().split('T')[0]
+      return `${arweaveData?.title || 'note'}-${date}.md`
+    }
+
     return (
       <div class="arweave-history">
         <h3>Version History</h3>
         <div class="arweave-list">
+          {/* Current Version Entry */}
+          <div class="arweave-entry">
+            <div class="arweave-timestamp">
+              Download current page
+            </div>
+            <div class="arweave-actions">
+              {arweaveData?.latest_content && (
+                <a
+                  href={getDownloadUrl()}
+                  download={getDownloadFilename()}
+                  class="download-button"
+                  aria-label="Download current version"
+                  style={{
+                    position: 'relative',
+                    transform: 'none'
+                  }}
+                  onClick={(e) => {
+                    e.stopPropagation()
+                    if (!arweaveData?.latest_content) {
+                      e.preventDefault()
+                      alert('No content available for download')
+                    }
+                  }}
+                >
+                  <svg 
+                    viewBox="0 0 24 24" 
+                    fill="none" 
+                    stroke="currentColor" 
+                    stroke-width="2" 
+                    stroke-linecap="round" 
+                    stroke-linejoin="round"
+                    style={{ pointerEvents: 'none' }}
+                    aria-hidden="true"
+                  >
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                  </svg>
+                </a>
+              )}
+            </div>
+          </div>
+
+          {/* Arweave Backup Entries */}
           {sortedHashes.map((entry, idx) => {
             const date = new Date(entry.timestamp)
             const formattedDate = date.toLocaleString('en-US', {
@@ -66,19 +122,23 @@ function ArweaveIndex(): QuartzComponent {
                 <div class="arweave-timestamp">
                   {formattedDate}
                 </div>
-                <a 
-                  href={entry.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="arweave-link"
-                >
-                  Arweave
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="external-link-icon">
-                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                    <polyline points="15 3 21 3 21 9"></polyline>
-                    <line x1="10" y1="14" x2="21" y2="3"></line>
-                  </svg>
-                </a>
+                <div class="arweave-actions">
+                  <a 
+                    href={entry.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="arweave-link"
+                    title="Visit file on Arweave"
+                    aria-label="Visit file on Arweave"
+                    style={{ padding: '8px', display: 'inline-flex' }}
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="external-link-icon">
+                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                      <polyline points="15 3 21 3 21 9"></polyline>
+                      <line x1="10" y1="14" x2="21" y2="3"></line>
+                    </svg>
+                  </a>
+                </div>
               </div>
             )
           })}
@@ -88,7 +148,6 @@ function ArweaveIndex(): QuartzComponent {
   }
 
   Component.css = style
-
   return Component
 }
 
