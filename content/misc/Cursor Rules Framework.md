@@ -196,3 +196,7 @@ The framework consists of four fundamental .mdc files that work together to help
    - Ensure no syntax errors in YAML
 
 Remember: This framework is adaptable. While 002-004 can remain fairly standard, 001_workspace.mdc should be thoroughly customized to your project's specific needs and constraints.
+
+## References
+
+- https://forum.cursor.com/t/my-best-practices-for-mdc-rules-and-troubleshooting/50526
