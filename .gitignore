@@ -22,6 +22,7 @@ build.sh
 
 # Ignore everything in the myenv folder
 /myenv/**
+/.venv/**
 
 # Ignore everything in the specstory folder
 /.specstory/

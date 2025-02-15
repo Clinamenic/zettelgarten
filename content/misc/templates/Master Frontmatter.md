@@ -24,7 +24,11 @@ license:
 doi:
 url:
 uuid:
-arweaveHashes:
+aiContribution:
+  aiRole:
+  aiModel:
+  aiScope:
+arweaveTrack:
 publish: false
 headDescription:
 headIcon:

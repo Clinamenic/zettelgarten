@@ -317,7 +317,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div class="text-box" style="
   background-image: url(https://arweave.net/hbmMt-9koK_dnMScUW6OdJDiBtKlPY2DkvMwNBPu5zM);
-  background-size: 300px;
+  background-size: 180px;
   background-color: var(--light);
   background-attachment: fixed;
   background-position: center;
@@ -334,7 +334,7 @@ document.addEventListener("DOMContentLoaded", function() {
       alt="Clinamenic Cube"
     />
   </div>
-  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 200; text-align: center; font-family: GeistMono, monospace; text-shadow: 0px 0px 15px var(--lightgray); letter-spacing: 1px;">Clinamenic LLC</p>
+  <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 1.8rem; font-weight: 300; text-align: center; font-family: GeistMono, monospace; text-shadow: 0px 0px 15px var(--lightgray); letter-spacing: 1px;">Clinamenic LLC</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; letter-spacing: 1px; text-align: center; font-style: italic; margin: 0.6rem 0rem 0.4rem 0rem; text-shadow: 0px 0px 15px var(--lightgray);">the consultancy of</p>
   <p class="body-p" style="animation: fade-in 3s ease-in; font-size: 0.8rem; font-weight: 200; text-align: center; font-style: normal; line-height: 1.2rem; text-shadow: 0px 0px 15px var(--lightgray);">S P E N C E R</p>
   <div style="display: flex; justify-content: center;">
