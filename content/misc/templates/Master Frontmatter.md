@@ -1,37 +1,37 @@
 ---
-title:
-subtitle:
+title: 
+subtitle: 
 author: Spencer Saar Cavanaugh
 authorURL: https://www.clinamenic.com
-date:
-bannerURI:
-type:
+date: 
+bannerURI: 
+type: 
 language: en
-tags:
-abstract:
-keywords:
-journal:
-volume:
-issue:
-pages:
-publisher:
-publisherLocation:
-edition:
-institution:
-department:
-degree:
-license:
-doi:
-url:
-uuid:
+tags: 
+abstract: 
+keywords: 
+journal: 
+volume: 
+issue: 
+pages: 
+publisher: 
+publisherLocation: 
+edition: 
+institution: 
+department: 
+degree: 
+license: 
+doi: 
+url: 
+uuid: "-"
 aiContribution:
-  aiRole:
-  aiModel:
-  aiScope:
-arweaveTrack:
+  aiRole: 
+  aiModel: 
+  aiScope: 
+arweaveTrack: 
 publish: false
-headDescription:
-headIcon:
+headDescription: 
+headIcon: 
 quartzShowTitle: true
 quartzShowSubtitle: true
 quartzShowTOC: true

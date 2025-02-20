@@ -9,7 +9,7 @@ bannerURI:
 type: 
 language: en
 keywords: 
-uuid: 
+uuid: "-"
 arweaveHashes: 
 license: 
 publish: false

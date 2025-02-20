@@ -22,7 +22,7 @@ degree:
 license: CC BY-SA 4.0
 doi:
 url:
-uuid:
+uuid: 43f095e2-8c5c-440e-909b-21990a2b9cd2
 arweaveHashes:
 publish: false
 headDescription: Semantic design for local sensemaking first, and global compatibility second.

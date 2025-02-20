@@ -1,4 +1,5 @@
 ---
+templates: [essay, docs, poem, note]
 title: Test Note
 subtitle: A test note for trying out Arweave versioning.
 author: Spencer Cavanaugh

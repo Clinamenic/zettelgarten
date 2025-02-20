@@ -12,6 +12,8 @@ replit.nix
 
 build.sh
 
+arweave-upload.log
+
 # IDE
 .cursorrules
 .mdc
